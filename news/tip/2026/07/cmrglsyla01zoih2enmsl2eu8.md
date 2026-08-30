@@ -1,0 +1,20 @@
+---
+"title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体"
+"aihot_id": "cmrglsyla01zoih2enmsl2eu8"
+"aihot_category": "tip"
+"published_at": "2026-07-11T16:31:09.615Z"
+"discovered_at": "2026-07-11T16:53:34.020Z"
+"source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
+"original_url": "https://www.mixfont.com/ghost-font"
+"canonical_url": "https://aihot.virxact.com/items/cmrglsyla01zoih2enmsl2eu8"
+"score": 75
+"content_kind": "news"
+---
+
+# Ghost Font：一种人类能读懂但AI无法识别的反AI字体
+
+Ghost Font 是一种利用运动、视频、噪点和诱饵来隐藏文字的反AI字体。用户输入文字后可生成并下载视频片段，视频中的字母由与背景完全相同的点组成，单帧截图无法显示任何信息。该字体生成的视频被传递给Claude Fable和GPT Sol 5.6 Ultra等前沿模型时，这些模型即使具备编程能力也无法解码移动信息，直到被提示具体技术。视频中还包含一条诱饵信息，使模型误以为找到真实内容。项目灵感来自2013年Sang Mun设计的ZXX字体，但现代AI已能轻松读取ZXX。Ghost Font目前为本地原型，数据不发送至任何服务器。作者计划未来将视频生成代码开源，并探索将其用于CAPTCHA系统或AI视觉感知基准测试。
+
+- **来源**: Hacker News 热门（buzzing.cc 中文翻译）
+- **原文链接**: [https://www.mixfont.com/ghost-font](https://www.mixfont.com/ghost-font)
+- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrglsyla01zoih2enmsl2eu8](https://aihot.virxact.com/items/cmrglsyla01zoih2enmsl2eu8)

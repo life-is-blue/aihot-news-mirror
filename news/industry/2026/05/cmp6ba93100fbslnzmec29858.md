@@ -1,0 +1,20 @@
+---
+"title": "为 OpenAI 累计投入超 1000 亿美元，纳德拉称微软当年投资时\"没人愿意下注\""
+"aihot_id": "cmp6ba93100fbslnzmec29858"
+"aihot_category": "industry"
+"published_at": "2026-05-15T02:27:28.000Z"
+"discovered_at": "2026-05-15T02:41:56.165Z"
+"source_name": "IT之家（RSS）"
+"original_url": "https://www.ithome.com/0/950/728.htm"
+"canonical_url": "https://aihot.virxact.com/items/cmp6ba93100fbslnzmec29858"
+"score": 71
+"content_kind": "news"
+---
+
+# 为 OpenAI 累计投入超 1000 亿美元，纳德拉称微软当年投资时"没人愿意下注"
+
+在"马斯克诉奥尔特曼"庭审中，微软企业发展负责人确认，微软对OpenAI的累计投入已超过1000亿美元，其中包括130亿美元原始投资及大量Azure基础设施成本。此次合作已为微软带来约300亿美元营收。CEO纳德拉表示，微软是在"没人愿意下注"时承担了风险。双方已续签非独家协议，微软不再支付收入分成，并将OpenAI的分成上限设为到2030年累计380亿美元，此举较原协议节省约970亿美元。此外，微软正评估收购AI初创公司以补强人才，并调整资源投向自研模型与超级智能领域。
+
+- **来源**: IT之家（RSS）
+- **原文链接**: [https://www.ithome.com/0/950/728.htm](https://www.ithome.com/0/950/728.htm)
+- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp6ba93100fbslnzmec29858](https://aihot.virxact.com/items/cmp6ba93100fbslnzmec29858)

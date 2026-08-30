@@ -1,0 +1,20 @@
+---
+"title": "检索廉价，代码为王：基于可执行程序的多跳推理检索增强生成"
+"aihot_id": "cmp509d4w0a9tsljx6hcg0fl1"
+"aihot_category": "paper"
+"published_at": "2026-05-13T00:00:00.000Z"
+"discovered_at": "2026-05-14T04:45:35.372Z"
+"source_name": "HuggingFace Daily Papers（社区热门论文）"
+"original_url": "https://arxiv.org/abs/2605.12975"
+"canonical_url": "https://aihot.virxact.com/items/cmp509d4w0a9tsljx6hcg0fl1"
+"score": 72
+"content_kind": "news"
+---
+
+# 检索廉价，代码为王：基于可执行程序的多跳推理检索增强生成
+
+针对多跳检索增强生成（RAG）中推理过程隐式、检索漂移及错误难以自查的问题，研究团队提出PyRAG框架，将多跳推理任务重构为程序合成与执行过程。该框架将推理步骤编写为可执行的Python程序，通过显式调用检索与问答工具实现多步计算，使中间状态变量化、反馈确定化，并生成完整可检查的推理轨迹。该方法无需额外训练即可支持基于编译器的自我修复与执行驱动的自适应检索。在PopQA、HotpotQA等五个问答基准测试中，PyRAG在无需训练和强化学习训练两种设定下均显著优于基线模型，尤其在组合式多跳数据集上提升显著。相关资源已开源。
+
+- **来源**: HuggingFace Daily Papers（社区热门论文）
+- **原文链接**: [https://arxiv.org/abs/2605.12975](https://arxiv.org/abs/2605.12975)
+- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp509d4w0a9tsljx6hcg0fl1](https://aihot.virxact.com/items/cmp509d4w0a9tsljx6hcg0fl1)

@@ -1,0 +1,17 @@
+{
+  "name": "aihot-news-mirror",
+  "version": "1.0.0",
+  "description": "Independent, auditable Git Markdown mirror for AIHOT news",
+  "type": "module",
+  "scripts": {
+    "sync": "bun run src/cli.ts",
+    "test": "bun test"
+  },
+  "dependencies": {
+    "yaml": "^2.9.0"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.4.0",
+    "typescript": "^5.9.3"
+  }
+}

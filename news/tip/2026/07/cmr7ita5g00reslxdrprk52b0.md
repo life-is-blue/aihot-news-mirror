@@ -1,0 +1,21 @@
+---
+"title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用"
+"aihot_id": "cmr7ita5g00reslxdrprk52b0"
+"aihot_category": "tip"
+"published_at": "2026-07-05T07:50:19.000Z"
+"discovered_at": "2026-07-05T08:19:53.755Z"
+"source_name": "MarkTechPost（RSS）"
+"original_url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-ag\
+  entic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools"
+"canonical_url": "https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0"
+"score": 72
+"content_kind": "news"
+---
+
+# LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用
+
+LlamaIndex 发布 legal-kb，一个基于 Index v2（LlamaParse Platform）的法律文档知识库参考应用。采用 Retrieval Harness 模式，赋予 Agent 四个文件系统风格工具：retrieve（混合语义检索，支持 rerank 和引用）、findFiles（精确/模糊文件名搜索）、readFile（带偏移量的原始内容读取）和 grepFile（正则匹配并返回字符位置）。Agent 需先调用 findFiles 确定文件清单，再依次使用其他工具定位内容。底层基于 Vercel AI SDK 6 的 ToolLoopAgent，可选用 OpenAI 或 Anthropic 模型，支持用户自带 API key。项目以 TanStack Start web app 形式运行，上传文件自动解析索引，同一文件名重复上传可产生版本，检索时通过版本元数据字段过滤。
+
+- **来源**: MarkTechPost（RSS）
+- **原文链接**: [https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools](https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools)
+- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0](https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0)

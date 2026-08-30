@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "asOf": "2026-08-30T07:55:59.214Z",
+  "fields": "default",
+  "cursor": "v1s.eyJrIjoic2VsZWN0ZWQtc3luYyIsInYiOjEsInciOiI5ODgzIiwiZiI6ImRlZmF1bHQifQ",
+  "count": 1,
+  "hasMore": true,
+  "nextPage": "v1s.eyJrIjoic2VsZWN0ZWQtcGFnZSIsInYiOjEsInciOiI5ODgzIiwiYSI6ImNtbncxeHIxbzAwM3pzbGMzeTduZHZyOWkiLCJmIjoiZGVmYXVsdCIsInQiOiIyMDI2LTA4LTMwVDA3OjU1OjU5LjIxNFoifQ",
+  "items": [
+    {
+      "id": "cmnw1xr1o003zslc3y7ndvr9i",
+      "title": "Sora 2",
+      "source": {
+        "name": "Sam Altman：Blog（RSS）"
+      },
+      "publishedAt": "2025-09-30T17:13:47.000Z",
+      "discoveredAt": "2025-09-30T17:13:47.000Z",
+      "category": null,
+      "score": null,
+      "selected": true,
+      "originalTitle": null,
+      "summary": "OpenAI发布Sora应用，集成Sora 2模型，支持快速创作、分享和观看视频，团队称其为\"创意领域的ChatGPT时刻\"。",
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmnw1xr1o003zslc3y7ndvr9i",
+        "original": "https://blog.samaltman.com/sora-2"
+      },
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmnw1xr1o003zslc3y7ndvr9i"
+      }
+    }
+  ]
+}
