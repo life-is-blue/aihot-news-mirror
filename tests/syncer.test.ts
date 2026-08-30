@@ -502,4 +502,30 @@ describe("Task 2: Snapshot and Changes Atomic Syncer", () => {
     const afterFailureFp = getDirFingerprint(testDir);
     expect(afterFailureFp).toBe(initialFp);
   });
+
+  it("guarantees non-zero exit and zero directory modification when providing unreachable/bad API address", async () => {
+    // Initial state
+    fs.mkdirSync(path.join(testDir, "news/ai-models/2026/01"), { recursive: true });
+    fs.mkdirSync(path.join(testDir, "state"), { recursive: true });
+    fs.writeFileSync(path.join(testDir, "news/ai-models/2026/01/existing.md"), "clean existing content");
+    fs.writeFileSync(path.join(testDir, "state/id-map.json"), JSON.stringify({ existing: "news/ai-models/2026/01/existing.md" }));
+    fs.writeFileSync(
+      path.join(testDir, "state/sync-state.json"),
+      JSON.stringify({
+        cursor: "initial_cursor",
+        lastSyncAt: "2026-01-01T00:00:00.000Z",
+        totalItems: 1,
+      })
+    );
+
+    const initialFp = getDirFingerprint(testDir);
+
+    // Provide unreachable port / address
+    const syncer = new Syncer({ baseUrl: "http://127.0.0.1:59999", rootDir: testDir, maxRetries: 1 });
+    await expect(syncer.sync()).rejects.toThrow();
+
+    // Verify tree is completely untouched
+    const afterFailureFp = getDirFingerprint(testDir);
+    expect(afterFailureFp).toBe(initialFp);
+  });
 });
