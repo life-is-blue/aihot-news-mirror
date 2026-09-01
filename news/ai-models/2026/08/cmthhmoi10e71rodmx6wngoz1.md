@@ -1,19 +1,19 @@
 ---
-"title": "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面"
+"title": "Runway 发布 Interface World Models 首个模型 Solaris，实时逐帧生成可交互界面"
 "aihot_id": "cmthhmoi10e71rodmx6wngoz1"
 "aihot_category": "ai-models"
-"published_at": "2026-08-31T17:03:47.031Z"
+"published_at": "2026-08-30T16:00:00.000Z"
 "discovered_at": "2026-08-31T17:03:47.031Z"
 "source_name": "Runway：News（网页）"
 "original_url": "https://runwayml.com/news/research/introducing-solaris"
 "canonical_url": "https://aihot.virxact.com/items/cmthhmoi10e71rodmx6wngoz1"
-"score": 63
+"score": 67
 "content_kind": "news"
 ---
 
-# Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面
+# Runway 发布 Interface World Models 首个模型 Solaris，实时逐帧生成可交互界面
 
-Runway 推出 Solaris，这是其全新界面世界模型（Interface World Models）系列的首个模型。Solaris 能实时逐帧生成应用和网站界面，无需中间代码表示，直接以图像作为交互层，支持视觉化、动态响应和开放式交互。它还可用于训练智能体，使其适应不断变化的界面布局，而非局限于特定训练环境。
+Runway 发布 Solaris，称其为新模型家族 Interface World Models 的第一个模型，由世界模型实时逐帧生成界面并对点击、拖拽等交互作出响应，无需代码等中间表示。
 
 - **来源**: Runway：News（网页）
 - **原文链接**: [https://runwayml.com/news/research/introducing-solaris](https://runwayml.com/news/research/introducing-solaris)
