@@ -13,6 +13,8 @@
 
 # DeepSeek V3.2 正式版：强化 Agent 能力，融入思考推理
 
+DeepSeek 发布正式版 V3.2 与长思考增强版 V3.2-Speciale。V3.2 在推理 Benchmark 中达到 GPT-5 水平，并成为首个支持思考与非思考模式工具调用的模型。
+
 - **来源**: 公众号：DeepSeek（深度求索）
 - **原文链接**: [https://mp.weixin.qq.com/s/ohsU1xRrYu9xcVD7qu5lNw](https://mp.weixin.qq.com/s/ohsU1xRrYu9xcVD7qu5lNw)
 - **AIHOT 链接**: [https://aihot.virxact.com/items/cmq2otygj01qksl6n32u2h0y3](https://aihot.virxact.com/items/cmq2otygj01qksl6n32u2h0y3)
