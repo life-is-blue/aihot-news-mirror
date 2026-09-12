@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-24T06:50:01.581Z"
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/0/981/137.htm"
-"canonical_url": "https://aihot.virxact.com/items/cmrykywyx026jrolgq06set4j"
+"canonical_url": "https://aihot.news/items/cmrykywyx026jrolgq06set4j"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Black Forest Labs 以 Early Access 方式推出 FLUX 3 多模态基础模型，�
 
 - **来源**: IT之家（RSS）
 - **原文链接**: [https://www.ithome.com/0/981/137.htm](https://www.ithome.com/0/981/137.htm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrykywyx026jrolgq06set4j](https://aihot.virxact.com/items/cmrykywyx026jrolgq06set4j)
+- **AIHOT 链接**: [https://aihot.news/items/cmrykywyx026jrolgq06set4j](https://aihot.news/items/cmrykywyx026jrolgq06set4j)
