@@ -6,7 +6,7 @@
 "discovered_at": "2026-09-05T03:12:56.001Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/gpt-6-astra"
-"canonical_url": "https://aihot.virxact.com/items/cmtnt5cb50b8mroqs7x4pukfm"
+"canonical_url": "https://aihot.news/items/cmtnt5cb50b8mroqs7x4pukfm"
 "score": 88
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 发布新一代模型 GPT-6 Astra，称其在计算机使用、软件工�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/gpt-6-astra](https://openai.com/index/gpt-6-astra)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtnt5cb50b8mroqs7x4pukfm](https://aihot.virxact.com/items/cmtnt5cb50b8mroqs7x4pukfm)
+- **AIHOT 链接**: [https://aihot.news/items/cmtnt5cb50b8mroqs7x4pukfm](https://aihot.news/items/cmtnt5cb50b8mroqs7x4pukfm)
