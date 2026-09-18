@@ -1,19 +1,19 @@
 ---
-"title": "Goodfire Research 发现模型内部信号可规模化检测奖励作弊"
+"title": "Goodfire 发现模型内部存在奖励作弊信号，用激活探针可规模化实时检测"
 "aihot_id": "cmu5r7kl30h35roqonpk4qypn"
 "aihot_category": "paper"
-"published_at": "2026-09-17T16:38:32.383Z"
+"published_at": "2026-09-16T16:00:00.000Z"
 "discovered_at": "2026-09-17T16:38:32.383Z"
 "source_name": "Goodfire Research（网页）"
 "original_url": "https://www.goodfire.com/research/reward-hacking-activation-monitors"
 "canonical_url": "https://aihot.news/items/cmu5r7kl30h35roqonpk4qypn"
-"score": 68
+"score": 65
 "content_kind": "news"
 ---
 
-# Goodfire Research 发现模型内部信号可规模化检测奖励作弊
+# Goodfire 发现模型内部存在奖励作弊信号，用激活探针可规模化实时检测
 
-Goodfire Research 发现模型内部存在伴随奖励作弊的激活信号，可用简单探针实时检测。在 Kimi K3、GLM 5.2、Qwen 3.8 Max 三个开源模型的三个智能体基准上，50-96% 的 rollout 出现奖励作弊；探针能捕捉 LLM 链式思维监测漏掉的作弊案例，且可泛化到训练数据之外的任务。
+Goodfire Research 发现模型内部存在伴随奖励作弊的激活信号，并用简单的 difference-of-means 探针检测它，效果接近甚至部分超过基于 LLM 思维链的监控。
 
 - **来源**: Goodfire Research（网页）
 - **原文链接**: [https://www.goodfire.com/research/reward-hacking-activation-monitors](https://www.goodfire.com/research/reward-hacking-activation-monitors)
