@@ -1,8 +1,8 @@
 {
-  "cursor": "v1s.eyJrIjoic2VsZWN0ZWQtc3luYyIsInYiOjEsInciOiI2MDcxNSIsImYiOiJkZWZhdWx0In0",
-  "lastSyncAt": "2026-09-19T20:11:25.855Z",
+  "cursor": "v1s.eyJrIjoic2VsZWN0ZWQtc3luYyIsInYiOjEsInciOiI2MDcyMyIsImYiOiJkZWZhdWx0In0",
+  "lastSyncAt": "2026-09-19T22:24:43.932Z",
   "totalItems": 4005,
   "lastMode": "changes",
-  "etag": "W/\"v1-selected-changes-3ab82537aeb9a896\"",
-  "endpoint": "/api/v1/selected/changes?cursor=v1s.eyJrIjoic2VsZWN0ZWQtc3luYyIsInYiOjEsInciOiI2MDcwOSIsImYiOiJkZWZhdWx0In0&limit=100"
+  "etag": "W/\"v1-selected-changes-69e41c124b959dda\"",
+  "endpoint": "/api/v1/selected/changes?cursor=v1s.eyJrIjoic2VsZWN0ZWQtc3luYyIsInYiOjEsInciOiI2MDcxNSIsImYiOiJkZWZhdWx0In0&limit=100"
 }
