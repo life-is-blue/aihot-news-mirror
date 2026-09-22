@@ -4,9 +4,9 @@
 "aihot_category": "ai-products"
 "published_at": "2026-05-21T20:32:52.000Z"
 "discovered_at": "2026-05-21T20:36:28.560Z"
-"source_name": "X：ChatGPT (@ChatGPTapp)"
+"source_name": "X：ChatGPT (@ChatGPT)"
 "original_url": "https://x.com/ChatGPTapp/status/2057560276384563560"
-"canonical_url": "https://aihot.virxact.com/items/cmpfyb7qb0apysljwk3k8nlne"
+"canonical_url": "https://aihot.news/items/cmpfyb7qb0apysljwk3k8nlne"
 "score": 67
 "content_kind": "news"
 ---
@@ -21,6 +21,6 @@
 
 目前处于测试阶段，我们期待您的反馈 👀
 
-- **来源**: X：ChatGPT (@ChatGPTapp)
+- **来源**: X：ChatGPT (@ChatGPT)
 - **原文链接**: [https://x.com/ChatGPTapp/status/2057560276384563560](https://x.com/ChatGPTapp/status/2057560276384563560)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpfyb7qb0apysljwk3k8nlne](https://aihot.virxact.com/items/cmpfyb7qb0apysljwk3k8nlne)
+- **AIHOT 链接**: [https://aihot.news/items/cmpfyb7qb0apysljwk3k8nlne](https://aihot.news/items/cmpfyb7qb0apysljwk3k8nlne)

@@ -4,9 +4,9 @@
 "aihot_category": "ai-models"
 "published_at": "2026-05-05T17:02:23.000Z"
 "discovered_at": "2026-05-05T17:31:05.820Z"
-"source_name": "X：ChatGPT (@ChatGPTapp)"
+"source_name": "X：ChatGPT (@ChatGPT)"
 "original_url": "https://x.com/ChatGPTapp/status/2051709103614083475"
-"canonical_url": "https://aihot.virxact.com/items/cmoswn6y700fgslv7q4b3qz4t"
+"canonical_url": "https://aihot.news/items/cmoswn6y700fgslv7q4b3qz4t"
 "score": 83
 "content_kind": "news"
 ---
@@ -19,6 +19,6 @@ GPT-5.5 Instant 开始向所有 ChatGPT 用户推出。
 
 而且对话体验顺畅得多。真的。
 
-- **来源**: X：ChatGPT (@ChatGPTapp)
+- **来源**: X：ChatGPT (@ChatGPT)
 - **原文链接**: [https://x.com/ChatGPTapp/status/2051709103614083475](https://x.com/ChatGPTapp/status/2051709103614083475)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoswn6y700fgslv7q4b3qz4t](https://aihot.virxact.com/items/cmoswn6y700fgslv7q4b3qz4t)
+- **AIHOT 链接**: [https://aihot.news/items/cmoswn6y700fgslv7q4b3qz4t](https://aihot.news/items/cmoswn6y700fgslv7q4b3qz4t)

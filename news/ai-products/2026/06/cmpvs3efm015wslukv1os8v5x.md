@@ -4,9 +4,9 @@
 "aihot_category": "ai-products"
 "published_at": "2026-06-01T22:11:55.000Z"
 "discovered_at": "2026-06-01T22:26:46.302Z"
-"source_name": "X：ChatGPT (@ChatGPTapp)"
+"source_name": "X：ChatGPT (@ChatGPT)"
 "original_url": "https://x.com/ChatGPTapp/status/2061571468992126982"
-"canonical_url": "https://aihot.virxact.com/items/cmpvs3efm015wslukv1os8v5x"
+"canonical_url": "https://aihot.news/items/cmpvs3efm015wslukv1os8v5x"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,6 +17,6 @@
 
 现在你可以在全屏模式下编辑更长的文章，并将其保存到你的资料库中，以便稍后继续。
 
-- **来源**: X：ChatGPT (@ChatGPTapp)
+- **来源**: X：ChatGPT (@ChatGPT)
 - **原文链接**: [https://x.com/ChatGPTapp/status/2061571468992126982](https://x.com/ChatGPTapp/status/2061571468992126982)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpvs3efm015wslukv1os8v5x](https://aihot.virxact.com/items/cmpvs3efm015wslukv1os8v5x)
+- **AIHOT 链接**: [https://aihot.news/items/cmpvs3efm015wslukv1os8v5x](https://aihot.news/items/cmpvs3efm015wslukv1os8v5x)

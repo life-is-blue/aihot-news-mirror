@@ -4,9 +4,9 @@
 "aihot_category": "ai-products"
 "published_at": "2026-06-04T21:50:01.000Z"
 "discovered_at": "2026-06-04T22:03:43.618Z"
-"source_name": "X：NotebookLM (@NotebookLM)"
+"source_name": "X：Gemini Notebook (@Gemini_Notebook)"
 "original_url": "https://x.com/NotebookLM/status/2062653124326863077"
-"canonical_url": "https://aihot.virxact.com/items/cmq01ld46020ksltri2vkr5uv"
+"canonical_url": "https://aihot.news/items/cmq01ld46020ksltri2vkr5uv"
 "score": 68
 "content_kind": "news"
 ---
@@ -17,6 +17,6 @@
 
 无需再猜测。现在你可以看到每个创作物背后所用的确切公式（提示词 + 来源）。想要调整？只需轻点"迭代"，随心定制 💖
 
-- **来源**: X：NotebookLM (@NotebookLM)
+- **来源**: X：Gemini Notebook (@Gemini_Notebook)
 - **原文链接**: [https://x.com/NotebookLM/status/2062653124326863077](https://x.com/NotebookLM/status/2062653124326863077)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq01ld46020ksltri2vkr5uv](https://aihot.virxact.com/items/cmq01ld46020ksltri2vkr5uv)
+- **AIHOT 链接**: [https://aihot.news/items/cmq01ld46020ksltri2vkr5uv](https://aihot.news/items/cmq01ld46020ksltri2vkr5uv)

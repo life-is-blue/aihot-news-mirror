@@ -4,9 +4,9 @@
 "aihot_category": "ai-products"
 "published_at": "2026-06-08T16:07:26.000Z"
 "discovered_at": "2026-06-08T16:19:29.213Z"
-"source_name": "X：NotebookLM (@NotebookLM)"
+"source_name": "X：Gemini Notebook (@Gemini_Notebook)"
 "original_url": "https://x.com/NotebookLM/status/2064016460964585549"
-"canonical_url": "https://aihot.virxact.com/items/cmq5f21ab07caslt24z471p91"
+"canonical_url": "https://aihot.news/items/cmq5f21ab07caslt24z471p91"
 "score": 72
 "content_kind": "news"
 ---
@@ -19,6 +19,6 @@
 
 现已面向 Google AI Ultra 订阅者推出。
 
-- **来源**: X：NotebookLM (@NotebookLM)
+- **来源**: X：Gemini Notebook (@Gemini_Notebook)
 - **原文链接**: [https://x.com/NotebookLM/status/2064016460964585549](https://x.com/NotebookLM/status/2064016460964585549)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq5f21ab07caslt24z471p91](https://aihot.virxact.com/items/cmq5f21ab07caslt24z471p91)
+- **AIHOT 链接**: [https://aihot.news/items/cmq5f21ab07caslt24z471p91](https://aihot.news/items/cmq5f21ab07caslt24z471p91)

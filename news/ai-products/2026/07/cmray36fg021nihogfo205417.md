@@ -4,9 +4,9 @@
 "aihot_category": "ai-products"
 "published_at": "2026-07-07T17:48:50.000Z"
 "discovered_at": "2026-07-07T17:50:48.627Z"
-"source_name": "X：NotebookLM (@NotebookLM)"
+"source_name": "X：Gemini Notebook (@Gemini_Notebook)"
 "original_url": "https://x.com/NotebookLM/status/2074551227594264799"
-"canonical_url": "https://aihot.virxact.com/items/cmray36fg021nihogfo205417"
+"canonical_url": "https://aihot.news/items/cmray36fg021nihogfo205417"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,6 +17,6 @@
 
 一如既往，您的意见对我们至关重要。请在下方分享您最喜欢的作品，并告诉我们接下来需要添加哪些功能！❤️
 
-- **来源**: X：NotebookLM (@NotebookLM)
+- **来源**: X：Gemini Notebook (@Gemini_Notebook)
 - **原文链接**: [https://x.com/NotebookLM/status/2074551227594264799](https://x.com/NotebookLM/status/2074551227594264799)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmray36fg021nihogfo205417](https://aihot.virxact.com/items/cmray36fg021nihogfo205417)
+- **AIHOT 链接**: [https://aihot.news/items/cmray36fg021nihogfo205417](https://aihot.news/items/cmray36fg021nihogfo205417)
