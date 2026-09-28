@@ -7,7 +7,7 @@
 "source_name": "TechCrunch：AI（RSS）"
 "original_url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-\
   nears-1t-valuation-ahead-of-ipo"
-"canonical_url": "https://aihot.virxact.com/items/cmppvh36y01i7slm6c8fcbta7"
+"canonical_url": "https://aihot.news/items/cmppvh36y01i7slm6c8fcbta7"
 "score": 78
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Anthropic 完成 650 亿美元的 Series H 融资，投后估值达 9650 亿美�
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo](https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmppvh36y01i7slm6c8fcbta7](https://aihot.virxact.com/items/cmppvh36y01i7slm6c8fcbta7)
+- **AIHOT 链接**: [https://aihot.news/items/cmppvh36y01i7slm6c8fcbta7](https://aihot.news/items/cmppvh36y01i7slm6c8fcbta7)

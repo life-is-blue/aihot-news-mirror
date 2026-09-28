@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-23T21:45:57.294Z"
 "source_name": "X：Runway (@runwayml)"
 "original_url": "https://x.com/runwayml/status/2069535148450705517"
-"canonical_url": "https://aihot.virxact.com/items/cmqr6bnad0gw8slp5xmrffynm"
+"canonical_url": "https://aihot.news/items/cmqr6bnad0gw8slp5xmrffynm"
 "score": 72
 "content_kind": "news"
 ---
@@ -22,4 +22,4 @@ Seedance 4K。Seedance Mini。Kling 3.0 Turbo。现已推出。
 
 - **来源**: X：Runway (@runwayml)
 - **原文链接**: [https://x.com/runwayml/status/2069535148450705517](https://x.com/runwayml/status/2069535148450705517)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqr6bnad0gw8slp5xmrffynm](https://aihot.virxact.com/items/cmqr6bnad0gw8slp5xmrffynm)
+- **AIHOT 链接**: [https://aihot.news/items/cmqr6bnad0gw8slp5xmrffynm](https://aihot.news/items/cmqr6bnad0gw8slp5xmrffynm)

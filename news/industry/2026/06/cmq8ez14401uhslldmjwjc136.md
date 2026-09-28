@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-10T18:40:17.897Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-etoro"
-"canonical_url": "https://aihot.virxact.com/items/cmq8ez14401uhslldmjwjc136"
+"canonical_url": "https://aihot.news/items/cmq8ez14401uhslldmjwjc136"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-etoro](https://x.ai/news/grok-etoro)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq8ez14401uhslldmjwjc136](https://aihot.virxact.com/items/cmq8ez14401uhslldmjwjc136)
+- **AIHOT 链接**: [https://aihot.news/items/cmq8ez14401uhslldmjwjc136](https://aihot.news/items/cmq8ez14401uhslldmjwjc136)

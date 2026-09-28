@@ -7,7 +7,7 @@
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/accenture-embedded-evaluation"
 "canonical_url": "https://aihot.news/items/cmu7emdec07qmrogrh8tfpg5n"
-"score": 62
+"score": 63
 "content_kind": "news"
 ---
 

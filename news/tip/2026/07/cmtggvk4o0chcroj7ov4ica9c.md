@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-23T00:00:00.000Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://tomtunguz.com/yeltsin-in-the-ai-aisle"
-"canonical_url": "https://aihot.virxact.com/items/cmtggvk4o0chcroj7ov4ica9c"
+"canonical_url": "https://aihot.news/items/cmtggvk4o0chcroj7ov4ica9c"
 "score": 62
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter 上的 AI 模型市场已高度细分，OpenAI 一年前的开源模�
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://tomtunguz.com/yeltsin-in-the-ai-aisle](https://tomtunguz.com/yeltsin-in-the-ai-aisle)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtggvk4o0chcroj7ov4ica9c](https://aihot.virxact.com/items/cmtggvk4o0chcroj7ov4ica9c)
+- **AIHOT 链接**: [https://aihot.news/items/cmtggvk4o0chcroj7ov4ica9c](https://aihot.news/items/cmtggvk4o0chcroj7ov4ica9c)

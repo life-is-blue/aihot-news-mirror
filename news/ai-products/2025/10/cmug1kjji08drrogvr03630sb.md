@@ -13,7 +13,7 @@
 
 # OpenAI 展示 Codex 在代码编辑器中的使用方式
 
-OpenAI 发布视频，演示如何将 Codex 与主流代码编辑器搭配使用，简化编辑器内的开发工作流。内容涉及 Codex 与 IDE 扩展（codex， IDE extension），视频链接为 https://www.youtube.com/watch?v=sd21Igx4HtA。
+OpenAI 发布视频，演示如何将 Codex 与主流代码编辑器搭配使用，简化编辑器内的开发工作流。内容涉及 Codex 与 IDE 扩展（codex, IDE extension），视频链接为 https://www.youtube.com/watch?v=sd21Igx4HtA。
 
 - **来源**: OpenAI Developers（RSS）
 - **原文链接**: [https://www.youtube.com/watch?v=sd21Igx4HtA](https://www.youtube.com/watch?v=sd21Igx4HtA)

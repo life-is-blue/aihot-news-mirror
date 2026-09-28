@@ -8,7 +8,7 @@
 "original_url": "https://developer.nvidia.com/blog/frontier-reasoning-reaches-t\
   he-edge-how-to-deploy-and-optimize-models-on-nvidia-jetson"
 "canonical_url": "https://aihot.news/items/cmtym2ep50006rofbarr998nz"
-"score": 68
+"score": 69
 "content_kind": "news"
 ---
 

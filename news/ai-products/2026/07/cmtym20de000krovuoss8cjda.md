@@ -7,7 +7,7 @@
 "source_name": "vLLM 官方博客（RSS）"
 "original_url": "https://vllm.ai/blog/2026-07-27-k3"
 "canonical_url": "https://aihot.news/items/cmtym20de000krovuoss8cjda"
-"score": 74
+"score": 75
 "content_kind": "news"
 ---
 

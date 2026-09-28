@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-18T16:51:58.970Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/composer-2-5"
-"canonical_url": "https://aihot.virxact.com/items/cmpbfyx691727slnzo2o0p263"
+"canonical_url": "https://aihot.news/items/cmpbfyx691727slnzo2o0p263"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Cursor 平台发布了智能与行为表现大幅提升的 Composer 2.5。该模
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/composer-2-5](https://cursor.com/blog/composer-2-5)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpbfyx691727slnzo2o0p263](https://aihot.virxact.com/items/cmpbfyx691727slnzo2o0p263)
+- **AIHOT 链接**: [https://aihot.news/items/cmpbfyx691727slnzo2o0p263](https://aihot.news/items/cmpbfyx691727slnzo2o0p263)

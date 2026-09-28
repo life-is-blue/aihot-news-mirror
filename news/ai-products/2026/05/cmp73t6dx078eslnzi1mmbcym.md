@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-15T16:00:29.790Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/personal-finance-chatgpt"
-"canonical_url": "https://aihot.virxact.com/items/cmp73t6dx078eslnzi1mmbcym"
+"canonical_url": "https://aihot.news/items/cmp73t6dx078eslnzi1mmbcym"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 为美国地区的 ChatGPT Pro 用户推出个人理财功能预览版。
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/personal-finance-chatgpt](https://openai.com/index/personal-finance-chatgpt)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp73t6dx078eslnzi1mmbcym](https://aihot.virxact.com/items/cmp73t6dx078eslnzi1mmbcym)
+- **AIHOT 链接**: [https://aihot.news/items/cmp73t6dx078eslnzi1mmbcym](https://aihot.news/items/cmp73t6dx078eslnzi1mmbcym)

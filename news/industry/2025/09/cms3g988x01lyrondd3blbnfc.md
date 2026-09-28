@@ -6,7 +6,7 @@
 "discovered_at": "2025-09-17T17:17:51.000Z"
 "source_name": "X：Jakub Pachocki（OpenAI 首席科学家，@merettm）"
 "original_url": "https://x.com/merettm/status/1968363783820353587"
-"canonical_url": "https://aihot.virxact.com/items/cms3g988x01lyrondd3blbnfc"
+"canonical_url": "https://aihot.news/items/cms3g988x01lyrondd3blbnfc"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 推理系统在 2025 年 ICPC 世界总决赛中满分 12/12 完成所有
 
 - **来源**: X：Jakub Pachocki（OpenAI 首席科学家，@merettm）
 - **原文链接**: [https://x.com/merettm/status/1968363783820353587](https://x.com/merettm/status/1968363783820353587)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3g988x01lyrondd3blbnfc](https://aihot.virxact.com/items/cms3g988x01lyrondd3blbnfc)
+- **AIHOT 链接**: [https://aihot.news/items/cms3g988x01lyrondd3blbnfc](https://aihot.news/items/cms3g988x01lyrondd3blbnfc)

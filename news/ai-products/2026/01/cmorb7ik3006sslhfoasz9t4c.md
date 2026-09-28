@@ -6,7 +6,7 @@
 "discovered_at": "2026-01-30T07:55:56.000Z"
 "source_name": "蚂蚁 inclusionAI：GitHub 新仓库"
 "original_url": "https://github.com/inclusionAI/flood"
-"canonical_url": "https://aihot.virxact.com/items/cmorb7ik3006sslhfoasz9t4c"
+"canonical_url": "https://aihot.news/items/cmorb7ik3006sslhfoasz9t4c"
 "score": 61
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Flood 是一款面向离线应用的高效大语言模型推理框架。它采�
 
 - **来源**: 蚂蚁 inclusionAI：GitHub 新仓库
 - **原文链接**: [https://github.com/inclusionAI/flood](https://github.com/inclusionAI/flood)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmorb7ik3006sslhfoasz9t4c](https://aihot.virxact.com/items/cmorb7ik3006sslhfoasz9t4c)
+- **AIHOT 链接**: [https://aihot.news/items/cmorb7ik3006sslhfoasz9t4c](https://aihot.news/items/cmorb7ik3006sslhfoasz9t4c)

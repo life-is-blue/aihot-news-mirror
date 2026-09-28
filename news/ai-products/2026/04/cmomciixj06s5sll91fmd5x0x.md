@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-01T03:20:45.732Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-custom-voices"
-"canonical_url": "https://aihot.virxact.com/items/cmomciixj06s5sll91fmd5x0x"
+"canonical_url": "https://aihot.news/items/cmomciixj06s5sll91fmd5x0x"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI于2026年4月30日推出自定义语音和语音库功能。用户可通过�
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-custom-voices](https://x.ai/news/grok-custom-voices)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmomciixj06s5sll91fmd5x0x](https://aihot.virxact.com/items/cmomciixj06s5sll91fmd5x0x)
+- **AIHOT 链接**: [https://aihot.news/items/cmomciixj06s5sll91fmd5x0x](https://aihot.news/items/cmomciixj06s5sll91fmd5x0x)

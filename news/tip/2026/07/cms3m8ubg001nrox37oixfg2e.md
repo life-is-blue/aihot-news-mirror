@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/openai-says-more-workers-are-using-cha\
   tgpt-to-do-other-peoples-jobs"
-"canonical_url": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e"
+"canonical_url": "https://aihot.news/items/cms3m8ubg001nrox37oixfg2e"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenAI 分析超 80 万条与工作相关的 ChatGPT 消息后发现，43.5% 的
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs](https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e](https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e)
+- **AIHOT 链接**: [https://aihot.news/items/cms3m8ubg001nrox37oixfg2e](https://aihot.news/items/cms3m8ubg001nrox37oixfg2e)

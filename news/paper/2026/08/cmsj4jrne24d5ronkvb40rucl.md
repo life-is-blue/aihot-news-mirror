@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-07T15:53:31.766Z"
 "source_name": "Apple Machine Learning Research（RSS）"
 "original_url": "https://machinelearning.apple.com/research/scaling-categorical-flow-maps"
-"canonical_url": "https://aihot.virxact.com/items/cmsj4jrne24d5ronkvb40rucl"
+"canonical_url": "https://aihot.news/items/cmsj4jrne24d5ronkvb40rucl"
 "score": 64
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Apple Machine Learning Research（RSS）
 - **原文链接**: [https://machinelearning.apple.com/research/scaling-categorical-flow-maps](https://machinelearning.apple.com/research/scaling-categorical-flow-maps)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsj4jrne24d5ronkvb40rucl](https://aihot.virxact.com/items/cmsj4jrne24d5ronkvb40rucl)
+- **AIHOT 链接**: [https://aihot.news/items/cmsj4jrne24d5ronkvb40rucl](https://aihot.news/items/cmsj4jrne24d5ronkvb40rucl)

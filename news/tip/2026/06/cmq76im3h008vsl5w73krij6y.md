@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-09T21:55:59.206Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/github-ci-hf-jobs"
-"canonical_url": "https://aihot.virxact.com/items/cmq76im3h008vsl5w73krij6y"
+"canonical_url": "https://aihot.news/items/cmq76im3h008vsl5w73krij6y"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/github-ci-hf-jobs](https://huggingface.co/blog/github-ci-hf-jobs)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq76im3h008vsl5w73krij6y](https://aihot.virxact.com/items/cmq76im3h008vsl5w73krij6y)
+- **AIHOT 链接**: [https://aihot.news/items/cmq76im3h008vsl5w73krij6y](https://aihot.news/items/cmq76im3h008vsl5w73krij6y)

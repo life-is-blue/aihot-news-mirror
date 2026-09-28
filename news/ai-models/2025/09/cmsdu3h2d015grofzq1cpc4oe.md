@@ -7,7 +7,7 @@
 "source_name": "公众号：DeepSeek（深度求索）"
 "original_url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247\
   485670&idx=1&sn=a5b347ee6f39b646e21e0c649f197c1f"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu3h2d015grofzq1cpc4oe"
+"canonical_url": "https://aihot.news/items/cmsdu3h2d015grofzq1cpc4oe"
 "score": 79
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ DeepSeek 发布实验性模型 DeepSeek-V3.2-Exp，在 V3.1-Terminus 基础上�
 
 - **来源**: 公众号：DeepSeek（深度求索）
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485670&idx=1&sn=a5b347ee6f39b646e21e0c649f197c1f](https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485670&idx=1&sn=a5b347ee6f39b646e21e0c649f197c1f)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu3h2d015grofzq1cpc4oe](https://aihot.virxact.com/items/cmsdu3h2d015grofzq1cpc4oe)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu3h2d015grofzq1cpc4oe](https://aihot.news/items/cmsdu3h2d015grofzq1cpc4oe)

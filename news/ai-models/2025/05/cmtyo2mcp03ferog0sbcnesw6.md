@@ -7,7 +7,7 @@
 "source_name": "Prime Intellect（网页）"
 "original_url": "https://www.primeintellect.ai/blog/intellect-2-release"
 "canonical_url": "https://aihot.news/items/cmtyo2mcp03ferog0sbcnesw6"
-"score": 66
+"score": 67
 "content_kind": "news"
 ---
 

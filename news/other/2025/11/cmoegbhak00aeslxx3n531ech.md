@@ -6,7 +6,7 @@
 "discovered_at": "2025-11-21T00:00:00.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/rapidfireai"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhak00aeslxx3n531ech"
+"canonical_url": "https://aihot.news/items/cmoegbhak00aeslxx3n531ech"
 "score": 80
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ RapidFire AI 发布了一套加速 TRL 微调的工具，通过自适应分块�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/rapidfireai](https://huggingface.co/blog/rapidfireai)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhak00aeslxx3n531ech](https://aihot.virxact.com/items/cmoegbhak00aeslxx3n531ech)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhak00aeslxx3n531ech](https://aihot.news/items/cmoegbhak00aeslxx3n531ech)

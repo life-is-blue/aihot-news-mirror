@@ -1,5 +1,5 @@
 ---
-"title": "Arena 实测：GPT-6 Sol （Max） 以 1689 分列 Code Arena： WebDev 第 4 名"
+"title": "Arena 实测：GPT-6 Sol (Max) 以 1689 分列 Code Arena: WebDev 第 4 名"
 "aihot_id": "cmuedgev303hyromm2gpbnjqf"
 "aihot_category": "tip"
 "published_at": "2026-09-23T17:05:25.000Z"
@@ -11,9 +11,9 @@
 "content_kind": "news"
 ---
 
-# Arena 实测：GPT-6 Sol （Max） 以 1689 分列 Code Arena： WebDev 第 4 名
+# Arena 实测：GPT-6 Sol (Max) 以 1689 分列 Code Arena: WebDev 第 4 名
 
-Arena 公布 OpenAI 的 GPT-6 Sol （Max） 真实投票结果，在 Code Arena： WebDev 榜单以 1689 分排名第 4，价格 $8/M tokens（混合输入/输出）。
+Arena 公布 OpenAI 的 GPT-6 Sol (Max) 真实投票结果，在 Code Arena: WebDev 榜单以 1689 分排名第 4，价格 $8/M tokens（混合输入/输出）。
 
 - **来源**: X：Arena (@arena)
 - **原文链接**: [https://x.com/arena/status/2102806554340974612](https://x.com/arena/status/2102806554340974612)

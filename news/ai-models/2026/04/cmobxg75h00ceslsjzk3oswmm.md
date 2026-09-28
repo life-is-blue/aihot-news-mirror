@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-23T20:21:36.347Z"
 "source_name": "Ethan Mollick：One Useful Thing（RSS）"
 "original_url": "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55"
-"canonical_url": "https://aihot.virxact.com/items/cmobxg75h00ceslsjzk3oswmm"
+"canonical_url": "https://aihot.news/items/cmobxg75h00ceslsjzk3oswmm"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 发布了新一代模型 GPT-5.5。其上下文窗口从 GPT-5 的 128K �
 
 - **来源**: Ethan Mollick：One Useful Thing（RSS）
 - **原文链接**: [https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55](https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmobxg75h00ceslsjzk3oswmm](https://aihot.virxact.com/items/cmobxg75h00ceslsjzk3oswmm)
+- **AIHOT 链接**: [https://aihot.news/items/cmobxg75h00ceslsjzk3oswmm](https://aihot.news/items/cmobxg75h00ceslsjzk3oswmm)

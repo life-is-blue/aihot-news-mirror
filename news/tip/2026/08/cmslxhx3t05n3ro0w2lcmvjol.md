@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-09T14:59:25.737Z"
 "source_name": "Nathan Lambert：Interconnects（RSS）"
 "original_url": "https://www.interconnects.ai/p/lessons-from-the-hacks"
-"canonical_url": "https://aihot.virxact.com/items/cmslxhx3t05n3ro0w2lcmvjol"
+"canonical_url": "https://aihot.news/items/cmslxhx3t05n3ro0w2lcmvjol"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Nathan Lambert：Interconnects（RSS）
 - **原文链接**: [https://www.interconnects.ai/p/lessons-from-the-hacks](https://www.interconnects.ai/p/lessons-from-the-hacks)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmslxhx3t05n3ro0w2lcmvjol](https://aihot.virxact.com/items/cmslxhx3t05n3ro0w2lcmvjol)
+- **AIHOT 链接**: [https://aihot.news/items/cmslxhx3t05n3ro0w2lcmvjol](https://aihot.news/items/cmslxhx3t05n3ro0w2lcmvjol)

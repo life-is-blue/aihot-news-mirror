@@ -7,7 +7,7 @@
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/ibm-research/assetopsbench-playgro\
   und-on-hugging-face"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhak009sslxxtsyxvi6a"
+"canonical_url": "https://aihot.news/items/cmoegbhak009sslxxtsyxvi6a"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ IBM Research在Hugging Face发布AssetOpsBench，这是一个工业资产运维�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face](https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhak009sslxxtsyxvi6a](https://aihot.virxact.com/items/cmoegbhak009sslxxtsyxvi6a)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhak009sslxxtsyxvi6a](https://aihot.news/items/cmoegbhak009sslxxtsyxvi6a)

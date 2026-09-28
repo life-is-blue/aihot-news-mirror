@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-09T17:04:29.001Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
-"canonical_url": "https://aihot.virxact.com/items/cmq6w3soi002gslbhz3kkhav0"
+"canonical_url": "https://aihot.news/items/cmq6w3soi002gslbhz3kkhav0"
 "score": 90
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 今日推出 Claude Fable 5（通用安全版）和 Claude Mythos 5（
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/claude-fable-5-mythos-5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq6w3soi002gslbhz3kkhav0](https://aihot.virxact.com/items/cmq6w3soi002gslbhz3kkhav0)
+- **AIHOT 链接**: [https://aihot.news/items/cmq6w3soi002gslbhz3kkhav0](https://aihot.news/items/cmq6w3soi002gslbhz3kkhav0)

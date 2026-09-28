@@ -7,7 +7,7 @@
 "source_name": "X：OpenRouter (@OpenRouter)"
 "original_url": "https://x.com/OpenRouter/status/2102463839283617992"
 "canonical_url": "https://aihot.news/items/cmud0p2q603inro1fm32430f8"
-"score": 77
+"score": 78
 "content_kind": "news"
 ---
 

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-26T02:10:44.338Z"
 "source_name": "公众号：数字生命卡兹克"
 "original_url": "https://mp.weixin.qq.com/s/LVj2foSXi_hBRKxjuYaUyw"
-"canonical_url": "https://aihot.virxact.com/items/cmquanuro02prsl8053rbhfjl"
+"canonical_url": "https://aihot.news/items/cmquanuro02prsl8053rbhfjl"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Code 内置近30个Hook事件（年初仅13个），本质是写死的规
 
 - **来源**: 公众号：数字生命卡兹克
 - **原文链接**: [https://mp.weixin.qq.com/s/LVj2foSXi_hBRKxjuYaUyw](https://mp.weixin.qq.com/s/LVj2foSXi_hBRKxjuYaUyw)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmquanuro02prsl8053rbhfjl](https://aihot.virxact.com/items/cmquanuro02prsl8053rbhfjl)
+- **AIHOT 链接**: [https://aihot.news/items/cmquanuro02prsl8053rbhfjl](https://aihot.news/items/cmquanuro02prsl8053rbhfjl)

@@ -7,7 +7,7 @@
 "source_name": "Tessl：产品与工程博客"
 "original_url": "https://tessl.io/blog/agent-skills-are-supply-chain-components"
 "canonical_url": "https://aihot.news/items/cmufcewtq05yxroagpp7srept"
-"score": 62
+"score": 63
 "content_kind": "news"
 ---
 

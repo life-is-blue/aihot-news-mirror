@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-05T11:22:41.000Z"
 "source_name": "公众号：腾讯混元"
 "original_url": "https://mp.weixin.qq.com/s/XneOSvjt-7A-DU546cGoZA"
-"canonical_url": "https://aihot.virxact.com/items/cmq2o71l001iisl6n8ljx5jbt"
+"canonical_url": "https://aihot.news/items/cmq2o71l001iisl6n8ljx5jbt"
 "score": 62
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Stem算法通过Token位置衰减（TPD）和输出感知度量（OAM）两项�
 
 - **来源**: 公众号：腾讯混元
 - **原文链接**: [https://mp.weixin.qq.com/s/XneOSvjt-7A-DU546cGoZA](https://mp.weixin.qq.com/s/XneOSvjt-7A-DU546cGoZA)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq2o71l001iisl6n8ljx5jbt](https://aihot.virxact.com/items/cmq2o71l001iisl6n8ljx5jbt)
+- **AIHOT 链接**: [https://aihot.news/items/cmq2o71l001iisl6n8ljx5jbt](https://aihot.news/items/cmq2o71l001iisl6n8ljx5jbt)

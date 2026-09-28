@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-14T15:06:56.000Z"
 "source_name": "Google AI：DEV 作者专属（RSS）"
 "original_url": "https://dev.to/googleai/diffusiongemma-4x-faster-text-generation-fmd"
-"canonical_url": "https://aihot.virxact.com/items/cms3dqexj0aviro3fnuu5mxbg"
+"canonical_url": "https://aihot.news/items/cms3dqexj0aviro3fnuu5mxbg"
 "score": 68
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google 发布实验性开源模型 DiffusionGemma，采用文本扩散技术并�
 
 - **来源**: Google AI：DEV 作者专属（RSS）
 - **原文链接**: [https://dev.to/googleai/diffusiongemma-4x-faster-text-generation-fmd](https://dev.to/googleai/diffusiongemma-4x-faster-text-generation-fmd)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3dqexj0aviro3fnuu5mxbg](https://aihot.virxact.com/items/cms3dqexj0aviro3fnuu5mxbg)
+- **AIHOT 链接**: [https://aihot.news/items/cms3dqexj0aviro3fnuu5mxbg](https://aihot.news/items/cms3dqexj0aviro3fnuu5mxbg)

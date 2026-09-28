@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-05T15:26:17.111Z"
 "source_name": "Suno：Blog（网页）"
 "original_url": "https://suno.com/blog/6-tips-for-voices"
-"canonical_url": "https://aihot.virxact.com/items/cmq12umcv0bxmsltr272hqb35"
+"canonical_url": "https://aihot.news/items/cmq12umcv0bxmsltr272hqb35"
 "score": 64
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Suno Voices 面向 Web 付费用户开放。提升人声质量的 6 个技巧：
 
 - **来源**: Suno：Blog（网页）
 - **原文链接**: [https://suno.com/blog/6-tips-for-voices](https://suno.com/blog/6-tips-for-voices)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq12umcv0bxmsltr272hqb35](https://aihot.virxact.com/items/cmq12umcv0bxmsltr272hqb35)
+- **AIHOT 链接**: [https://aihot.news/items/cmq12umcv0bxmsltr272hqb35](https://aihot.news/items/cmq12umcv0bxmsltr272hqb35)

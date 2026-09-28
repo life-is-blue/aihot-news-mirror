@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-13T00:00:00.000Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2604.10905"
-"canonical_url": "https://aihot.virxact.com/items/cmnygovrm003ksl13p9wda58e"
+"canonical_url": "https://aihot.news/items/cmnygovrm003ksl13p9wda58e"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Audio Flamingo 系列发布下一代模型 AF-Next，支持长达 30 分钟的�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2604.10905](https://arxiv.org/abs/2604.10905)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnygovrm003ksl13p9wda58e](https://aihot.virxact.com/items/cmnygovrm003ksl13p9wda58e)
+- **AIHOT 链接**: [https://aihot.news/items/cmnygovrm003ksl13p9wda58e](https://aihot.news/items/cmnygovrm003ksl13p9wda58e)

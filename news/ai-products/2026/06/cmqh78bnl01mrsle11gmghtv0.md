@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-16T22:13:40.475Z"
 "source_name": "Midjourney：Updates（RSS）"
 "original_url": "https://updates.midjourney.com/draft-mode-for-v8-1-and-new-feature-previews"
-"canonical_url": "https://aihot.virxact.com/items/cmqh78bnl01mrsle11gmghtv0"
+"canonical_url": "https://aihot.news/items/cmqh78bnl01mrsle11gmghtv0"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Midjourney V8.1 的 Draft mode 草稿模式每次生成24张低分辨率低质�
 
 - **来源**: Midjourney：Updates（RSS）
 - **原文链接**: [https://updates.midjourney.com/draft-mode-for-v8-1-and-new-feature-previews](https://updates.midjourney.com/draft-mode-for-v8-1-and-new-feature-previews)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqh78bnl01mrsle11gmghtv0](https://aihot.virxact.com/items/cmqh78bnl01mrsle11gmghtv0)
+- **AIHOT 链接**: [https://aihot.news/items/cmqh78bnl01mrsle11gmghtv0](https://aihot.news/items/cmqh78bnl01mrsle11gmghtv0)

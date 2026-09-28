@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-27T02:54:41.070Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://www.tomtunguz.com/nvidia-q2-fy27-earnings"
-"canonical_url": "https://aihot.virxact.com/items/cmtaxja5w0ckaroamws5is8wp"
+"canonical_url": "https://aihot.news/items/cmtaxja5w0ckaroamws5is8wp"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ NVIDIA 上季度营收 960 亿美元，同比增长 106%，并指引 Q3 营收�
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://www.tomtunguz.com/nvidia-q2-fy27-earnings](https://www.tomtunguz.com/nvidia-q2-fy27-earnings)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtaxja5w0ckaroamws5is8wp](https://aihot.virxact.com/items/cmtaxja5w0ckaroamws5is8wp)
+- **AIHOT 链接**: [https://aihot.news/items/cmtaxja5w0ckaroamws5is8wp](https://aihot.news/items/cmtaxja5w0ckaroamws5is8wp)

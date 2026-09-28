@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-22T04:49:34.229Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2607.19191"
-"canonical_url": "https://aihot.virxact.com/items/cmrvls9qg03jtbihbfhtx203y"
+"canonical_url": "https://aihot.news/items/cmrvls9qg03jtbihbfhtx203y"
 "score": 83
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ ABot-World-0是一个动作条件视频世界模型，能在单张NVIDIA RTX 509
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2607.19191](https://arxiv.org/abs/2607.19191)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrvls9qg03jtbihbfhtx203y](https://aihot.virxact.com/items/cmrvls9qg03jtbihbfhtx203y)
+- **AIHOT 链接**: [https://aihot.news/items/cmrvls9qg03jtbihbfhtx203y](https://aihot.news/items/cmrvls9qg03jtbihbfhtx203y)

@@ -7,7 +7,7 @@
 "source_name": "TechCrunch：AI（RSS）"
 "original_url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly\
   -becoming-the-default-new-data-shows"
-"canonical_url": "https://aihot.virxact.com/items/cms3fuyes00mjrond2ldww2oa"
+"canonical_url": "https://aihot.news/items/cms3fuyes00mjrond2ldww2oa"
 "score": 76
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google AI Overviews 在搜索结果中的出现率一年内从15%升至43%，AI 
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows](https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3fuyes00mjrond2ldww2oa](https://aihot.virxact.com/items/cms3fuyes00mjrond2ldww2oa)
+- **AIHOT 链接**: [https://aihot.news/items/cms3fuyes00mjrond2ldww2oa](https://aihot.news/items/cms3fuyes00mjrond2ldww2oa)

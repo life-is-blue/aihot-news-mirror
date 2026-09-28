@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-beco\
   mes-the-only-protection-left"
-"canonical_url": "https://aihot.virxact.com/items/cmrl6xukw00ogbi7hnn35vq0v"
+"canonical_url": "https://aihot.news/items/cmrl6xukw00ogbi7hnn35vq0v"
 "score": 83
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrl6xukw00ogbi7hnn35vq0v](https://aihot.virxact.com/items/cmrl6xukw00ogbi7hnn35vq0v)
+- **AIHOT 链接**: [https://aihot.news/items/cmrl6xukw00ogbi7hnn35vq0v](https://aihot.news/items/cmrl6xukw00ogbi7hnn35vq0v)

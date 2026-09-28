@@ -8,7 +8,7 @@
 "original_url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-so\
   urce-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-an\
   d-self-evolving-skills"
-"canonical_url": "https://aihot.virxact.com/items/cmqz3upwc00axsldytm3kw949"
+"canonical_url": "https://aihot.news/items/cmqz3upwc00axsldytm3kw949"
 "score": 74
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ EverMind 推出开源智能体记忆运行时 EverOS（Apache 2.0 许可）。�
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills](https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqz3upwc00axsldytm3kw949](https://aihot.virxact.com/items/cmqz3upwc00axsldytm3kw949)
+- **AIHOT 链接**: [https://aihot.news/items/cmqz3upwc00axsldytm3kw949](https://aihot.news/items/cmqz3upwc00axsldytm3kw949)

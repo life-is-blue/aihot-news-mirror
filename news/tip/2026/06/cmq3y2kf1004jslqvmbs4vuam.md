@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-07T15:36:15.102Z"
 "source_name": "Gary Marcus：The Road to AI We Can Trust（RSS）"
 "original_url": "https://garymarcus.substack.com/p/slop-productivity-and-why-the-ai"
-"canonical_url": "https://aihot.virxact.com/items/cmq3y2kf1004jslqvmbs4vuam"
+"canonical_url": "https://aihot.news/items/cmq3y2kf1004jslqvmbs4vuam"
 "score": 57
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Gary Marcus在金融时报上看到John Burn-Murdoch的一张图表，认为它�
 
 - **来源**: Gary Marcus：The Road to AI We Can Trust（RSS）
 - **原文链接**: [https://garymarcus.substack.com/p/slop-productivity-and-why-the-ai](https://garymarcus.substack.com/p/slop-productivity-and-why-the-ai)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq3y2kf1004jslqvmbs4vuam](https://aihot.virxact.com/items/cmq3y2kf1004jslqvmbs4vuam)
+- **AIHOT 链接**: [https://aihot.news/items/cmq3y2kf1004jslqvmbs4vuam](https://aihot.news/items/cmq3y2kf1004jslqvmbs4vuam)

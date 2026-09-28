@@ -6,7 +6,7 @@
 "discovered_at": "2026-02-05T16:00:00.000Z"
 "source_name": "Suno：Blog（网页）"
 "original_url": "https://suno.com/blog/studio1_2"
-"canonical_url": "https://aihot.virxact.com/items/cmprbc2re0cjuslnomdm58bgi"
+"canonical_url": "https://aihot.news/items/cmprbc2re0cjuslnomdm58bgi"
 "score": 57
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Suno Studio 1.2 现已面向 Suno Premier 订阅用户发布。此次更新旨�
 
 - **来源**: Suno：Blog（网页）
 - **原文链接**: [https://suno.com/blog/studio1_2](https://suno.com/blog/studio1_2)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmprbc2re0cjuslnomdm58bgi](https://aihot.virxact.com/items/cmprbc2re0cjuslnomdm58bgi)
+- **AIHOT 链接**: [https://aihot.news/items/cmprbc2re0cjuslnomdm58bgi](https://aihot.news/items/cmprbc2re0cjuslnomdm58bgi)

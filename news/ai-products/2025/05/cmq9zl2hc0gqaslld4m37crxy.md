@@ -7,7 +7,7 @@
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/announcements/new-features-reasonin\
   g-streams-crypto-invoices-end-user-ids-and-more"
-"canonical_url": "https://aihot.virxact.com/items/cmq9zl2hc0gqaslld4m37crxy"
+"canonical_url": "https://aihot.news/items/cmq9zl2hc0gqaslld4m37crxy"
 "score": 56
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenRouter 上线了推理流摘要（Reasoning Streams）功能，支持流式�
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/announcements/new-features-reasoning-streams-crypto-invoices-end-user-ids-and-more](https://openrouter.ai/blog/announcements/new-features-reasoning-streams-crypto-invoices-end-user-ids-and-more)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq9zl2hc0gqaslld4m37crxy](https://aihot.virxact.com/items/cmq9zl2hc0gqaslld4m37crxy)
+- **AIHOT 链接**: [https://aihot.news/items/cmq9zl2hc0gqaslld4m37crxy](https://aihot.news/items/cmq9zl2hc0gqaslld4m37crxy)

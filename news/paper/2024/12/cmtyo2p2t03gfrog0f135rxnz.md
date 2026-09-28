@@ -13,7 +13,7 @@
 
 # ARC Prize 2024 获奖名单与技术报告发布
 
-ARC Prize 官方公布 2024 年获奖者并发布技术报告，共 1，430 支队伍提交 17，789 个方案，ARC-AGI-1 SOTA 从 33% 升至 55.5%，但 100 万美元大奖无人认领。
+ARC Prize 官方公布 2024 年获奖者并发布技术报告，共 1,430 支队伍提交 17,789 个方案，ARC-AGI-1 SOTA 从 33% 升至 55.5%，但 100 万美元大奖无人认领。
 
 - **来源**: ARC Prize：官方博客
 - **原文链接**: [https://arcprize.org/blog/arc-prize-2024-winners-technical-report](https://arcprize.org/blog/arc-prize-2024-winners-technical-report)

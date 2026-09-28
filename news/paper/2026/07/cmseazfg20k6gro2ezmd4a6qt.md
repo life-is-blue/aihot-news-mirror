@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-31T00:00:00.000Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2608.00146"
-"canonical_url": "https://aihot.virxact.com/items/cmseazfg20k6gro2ezmd4a6qt"
+"canonical_url": "https://aihot.news/items/cmseazfg20k6gro2ezmd4a6qt"
 "score": 80
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ DiffusionGemma 是一个实验性开源权重语言模型，通过离散扩散�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2608.00146](https://arxiv.org/abs/2608.00146)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmseazfg20k6gro2ezmd4a6qt](https://aihot.virxact.com/items/cmseazfg20k6gro2ezmd4a6qt)
+- **AIHOT 链接**: [https://aihot.news/items/cmseazfg20k6gro2ezmd4a6qt](https://aihot.news/items/cmseazfg20k6gro2ezmd4a6qt)

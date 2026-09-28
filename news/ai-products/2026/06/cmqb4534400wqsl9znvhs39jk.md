@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-12T16:00:33.551Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/allenai/olmo-eval"
-"canonical_url": "https://aihot.virxact.com/items/cmqb4534400wqsl9znvhs39jk"
+"canonical_url": "https://aihot.news/items/cmqb4534400wqsl9znvhs39jk"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ olmo-eval 是基于 OLMES 标准构建的评估工作台，专为 LLM 持续开�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/allenai/olmo-eval](https://huggingface.co/blog/allenai/olmo-eval)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqb4534400wqsl9znvhs39jk](https://aihot.virxact.com/items/cmqb4534400wqsl9znvhs39jk)
+- **AIHOT 链接**: [https://aihot.news/items/cmqb4534400wqsl9znvhs39jk](https://aihot.news/items/cmqb4534400wqsl9znvhs39jk)

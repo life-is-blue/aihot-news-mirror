@@ -6,7 +6,7 @@
 "discovered_at": "2026-09-04T03:35:04.764Z"
 "source_name": "X：Satya Nadella (@satyanadella)"
 "original_url": "https://x.com/satyanadella/status/2095713765446840591"
-"canonical_url": "https://aihot.virxact.com/items/cmtmehz6p01cerotxiqdnxdw2"
+"canonical_url": "https://aihot.news/items/cmtmehz6p01cerotxiqdnxdw2"
 "score": 63
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Satya Nadella 发文表示，早期客户已开始使用 Azure 上的 Astra。GP
 
 - **来源**: X：Satya Nadella (@satyanadella)
 - **原文链接**: [https://x.com/satyanadella/status/2095713765446840591](https://x.com/satyanadella/status/2095713765446840591)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtmehz6p01cerotxiqdnxdw2](https://aihot.virxact.com/items/cmtmehz6p01cerotxiqdnxdw2)
+- **AIHOT 链接**: [https://aihot.news/items/cmtmehz6p01cerotxiqdnxdw2](https://aihot.news/items/cmtmehz6p01cerotxiqdnxdw2)

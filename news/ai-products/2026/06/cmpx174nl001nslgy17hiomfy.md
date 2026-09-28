@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-01T21:59:17.000Z"
 "source_name": "X：Logan Kilpatrick (@OfficialLoganK)"
 "original_url": "https://x.com/OfficialLoganK/status/2061568290984800740"
-"canonical_url": "https://aihot.virxact.com/items/cmpx174nl001nslgy17hiomfy"
+"canonical_url": "https://aihot.news/items/cmpx174nl001nslgy17hiomfy"
 "score": 79
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：Logan Kilpatrick (@OfficialLoganK)
 - **原文链接**: [https://x.com/OfficialLoganK/status/2061568290984800740](https://x.com/OfficialLoganK/status/2061568290984800740)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpx174nl001nslgy17hiomfy](https://aihot.virxact.com/items/cmpx174nl001nslgy17hiomfy)
+- **AIHOT 链接**: [https://aihot.news/items/cmpx174nl001nslgy17hiomfy](https://aihot.news/items/cmpx174nl001nslgy17hiomfy)

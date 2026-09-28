@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-17T09:05:55.491Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://schema-harness.github.io/"
-"canonical_url": "https://aihot.virxact.com/items/cmropqooe05tqbitodvnqnc6u"
+"canonical_url": "https://aihot.news/items/cmropqooe05tqbitodvnqnc6u"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Schema 框架在 ARC-AGI-3 公开集上，使用 Claude Opus 4.8 和 Fable 5 达
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://schema-harness.github.io/](https://schema-harness.github.io/)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmropqooe05tqbitodvnqnc6u](https://aihot.virxact.com/items/cmropqooe05tqbitodvnqnc6u)
+- **AIHOT 链接**: [https://aihot.news/items/cmropqooe05tqbitodvnqnc6u](https://aihot.news/items/cmropqooe05tqbitodvnqnc6u)

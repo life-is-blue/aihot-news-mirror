@@ -6,7 +6,7 @@
 "discovered_at": "2025-09-16T16:00:00.000Z"
 "source_name": "Anthropic：Engineering（事故复盘 + 工程实践 · 网页）"
 "original_url": "https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues"
-"canonical_url": "https://aihot.virxact.com/items/cmorb7ml0008lslhfg5zt80v7"
+"canonical_url": "https://aihot.news/items/cmorb7ml0008lslhfg5zt80v7"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Anthropic：Engineering（事故复盘 + 工程实践 · 网页）
 - **原文链接**: [https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues](https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmorb7ml0008lslhfg5zt80v7](https://aihot.virxact.com/items/cmorb7ml0008lslhfg5zt80v7)
+- **AIHOT 链接**: [https://aihot.news/items/cmorb7ml0008lslhfg5zt80v7](https://aihot.news/items/cmorb7ml0008lslhfg5zt80v7)

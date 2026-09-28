@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-03T19:50:12.893Z"
 "source_name": "X：Peter Steinberger (@steipete)"
 "original_url": "https://x.com/steipete/status/2051020548335874369"
-"canonical_url": "https://aihot.virxact.com/items/cmoq6qeyz125isll9wpqb08uq"
+"canonical_url": "https://aihot.news/items/cmoq6qeyz125isll9wpqb08uq"
 "score": 74
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@
 
 - **来源**: X：Peter Steinberger (@steipete)
 - **原文链接**: [https://x.com/steipete/status/2051020548335874369](https://x.com/steipete/status/2051020548335874369)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoq6qeyz125isll9wpqb08uq](https://aihot.virxact.com/items/cmoq6qeyz125isll9wpqb08uq)
+- **AIHOT 链接**: [https://aihot.news/items/cmoq6qeyz125isll9wpqb08uq](https://aihot.news/items/cmoq6qeyz125isll9wpqb08uq)

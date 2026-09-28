@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-23T17:37:22.133Z"
 "source_name": "X：Krea AI (@krea_ai)"
 "original_url": "https://x.com/krea_ai/status/2069473417804591191"
-"canonical_url": "https://aihot.virxact.com/items/cmqqxfykz0ehkslp55nlmaje0"
+"canonical_url": "https://aihot.news/items/cmqqxfykz0ehkslp55nlmaje0"
 "score": 71
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ https://www.krea.ai/blog/krea-2-technical-report
 
 - **来源**: X：Krea AI (@krea_ai)
 - **原文链接**: [https://x.com/krea_ai/status/2069473417804591191](https://x.com/krea_ai/status/2069473417804591191)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqqxfykz0ehkslp55nlmaje0](https://aihot.virxact.com/items/cmqqxfykz0ehkslp55nlmaje0)
+- **AIHOT 链接**: [https://aihot.news/items/cmqqxfykz0ehkslp55nlmaje0](https://aihot.news/items/cmqqxfykz0ehkslp55nlmaje0)

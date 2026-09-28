@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-27T22:55:38.985Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast"
-"canonical_url": "https://aihot.virxact.com/items/cmtc4fn8n01mwrozaq4bot3b4"
+"canonical_url": "https://aihot.news/items/cmtc4fn8n01mwrozaq4bot3b4"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://forgeeks.net/nvidia-673-billion-ai-growth-forecast](https://forgeeks.net/nvidia-673-billion-ai-growth-forecast)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtc4fn8n01mwrozaq4bot3b4](https://aihot.virxact.com/items/cmtc4fn8n01mwrozaq4bot3b4)
+- **AIHOT 链接**: [https://aihot.news/items/cmtc4fn8n01mwrozaq4bot3b4](https://aihot.news/items/cmtc4fn8n01mwrozaq4bot3b4)

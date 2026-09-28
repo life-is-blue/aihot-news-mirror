@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-16T16:23:45.966Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/introducing-powerpoint-addin"
-"canonical_url": "https://aihot.virxact.com/items/cmqguqu9r00rqslpuu5cpfao3"
+"canonical_url": "https://aihot.news/items/cmqguqu9r00rqslpuu5cpfao3"
 "score": 64
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI 于 6 月 16 日发布 Grok for PowerPoint，作为免费 Microsoft 365 插�
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/introducing-powerpoint-addin](https://x.ai/news/introducing-powerpoint-addin)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqguqu9r00rqslpuu5cpfao3](https://aihot.virxact.com/items/cmqguqu9r00rqslpuu5cpfao3)
+- **AIHOT 链接**: [https://aihot.news/items/cmqguqu9r00rqslpuu5cpfao3](https://aihot.news/items/cmqguqu9r00rqslpuu5cpfao3)

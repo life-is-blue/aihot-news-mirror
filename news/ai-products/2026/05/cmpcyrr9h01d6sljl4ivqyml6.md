@@ -7,7 +7,7 @@
 "source_name": "Google Developers Blog（RSS）"
 "original_url": "https://developers.googleblog.com/an-important-update-transiti\
   oning-gemini-cli-to-antigravity-cli"
-"canonical_url": "https://aihot.virxact.com/items/cmpcyrr9h01d6sljl4ivqyml6"
+"canonical_url": "https://aihot.news/items/cmpcyrr9h01d6sljl4ivqyml6"
 "score": 58
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google正在整合其AI终端工具，将面向社区的Gemini CLI迁移至全�
 
 - **来源**: Google Developers Blog（RSS）
 - **原文链接**: [https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli](https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpcyrr9h01d6sljl4ivqyml6](https://aihot.virxact.com/items/cmpcyrr9h01d6sljl4ivqyml6)
+- **AIHOT 链接**: [https://aihot.news/items/cmpcyrr9h01d6sljl4ivqyml6](https://aihot.news/items/cmpcyrr9h01d6sljl4ivqyml6)

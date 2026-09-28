@@ -6,7 +6,7 @@
 "discovered_at": "2025-12-11T15:47:44.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhak00a4slxx4drrrsd4"
+"canonical_url": "https://aihot.news/items/cmoegbhak00a4slxx4drrrsd4"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ llama.cpp 服务器新增了类似 Ollama 的多模型管理功能。该功能�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/ggml-org/model-management-in-llamacpp](https://huggingface.co/blog/ggml-org/model-management-in-llamacpp)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhak00a4slxx4drrrsd4](https://aihot.virxact.com/items/cmoegbhak00a4slxx4drrrsd4)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhak00a4slxx4drrrsd4](https://aihot.news/items/cmoegbhak00a4slxx4drrrsd4)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-08T21:42:43.065Z"
 "source_name": "X：Rohan Paul (@rohanpaul_ai)"
 "original_url": "https://x.com/rohanpaul_ai/status/2064096574142390755"
-"canonical_url": "https://aihot.virxact.com/items/cmq5qlr8e01gjsl5i2dzdysvx"
+"canonical_url": "https://aihot.news/items/cmq5qlr8e01gjsl5i2dzdysvx"
 "score": 79
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Sam Altman关于OpenAI未来路径的新博客称，到2028年3月，其大量�
 
 - **来源**: X：Rohan Paul (@rohanpaul_ai)
 - **原文链接**: [https://x.com/rohanpaul_ai/status/2064096574142390755](https://x.com/rohanpaul_ai/status/2064096574142390755)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq5qlr8e01gjsl5i2dzdysvx](https://aihot.virxact.com/items/cmq5qlr8e01gjsl5i2dzdysvx)
+- **AIHOT 链接**: [https://aihot.news/items/cmq5qlr8e01gjsl5i2dzdysvx](https://aihot.news/items/cmq5qlr8e01gjsl5i2dzdysvx)

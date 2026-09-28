@@ -6,7 +6,7 @@
 "discovered_at": "2026-01-09T17:42:09.000Z"
 "source_name": "Nathan Lambert：Interconnects（RSS）"
 "original_url": "https://www.interconnects.ai/p/claude-code-hits-different"
-"canonical_url": "https://aihot.virxact.com/items/cmnxjn51n0054sl9o56ghf7gn"
+"canonical_url": "https://aihot.news/items/cmnxjn51n0054sl9o56ghf7gn"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Code 集成 Opus 4.5 模型实现关键突破，编程智能体跨越重�
 
 - **来源**: Nathan Lambert：Interconnects（RSS）
 - **原文链接**: [https://www.interconnects.ai/p/claude-code-hits-different](https://www.interconnects.ai/p/claude-code-hits-different)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnxjn51n0054sl9o56ghf7gn](https://aihot.virxact.com/items/cmnxjn51n0054sl9o56ghf7gn)
+- **AIHOT 链接**: [https://aihot.news/items/cmnxjn51n0054sl9o56ghf7gn](https://aihot.news/items/cmnxjn51n0054sl9o56ghf7gn)

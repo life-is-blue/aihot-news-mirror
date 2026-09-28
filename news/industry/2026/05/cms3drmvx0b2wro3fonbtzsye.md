@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-04T15:00:00.000Z"
 "source_name": "Sierra：Blog（RSS）"
 "original_url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra"
-"canonical_url": "https://aihot.virxact.com/items/cms3drmvx0b2wro3fonbtzsye"
+"canonical_url": "https://aihot.news/items/cms3drmvx0b2wro3fonbtzsye"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Sierra 从新老投资者处筹集 9.5 亿美元，估值超过 150 亿美元。
 
 - **来源**: Sierra：Blog（RSS）
 - **原文链接**: [https://sierra.ai/blog/better-customer-experiences-built-on-sierra](https://sierra.ai/blog/better-customer-experiences-built-on-sierra)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3drmvx0b2wro3fonbtzsye](https://aihot.virxact.com/items/cms3drmvx0b2wro3fonbtzsye)
+- **AIHOT 链接**: [https://aihot.news/items/cms3drmvx0b2wro3fonbtzsye](https://aihot.news/items/cms3drmvx0b2wro3fonbtzsye)

@@ -8,7 +8,7 @@
 "original_url": "https://www.marktechpost.com/2026/06/17/minimax-sparse-attenti\
   on-msa-a-two-branch-block-sparse-attention-trained-on-a-109b-parameter-moe-wi\
   th-a-3t-token-budget"
-"canonical_url": "https://aihot.virxact.com/items/cmqhsdiv401zcslf08vuq50zc"
+"canonical_url": "https://aihot.news/items/cmqhsdiv401zcslf08vuq50zc"
 "score": 70
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ MiniMax 发布 MSA（MiniMax Sparse Attention），一种构建在 Grouped Query
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/06/17/minimax-sparse-attention-msa-a-two-branch-block-sparse-attention-trained-on-a-109b-parameter-moe-with-a-3t-token-budget](https://www.marktechpost.com/2026/06/17/minimax-sparse-attention-msa-a-two-branch-block-sparse-attention-trained-on-a-109b-parameter-moe-with-a-3t-token-budget)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqhsdiv401zcslf08vuq50zc](https://aihot.virxact.com/items/cmqhsdiv401zcslf08vuq50zc)
+- **AIHOT 链接**: [https://aihot.news/items/cmqhsdiv401zcslf08vuq50zc](https://aihot.news/items/cmqhsdiv401zcslf08vuq50zc)

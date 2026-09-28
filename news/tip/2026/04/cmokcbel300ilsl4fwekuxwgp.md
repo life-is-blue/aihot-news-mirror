@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-29T17:39:56.688Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck"
-"canonical_url": "https://aihot.virxact.com/items/cmokcbel300ilsl4fwekuxwgp"
+"canonical_url": "https://aihot.news/items/cmokcbel300ilsl4fwekuxwgp"
 "score": 62
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ AI评估成本已突破关键阈值，正重塑其可及性。Holistic Agent Lea
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/evaleval/eval-costs-bottleneck](https://huggingface.co/blog/evaleval/eval-costs-bottleneck)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmokcbel300ilsl4fwekuxwgp](https://aihot.virxact.com/items/cmokcbel300ilsl4fwekuxwgp)
+- **AIHOT 链接**: [https://aihot.news/items/cmokcbel300ilsl4fwekuxwgp](https://aihot.news/items/cmokcbel300ilsl4fwekuxwgp)

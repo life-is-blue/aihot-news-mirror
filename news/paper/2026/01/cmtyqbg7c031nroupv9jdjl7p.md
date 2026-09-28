@@ -8,7 +8,7 @@
 "original_url": "https://www.promptarmor.com/resources/openai-api-logs-unpatche\
   d-data-exfiltration"
 "canonical_url": "https://aihot.news/items/cmtyqbg7c031nroupv9jdjl7p"
-"score": 73
+"score": 74
 "content_kind": "news"
 ---
 

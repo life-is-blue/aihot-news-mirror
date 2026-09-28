@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-29T21:22:33.048Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/introducing-the-claude-apps-gateway"
-"canonical_url": "https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq"
+"canonical_url": "https://aihot.news/items/cmqzq4so7002zslki45ad5xtq"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 今日推出 Claude apps gateway，一个自托管控制平面，让�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/introducing-the-claude-apps-gateway](https://claude.com/blog/introducing-the-claude-apps-gateway)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq](https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq)
+- **AIHOT 链接**: [https://aihot.news/items/cmqzq4so7002zslki45ad5xtq](https://aihot.news/items/cmqzq4so7002zslki45ad5xtq)

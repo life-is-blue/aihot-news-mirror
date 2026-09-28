@@ -6,7 +6,7 @@
 "discovered_at": "2025-11-23T16:00:00.000Z"
 "source_name": "Anthropic：Engineering（事故复盘 + 工程实践 · 网页）"
 "original_url": "https://www.anthropic.com/engineering/advanced-tool-use"
-"canonical_url": "https://aihot.virxact.com/items/cmorb7ml0008gslhfv77goird"
+"canonical_url": "https://aihot.news/items/cmorb7ml0008gslhfv77goird"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic在Claude开发者平台发布三项新功能，以解决传统工具�
 
 - **来源**: Anthropic：Engineering（事故复盘 + 工程实践 · 网页）
 - **原文链接**: [https://www.anthropic.com/engineering/advanced-tool-use](https://www.anthropic.com/engineering/advanced-tool-use)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmorb7ml0008gslhfv77goird](https://aihot.virxact.com/items/cmorb7ml0008gslhfv77goird)
+- **AIHOT 链接**: [https://aihot.news/items/cmorb7ml0008gslhfv77goird](https://aihot.news/items/cmorb7ml0008gslhfv77goird)

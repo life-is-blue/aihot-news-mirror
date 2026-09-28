@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-27T18:06:27.746Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/zero-trust-for-ai-agents"
-"canonical_url": "https://aihot.virxact.com/items/cmpodm423057sslv4un3f1nof"
+"canonical_url": "https://aihot.news/items/cmpodm423057sslv4un3f1nof"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 发布了针对企业部署自主 AI 智能体的安全框架，指出
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/zero-trust-for-ai-agents](https://claude.com/blog/zero-trust-for-ai-agents)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpodm423057sslv4un3f1nof](https://aihot.virxact.com/items/cmpodm423057sslv4un3f1nof)
+- **AIHOT 链接**: [https://aihot.news/items/cmpodm423057sslv4un3f1nof](https://aihot.news/items/cmpodm423057sslv4un3f1nof)

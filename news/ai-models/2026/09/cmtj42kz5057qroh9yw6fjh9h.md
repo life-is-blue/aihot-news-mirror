@@ -6,7 +6,7 @@
 "discovered_at": "2026-09-01T20:19:52.274Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/path-to-astra"
-"canonical_url": "https://aihot.virxact.com/items/cmtj42kz5057qroh9yw6fjh9h"
+"canonical_url": "https://aihot.news/items/cmtj42kz5057qroh9yw6fjh9h"
 "score": 82
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 宣布 Astra 在其 Preparedness Framework 下达到 Critical 网络安�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/path-to-astra](https://openai.com/index/path-to-astra)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtj42kz5057qroh9yw6fjh9h](https://aihot.virxact.com/items/cmtj42kz5057qroh9yw6fjh9h)
+- **AIHOT 链接**: [https://aihot.news/items/cmtj42kz5057qroh9yw6fjh9h](https://aihot.news/items/cmtj42kz5057qroh9yw6fjh9h)

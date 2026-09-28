@@ -6,7 +6,7 @@
 "discovered_at": "2025-09-29T18:52:42.000Z"
 "source_name": "Ethan Mollick：One Useful Thing（RSS）"
 "original_url": "https://www.oneusefulthing.org/p/real-ai-agents-and-real-work"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsvctf003fslteguv0v0hr"
+"canonical_url": "https://aihot.news/items/cmnwsvctf003fslteguv0v0hr"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Ethan Mollick：One Useful Thing（RSS）
 - **原文链接**: [https://www.oneusefulthing.org/p/real-ai-agents-and-real-work](https://www.oneusefulthing.org/p/real-ai-agents-and-real-work)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsvctf003fslteguv0v0hr](https://aihot.virxact.com/items/cmnwsvctf003fslteguv0v0hr)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsvctf003fslteguv0v0hr](https://aihot.news/items/cmnwsvctf003fslteguv0v0hr)

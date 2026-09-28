@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-07T03:11:49.060Z"
 "source_name": "X：Claude (@claudeai)"
 "original_url": "https://x.com/claudeai/status/2085563808773189680"
-"canonical_url": "https://aihot.virxact.com/items/cmsidc6hv1a2tronk7fyvcpkw"
+"canonical_url": "https://aihot.news/items/cmsidc6hv1a2tronk7fyvcpkw"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 更新 Claude Fable 5 的生物安全护栏，将生物相关回退减
 
 - **来源**: X：Claude (@claudeai)
 - **原文链接**: [https://x.com/claudeai/status/2085563808773189680](https://x.com/claudeai/status/2085563808773189680)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsidc6hv1a2tronk7fyvcpkw](https://aihot.virxact.com/items/cmsidc6hv1a2tronk7fyvcpkw)
+- **AIHOT 链接**: [https://aihot.news/items/cmsidc6hv1a2tronk7fyvcpkw](https://aihot.news/items/cmsidc6hv1a2tronk7fyvcpkw)

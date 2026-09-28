@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-30T17:15:00.783Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/claude-security-public-beta"
-"canonical_url": "https://aihot.virxact.com/items/cmolqvb5w01nysll9yybbfcw1"
+"canonical_url": "https://aihot.news/items/cmolqvb5w01nysll9yybbfcw1"
 "score": 64
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Security 现已面向所有 Claude Enterprise 客户开放公开测试。
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/claude-security-public-beta](https://claude.com/blog/claude-security-public-beta)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmolqvb5w01nysll9yybbfcw1](https://aihot.virxact.com/items/cmolqvb5w01nysll9yybbfcw1)
+- **AIHOT 链接**: [https://aihot.news/items/cmolqvb5w01nysll9yybbfcw1](https://aihot.news/items/cmolqvb5w01nysll9yybbfcw1)

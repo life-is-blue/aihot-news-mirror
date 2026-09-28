@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-22T14:56:55.643Z"
 "source_name": "X：Rohan Paul (@rohanpaul_ai)"
 "original_url": "https://x.com/rohanpaul_ai/status/2057833050692800926"
-"canonical_url": "https://aihot.virxact.com/items/cmph1mhwi0kj7sljwklnw8x2l"
+"canonical_url": "https://aihot.news/items/cmph1mhwi0kj7sljwklnw8x2l"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ ModelBest、清华大学与OpenBMB社区联合发布了BitCPM-CANN，这是全�
 
 - **来源**: X：Rohan Paul (@rohanpaul_ai)
 - **原文链接**: [https://x.com/rohanpaul_ai/status/2057833050692800926](https://x.com/rohanpaul_ai/status/2057833050692800926)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmph1mhwi0kj7sljwklnw8x2l](https://aihot.virxact.com/items/cmph1mhwi0kj7sljwklnw8x2l)
+- **AIHOT 链接**: [https://aihot.news/items/cmph1mhwi0kj7sljwklnw8x2l](https://aihot.news/items/cmph1mhwi0kj7sljwklnw8x2l)

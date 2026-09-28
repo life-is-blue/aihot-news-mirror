@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-11T13:51:45.827Z"
 "source_name": "LMSYS：Blog（Chatbot Arena 团队）"
 "original_url": "https://www.lmsys.org/blog/2026-08-11-unified-radix-cache"
-"canonical_url": "https://aihot.virxact.com/items/cmsopyoum028vrohd4dgeksz9"
+"canonical_url": "https://aihot.news/items/cmsopyoum028vrohd4dgeksz9"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ LMSYS 团队提出 Unified Radix Cache，用单一 token 键控 radix 拓扑统�
 
 - **来源**: LMSYS：Blog（Chatbot Arena 团队）
 - **原文链接**: [https://www.lmsys.org/blog/2026-08-11-unified-radix-cache](https://www.lmsys.org/blog/2026-08-11-unified-radix-cache)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsopyoum028vrohd4dgeksz9](https://aihot.virxact.com/items/cmsopyoum028vrohd4dgeksz9)
+- **AIHOT 链接**: [https://aihot.news/items/cmsopyoum028vrohd4dgeksz9](https://aihot.news/items/cmsopyoum028vrohd4dgeksz9)

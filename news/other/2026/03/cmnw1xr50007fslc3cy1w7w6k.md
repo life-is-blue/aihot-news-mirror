@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-05T10:00:00.000Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/gpt-5-4-thinking-system-card"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xr50007fslc3cy1w7w6k"
+"canonical_url": "https://aihot.news/items/cmnw1xr50007fslc3cy1w7w6k"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 发布 GPT-5.4 Thinking 系统卡，披露新一代推理模型的架构�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/gpt-5-4-thinking-system-card](https://openai.com/index/gpt-5-4-thinking-system-card)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xr50007fslc3cy1w7w6k](https://aihot.virxact.com/items/cmnw1xr50007fslc3cy1w7w6k)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xr50007fslc3cy1w7w6k](https://aihot.news/items/cmnw1xr50007fslc3cy1w7w6k)

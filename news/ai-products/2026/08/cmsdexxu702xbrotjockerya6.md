@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-03T15:57:52.352Z"
 "source_name": "X：OpenRouter (@OpenRouter)"
 "original_url": "https://x.com/OpenRouter/status/2084301100078027143"
-"canonical_url": "https://aihot.virxact.com/items/cmsdexxu702xbrotjockerya6"
+"canonical_url": "https://aihot.news/items/cmsdexxu702xbrotjockerya6"
 "score": 68
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ curl -fsSL https://openrouter.ai/skills/spawn-ori-eval
 
 - **来源**: X：OpenRouter (@OpenRouter)
 - **原文链接**: [https://x.com/OpenRouter/status/2084301100078027143](https://x.com/OpenRouter/status/2084301100078027143)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdexxu702xbrotjockerya6](https://aihot.virxact.com/items/cmsdexxu702xbrotjockerya6)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdexxu702xbrotjockerya6](https://aihot.news/items/cmsdexxu702xbrotjockerya6)

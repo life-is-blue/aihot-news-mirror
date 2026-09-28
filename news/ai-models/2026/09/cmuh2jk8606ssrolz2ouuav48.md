@@ -8,7 +8,7 @@
 "source_name": "Cohere 产品与研究博客（网页）"
 "original_url": "https://cohere.com/blog/north-small-translate"
 "canonical_url": "https://aihot.news/items/cmuh2jk8606ssrolz2ouuav48"
-"score": 65
+"score": 66
 "content_kind": "news"
 ---
 

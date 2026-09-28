@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-02T17:09:11.000Z"
 "source_name": "X：Artificial Analysis (@ArtificialAnlys)"
 "original_url": "https://x.com/ArtificialAnlys/status/2039752013249212600"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1ypby00ocslc36i8pvvx8"
+"canonical_url": "https://aihot.news/items/cmnw1ypby00ocslc36i8pvvx8"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google DeepMind推出Gemma 4系列四款多模态开源模型，支持文本、�
 
 - **来源**: X：Artificial Analysis (@ArtificialAnlys)
 - **原文链接**: [https://x.com/ArtificialAnlys/status/2039752013249212600](https://x.com/ArtificialAnlys/status/2039752013249212600)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1ypby00ocslc36i8pvvx8](https://aihot.virxact.com/items/cmnw1ypby00ocslc36i8pvvx8)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1ypby00ocslc36i8pvvx8](https://aihot.news/items/cmnw1ypby00ocslc36i8pvvx8)

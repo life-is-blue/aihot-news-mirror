@@ -7,7 +7,7 @@
 "source_name": "Fireworks AI（网页）"
 "original_url": "https://fireworks.ai/blog/kimik3-on-fireworks"
 "canonical_url": "https://aihot.news/items/cmtym23aj000cro6ncyzhur0x"
-"score": 76
+"score": 77
 "content_kind": "news"
 ---
 

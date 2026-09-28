@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-22T17:56:59.034Z"
 "source_name": "X：Rohan Paul (@rohanpaul_ai)"
 "original_url": "https://x.com/rohanpaul_ai/status/2057878328443650300"
-"canonical_url": "https://aihot.virxact.com/items/cmph821nz0m61sljwpby512jy"
+"canonical_url": "https://aihot.news/items/cmph821nz0m61sljwpby512jy"
 "score": 78
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Bloomberg：DeepSeek在融资谈判中优先考虑AGI而非商业化
 
 - **来源**: X：Rohan Paul (@rohanpaul_ai)
 - **原文链接**: [https://x.com/rohanpaul_ai/status/2057878328443650300](https://x.com/rohanpaul_ai/status/2057878328443650300)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmph821nz0m61sljwpby512jy](https://aihot.virxact.com/items/cmph821nz0m61sljwpby512jy)
+- **AIHOT 链接**: [https://aihot.news/items/cmph821nz0m61sljwpby512jy](https://aihot.news/items/cmph821nz0m61sljwpby512jy)

@@ -6,7 +6,7 @@
 "discovered_at": "2025-08-11T12:11:31.000Z"
 "source_name": "X：百川智能 (@BaichuanAI)"
 "original_url": "https://x.com/BaichuanAI/status/1954878342802682072"
-"canonical_url": "https://aihot.virxact.com/items/cmry2we7800gjroqa08di0u9e"
+"canonical_url": "https://aihot.news/items/cmry2we7800gjroqa08di0u9e"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：百川智能 (@BaichuanAI)
 - **原文链接**: [https://x.com/BaichuanAI/status/1954878342802682072](https://x.com/BaichuanAI/status/1954878342802682072)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmry2we7800gjroqa08di0u9e](https://aihot.virxact.com/items/cmry2we7800gjroqa08di0u9e)
+- **AIHOT 链接**: [https://aihot.news/items/cmry2we7800gjroqa08di0u9e](https://aihot.news/items/cmry2we7800gjroqa08di0u9e)

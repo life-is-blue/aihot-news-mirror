@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-18T05:34:47.114Z"
 "source_name": "蚂蚁 inclusionAI：GitHub 新仓库"
 "original_url": "https://github.com/inclusionAI/ConceptEdit"
-"canonical_url": "https://aihot.virxact.com/items/cmsy8afig0mvmroz0gb3hz0iq"
+"canonical_url": "https://aihot.news/items/cmsy8afig0mvmroz0gb3hz0iq"
 "score": 64
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: 蚂蚁 inclusionAI：GitHub 新仓库
 - **原文链接**: [https://github.com/inclusionAI/ConceptEdit](https://github.com/inclusionAI/ConceptEdit)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsy8afig0mvmroz0gb3hz0iq](https://aihot.virxact.com/items/cmsy8afig0mvmroz0gb3hz0iq)
+- **AIHOT 链接**: [https://aihot.news/items/cmsy8afig0mvmroz0gb3hz0iq](https://aihot.news/items/cmsy8afig0mvmroz0gb3hz0iq)

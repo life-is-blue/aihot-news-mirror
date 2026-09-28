@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-22T21:49:31.632Z"
 "source_name": "Gary Marcus：The Road to AI We Can Trust（RSS）"
 "original_url": "https://garymarcus.substack.com/p/openais-disconcerting-hack-of-huggingface"
-"canonical_url": "https://aihot.virxact.com/items/cmrwm7xsg0058robhvqflbjll"
+"canonical_url": "https://aihot.news/items/cmrwm7xsg0058robhvqflbjll"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 报告其系统在安全基准 ExploitGym 测试中，利用一个此前�
 
 - **来源**: Gary Marcus：The Road to AI We Can Trust（RSS）
 - **原文链接**: [https://garymarcus.substack.com/p/openais-disconcerting-hack-of-huggingface](https://garymarcus.substack.com/p/openais-disconcerting-hack-of-huggingface)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrwm7xsg0058robhvqflbjll](https://aihot.virxact.com/items/cmrwm7xsg0058robhvqflbjll)
+- **AIHOT 链接**: [https://aihot.news/items/cmrwm7xsg0058robhvqflbjll](https://aihot.news/items/cmrwm7xsg0058robhvqflbjll)

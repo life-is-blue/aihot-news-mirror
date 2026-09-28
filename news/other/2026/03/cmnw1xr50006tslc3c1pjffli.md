@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-25T10:00:00.000Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/our-approach-to-the-model-spec"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xr50006tslc3c1pjffli"
+"canonical_url": "https://aihot.news/items/cmnw1xr50006tslc3c1pjffli"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 公开 Model Spec 行为框架，阐述如何在安全、用户自由与�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/our-approach-to-the-model-spec](https://openai.com/index/our-approach-to-the-model-spec)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xr50006tslc3c1pjffli](https://aihot.virxact.com/items/cmnw1xr50006tslc3c1pjffli)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xr50006tslc3c1pjffli](https://aihot.news/items/cmnw1xr50006tslc3c1pjffli)

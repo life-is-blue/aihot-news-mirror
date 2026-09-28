@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-19T17:27:45.148Z"
 "source_name": "X：Krea AI (@krea_ai)"
 "original_url": "https://x.com/krea_ai/status/2056782646232092987"
-"canonical_url": "https://aihot.virxact.com/items/cmpcwosn400qysljlub4c8yqk"
+"canonical_url": "https://aihot.news/items/cmpcwosn400qysljlub4c8yqk"
 "score": 73
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Krea 2深度解析。
 
 - **来源**: X：Krea AI (@krea_ai)
 - **原文链接**: [https://x.com/krea_ai/status/2056782646232092987](https://x.com/krea_ai/status/2056782646232092987)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpcwosn400qysljlub4c8yqk](https://aihot.virxact.com/items/cmpcwosn400qysljlub4c8yqk)
+- **AIHOT 链接**: [https://aihot.news/items/cmpcwosn400qysljlub4c8yqk](https://aihot.news/items/cmpcwosn400qysljlub4c8yqk)

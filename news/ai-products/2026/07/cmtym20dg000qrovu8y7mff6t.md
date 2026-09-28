@@ -7,7 +7,7 @@
 "source_name": "vLLM 官方博客（RSS）"
 "original_url": "https://vllm.ai/blog/2026-07-15-inkling"
 "canonical_url": "https://aihot.news/items/cmtym20dg000qrovu8y7mff6t"
-"score": 73
+"score": 74
 "content_kind": "news"
 ---
 

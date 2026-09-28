@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-19T15:18:56.695Z"
 "source_name": "Qwen：Blog Retrieval（API）"
 "original_url": "https://qwen.ai/blog?id=qwen3.5-livetranslate"
-"canonical_url": "https://aihot.virxact.com/items/cmpcs39q504wrslae56ztkjwi"
+"canonical_url": "https://aihot.news/items/cmpcs39q504wrslae56ztkjwi"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Qwen3.5-LiveTranslate-Flash 是 Qwen 家族最新的同声传译模型，基于 
 
 - **来源**: Qwen：Blog Retrieval（API）
 - **原文链接**: [https://qwen.ai/blog?id=qwen3.5-livetranslate](https://qwen.ai/blog?id=qwen3.5-livetranslate)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpcs39q504wrslae56ztkjwi](https://aihot.virxact.com/items/cmpcs39q504wrslae56ztkjwi)
+- **AIHOT 链接**: [https://aihot.news/items/cmpcs39q504wrslae56ztkjwi](https://aihot.news/items/cmpcs39q504wrslae56ztkjwi)

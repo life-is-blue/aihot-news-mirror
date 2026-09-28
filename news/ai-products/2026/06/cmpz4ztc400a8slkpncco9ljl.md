@@ -8,7 +8,7 @@
 "original_url": "https://www.marktechpost.com/2026/06/03/meet-openjarvis-a-loca\
   l-first-framework-for-on-device-personal-ai-agents-with-tools-memory-and-lear\
   ning"
-"canonical_url": "https://aihot.virxact.com/items/cmpz4ztc400a8slkpncco9ljl"
+"canonical_url": "https://aihot.news/items/cmpz4ztc400a8slkpncco9ljl"
 "score": 71
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Stanford 研究人员发布 OpenJarvis，一个完全在设备端运行推理、
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/06/03/meet-openjarvis-a-local-first-framework-for-on-device-personal-ai-agents-with-tools-memory-and-learning](https://www.marktechpost.com/2026/06/03/meet-openjarvis-a-local-first-framework-for-on-device-personal-ai-agents-with-tools-memory-and-learning)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpz4ztc400a8slkpncco9ljl](https://aihot.virxact.com/items/cmpz4ztc400a8slkpncco9ljl)
+- **AIHOT 链接**: [https://aihot.news/items/cmpz4ztc400a8slkpncco9ljl](https://aihot.news/items/cmpz4ztc400a8slkpncco9ljl)

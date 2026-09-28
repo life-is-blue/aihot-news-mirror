@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-15T16:27:43.451Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/agent-dashboard"
-"canonical_url": "https://aihot.virxact.com/items/cmqfffwsj012psl2aw73zvioe"
+"canonical_url": "https://aihot.news/items/cmqfffwsj012psl2aw73zvioe"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI 为 Grok Build 推出 Agent Dashboard，提供单一屏幕管理多个编码
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/agent-dashboard](https://x.ai/news/agent-dashboard)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqfffwsj012psl2aw73zvioe](https://aihot.virxact.com/items/cmqfffwsj012psl2aw73zvioe)
+- **AIHOT 链接**: [https://aihot.news/items/cmqfffwsj012psl2aw73zvioe](https://aihot.news/items/cmqfffwsj012psl2aw73zvioe)

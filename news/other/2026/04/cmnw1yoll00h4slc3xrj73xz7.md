@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-02T22:46:27.000Z"
 "source_name": "X：Claude (@claudeai)"
 "original_url": "https://x.com/claudeai/status/2039836891508261106"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yoll00h4slc3xrj73xz7"
+"canonical_url": "https://aihot.news/items/cmnw1yoll00h4slc3xrj73xz7"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Cowork 与 Claude Code Desktop 的 Computer use 功能正式登陆 Window
 
 - **来源**: X：Claude (@claudeai)
 - **原文链接**: [https://x.com/claudeai/status/2039836891508261106](https://x.com/claudeai/status/2039836891508261106)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yoll00h4slc3xrj73xz7](https://aihot.virxact.com/items/cmnw1yoll00h4slc3xrj73xz7)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yoll00h4slc3xrj73xz7](https://aihot.news/items/cmnw1yoll00h4slc3xrj73xz7)

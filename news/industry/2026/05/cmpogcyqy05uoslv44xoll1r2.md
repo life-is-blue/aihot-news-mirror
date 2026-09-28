@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-27T19:23:53.526Z"
 "source_name": "X：swyx (@swyx)"
 "original_url": "https://x.com/swyx/status/2059717021944926238"
-"canonical_url": "https://aihot.virxact.com/items/cmpogcyqy05uoslv44xoll1r2"
+"canonical_url": "https://aihot.news/items/cmpogcyqy05uoslv44xoll1r2"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Cognition宣布已成为全球最大的独立智能体实验室。公司完成�
 
 - **来源**: X：swyx (@swyx)
 - **原文链接**: [https://x.com/swyx/status/2059717021944926238](https://x.com/swyx/status/2059717021944926238)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpogcyqy05uoslv44xoll1r2](https://aihot.virxact.com/items/cmpogcyqy05uoslv44xoll1r2)
+- **AIHOT 链接**: [https://aihot.news/items/cmpogcyqy05uoslv44xoll1r2](https://aihot.news/items/cmpogcyqy05uoslv44xoll1r2)

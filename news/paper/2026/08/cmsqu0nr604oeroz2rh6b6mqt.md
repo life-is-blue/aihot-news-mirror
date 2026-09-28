@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-13T01:20:54.259Z"
 "source_name": "Anthropic：Research（发表成果 · 网页）"
 "original_url": "https://www.anthropic.com/research/multiagent-systems"
-"canonical_url": "https://aihot.virxact.com/items/cmsqu0nr604oeroz2rh6b6mqt"
+"canonical_url": "https://aihot.news/items/cmsqu0nr604oeroz2rh6b6mqt"
 "score": 79
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 研究指出，随着 AI 智能体在共享代码库、市场等社会
 
 - **来源**: Anthropic：Research（发表成果 · 网页）
 - **原文链接**: [https://www.anthropic.com/research/multiagent-systems](https://www.anthropic.com/research/multiagent-systems)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsqu0nr604oeroz2rh6b6mqt](https://aihot.virxact.com/items/cmsqu0nr604oeroz2rh6b6mqt)
+- **AIHOT 链接**: [https://aihot.news/items/cmsqu0nr604oeroz2rh6b6mqt](https://aihot.news/items/cmsqu0nr604oeroz2rh6b6mqt)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-27T17:20:48.932Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/ibm-research/itbench-aa"
-"canonical_url": "https://aihot.virxact.com/items/cmpobyo1b04qeslv4jzefv5eu"
+"canonical_url": "https://aihot.news/items/cmpobyo1b04qeslv4jzefv5eu"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/ibm-research/itbench-aa](https://huggingface.co/blog/ibm-research/itbench-aa)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpobyo1b04qeslv4jzefv5eu](https://aihot.virxact.com/items/cmpobyo1b04qeslv4jzefv5eu)
+- **AIHOT 链接**: [https://aihot.news/items/cmpobyo1b04qeslv4jzefv5eu](https://aihot.news/items/cmpobyo1b04qeslv4jzefv5eu)

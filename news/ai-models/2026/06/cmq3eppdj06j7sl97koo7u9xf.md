@@ -8,7 +8,7 @@
 "original_url": "https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-r\
   etrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-searc\
   h-harness-on-gpt-oss-20b"
-"canonical_url": "https://aihot.virxact.com/items/cmq3eppdj06j7sl97koo7u9xf"
+"canonical_url": "https://aihot.news/items/cmq3eppdj06j7sl97koo7u9xf"
 "score": 73
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ UIUC与Chroma联合推出Harness-1，一个20B参数的检索子智能体。它�
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b](https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq3eppdj06j7sl97koo7u9xf](https://aihot.virxact.com/items/cmq3eppdj06j7sl97koo7u9xf)
+- **AIHOT 链接**: [https://aihot.news/items/cmq3eppdj06j7sl97koo7u9xf](https://aihot.news/items/cmq3eppdj06j7sl97koo7u9xf)

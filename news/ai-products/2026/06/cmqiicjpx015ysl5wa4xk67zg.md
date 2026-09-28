@@ -7,7 +7,7 @@
 "source_name": "GitHub Blog"
 "original_url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from\
   -each-token-how-copilot-improves-context-handling-and-model-routing"
-"canonical_url": "https://aihot.virxact.com/items/cmqiicjpx015ysl5wa4xk67zg"
+"canonical_url": "https://aihot.news/items/cmqiicjpx015ysl5wa4xk67zg"
 "score": 61
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ GitHub 推出一个新的仓库级数据集，采用 CC0-1.0 许可证，旨在�
 
 - **来源**: GitHub Blog
 - **原文链接**: [https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing](https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqiicjpx015ysl5wa4xk67zg](https://aihot.virxact.com/items/cmqiicjpx015ysl5wa4xk67zg)
+- **AIHOT 链接**: [https://aihot.news/items/cmqiicjpx015ysl5wa4xk67zg](https://aihot.news/items/cmqiicjpx015ysl5wa4xk67zg)

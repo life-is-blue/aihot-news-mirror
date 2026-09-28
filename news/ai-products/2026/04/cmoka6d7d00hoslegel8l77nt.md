@@ -7,7 +7,7 @@
 "source_name": "Google Developers Blog（RSS）"
 "original_url": "https://developers.googleblog.com/speeding-up-ai-bringing-goog\
   le-colossus-to-pytorch-via-gcsfs-and-rapid-bucket"
-"canonical_url": "https://aihot.virxact.com/items/cmoka6d7d00hoslegel8l77nt"
+"canonical_url": "https://aihot.news/items/cmoka6d7d00hoslegel8l77nt"
 "score": 57
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google Cloud推出了一项高性能集成方案，通过fsspec接口将Rapid St
 
 - **来源**: Google Developers Blog（RSS）
 - **原文链接**: [https://developers.googleblog.com/speeding-up-ai-bringing-google-colossus-to-pytorch-via-gcsfs-and-rapid-bucket](https://developers.googleblog.com/speeding-up-ai-bringing-google-colossus-to-pytorch-via-gcsfs-and-rapid-bucket)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoka6d7d00hoslegel8l77nt](https://aihot.virxact.com/items/cmoka6d7d00hoslegel8l77nt)
+- **AIHOT 链接**: [https://aihot.news/items/cmoka6d7d00hoslegel8l77nt](https://aihot.news/items/cmoka6d7d00hoslegel8l77nt)

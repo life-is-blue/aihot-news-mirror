@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-07T20:12:19.394Z"
 "source_name": "X：Claude Devs (@ClaudeDevs)"
 "original_url": "https://x.com/ClaudeDevs/status/2085817074816070014"
-"canonical_url": "https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl"
+"canonical_url": "https://aihot.news/items/cmsjdsk6p076rroo561c8askl"
 "score": 73
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Claude Code 新功能：你的会话现在可以互相发送消息了。
 
 - **来源**: X：Claude Devs (@ClaudeDevs)
 - **原文链接**: [https://x.com/ClaudeDevs/status/2085817074816070014](https://x.com/ClaudeDevs/status/2085817074816070014)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl](https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl)
+- **AIHOT 链接**: [https://aihot.news/items/cmsjdsk6p076rroo561c8askl](https://aihot.news/items/cmsjdsk6p076rroo561c8askl)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-24T12:54:17.832Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/announcements/classifiers"
-"canonical_url": "https://aihot.virxact.com/items/cmryxzcmz06cbrolgm4zhtc1m"
+"canonical_url": "https://aihot.news/items/cmryxzcmz06cbrolgm4zhtc1m"
 "score": 62
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter 上线 Classifiers 测试版，允许用户通过自定义分类法�
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/announcements/classifiers](https://openrouter.ai/blog/announcements/classifiers)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmryxzcmz06cbrolgm4zhtc1m](https://aihot.virxact.com/items/cmryxzcmz06cbrolgm4zhtc1m)
+- **AIHOT 链接**: [https://aihot.news/items/cmryxzcmz06cbrolgm4zhtc1m](https://aihot.news/items/cmryxzcmz06cbrolgm4zhtc1m)

@@ -7,7 +7,7 @@
 "source_name": "Modal 官方工程博客（RSS）"
 "original_url": "https://modal.com/blog/qart-codes-evals"
 "canonical_url": "https://aihot.news/items/cmtyq5ikh001droupfg753sg4"
-"score": 61
+"score": 62
 "content_kind": "news"
 ---
 

@@ -7,7 +7,7 @@
 "source_name": "Apple：Newsroom（RSS）"
 "original_url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-ma\
   c-studio-with-m5-max-and-m5-ultra"
-"canonical_url": "https://aihot.virxact.com/items/cmt8qee503kvnro73qp7543yv"
+"canonical_url": "https://aihot.news/items/cmt8qee503kvnro73qp7543yv"
 "score": 64
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Apple 发布搭载 M5 Max 与全新 M5 Ultra 的 Mac Studio，AI 性能最高提
 
 - **来源**: Apple：Newsroom（RSS）
 - **原文链接**: [https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt8qee503kvnro73qp7543yv](https://aihot.virxact.com/items/cmt8qee503kvnro73qp7543yv)
+- **AIHOT 链接**: [https://aihot.news/items/cmt8qee503kvnro73qp7543yv](https://aihot.news/items/cmt8qee503kvnro73qp7543yv)

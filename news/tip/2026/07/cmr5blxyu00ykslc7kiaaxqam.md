@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-03T19:22:42.648Z"
 "source_name": "Simon Willison 博客"
 "original_url": "https://simonwillison.net/2026/Jul/3/judgement"
-"canonical_url": "https://aihot.virxact.com/items/cmr5blxyu00ykslc7kiaaxqam"
+"canonical_url": "https://aihot.news/items/cmr5blxyu00ykslc7kiaaxqam"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Simon Willison 在 AIE 上与 Claude Code 团队交流后建议，让 Fable（�
 
 - **来源**: Simon Willison 博客
 - **原文链接**: [https://simonwillison.net/2026/Jul/3/judgement](https://simonwillison.net/2026/Jul/3/judgement)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr5blxyu00ykslc7kiaaxqam](https://aihot.virxact.com/items/cmr5blxyu00ykslc7kiaaxqam)
+- **AIHOT 链接**: [https://aihot.news/items/cmr5blxyu00ykslc7kiaaxqam](https://aihot.news/items/cmr5blxyu00ykslc7kiaaxqam)

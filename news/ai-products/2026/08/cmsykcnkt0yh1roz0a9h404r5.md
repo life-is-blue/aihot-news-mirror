@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-18T11:12:25.733Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/chatgpt-for-teens"
-"canonical_url": "https://aihot.virxact.com/items/cmsykcnkt0yh1roz0a9h404r5"
+"canonical_url": "https://aihot.news/items/cmsykcnkt0yh1roz0a9h404r5"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 发布 ChatGPT for Teens，为 13-17 岁用户自动启用，内置更强
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/chatgpt-for-teens](https://openai.com/index/chatgpt-for-teens)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsykcnkt0yh1roz0a9h404r5](https://aihot.virxact.com/items/cmsykcnkt0yh1roz0a9h404r5)
+- **AIHOT 链接**: [https://aihot.news/items/cmsykcnkt0yh1roz0a9h404r5](https://aihot.news/items/cmsykcnkt0yh1roz0a9h404r5)

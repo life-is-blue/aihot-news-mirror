@@ -8,7 +8,7 @@
 "original_url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-ma\
   rketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-\
   budget-optimization"
-"canonical_url": "https://aihot.virxact.com/items/cmsgn3qpq0aolro5q10dkpewx"
+"canonical_url": "https://aihot.news/items/cmsgn3qpq0aolro5q10dkpewx"
 "score": 71
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization](https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsgn3qpq0aolro5q10dkpewx](https://aihot.virxact.com/items/cmsgn3qpq0aolro5q10dkpewx)
+- **AIHOT 链接**: [https://aihot.news/items/cmsgn3qpq0aolro5q10dkpewx](https://aihot.news/items/cmsgn3qpq0aolro5q10dkpewx)

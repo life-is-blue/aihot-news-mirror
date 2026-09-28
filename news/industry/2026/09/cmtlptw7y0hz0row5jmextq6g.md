@@ -7,7 +7,7 @@
 "source_name": "Artificial Intelligence News（网页）"
 "original_url": "https://www.artificialintelligence-news.com/news/nvidia-to-acq\
   uire-hugging-face-for-12-93b"
-"canonical_url": "https://aihot.virxact.com/items/cmtlptw7y0hz0row5jmextq6g"
+"canonical_url": "https://aihot.news/items/cmtlptw7y0hz0row5jmextq6g"
 "score": 83
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ NVIDIA 已同意以 129.3 亿美元收购 Hugging Face，以扩展该开源模�
 
 - **来源**: Artificial Intelligence News（网页）
 - **原文链接**: [https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b](https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtlptw7y0hz0row5jmextq6g](https://aihot.virxact.com/items/cmtlptw7y0hz0row5jmextq6g)
+- **AIHOT 链接**: [https://aihot.news/items/cmtlptw7y0hz0row5jmextq6g](https://aihot.news/items/cmtlptw7y0hz0row5jmextq6g)

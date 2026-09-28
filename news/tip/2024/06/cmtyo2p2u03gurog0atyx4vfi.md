@@ -7,7 +7,7 @@
 "source_name": "ARC Prize：官方博客"
 "original_url": "https://arcprize.org/blog/day-1-update"
 "canonical_url": "https://aihot.news/items/cmtyo2p2u03gurog0atyx4vfi"
-"score": 61
+"score": 62
 "content_kind": "news"
 ---
 

@@ -8,7 +8,7 @@
 "original_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other\
   -websites-via-ad-collector"
 "canonical_url": "https://aihot.news/items/cmua567e703tmro5t558lzx7o"
-"score": 76
+"score": 77
 "content_kind": "news"
 ---
 

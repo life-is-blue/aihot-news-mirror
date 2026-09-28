@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-04T18:34:01.675Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://github.com/MakazhanAlpamys/Soup"
-"canonical_url": "https://aihot.virxact.com/items/cmsezylz31cadro2eoq1np3vh"
+"canonical_url": "https://aihot.news/items/cmsezylz31cadro2eoq1np3vh"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Soup 推出 v0.72.4，支持在配备 4 GB 显存的笔记本 GPU 上通过 QLoR
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://github.com/MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsezylz31cadro2eoq1np3vh](https://aihot.virxact.com/items/cmsezylz31cadro2eoq1np3vh)
+- **AIHOT 链接**: [https://aihot.news/items/cmsezylz31cadro2eoq1np3vh](https://aihot.news/items/cmsezylz31cadro2eoq1np3vh)

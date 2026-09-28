@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-21T17:52:47.570Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/tutorials/prompt-caching-sticky-routing"
-"canonical_url": "https://aihot.virxact.com/items/cmruybn7500lbbinvrohd9rio"
+"canonical_url": "https://aihot.news/items/cmruybn7500lbbinvrohd9rio"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter 通过 Prompt Caching 与 Sticky Routing 降低多轮 Agent 的 token
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/tutorials/prompt-caching-sticky-routing](https://openrouter.ai/blog/tutorials/prompt-caching-sticky-routing)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmruybn7500lbbinvrohd9rio](https://aihot.virxact.com/items/cmruybn7500lbbinvrohd9rio)
+- **AIHOT 链接**: [https://aihot.news/items/cmruybn7500lbbinvrohd9rio](https://aihot.news/items/cmruybn7500lbbinvrohd9rio)

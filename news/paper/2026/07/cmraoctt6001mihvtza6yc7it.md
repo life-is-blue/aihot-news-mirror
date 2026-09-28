@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-07T13:18:23.237Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2607.05196"
-"canonical_url": "https://aihot.virxact.com/items/cmraoctt6001mihvtza6yc7it"
+"canonical_url": "https://aihot.news/items/cmraoctt6001mihvtza6yc7it"
 "score": 80
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Nemotron-Labs-Audex-30B-A3B（Audex）是基于Nemotron-Cascade-2-30B-A3B的MoE�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2607.05196](https://arxiv.org/abs/2607.05196)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmraoctt6001mihvtza6yc7it](https://aihot.virxact.com/items/cmraoctt6001mihvtza6yc7it)
+- **AIHOT 链接**: [https://aihot.news/items/cmraoctt6001mihvtza6yc7it](https://aihot.news/items/cmraoctt6001mihvtza6yc7it)

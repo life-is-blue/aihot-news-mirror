@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-09T21:28:39.000Z"
 "source_name": "Nathan Lambert：Interconnects（RSS）"
 "original_url": "https://www.interconnects.ai/p/claude-mythos-and-misguided-open"
-"canonical_url": "https://aihot.virxact.com/items/cmnxjn51l004msl9obo5xmhld"
+"canonical_url": "https://aihot.news/items/cmnxjn51l004msl9obo5xmhld"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Nathan Lambert：Interconnects（RSS）
 - **原文链接**: [https://www.interconnects.ai/p/claude-mythos-and-misguided-open](https://www.interconnects.ai/p/claude-mythos-and-misguided-open)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnxjn51l004msl9obo5xmhld](https://aihot.virxact.com/items/cmnxjn51l004msl9obo5xmhld)
+- **AIHOT 链接**: [https://aihot.news/items/cmnxjn51l004msl9obo5xmhld](https://aihot.news/items/cmnxjn51l004msl9obo5xmhld)

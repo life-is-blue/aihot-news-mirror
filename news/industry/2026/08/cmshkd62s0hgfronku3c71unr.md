@@ -7,7 +7,7 @@
 "source_name": "The Verge：AI（RSS）"
 "original_url": "https://www.theverge.com/tech/976108/google-ai-leadership-shak\
   eup-jeff-dean-demis-hassabis-deepmind"
-"canonical_url": "https://aihot.virxact.com/items/cmshkd62s0hgfronku3c71unr"
+"canonical_url": "https://aihot.news/items/cmshkd62s0hgfronku3c71unr"
 "score": 75
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google 宣布迄今最大规模 AI 组织调整：Demis Hassabis 卸任 DeepMind
 
 - **来源**: The Verge：AI（RSS）
 - **原文链接**: [https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind](https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmshkd62s0hgfronku3c71unr](https://aihot.virxact.com/items/cmshkd62s0hgfronku3c71unr)
+- **AIHOT 链接**: [https://aihot.news/items/cmshkd62s0hgfronku3c71unr](https://aihot.news/items/cmshkd62s0hgfronku3c71unr)

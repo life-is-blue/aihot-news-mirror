@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-31T00:28:54.473Z"
 "source_name": "Simon Willison 博客"
 "original_url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work"
-"canonical_url": "https://aihot.virxact.com/items/cmtgi34hk01d3rokdi2z30urw"
+"canonical_url": "https://aihot.news/items/cmtgi34hk01d3rokdi2z30urw"
 "score": 82
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 于 7 月 9 日发布 ChatGPT Work，实际包含云端版（Work Cloud�
 
 - **来源**: Simon Willison 博客
 - **原文链接**: [https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtgi34hk01d3rokdi2z30urw](https://aihot.virxact.com/items/cmtgi34hk01d3rokdi2z30urw)
+- **AIHOT 链接**: [https://aihot.news/items/cmtgi34hk01d3rokdi2z30urw](https://aihot.news/items/cmtgi34hk01d3rokdi2z30urw)

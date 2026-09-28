@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-24T17:25:23.000Z"
 "source_name": "X：Jim Fan (@DrJimFan)"
 "original_url": "https://x.com/DrJimFan/status/2036494601750716711"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1ysux00zsslc3dm5pnbb6"
+"canonical_url": "https://aihot.news/items/cmnw1ysux00zsslc3dm5pnbb6"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ vibe agents带来远超传统身份盗窃的安全威胁，整个文件系统成
 
 - **来源**: X：Jim Fan (@DrJimFan)
 - **原文链接**: [https://x.com/DrJimFan/status/2036494601750716711](https://x.com/DrJimFan/status/2036494601750716711)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1ysux00zsslc3dm5pnbb6](https://aihot.virxact.com/items/cmnw1ysux00zsslc3dm5pnbb6)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1ysux00zsslc3dm5pnbb6](https://aihot.news/items/cmnw1ysux00zsslc3dm5pnbb6)

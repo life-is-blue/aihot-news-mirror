@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-11T15:43:47.226Z"
 "source_name": "X：Gemini (@GeminiApp)"
 "original_url": "https://x.com/GeminiApp/status/2065097165433983253"
-"canonical_url": "https://aihot.virxact.com/items/cmq9o3o7x0dorslldnjb2xx47"
+"canonical_url": "https://aihot.news/items/cmq9o3o7x0dorslldnjb2xx47"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Gemini 的 Notebooks 功能现已面向欧洲经济区、英国和瑞士用户�
 
 - **来源**: X：Gemini (@GeminiApp)
 - **原文链接**: [https://x.com/GeminiApp/status/2065097165433983253](https://x.com/GeminiApp/status/2065097165433983253)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq9o3o7x0dorslldnjb2xx47](https://aihot.virxact.com/items/cmq9o3o7x0dorslldnjb2xx47)
+- **AIHOT 链接**: [https://aihot.news/items/cmq9o3o7x0dorslldnjb2xx47](https://aihot.news/items/cmq9o3o7x0dorslldnjb2xx47)

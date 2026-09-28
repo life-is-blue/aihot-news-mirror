@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-18T19:26:08.389Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/ai-ci-cd-on-call"
-"canonical_url": "https://aihot.virxact.com/items/cmsz1zjiy013pro3f1e0aafra"
+"canonical_url": "https://aihot.news/items/cmsz1zjiy013pro3f1e0aafra"
 "score": 63
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 的 CI 工程师用 Claude Tag 构建了值班智能体，作为 CI/CD
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/ai-ci-cd-on-call](https://claude.com/blog/ai-ci-cd-on-call)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsz1zjiy013pro3f1e0aafra](https://aihot.virxact.com/items/cmsz1zjiy013pro3f1e0aafra)
+- **AIHOT 链接**: [https://aihot.news/items/cmsz1zjiy013pro3f1e0aafra](https://aihot.news/items/cmsz1zjiy013pro3f1e0aafra)

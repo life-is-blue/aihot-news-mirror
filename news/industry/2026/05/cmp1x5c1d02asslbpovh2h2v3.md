@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-12T00:55:09.744Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html"
-"canonical_url": "https://aihot.virxact.com/items/cmp1x5c1d02asslbpovh2h2v3"
+"canonical_url": "https://aihot.news/items/cmp1x5c1d02asslbpovh2h2v3"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp1x5c1d02asslbpovh2h2v3](https://aihot.virxact.com/items/cmp1x5c1d02asslbpovh2h2v3)
+- **AIHOT 链接**: [https://aihot.news/items/cmp1x5c1d02asslbpovh2h2v3](https://aihot.news/items/cmp1x5c1d02asslbpovh2h2v3)

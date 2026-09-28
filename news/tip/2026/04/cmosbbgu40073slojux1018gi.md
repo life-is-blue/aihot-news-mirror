@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-14T12:00:00.000Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/multi-agent-kernels"
-"canonical_url": "https://aihot.virxact.com/items/cmosbbgu40073slojux1018gi"
+"canonical_url": "https://aihot.news/items/cmosbbgu40073slojux1018gi"
 "score": 62
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/multi-agent-kernels](https://cursor.com/blog/multi-agent-kernels)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmosbbgu40073slojux1018gi](https://aihot.virxact.com/items/cmosbbgu40073slojux1018gi)
+- **AIHOT 链接**: [https://aihot.news/items/cmosbbgu40073slojux1018gi](https://aihot.news/items/cmosbbgu40073slojux1018gi)

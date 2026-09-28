@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-28T17:11:59.480Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/openai-on-aws"
-"canonical_url": "https://aihot.virxact.com/items/cmoivvm4u00cesl9zywm4to27"
+"canonical_url": "https://aihot.news/items/cmoivvm4u00cesl9zywm4to27"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI的GPT系列模型、代码生成模型Codex以及托管智能体现已正
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/openai-on-aws](https://openai.com/index/openai-on-aws)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoivvm4u00cesl9zywm4to27](https://aihot.virxact.com/items/cmoivvm4u00cesl9zywm4to27)
+- **AIHOT 链接**: [https://aihot.news/items/cmoivvm4u00cesl9zywm4to27](https://aihot.news/items/cmoivvm4u00cesl9zywm4to27)

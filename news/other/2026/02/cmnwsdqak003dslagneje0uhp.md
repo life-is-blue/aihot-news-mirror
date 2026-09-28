@@ -7,7 +7,7 @@
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-fo\
   r-your-most-complex-tasks"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsdqak003dslagneje0uhp"
+"canonical_url": "https://aihot.news/items/cmnwsdqak003dslagneje0uhp"
 "score": null
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Gemini 3.1 Pro 发布，专为无法通过简单回答解决的复杂任务设�
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks](https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsdqak003dslagneje0uhp](https://aihot.virxact.com/items/cmnwsdqak003dslagneje0uhp)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsdqak003dslagneje0uhp](https://aihot.news/items/cmnwsdqak003dslagneje0uhp)

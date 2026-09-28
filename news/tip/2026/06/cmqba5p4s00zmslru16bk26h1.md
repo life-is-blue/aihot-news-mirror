@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-12T18:48:59.785Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://envs.net/~volpe/blog/posts/reduce-slop.html"
-"canonical_url": "https://aihot.virxact.com/items/cmqba5p4s00zmslru16bk26h1"
+"canonical_url": "https://aihot.news/items/cmqba5p4s00zmslru16bk26h1"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://envs.net/~volpe/blog/posts/reduce-slop.html](https://envs.net/~volpe/blog/posts/reduce-slop.html)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqba5p4s00zmslru16bk26h1](https://aihot.virxact.com/items/cmqba5p4s00zmslru16bk26h1)
+- **AIHOT 链接**: [https://aihot.news/items/cmqba5p4s00zmslru16bk26h1](https://aihot.news/items/cmqba5p4s00zmslru16bk26h1)

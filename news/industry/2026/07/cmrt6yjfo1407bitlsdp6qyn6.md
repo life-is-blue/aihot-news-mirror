@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-i\
   ts-infrastructure-and-it-used-ai-to-fight-back"
-"canonical_url": "https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6"
+"canonical_url": "https://aihot.news/items/cmrt6yjfo1407bitlsdp6qyn6"
 "score": 75
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Hugging Face 披露其部分生产基础设施遭一个自主AI智能体系统�
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back](https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6](https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6)
+- **AIHOT 链接**: [https://aihot.news/items/cmrt6yjfo1407bitlsdp6qyn6](https://aihot.news/items/cmrt6yjfo1407bitlsdp6qyn6)

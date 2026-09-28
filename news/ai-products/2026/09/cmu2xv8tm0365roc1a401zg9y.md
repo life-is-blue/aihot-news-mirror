@@ -8,7 +8,7 @@
 "original_url": "https://claude.com/blog/claude-for-small-business-launches-new\
   -workflows-integrations-and-training-programs"
 "canonical_url": "https://aihot.news/items/cmu2xv8tm0365roc1a401zg9y"
-"score": 64
+"score": 65
 "content_kind": "news"
 ---
 

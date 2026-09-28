@@ -6,8 +6,8 @@
 "discovered_at": "2026-09-03T21:43:13.662Z"
 "source_name": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
 "original_url": "https://x.com/AravSrinivas/status/2095621195131695352"
-"canonical_url": "https://aihot.virxact.com/items/cmtm1xhpk0unkrow52qftlbda"
-"score": 69
+"canonical_url": "https://aihot.news/items/cmtm1xhpk0unkrow52qftlbda"
+"score": 70
 "content_kind": "news"
 ---
 
@@ -17,4 +17,4 @@ Perplexity CEO Aravind Srinivas 祝贺 OpenAI 发布 GPT-6 Astra，称其在宽�
 
 - **来源**: X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)
 - **原文链接**: [https://x.com/AravSrinivas/status/2095621195131695352](https://x.com/AravSrinivas/status/2095621195131695352)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtm1xhpk0unkrow52qftlbda](https://aihot.virxact.com/items/cmtm1xhpk0unkrow52qftlbda)
+- **AIHOT 链接**: [https://aihot.news/items/cmtm1xhpk0unkrow52qftlbda](https://aihot.news/items/cmtm1xhpk0unkrow52qftlbda)

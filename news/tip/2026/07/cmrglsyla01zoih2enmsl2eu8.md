@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-11T16:53:34.020Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.mixfont.com/ghost-font"
-"canonical_url": "https://aihot.virxact.com/items/cmrglsyla01zoih2enmsl2eu8"
+"canonical_url": "https://aihot.news/items/cmrglsyla01zoih2enmsl2eu8"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Ghost Font 是一种利用运动、视频、噪点和诱饵来隐藏文字的反
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.mixfont.com/ghost-font](https://www.mixfont.com/ghost-font)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrglsyla01zoih2enmsl2eu8](https://aihot.virxact.com/items/cmrglsyla01zoih2enmsl2eu8)
+- **AIHOT 链接**: [https://aihot.news/items/cmrglsyla01zoih2enmsl2eu8](https://aihot.news/items/cmrglsyla01zoih2enmsl2eu8)

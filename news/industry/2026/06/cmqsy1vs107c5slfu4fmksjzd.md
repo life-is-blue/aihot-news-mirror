@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.reuters.com/world/china/anthropic-says-alibaba-ill\
   icitly-extracted-claude-ai-model-capabilities-2026-06-24"
-"canonical_url": "https://aihot.virxact.com/items/cmqsy1vs107c5slfu4fmksjzd"
+"canonical_url": "https://aihot.news/items/cmqsy1vs107c5slfu4fmksjzd"
 "score": 75
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Anthropic指控阿里巴巴未经授权提取了其Claude AI模型的能力。�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqsy1vs107c5slfu4fmksjzd](https://aihot.virxact.com/items/cmqsy1vs107c5slfu4fmksjzd)
+- **AIHOT 链接**: [https://aihot.news/items/cmqsy1vs107c5slfu4fmksjzd](https://aihot.news/items/cmqsy1vs107c5slfu4fmksjzd)

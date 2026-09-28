@@ -7,7 +7,7 @@
 "source_name": "Anthropic：Research（发表成果 · 网页）"
 "original_url": "https://www.anthropic.com/research/project-swap"
 "canonical_url": "https://aihot.news/items/cmufzisoh06alrogv9r5eugcc"
-"score": 60
+"score": 61
 "content_kind": "news"
 ---
 

@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-14T19:07:46.320Z"
 "source_name": "Anthropic：Research（发表成果 · 网页）"
 "original_url": "https://www.anthropic.com/research/automated-alignment-researchers"
-"canonical_url": "https://aihot.virxact.com/items/cmnyzulbd01gcsl0fgdwxquf2"
+"canonical_url": "https://aihot.news/items/cmnyzulbd01gcsl0fgdwxquf2"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic部署9个Claude Opus 4.6作为自动化对齐研究者（AARs），在
 
 - **来源**: Anthropic：Research（发表成果 · 网页）
 - **原文链接**: [https://www.anthropic.com/research/automated-alignment-researchers](https://www.anthropic.com/research/automated-alignment-researchers)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnyzulbd01gcsl0fgdwxquf2](https://aihot.virxact.com/items/cmnyzulbd01gcsl0fgdwxquf2)
+- **AIHOT 链接**: [https://aihot.news/items/cmnyzulbd01gcsl0fgdwxquf2](https://aihot.news/items/cmnyzulbd01gcsl0fgdwxquf2)

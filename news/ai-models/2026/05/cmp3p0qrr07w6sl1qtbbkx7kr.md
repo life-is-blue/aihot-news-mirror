@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-13T06:43:06.172Z"
 "source_name": "X：商汤 SenseTime (@SenseTime_AI)"
 "original_url": "https://x.com/SenseTime_AI/status/2054446490420924558"
-"canonical_url": "https://aihot.virxact.com/items/cmp3p0qrr07w6sl1qtbbkx7kr"
+"canonical_url": "https://aihot.news/items/cmp3p0qrr07w6sl1qtbbkx7kr"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ SenseNova-U1 技术报告详尽披露了构建前沿原生多模态模型的方�
 
 - **来源**: X：商汤 SenseTime (@SenseTime_AI)
 - **原文链接**: [https://x.com/SenseTime_AI/status/2054446490420924558](https://x.com/SenseTime_AI/status/2054446490420924558)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp3p0qrr07w6sl1qtbbkx7kr](https://aihot.virxact.com/items/cmp3p0qrr07w6sl1qtbbkx7kr)
+- **AIHOT 链接**: [https://aihot.news/items/cmp3p0qrr07w6sl1qtbbkx7kr](https://aihot.news/items/cmp3p0qrr07w6sl1qtbbkx7kr)

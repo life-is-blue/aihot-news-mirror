@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-01T19:50:30.046Z"
 "source_name": "X：Demis Hassabis (@demishassabis)"
 "original_url": "https://x.com/demishassabis/status/2050298733280059604"
-"canonical_url": "https://aihot.virxact.com/items/cmonbv11e0ex4sll9tfhnpfp6"
+"canonical_url": "https://aihot.news/items/cmonbv11e0ex4sll9tfhnpfp6"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ DeepMind创始人Demis Hassabis在访谈中回顾了从国际象棋神童到获�
 
 - **来源**: X：Demis Hassabis (@demishassabis)
 - **原文链接**: [https://x.com/demishassabis/status/2050298733280059604](https://x.com/demishassabis/status/2050298733280059604)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmonbv11e0ex4sll9tfhnpfp6](https://aihot.virxact.com/items/cmonbv11e0ex4sll9tfhnpfp6)
+- **AIHOT 链接**: [https://aihot.news/items/cmonbv11e0ex4sll9tfhnpfp6](https://aihot.news/items/cmonbv11e0ex4sll9tfhnpfp6)

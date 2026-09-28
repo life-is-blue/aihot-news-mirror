@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-19T18:18:59.846Z"
 "source_name": "Google Blog：AI（RSS）"
 "original_url": "https://blog.google/products-and-platforms/products/search/search-io-2026"
-"canonical_url": "https://aihot.virxact.com/items/cmpcyioqw01c2sljlyy71uqlh"
+"canonical_url": "https://aihot.news/items/cmpcyioqw01c2sljlyy71uqlh"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Google Blog：AI（RSS）
 - **原文链接**: [https://blog.google/products-and-platforms/products/search/search-io-2026](https://blog.google/products-and-platforms/products/search/search-io-2026)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpcyioqw01c2sljlyy71uqlh](https://aihot.virxact.com/items/cmpcyioqw01c2sljlyy71uqlh)
+- **AIHOT 链接**: [https://aihot.news/items/cmpcyioqw01c2sljlyy71uqlh](https://aihot.news/items/cmpcyioqw01c2sljlyy71uqlh)

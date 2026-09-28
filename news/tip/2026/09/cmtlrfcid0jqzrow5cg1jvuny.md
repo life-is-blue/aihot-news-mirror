@@ -7,8 +7,8 @@
 "source_name": "Google AI：DEV 作者专属（RSS）"
 "original_url": "https://dev.to/googleai/build-a-long-running-agent-in-the-clou\
   d-for-570month-113c"
-"canonical_url": "https://aihot.virxact.com/items/cmtlrfcid0jqzrow5cg1jvuny"
-"score": 70
+"canonical_url": "https://aihot.news/items/cmtlrfcid0jqzrow5cg1jvuny"
+"score": 71
 "content_kind": "news"
 ---
 
@@ -18,4 +18,4 @@ Shir Meir Lador 在 Google AI 开发者博客介绍如何用 Cloud Run instances
 
 - **来源**: Google AI：DEV 作者专属（RSS）
 - **原文链接**: [https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c](https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtlrfcid0jqzrow5cg1jvuny](https://aihot.virxact.com/items/cmtlrfcid0jqzrow5cg1jvuny)
+- **AIHOT 链接**: [https://aihot.news/items/cmtlrfcid0jqzrow5cg1jvuny](https://aihot.news/items/cmtlrfcid0jqzrow5cg1jvuny)

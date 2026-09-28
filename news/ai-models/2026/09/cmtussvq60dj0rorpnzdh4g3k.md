@@ -7,7 +7,7 @@
 "source_name": "X：Suno (@suno)"
 "original_url": "https://x.com/suno/status/2097846245540888664"
 "canonical_url": "https://aihot.news/items/cmtussvq60dj0rorpnzdh4g3k"
-"score": 65
+"score": 66
 "content_kind": "news"
 ---
 

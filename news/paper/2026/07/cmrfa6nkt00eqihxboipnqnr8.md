@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-10T18:40:31.582Z"
 "source_name": "X：Noam Brown (@polynoamial)"
 "original_url": "https://x.com/polynoamial/status/2075646048425431469"
-"canonical_url": "https://aihot.virxact.com/items/cmrfa6nkt00eqihxboipnqnr8"
+"canonical_url": "https://aihot.news/items/cmrfa6nkt00eqihxboipnqnr8"
 "score": 86
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 的 GPT-5.6 Sol Ultra 模型成功证明了存在50年之久的 Cycle Dou
 
 - **来源**: X：Noam Brown (@polynoamial)
 - **原文链接**: [https://x.com/polynoamial/status/2075646048425431469](https://x.com/polynoamial/status/2075646048425431469)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrfa6nkt00eqihxboipnqnr8](https://aihot.virxact.com/items/cmrfa6nkt00eqihxboipnqnr8)
+- **AIHOT 链接**: [https://aihot.news/items/cmrfa6nkt00eqihxboipnqnr8](https://aihot.news/items/cmrfa6nkt00eqihxboipnqnr8)

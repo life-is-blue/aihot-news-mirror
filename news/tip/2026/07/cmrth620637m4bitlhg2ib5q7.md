@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-20T17:04:46.698Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/safety-alignment-long-horizon-models"
-"canonical_url": "https://aihot.virxact.com/items/cmrth620637m4bitlhg2ib5q7"
+"canonical_url": "https://aihot.news/items/cmrth620637m4bitlhg2ib5q7"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 在内部使用一款可自主运行数小时至数周的长时模型时�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/safety-alignment-long-horizon-models](https://openai.com/index/safety-alignment-long-horizon-models)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrth620637m4bitlhg2ib5q7](https://aihot.virxact.com/items/cmrth620637m4bitlhg2ib5q7)
+- **AIHOT 链接**: [https://aihot.news/items/cmrth620637m4bitlhg2ib5q7](https://aihot.news/items/cmrth620637m4bitlhg2ib5q7)

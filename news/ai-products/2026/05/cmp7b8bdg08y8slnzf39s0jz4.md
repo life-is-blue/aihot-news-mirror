@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-15T19:28:10.745Z"
 "source_name": "X：Runway (@runwayml)"
 "original_url": "https://x.com/runwayml/status/2055364605979869229"
-"canonical_url": "https://aihot.virxact.com/items/cmp7b8bdg08y8slnzf39s0jz4"
+"canonical_url": "https://aihot.news/items/cmp7b8bdg08y8slnzf39s0jz4"
 "score": 78
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Runway Agent 让你仅需一次会话，就能从产品照片和想法转变为�
 
 - **来源**: X：Runway (@runwayml)
 - **原文链接**: [https://x.com/runwayml/status/2055364605979869229](https://x.com/runwayml/status/2055364605979869229)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp7b8bdg08y8slnzf39s0jz4](https://aihot.virxact.com/items/cmp7b8bdg08y8slnzf39s0jz4)
+- **AIHOT 链接**: [https://aihot.news/items/cmp7b8bdg08y8slnzf39s0jz4](https://aihot.news/items/cmp7b8bdg08y8slnzf39s0jz4)

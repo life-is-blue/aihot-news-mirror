@@ -7,7 +7,7 @@
 "source_name": "通义 QwenAudio：原创语音项目"
 "original_url": "https://github.com/QwenAudio/SenseVoice"
 "canonical_url": "https://aihot.news/items/cmtyq8s6102v3roup5qwf5ciz"
-"score": 60
+"score": 61
 "content_kind": "news"
 ---
 

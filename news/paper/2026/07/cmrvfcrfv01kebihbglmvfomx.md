@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-17T00:00:00.000Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2607.14186"
-"canonical_url": "https://aihot.virxact.com/items/cmrvfcrfv01kebihbglmvfomx"
+"canonical_url": "https://aihot.news/items/cmrvfcrfv01kebihbglmvfomx"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ NexForge提出需求驱动框架，无需领域特定基础设施即可自动合
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2607.14186](https://arxiv.org/abs/2607.14186)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrvfcrfv01kebihbglmvfomx](https://aihot.virxact.com/items/cmrvfcrfv01kebihbglmvfomx)
+- **AIHOT 链接**: [https://aihot.news/items/cmrvfcrfv01kebihbglmvfomx](https://aihot.news/items/cmrvfcrfv01kebihbglmvfomx)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-01T05:33:09.699Z"
 "source_name": "X：Thariq (@trq212)"
 "original_url": "https://x.com/trq212/status/2072185565076988326"
-"canonical_url": "https://aihot.virxact.com/items/cmr1n3gpn009usl8zyt05vums"
+"canonical_url": "https://aihot.news/items/cmr1n3gpn009usl8zyt05vums"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 宣布 Claude Fable 5 将于明日全球重新上线。新部署版本
 
 - **来源**: X：Thariq (@trq212)
 - **原文链接**: [https://x.com/trq212/status/2072185565076988326](https://x.com/trq212/status/2072185565076988326)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr1n3gpn009usl8zyt05vums](https://aihot.virxact.com/items/cmr1n3gpn009usl8zyt05vums)
+- **AIHOT 链接**: [https://aihot.news/items/cmr1n3gpn009usl8zyt05vums](https://aihot.news/items/cmr1n3gpn009usl8zyt05vums)

@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperfo\
   rms-doctors-in-harvard-trial-of-emergency-triage-diagnoses"
-"canonical_url": "https://aihot.virxact.com/items/cmoq7sxkz12epsll9qj681f38"
+"canonical_url": "https://aihot.news/items/cmoq7sxkz12epsll9qj681f38"
 "score": 75
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenAI的o1系统在急诊分诊诊断测试中表现优于医生。该系统对
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses](https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoq7sxkz12epsll9qj681f38](https://aihot.virxact.com/items/cmoq7sxkz12epsll9qj681f38)
+- **AIHOT 链接**: [https://aihot.news/items/cmoq7sxkz12epsll9qj681f38](https://aihot.news/items/cmoq7sxkz12epsll9qj681f38)

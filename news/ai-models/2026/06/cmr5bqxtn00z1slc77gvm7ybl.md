@@ -7,7 +7,7 @@
 "source_name": "Google Research：Blog（网页）"
 "original_url": "https://research.google/blog/introducing-tabfm-a-zero-shot-fou\
   ndation-model-for-tabular-data"
-"canonical_url": "https://aihot.virxact.com/items/cmr5bqxtn00z1slc77gvm7ybl"
+"canonical_url": "https://aihot.news/items/cmr5bqxtn00z1slc77gvm7ybl"
 "score": 76
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google Research 发布 TabFM，一种基于上下文学习（ICL）的零样本�
 
 - **来源**: Google Research：Blog（网页）
 - **原文链接**: [https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data](https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr5bqxtn00z1slc77gvm7ybl](https://aihot.virxact.com/items/cmr5bqxtn00z1slc77gvm7ybl)
+- **AIHOT 链接**: [https://aihot.news/items/cmr5bqxtn00z1slc77gvm7ybl](https://aihot.news/items/cmr5bqxtn00z1slc77gvm7ybl)

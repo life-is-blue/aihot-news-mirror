@@ -7,7 +7,7 @@
 "source_name": "Google Developers Blog（RSS）"
 "original_url": "https://developers.googleblog.com/agents-cli-in-agent-platform\
   -create-to-production-in-one-cli"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhpz00hcslxxk28hm8yc"
+"canonical_url": "https://aihot.news/items/cmoegbhpz00hcslxxk28hm8yc"
 "score": 61
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google Cloud 推出 Agents CLI 工具，专为连接本地开发与生产级 AI 
 
 - **来源**: Google Developers Blog（RSS）
 - **原文链接**: [https://developers.googleblog.com/agents-cli-in-agent-platform-create-to-production-in-one-cli](https://developers.googleblog.com/agents-cli-in-agent-platform-create-to-production-in-one-cli)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhpz00hcslxxk28hm8yc](https://aihot.virxact.com/items/cmoegbhpz00hcslxxk28hm8yc)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhpz00hcslxxk28hm8yc](https://aihot.news/items/cmoegbhpz00hcslxxk28hm8yc)

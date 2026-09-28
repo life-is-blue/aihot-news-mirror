@@ -6,7 +6,7 @@
 "discovered_at": "2026-01-22T16:00:00.000Z"
 "source_name": "MiniMax：Blog（网页）"
 "original_url": "https://www.minimax.io/news/minimax-speech-28"
-"canonical_url": "https://aihot.virxact.com/items/cmo4bnpds01noslk7v6054gq8"
+"canonical_url": "https://aihot.news/items/cmo4bnpds01noslk7v6054gq8"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ MiniMax 发布新一代语音模型 MiniMax Speech 2.8，通过原生声音标�
 
 - **来源**: MiniMax：Blog（网页）
 - **原文链接**: [https://www.minimax.io/news/minimax-speech-28](https://www.minimax.io/news/minimax-speech-28)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmo4bnpds01noslk7v6054gq8](https://aihot.virxact.com/items/cmo4bnpds01noslk7v6054gq8)
+- **AIHOT 链接**: [https://aihot.news/items/cmo4bnpds01noslk7v6054gq8](https://aihot.news/items/cmo4bnpds01noslk7v6054gq8)

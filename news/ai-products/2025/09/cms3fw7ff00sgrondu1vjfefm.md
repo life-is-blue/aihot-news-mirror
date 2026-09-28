@@ -6,7 +6,7 @@
 "discovered_at": "2025-09-03T14:03:36.000Z"
 "source_name": "Linear：Now（RSS）"
 "original_url": "https://linear.app/now/how-we-built-triage-intelligence"
-"canonical_url": "https://aihot.virxact.com/items/cms3fw7ff00sgrondu1vjfefm"
+"canonical_url": "https://aihot.news/items/cms3fw7ff00sgrondu1vjfefm"
 "score": 61
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Linear 上月推出 Triage Intelligence，利用搜索、排序和 LLM 推理自
 
 - **来源**: Linear：Now（RSS）
 - **原文链接**: [https://linear.app/now/how-we-built-triage-intelligence](https://linear.app/now/how-we-built-triage-intelligence)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3fw7ff00sgrondu1vjfefm](https://aihot.virxact.com/items/cms3fw7ff00sgrondu1vjfefm)
+- **AIHOT 链接**: [https://aihot.news/items/cms3fw7ff00sgrondu1vjfefm](https://aihot.news/items/cms3fw7ff00sgrondu1vjfefm)

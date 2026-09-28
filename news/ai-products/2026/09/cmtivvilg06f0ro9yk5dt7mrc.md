@@ -6,8 +6,8 @@
 "discovered_at": "2026-09-01T16:30:21.946Z"
 "source_name": "Google Blog：AI（RSS）"
 "original_url": "https://blog.google/products-and-platforms/products/workspace/google-pics"
-"canonical_url": "https://aihot.virxact.com/items/cmtivvilg06f0ro9yk5dt7mrc"
-"score": 61
+"canonical_url": "https://aihot.news/items/cmtivvilg06f0ro9yk5dt7mrc"
+"score": 62
 "content_kind": "news"
 ---
 
@@ -17,4 +17,4 @@ Google 发布 Workspace 图像创作与编辑工具 Google Pics，将在未来�
 
 - **来源**: Google Blog：AI（RSS）
 - **原文链接**: [https://blog.google/products-and-platforms/products/workspace/google-pics](https://blog.google/products-and-platforms/products/workspace/google-pics)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtivvilg06f0ro9yk5dt7mrc](https://aihot.virxact.com/items/cmtivvilg06f0ro9yk5dt7mrc)
+- **AIHOT 链接**: [https://aihot.news/items/cmtivvilg06f0ro9yk5dt7mrc](https://aihot.news/items/cmtivvilg06f0ro9yk5dt7mrc)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-04T01:28:44.642Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-imagine-1-5"
-"canonical_url": "https://aihot.virxact.com/items/cmpythfxu0365sli38hn2bjc9"
+"canonical_url": "https://aihot.news/items/cmpythfxu0365sli38hn2bjc9"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI 通过 API 发布了图像转视频模型 `grok-imagine-video-1.5-preview`�
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-imagine-1-5](https://x.ai/news/grok-imagine-1-5)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpythfxu0365sli38hn2bjc9](https://aihot.virxact.com/items/cmpythfxu0365sli38hn2bjc9)
+- **AIHOT 链接**: [https://aihot.news/items/cmpythfxu0365sli38hn2bjc9](https://aihot.news/items/cmpythfxu0365sli38hn2bjc9)

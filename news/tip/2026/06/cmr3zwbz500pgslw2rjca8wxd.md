@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-23T16:00:00.000Z"
 "source_name": "Berkeley RDI：Blog（AI 安全与评测）"
 "original_url": "https://rdi.berkeley.edu/blog/polyfill"
-"canonical_url": "https://aihot.virxact.com/items/cmr3zwbz500pgslw2rjca8wxd"
+"canonical_url": "https://aihot.news/items/cmr3zwbz500pgslw2rjca8wxd"
 "score": 82
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ UC Berkeley研究人员发现，近2000个GitHub Pages站点（18000+页面，�
 
 - **来源**: Berkeley RDI：Blog（AI 安全与评测）
 - **原文链接**: [https://rdi.berkeley.edu/blog/polyfill](https://rdi.berkeley.edu/blog/polyfill)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr3zwbz500pgslw2rjca8wxd](https://aihot.virxact.com/items/cmr3zwbz500pgslw2rjca8wxd)
+- **AIHOT 链接**: [https://aihot.news/items/cmr3zwbz500pgslw2rjca8wxd](https://aihot.news/items/cmr3zwbz500pgslw2rjca8wxd)

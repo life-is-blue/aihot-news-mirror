@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-20T00:23:57.005Z"
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/0/991/886.htm"
-"canonical_url": "https://aihot.virxact.com/items/cmt0s2ems0dkxro2oylebzxob"
+"canonical_url": "https://aihot.news/items/cmt0s2ems0dkxro2oylebzxob"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公�
 
 - **来源**: IT之家（RSS）
 - **原文链接**: [https://www.ithome.com/0/991/886.htm](https://www.ithome.com/0/991/886.htm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt0s2ems0dkxro2oylebzxob](https://aihot.virxact.com/items/cmt0s2ems0dkxro2oylebzxob)
+- **AIHOT 链接**: [https://aihot.news/items/cmt0s2ems0dkxro2oylebzxob](https://aihot.news/items/cmt0s2ems0dkxro2oylebzxob)

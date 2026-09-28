@@ -7,7 +7,7 @@
 "source_name": "Google Blog：AI（RSS）"
 "original_url": "https://blog.google/products-and-platforms/products/search/ai-\
   mode-canvas-writing-coding"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsxt6m0082sltepaoxdg5e"
+"canonical_url": "https://aihot.news/items/cmnwsxt6m0082sltepaoxdg5e"
 "score": null
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google Search 的 AI Mode 已向美国所有用户开放 Canvas 功能，新增�
 
 - **来源**: Google Blog：AI（RSS）
 - **原文链接**: [https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding](https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsxt6m0082sltepaoxdg5e](https://aihot.virxact.com/items/cmnwsxt6m0082sltepaoxdg5e)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsxt6m0082sltepaoxdg5e](https://aihot.news/items/cmnwsxt6m0082sltepaoxdg5e)

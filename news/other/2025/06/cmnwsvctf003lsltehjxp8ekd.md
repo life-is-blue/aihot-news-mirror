@@ -6,7 +6,7 @@
 "discovered_at": "2025-06-23T16:12:17.000Z"
 "source_name": "Ethan Mollick：One Useful Thing（RSS）"
 "original_url": "https://www.oneusefulthing.org/p/using-ai-right-now-a-quick-guide"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsvctf003lsltehjxp8ekd"
+"canonical_url": "https://aihot.news/items/cmnwsvctf003lsltehjxp8ekd"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Ethan Mollick：One Useful Thing（RSS）
 - **原文链接**: [https://www.oneusefulthing.org/p/using-ai-right-now-a-quick-guide](https://www.oneusefulthing.org/p/using-ai-right-now-a-quick-guide)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsvctf003lsltehjxp8ekd](https://aihot.virxact.com/items/cmnwsvctf003lsltehjxp8ekd)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsvctf003lsltehjxp8ekd](https://aihot.news/items/cmnwsvctf003lsltehjxp8ekd)

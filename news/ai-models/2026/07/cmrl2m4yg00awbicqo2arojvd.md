@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-14T19:55:13.338Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://prismml.com/news/bonsai-27b"
-"canonical_url": "https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd"
+"canonical_url": "https://aihot.news/items/cmrl2m4yg00awbicqo2arojvd"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Bonsai 27B 基于 Qwen3.6 27B，提供三元（1.71 有效比特/权重，5.9 GB
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://prismml.com/news/bonsai-27b](https://prismml.com/news/bonsai-27b)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd](https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd)
+- **AIHOT 链接**: [https://aihot.news/items/cmrl2m4yg00awbicqo2arojvd](https://aihot.news/items/cmrl2m4yg00awbicqo2arojvd)

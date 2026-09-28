@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-12T04:44:27.159Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2605.10730"
-"canonical_url": "https://aihot.virxact.com/items/cmp25c774049lslbp3zceqjrz"
+"canonical_url": "https://aihot.news/items/cmp25c774049lslbp3zceqjrz"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Qwen-Image-2.0是一个统一高保真生成与精确编辑的全能图像生成
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2605.10730](https://arxiv.org/abs/2605.10730)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp25c774049lslbp3zceqjrz](https://aihot.virxact.com/items/cmp25c774049lslbp3zceqjrz)
+- **AIHOT 链接**: [https://aihot.news/items/cmp25c774049lslbp3zceqjrz](https://aihot.news/items/cmp25c774049lslbp3zceqjrz)

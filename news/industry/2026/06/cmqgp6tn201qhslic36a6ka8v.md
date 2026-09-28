@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-16T13:48:37.059Z"
 "source_name": "X：Michael Truell (@mntruell)"
 "original_url": "https://x.com/mntruell/status/2066874098001883538"
-"canonical_url": "https://aihot.virxact.com/items/cmqgp6tn201qhslic36a6ka8v"
+"canonical_url": "https://aihot.news/items/cmqgp6tn201qhslic36a6ka8v"
 "score": 81
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ SpaceX已行使期权，以全股交易收购Cursor，旨在打造全球最有�
 
 - **来源**: X：Michael Truell (@mntruell)
 - **原文链接**: [https://x.com/mntruell/status/2066874098001883538](https://x.com/mntruell/status/2066874098001883538)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqgp6tn201qhslic36a6ka8v](https://aihot.virxact.com/items/cmqgp6tn201qhslic36a6ka8v)
+- **AIHOT 链接**: [https://aihot.news/items/cmqgp6tn201qhslic36a6ka8v](https://aihot.news/items/cmqgp6tn201qhslic36a6ka8v)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-02T09:52:20.287Z"
 "source_name": "Anthropic：Transformer Circuits（可解释性研究）"
 "original_url": "https://transformer-circuits.pub/2026/may-update/index.html"
-"canonical_url": "https://aihot.virxact.com/items/cmpwgl5go02q3slsnw6pl0fs5"
+"canonical_url": "https://aihot.news/items/cmpwgl5go02q3slsnw6pl0fs5"
 "score": 63
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic可解释性团队介绍了其Circuits研究的新进展。为区分那
 
 - **来源**: Anthropic：Transformer Circuits（可解释性研究）
 - **原文链接**: [https://transformer-circuits.pub/2026/may-update/index.html](https://transformer-circuits.pub/2026/may-update/index.html)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpwgl5go02q3slsnw6pl0fs5](https://aihot.virxact.com/items/cmpwgl5go02q3slsnw6pl0fs5)
+- **AIHOT 链接**: [https://aihot.news/items/cmpwgl5go02q3slsnw6pl0fs5](https://aihot.news/items/cmpwgl5go02q3slsnw6pl0fs5)

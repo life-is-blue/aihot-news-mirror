@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-22T22:24:27.926Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/making-chatgpt-better-for-clinicians"
-"canonical_url": "https://aihot.virxact.com/items/cmoameebz02z7sl1ys3ocapgm"
+"canonical_url": "https://aihot.news/items/cmoameebz02z7sl1ys3ocapgm"
 "score": 64
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 宣布向美国经过验证的医生、执业护士和药剂师免费提�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/making-chatgpt-better-for-clinicians](https://openai.com/index/making-chatgpt-better-for-clinicians)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoameebz02z7sl1ys3ocapgm](https://aihot.virxact.com/items/cmoameebz02z7sl1ys3ocapgm)
+- **AIHOT 链接**: [https://aihot.news/items/cmoameebz02z7sl1ys3ocapgm](https://aihot.news/items/cmoameebz02z7sl1ys3ocapgm)

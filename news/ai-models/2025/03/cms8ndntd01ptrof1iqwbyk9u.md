@@ -6,7 +6,7 @@
 "discovered_at": "2025-03-23T16:00:00.000Z"
 "source_name": "DeepSeek：API 更新日志"
 "original_url": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2025-03-24"
-"canonical_url": "https://aihot.virxact.com/items/cms8ndntd01ptrof1iqwbyk9u"
+"canonical_url": "https://aihot.news/items/cms8ndntd01ptrof1iqwbyk9u"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ DeepSeek 将 deepseek-chat 模型升级为 DeepSeek-V3-0324，推理能力增强
 
 - **来源**: DeepSeek：API 更新日志
 - **原文链接**: [https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2025-03-24](https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2025-03-24)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms8ndntd01ptrof1iqwbyk9u](https://aihot.virxact.com/items/cms8ndntd01ptrof1iqwbyk9u)
+- **AIHOT 链接**: [https://aihot.news/items/cms8ndntd01ptrof1iqwbyk9u](https://aihot.news/items/cms8ndntd01ptrof1iqwbyk9u)

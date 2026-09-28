@@ -7,7 +7,7 @@
 "source_name": "The Verge：AI（RSS）"
 "original_url": "https://www.theverge.com/podcast/971855/ai-data-center-backlas\
   h-protests-florida-bipartisan"
-"canonical_url": "https://aihot.virxact.com/items/cmshmiaz00k2zronkzukabc5z"
+"canonical_url": "https://aihot.news/items/cmshmiaz00k2zronkzukabc5z"
 "score": 71
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ The Verge 政策记者 Gaby Del Valle 报道，美国两党民众正联合反对
 
 - **来源**: The Verge：AI（RSS）
 - **原文链接**: [https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan](https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmshmiaz00k2zronkzukabc5z](https://aihot.virxact.com/items/cmshmiaz00k2zronkzukabc5z)
+- **AIHOT 链接**: [https://aihot.news/items/cmshmiaz00k2zronkzukabc5z](https://aihot.news/items/cmshmiaz00k2zronkzukabc5z)

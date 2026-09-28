@@ -7,7 +7,7 @@
 "source_name": "公众号：DeepSeek（深度求索）"
 "original_url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247\
   485794&idx=1&sn=5332df30422e6637142321315b42ac26"
-"canonical_url": "https://aihot.virxact.com/items/cmta7g6l70515roj25ljc0cqj"
+"canonical_url": "https://aihot.news/items/cmta7g6l70515roj25ljc0cqj"
 "score": 73
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ DeepSeek 上线多模态视觉理解模型 V4-Flash-Vision-Exp，纯文本能力
 
 - **来源**: 公众号：DeepSeek（深度求索）
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485794&idx=1&sn=5332df30422e6637142321315b42ac26](https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485794&idx=1&sn=5332df30422e6637142321315b42ac26)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmta7g6l70515roj25ljc0cqj](https://aihot.virxact.com/items/cmta7g6l70515roj25ljc0cqj)
+- **AIHOT 链接**: [https://aihot.news/items/cmta7g6l70515roj25ljc0cqj](https://aihot.news/items/cmta7g6l70515roj25ljc0cqj)

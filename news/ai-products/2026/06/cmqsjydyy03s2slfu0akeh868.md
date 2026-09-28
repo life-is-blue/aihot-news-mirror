@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-24T20:55:19.799Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/notion"
-"canonical_url": "https://aihot.virxact.com/items/cmqsjydyy03s2slfu0akeh868"
+"canonical_url": "https://aihot.news/items/cmqsjydyy03s2slfu0akeh868"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Notion 通过 Cursor SDK 在数周内将编码智能体嵌入产品。用户可�
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/notion](https://cursor.com/blog/notion)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqsjydyy03s2slfu0akeh868](https://aihot.virxact.com/items/cmqsjydyy03s2slfu0akeh868)
+- **AIHOT 链接**: [https://aihot.news/items/cmqsjydyy03s2slfu0akeh868](https://aihot.news/items/cmqsjydyy03s2slfu0akeh868)

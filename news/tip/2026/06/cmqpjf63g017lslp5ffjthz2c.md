@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-22T18:16:59.980Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/codex-maxxing-long-running-work"
-"canonical_url": "https://aihot.virxact.com/items/cmqpjf63g017lslp5ffjthz2c"
+"canonical_url": "https://aihot.news/items/cmqpjf63g017lslp5ffjthz2c"
 "score": 58
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 发布白皮书，由 Jason Liu 介绍使用 Codex 作为持久工作空�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/codex-maxxing-long-running-work](https://openai.com/index/codex-maxxing-long-running-work)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqpjf63g017lslp5ffjthz2c](https://aihot.virxact.com/items/cmqpjf63g017lslp5ffjthz2c)
+- **AIHOT 链接**: [https://aihot.news/items/cmqpjf63g017lslp5ffjthz2c](https://aihot.news/items/cmqpjf63g017lslp5ffjthz2c)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-08T14:33:24.981Z"
 "source_name": "Mistral AI：News（网页）"
 "original_url": "https://mistral.ai/news/robostral-navigate"
-"canonical_url": "https://aihot.virxact.com/items/cmrc6hfeq002nih5mhc7h2btk"
+"canonical_url": "https://aihot.news/items/cmrc6hfeq002nih5mhc7h2btk"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Robostral Navigate 是 Mistral AI 首个具身导航模型（8B 参数），仅�
 
 - **来源**: Mistral AI：News（网页）
 - **原文链接**: [https://mistral.ai/news/robostral-navigate](https://mistral.ai/news/robostral-navigate)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrc6hfeq002nih5mhc7h2btk](https://aihot.virxact.com/items/cmrc6hfeq002nih5mhc7h2btk)
+- **AIHOT 链接**: [https://aihot.news/items/cmrc6hfeq002nih5mhc7h2btk](https://aihot.news/items/cmrc6hfeq002nih5mhc7h2btk)

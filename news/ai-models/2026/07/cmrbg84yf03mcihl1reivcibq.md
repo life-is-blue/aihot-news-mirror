@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-08T02:18:33.680Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2607.05722"
-"canonical_url": "https://aihot.virxact.com/items/cmrbg84yf03mcihl1reivcibq"
+"canonical_url": "https://aihot.news/items/cmrbg84yf03mcihl1reivcibq"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Nemotron-Labs-Diffusion 是一种三模式语言模型，通过联合自回归�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2607.05722](https://arxiv.org/abs/2607.05722)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrbg84yf03mcihl1reivcibq](https://aihot.virxact.com/items/cmrbg84yf03mcihl1reivcibq)
+- **AIHOT 链接**: [https://aihot.news/items/cmrbg84yf03mcihl1reivcibq](https://aihot.news/items/cmrbg84yf03mcihl1reivcibq)

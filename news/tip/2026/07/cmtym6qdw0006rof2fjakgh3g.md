@@ -7,7 +7,7 @@
 "source_name": "Johann Rehberger / Embrace The Red（RSS）"
 "original_url": "https://embracethered.com/blog/posts/2026/ai-intrusion-are-now-real"
 "canonical_url": "https://aihot.news/items/cmtym6qdw0006rof2fjakgh3g"
-"score": 81
+"score": 82
 "content_kind": "news"
 ---
 

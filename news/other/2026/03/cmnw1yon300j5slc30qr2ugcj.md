@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-13T22:04:45.000Z"
 "source_name": "X：Boris Cherny (@bcherny)"
 "original_url": "https://x.com/bcherny/status/2032578639276159438"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yon300j5slc30qr2ugcj"
+"canonical_url": "https://aihot.news/items/cmnw1yon300j5slc30qr2ugcj"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Code 推出远程控制功能，运行 `claude remote-control` 后可直�
 
 - **来源**: X：Boris Cherny (@bcherny)
 - **原文链接**: [https://x.com/bcherny/status/2032578639276159438](https://x.com/bcherny/status/2032578639276159438)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yon300j5slc30qr2ugcj](https://aihot.virxact.com/items/cmnw1yon300j5slc30qr2ugcj)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yon300j5slc30qr2ugcj](https://aihot.news/items/cmnw1yon300j5slc30qr2ugcj)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-29T07:56:11.967Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://arxiv.org/abs/2608.23691"
-"canonical_url": "https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn"
+"canonical_url": "https://aihot.news/items/cmte36nzj02isrog2hwxpthhn"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://arxiv.org/abs/2608.23691](https://arxiv.org/abs/2608.23691)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn](https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn)
+- **AIHOT 链接**: [https://aihot.news/items/cmte36nzj02isrog2hwxpthhn](https://aihot.news/items/cmte36nzj02isrog2hwxpthhn)

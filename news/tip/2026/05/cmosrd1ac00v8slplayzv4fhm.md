@@ -7,7 +7,7 @@
 "source_name": "Runway：News（网页）"
 "original_url": "https://runwayml.com/news/60x-faster-cold-starts-treating-peer\
   -gpus-as-weight-servers"
-"canonical_url": "https://aihot.virxact.com/items/cmosrd1ac00v8slplayzv4fhm"
+"canonical_url": "https://aihot.news/items/cmosrd1ac00v8slplayzv4fhm"
 "score": 55
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Runway平台团队开发的NCCLBack系统，通过P2P权重传输将模型冷启
 
 - **来源**: Runway：News（网页）
 - **原文链接**: [https://runwayml.com/news/60x-faster-cold-starts-treating-peer-gpus-as-weight-servers](https://runwayml.com/news/60x-faster-cold-starts-treating-peer-gpus-as-weight-servers)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmosrd1ac00v8slplayzv4fhm](https://aihot.virxact.com/items/cmosrd1ac00v8slplayzv4fhm)
+- **AIHOT 链接**: [https://aihot.news/items/cmosrd1ac00v8slplayzv4fhm](https://aihot.news/items/cmosrd1ac00v8slplayzv4fhm)

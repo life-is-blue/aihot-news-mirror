@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-08T16:00:00.000Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/the-advisor-strategy"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xu3t00dwslc3yjb10tj9"
+"canonical_url": "https://aihot.news/items/cmnw1xu3t00dwslc3yjb10tj9"
 "score": 79
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 在 Claude Platform 推出 advisor tool 测试版，实现"顾问策�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/the-advisor-strategy](https://claude.com/blog/the-advisor-strategy)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xu3t00dwslc3yjb10tj9](https://aihot.virxact.com/items/cmnw1xu3t00dwslc3yjb10tj9)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xu3t00dwslc3yjb10tj9](https://aihot.news/items/cmnw1xu3t00dwslc3yjb10tj9)

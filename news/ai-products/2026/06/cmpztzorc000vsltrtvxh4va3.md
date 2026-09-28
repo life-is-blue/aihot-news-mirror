@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-04T18:30:57.026Z"
 "source_name": "X：OpenAI Developers (@OpenAIDevs)"
 "original_url": "https://x.com/OpenAIDevs/status/2062599291479478275"
-"canonical_url": "https://aihot.virxact.com/items/cmpztzorc000vsltrtvxh4va3"
+"canonical_url": "https://aihot.news/items/cmpztzorc000vsltrtvxh4va3"
 "score": 68
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Build iOS Apps 插件让 Codex 可在应用内浏览器查看和测试你的 iOS
 
 - **来源**: X：OpenAI Developers (@OpenAIDevs)
 - **原文链接**: [https://x.com/OpenAIDevs/status/2062599291479478275](https://x.com/OpenAIDevs/status/2062599291479478275)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpztzorc000vsltrtvxh4va3](https://aihot.virxact.com/items/cmpztzorc000vsltrtvxh4va3)
+- **AIHOT 链接**: [https://aihot.news/items/cmpztzorc000vsltrtvxh4va3](https://aihot.news/items/cmpztzorc000vsltrtvxh4va3)

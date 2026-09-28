@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-13T10:35:52.156Z"
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/0/976/149.htm"
-"canonical_url": "https://aihot.virxact.com/items/cmrj36yri059qbilk1n6jhqn1"
+"canonical_url": "https://aihot.news/items/cmrj36yri059qbilk1n6jhqn1"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Meta 将其路易斯安那州数据中心算力扩至 5GW，总投资超 500 亿
 
 - **来源**: IT之家（RSS）
 - **原文链接**: [https://www.ithome.com/0/976/149.htm](https://www.ithome.com/0/976/149.htm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrj36yri059qbilk1n6jhqn1](https://aihot.virxact.com/items/cmrj36yri059qbilk1n6jhqn1)
+- **AIHOT 链接**: [https://aihot.news/items/cmrj36yri059qbilk1n6jhqn1](https://aihot.news/items/cmrj36yri059qbilk1n6jhqn1)

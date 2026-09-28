@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.politico.com/news/2026/06/01/openai-hit-with-flori\
   da-lawsuit-00944215"
-"canonical_url": "https://aihot.virxact.com/items/cmpvq6vwd00ovsluksnylwic6"
+"canonical_url": "https://aihot.news/items/cmpvq6vwd00ovsluksnylwic6"
 "score": 73
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215](https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpvq6vwd00ovsluksnylwic6](https://aihot.virxact.com/items/cmpvq6vwd00ovsluksnylwic6)
+- **AIHOT 链接**: [https://aihot.news/items/cmpvq6vwd00ovsluksnylwic6](https://aihot.news/items/cmpvq6vwd00ovsluksnylwic6)

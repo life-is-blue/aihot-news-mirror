@@ -8,7 +8,7 @@
 "original_url": "https://www.llamaindex.ai/blog/engineering-insights-failure-mo\
   des-that-break-vlm-powered-ocr-in-production"
 "canonical_url": "https://aihot.news/items/cmtyo0cib0352rog0uoekcvzx"
-"score": 67
+"score": 68
 "content_kind": "news"
 ---
 

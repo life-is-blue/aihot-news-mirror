@@ -6,7 +6,7 @@
 "discovered_at": "2026-02-06T12:00:00.000Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/nvidia"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yzo701tvslc3nxo1zqnl"
+"canonical_url": "https://aihot.news/items/cmnw1yzo701tvslc3nxo1zqnl"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ NVIDIA 已向 3 万名开发者部署 Cursor，代码提交量提升 3 倍，缺
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/nvidia](https://cursor.com/blog/nvidia)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yzo701tvslc3nxo1zqnl](https://aihot.virxact.com/items/cmnw1yzo701tvslc3nxo1zqnl)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yzo701tvslc3nxo1zqnl](https://aihot.news/items/cmnw1yzo701tvslc3nxo1zqnl)

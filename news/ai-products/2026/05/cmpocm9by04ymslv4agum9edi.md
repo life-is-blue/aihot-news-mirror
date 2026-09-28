@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-27T17:39:01.813Z"
 "source_name": "Google Developers Blog（RSS）"
 "original_url": "https://developers.googleblog.com/the-latest-updates-to-google-pay"
-"canonical_url": "https://aihot.virxact.com/items/cmpocm9by04ymslv4agum9edi"
+"canonical_url": "https://aihot.news/items/cmpocm9by04ymslv4agum9edi"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google Pay 正向"智能体商务"演进，推出了通用商务协议和新的 
 
 - **来源**: Google Developers Blog（RSS）
 - **原文链接**: [https://developers.googleblog.com/the-latest-updates-to-google-pay](https://developers.googleblog.com/the-latest-updates-to-google-pay)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpocm9by04ymslv4agum9edi](https://aihot.virxact.com/items/cmpocm9by04ymslv4agum9edi)
+- **AIHOT 链接**: [https://aihot.news/items/cmpocm9by04ymslv4agum9edi](https://aihot.news/items/cmpocm9by04ymslv4agum9edi)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-11T12:37:11.000Z"
 "source_name": "蚂蚁 inclusionAI：GitHub 新仓库"
 "original_url": "https://github.com/inclusionAI/AKernel"
-"canonical_url": "https://aihot.virxact.com/items/cmrvzuk2m02rubipzgpptjg5b"
+"canonical_url": "https://aihot.news/items/cmrvzuk2m02rubipzgpptjg5b"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: 蚂蚁 inclusionAI：GitHub 新仓库
 - **原文链接**: [https://github.com/inclusionAI/AKernel](https://github.com/inclusionAI/AKernel)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrvzuk2m02rubipzgpptjg5b](https://aihot.virxact.com/items/cmrvzuk2m02rubipzgpptjg5b)
+- **AIHOT 链接**: [https://aihot.news/items/cmrvzuk2m02rubipzgpptjg5b](https://aihot.news/items/cmrvzuk2m02rubipzgpptjg5b)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-31T09:59:02.996Z"
 "source_name": "MiniMax：Blog（网页）"
 "original_url": "https://www.minimax.io/blog/minimax-h3"
-"canonical_url": "https://aihot.virxact.com/items/cms8rt1ml06j0roghw1n7a4bq"
+"canonical_url": "https://aihot.news/items/cms8rt1ml06j0roghw1n7a4bq"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ MiniMax 正式推出全能多模态生成模型 H3，可联合理解文本、图
 
 - **来源**: MiniMax：Blog（网页）
 - **原文链接**: [https://www.minimax.io/blog/minimax-h3](https://www.minimax.io/blog/minimax-h3)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms8rt1ml06j0roghw1n7a4bq](https://aihot.virxact.com/items/cms8rt1ml06j0roghw1n7a4bq)
+- **AIHOT 链接**: [https://aihot.news/items/cms8rt1ml06j0roghw1n7a4bq](https://aihot.news/items/cms8rt1ml06j0roghw1n7a4bq)

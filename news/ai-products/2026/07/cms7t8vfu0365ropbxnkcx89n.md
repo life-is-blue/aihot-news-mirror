@@ -7,7 +7,7 @@
 "source_name": "GitHub Blog"
 "original_url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-\
   and-pull-requests-in-the-github-copilot-app"
-"canonical_url": "https://aihot.virxact.com/items/cms7t8vfu0365ropbxnkcx89n"
+"canonical_url": "https://aihot.news/items/cms7t8vfu0365ropbxnkcx89n"
 "score": 65
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ GitHub Copilot 应用推出堆叠会话功能，允许用户在同一个仓库�
 
 - **来源**: GitHub Blog
 - **原文链接**: [https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app](https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms7t8vfu0365ropbxnkcx89n](https://aihot.virxact.com/items/cms7t8vfu0365ropbxnkcx89n)
+- **AIHOT 链接**: [https://aihot.news/items/cms7t8vfu0365ropbxnkcx89n](https://aihot.news/items/cms7t8vfu0365ropbxnkcx89n)

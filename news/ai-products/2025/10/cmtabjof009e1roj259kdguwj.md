@@ -6,7 +6,7 @@
 "discovered_at": "2025-10-20T14:34:32.000Z"
 "source_name": "LangChain：Blog（RSS）"
 "original_url": "https://www.langchain.com/blog/three-years-langchain"
-"canonical_url": "https://aihot.virxact.com/items/cmtabjof009e1roj259kdguwj"
+"canonical_url": "https://aihot.news/items/cmtabjof009e1roj259kdguwj"
 "score": 64
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ LangChain 创始人 Harrison Chase 回顾项目三年历程，公司估值达 12
 
 - **来源**: LangChain：Blog（RSS）
 - **原文链接**: [https://www.langchain.com/blog/three-years-langchain](https://www.langchain.com/blog/three-years-langchain)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtabjof009e1roj259kdguwj](https://aihot.virxact.com/items/cmtabjof009e1roj259kdguwj)
+- **AIHOT 链接**: [https://aihot.news/items/cmtabjof009e1roj259kdguwj](https://aihot.news/items/cmtabjof009e1roj259kdguwj)

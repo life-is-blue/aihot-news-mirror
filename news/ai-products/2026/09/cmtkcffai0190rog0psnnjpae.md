@@ -7,7 +7,7 @@
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/claude-for-commerce-agents"
 "canonical_url": "https://aihot.news/items/cmtkcffai0190rog0psnnjpae"
-"score": 63
+"score": 64
 "content_kind": "news"
 ---
 

@@ -7,7 +7,7 @@
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/how-anthropic-secures-its-ai-native-so\
   ftware-development-lifecycle"
-"canonical_url": "https://aihot.virxact.com/items/cmruye3wf00qubinv8iptndu9"
+"canonical_url": "https://aihot.news/items/cmruye3wf00qubinv8iptndu9"
 "score": 67
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Anthropic副首席信息安全官Jason Clinton披露，其软件工程师每季�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle](https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmruye3wf00qubinv8iptndu9](https://aihot.virxact.com/items/cmruye3wf00qubinv8iptndu9)
+- **AIHOT 链接**: [https://aihot.news/items/cmruye3wf00qubinv8iptndu9](https://aihot.news/items/cmruye3wf00qubinv8iptndu9)

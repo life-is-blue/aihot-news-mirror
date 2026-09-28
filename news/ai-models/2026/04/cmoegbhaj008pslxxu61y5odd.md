@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-09T00:00:00.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/waypoint-1-5"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhaj008pslxxu61y5odd"
+"canonical_url": "https://aihot.news/items/cmoegbhaj008pslxxu61y5odd"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Wayve发布Waypoint-1.5模型，用于生成高保真可交互虚拟世界。该
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/waypoint-1-5](https://huggingface.co/blog/waypoint-1-5)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhaj008pslxxu61y5odd](https://aihot.virxact.com/items/cmoegbhaj008pslxxu61y5odd)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhaj008pslxxu61y5odd](https://aihot.news/items/cmoegbhaj008pslxxu61y5odd)

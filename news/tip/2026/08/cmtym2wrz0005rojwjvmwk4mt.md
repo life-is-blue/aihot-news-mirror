@@ -7,7 +7,7 @@
 "source_name": "Tessl：产品与工程博客"
 "original_url": "https://tessl.io/blog/the-rise-of-the-harness-engineer"
 "canonical_url": "https://aihot.news/items/cmtym2wrz0005rojwjvmwk4mt"
-"score": 65
+"score": 66
 "content_kind": "news"
 ---
 

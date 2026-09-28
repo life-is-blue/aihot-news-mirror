@@ -8,7 +8,7 @@
 "discovered_at": "2026-03-26T18:53:04.000Z"
 "source_name": "X：Demis Hassabis (@demishassabis)"
 "original_url": "https://x.com/demishassabis/status/2037241441152590056"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yqoh00tsslc3l1f3wrxw"
+"canonical_url": "https://aihot.news/items/cmnw1yqoh00tsslc3l1f3wrxw"
 "score": null
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Google 发布 Gemini 3.1 Flash Live，称其迄今最高质量音频模型，具
 
 - **来源**: X：Demis Hassabis (@demishassabis)
 - **原文链接**: [https://x.com/demishassabis/status/2037241441152590056](https://x.com/demishassabis/status/2037241441152590056)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yqoh00tsslc3l1f3wrxw](https://aihot.virxact.com/items/cmnw1yqoh00tsslc3l1f3wrxw)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yqoh00tsslc3l1f3wrxw](https://aihot.news/items/cmnw1yqoh00tsslc3l1f3wrxw)

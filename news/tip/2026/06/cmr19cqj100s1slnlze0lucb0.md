@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-30T23:08:28.206Z"
 "source_name": "Ethan Mollick：One Useful Thing（RSS）"
 "original_url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
-"canonical_url": "https://aihot.virxact.com/items/cmr19cqj100s1slnlze0lucb0"
+"canonical_url": "https://aihot.news/items/cmr19cqj100s1slnlze0lucb0"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Ethan Mollick：One Useful Thing（RSS）
 - **原文链接**: [https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots](https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr19cqj100s1slnlze0lucb0](https://aihot.virxact.com/items/cmr19cqj100s1slnlze0lucb0)
+- **AIHOT 链接**: [https://aihot.news/items/cmr19cqj100s1slnlze0lucb0](https://aihot.news/items/cmr19cqj100s1slnlze0lucb0)

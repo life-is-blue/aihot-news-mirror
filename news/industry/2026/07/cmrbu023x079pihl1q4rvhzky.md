@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-a\
   gent-into-leaking-private-repos"
-"canonical_url": "https://aihot.virxact.com/items/cmrbu023x079pihl1q4rvhzky"
+"canonical_url": "https://aihot.news/items/cmrbu023x079pihl1q4rvhzky"
 "score": 81
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Noma Labs 在 GitHub Agentic Workflows 中发现严重提示词注入漏洞 GitL
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrbu023x079pihl1q4rvhzky](https://aihot.virxact.com/items/cmrbu023x079pihl1q4rvhzky)
+- **AIHOT 链接**: [https://aihot.news/items/cmrbu023x079pihl1q4rvhzky](https://aihot.news/items/cmrbu023x079pihl1q4rvhzky)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-03T13:30:07.000Z"
 "source_name": "公众号：月之暗面（Kimi）"
 "original_url": "https://mp.weixin.qq.com/s/cpy4PddGBQZl5w8eEKX2uw"
-"canonical_url": "https://aihot.virxact.com/items/cmq2otyj001qysl6n9ws92l6k"
+"canonical_url": "https://aihot.news/items/cmq2otyj001qysl6n9ws92l6k"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Kimi Work Beta版随Kimi最新Mac和Windows客户端推出，是基于Kimi Code�
 
 - **来源**: 公众号：月之暗面（Kimi）
 - **原文链接**: [https://mp.weixin.qq.com/s/cpy4PddGBQZl5w8eEKX2uw](https://mp.weixin.qq.com/s/cpy4PddGBQZl5w8eEKX2uw)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq2otyj001qysl6n9ws92l6k](https://aihot.virxact.com/items/cmq2otyj001qysl6n9ws92l6k)
+- **AIHOT 链接**: [https://aihot.news/items/cmq2otyj001qysl6n9ws92l6k](https://aihot.news/items/cmq2otyj001qysl6n9ws92l6k)

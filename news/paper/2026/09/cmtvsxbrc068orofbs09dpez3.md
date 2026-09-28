@@ -8,7 +8,7 @@
 "original_url": "https://www.anthropic.com/research/intelligence-targeting-conv\
   entional-weapons-capabilities"
 "canonical_url": "https://aihot.news/items/cmtvsxbrc068orofbs09dpez3"
-"score": 72
+"score": 73
 "content_kind": "news"
 ---
 

@@ -7,7 +7,7 @@
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reason\
   s-and-learns-with-you-in-virtual-3d-worlds"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsdqal0044slaggb4d01np"
+"canonical_url": "https://aihot.news/items/cmnwsdqal0044slaggb4d01np"
 "score": null
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google 推出 SIMA 2，基于 Gemini 的 AI 智能体，支持在交互式环境
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsdqal0044slaggb4d01np](https://aihot.virxact.com/items/cmnwsdqal0044slaggb4d01np)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsdqal0044slaggb4d01np](https://aihot.news/items/cmnwsdqal0044slaggb4d01np)

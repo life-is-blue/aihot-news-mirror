@@ -7,7 +7,7 @@
 "source_name": "TechCrunch：AI（RSS）"
 "original_url": "https://techcrunch.com/2026/07/14/new-york-state-halts-constru\
   ction-of-all-new-data-centers"
-"canonical_url": "https://aihot.virxact.com/items/cmrktb1e1012vbi5qxknvxyxp"
+"canonical_url": "https://aihot.news/items/cmrktb1e1012vbi5qxknvxyxp"
 "score": 71
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers](https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrktb1e1012vbi5qxknvxyxp](https://aihot.virxact.com/items/cmrktb1e1012vbi5qxknvxyxp)
+- **AIHOT 链接**: [https://aihot.news/items/cmrktb1e1012vbi5qxknvxyxp](https://aihot.news/items/cmrktb1e1012vbi5qxknvxyxp)

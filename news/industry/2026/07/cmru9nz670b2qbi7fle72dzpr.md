@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://asia.nikkei.com/business/technology/five-us-tech-giant\
   s-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding"
-"canonical_url": "https://aihot.virxact.com/items/cmru9nz670b2qbi7fle72dzpr"
+"canonical_url": "https://aihot.news/items/cmru9nz670b2qbi7fle72dzpr"
 "score": 81
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding](https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmru9nz670b2qbi7fle72dzpr](https://aihot.virxact.com/items/cmru9nz670b2qbi7fle72dzpr)
+- **AIHOT 链接**: [https://aihot.news/items/cmru9nz670b2qbi7fle72dzpr](https://aihot.news/items/cmru9nz670b2qbi7fle72dzpr)

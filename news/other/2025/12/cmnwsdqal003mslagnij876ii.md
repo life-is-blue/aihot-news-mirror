@@ -7,7 +7,7 @@
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/gemini-3-flash-frontier-intellige\
   nce-built-for-speed"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsdqal003mslagnij876ii"
+"canonical_url": "https://aihot.news/items/cmnwsdqal003mslagnij876ii"
 "score": null
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Gemini 3 Flash 正式发布，在大幅降低使用成本的同时提供前沿�
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed](https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsdqal003mslagnij876ii](https://aihot.virxact.com/items/cmnwsdqal003mslagnij876ii)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsdqal003mslagnij876ii](https://aihot.news/items/cmnwsdqal003mslagnij876ii)

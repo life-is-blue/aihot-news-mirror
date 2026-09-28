@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-24T14:54:28.980Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://www.tomtunguz.com/the-ai-cost-stack"
-"canonical_url": "https://aihot.virxact.com/items/cmt7cxb9t22baro73x9ys4bnr"
+"canonical_url": "https://aihot.news/items/cmt7cxb9t22baro73x9ys4bnr"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ AI 基础设施瓶颈正沿供应链依次传导，形成典型的牛鞭效应�
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://www.tomtunguz.com/the-ai-cost-stack](https://www.tomtunguz.com/the-ai-cost-stack)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt7cxb9t22baro73x9ys4bnr](https://aihot.virxact.com/items/cmt7cxb9t22baro73x9ys4bnr)
+- **AIHOT 链接**: [https://aihot.news/items/cmt7cxb9t22baro73x9ys4bnr](https://aihot.news/items/cmt7cxb9t22baro73x9ys4bnr)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-01T05:24:22.746Z"
 "source_name": "Runway：News（网页）"
 "original_url": "https://runwayml.com/news/introducing-cosmos-coalition"
-"canonical_url": "https://aihot.virxact.com/items/cmpurl8qd009dsl0zyghfa9kw"
+"canonical_url": "https://aihot.news/items/cmpurl8qd009dsl0zyghfa9kw"
 "score": 55
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Runway宣布作为创始成员加入Cosmos Coalition，该联盟与NVIDIA及多�
 
 - **来源**: Runway：News（网页）
 - **原文链接**: [https://runwayml.com/news/introducing-cosmos-coalition](https://runwayml.com/news/introducing-cosmos-coalition)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpurl8qd009dsl0zyghfa9kw](https://aihot.virxact.com/items/cmpurl8qd009dsl0zyghfa9kw)
+- **AIHOT 链接**: [https://aihot.news/items/cmpurl8qd009dsl0zyghfa9kw](https://aihot.news/items/cmpurl8qd009dsl0zyghfa9kw)

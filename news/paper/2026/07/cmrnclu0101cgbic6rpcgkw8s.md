@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-16T10:10:27.770Z"
 "source_name": "公众号：小红书技术（dots.llm）"
 "original_url": "https://mp.weixin.qq.com/s/RWveWvw9yBH6YQINBQ-XjA"
-"canonical_url": "https://aihot.virxact.com/items/cmrnclu0101cgbic6rpcgkw8s"
+"canonical_url": "https://aihot.news/items/cmrnclu0101cgbic6rpcgkw8s"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ HYPIC 在混合注意力大模型上实现了位置无关缓存，将首 token �
 
 - **来源**: 公众号：小红书技术（dots.llm）
 - **原文链接**: [https://mp.weixin.qq.com/s/RWveWvw9yBH6YQINBQ-XjA](https://mp.weixin.qq.com/s/RWveWvw9yBH6YQINBQ-XjA)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrnclu0101cgbic6rpcgkw8s](https://aihot.virxact.com/items/cmrnclu0101cgbic6rpcgkw8s)
+- **AIHOT 链接**: [https://aihot.news/items/cmrnclu0101cgbic6rpcgkw8s](https://aihot.news/items/cmrnclu0101cgbic6rpcgkw8s)

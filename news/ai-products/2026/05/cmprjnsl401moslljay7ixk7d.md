@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-29T23:19:37.019Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/announcements/guardrails"
-"canonical_url": "https://aihot.virxact.com/items/cmprjnsl401moslljay7ixk7d"
+"canonical_url": "https://aihot.news/items/cmprjnsl401moslljay7ixk7d"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Guardrails 是一套可配置的安全与治理工具，提供预算执行、零
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/announcements/guardrails](https://openrouter.ai/announcements/guardrails)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmprjnsl401moslljay7ixk7d](https://aihot.virxact.com/items/cmprjnsl401moslljay7ixk7d)
+- **AIHOT 链接**: [https://aihot.news/items/cmprjnsl401moslljay7ixk7d](https://aihot.news/items/cmprjnsl401moslljay7ixk7d)

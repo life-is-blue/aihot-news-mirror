@@ -7,7 +7,7 @@
 "source_name": "Modal 官方工程博客（RSS）"
 "original_url": "https://modal.com/blog/introducing-auto-endpoints"
 "canonical_url": "https://aihot.news/items/cmtym269e000frofagx5j4kpw"
-"score": 66
+"score": 67
 "content_kind": "news"
 ---
 

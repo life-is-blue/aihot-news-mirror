@@ -8,7 +8,7 @@
 "original_url": "https://blog.trailofbits.com/2026/03/31/how-we-made-trail-of-b\
   its-ai-native-so-far"
 "canonical_url": "https://aihot.news/items/cmtym6ry20003rojq09378mx1"
-"score": 71
+"score": 72
 "content_kind": "news"
 ---
 

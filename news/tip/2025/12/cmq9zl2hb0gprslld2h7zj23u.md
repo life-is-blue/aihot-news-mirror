@@ -7,7 +7,7 @@
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/tutorials/distillable-models-and-sy\
   nthetic-data-pipelines-with-nemo-data-designer"
-"canonical_url": "https://aihot.virxact.com/items/cmq9zl2hb0gprslld2h7zj23u"
+"canonical_url": "https://aihot.news/items/cmq9zl2hb0gprslld2h7zj23u"
 "score": 55
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/tutorials/distillable-models-and-synthetic-data-pipelines-with-nemo-data-designer](https://openrouter.ai/blog/tutorials/distillable-models-and-synthetic-data-pipelines-with-nemo-data-designer)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq9zl2hb0gprslld2h7zj23u](https://aihot.virxact.com/items/cmq9zl2hb0gprslld2h7zj23u)
+- **AIHOT 链接**: [https://aihot.news/items/cmq9zl2hb0gprslld2h7zj23u](https://aihot.news/items/cmq9zl2hb0gprslld2h7zj23u)

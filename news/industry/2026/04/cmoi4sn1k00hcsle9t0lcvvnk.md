@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-27T23:52:43.000Z"
 "source_name": "X：Testing Catalog (@testingcatalog)"
 "original_url": "https://x.com/testingcatalog/status/2048913264013197748"
-"canonical_url": "https://aihot.virxact.com/items/cmoi4sn1k00hcsle9t0lcvvnk"
+"canonical_url": "https://aihot.news/items/cmoi4sn1k00hcsle9t0lcvvnk"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI模型将在未来几周内通过AWS Bedrock向客户提供。此举旨在
 
 - **来源**: X：Testing Catalog (@testingcatalog)
 - **原文链接**: [https://x.com/testingcatalog/status/2048913264013197748](https://x.com/testingcatalog/status/2048913264013197748)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoi4sn1k00hcsle9t0lcvvnk](https://aihot.virxact.com/items/cmoi4sn1k00hcsle9t0lcvvnk)
+- **AIHOT 链接**: [https://aihot.news/items/cmoi4sn1k00hcsle9t0lcvvnk](https://aihot.news/items/cmoi4sn1k00hcsle9t0lcvvnk)

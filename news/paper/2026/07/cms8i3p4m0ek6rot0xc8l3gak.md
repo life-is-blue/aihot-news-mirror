@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-31T05:27:26.620Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.ctgt.ai/research/distillation-censorship-transfer"
-"canonical_url": "https://aihot.virxact.com/items/cms8i3p4m0ek6rot0xc8l3gak"
+"canonical_url": "https://aihot.news/items/cms8i3p4m0ek6rot0xc8l3gak"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.ctgt.ai/research/distillation-censorship-transfer](https://www.ctgt.ai/research/distillation-censorship-transfer)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms8i3p4m0ek6rot0xc8l3gak](https://aihot.virxact.com/items/cms8i3p4m0ek6rot0xc8l3gak)
+- **AIHOT 链接**: [https://aihot.news/items/cms8i3p4m0ek6rot0xc8l3gak](https://aihot.news/items/cms8i3p4m0ek6rot0xc8l3gak)

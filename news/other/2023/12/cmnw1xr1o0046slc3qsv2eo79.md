@@ -6,7 +6,7 @@
 "discovered_at": "2023-12-21T22:44:25.000Z"
 "source_name": "Sam Altman：Blog（RSS）"
 "original_url": "https://blog.samaltman.com/what-i-wish-someone-had-told-me"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xr1o0046slc3qsv2eo79"
+"canonical_url": "https://aihot.news/items/cmnw1xr1o0046slc3qsv2eo79"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Sam Altman 分享17条创业与管理建议：以乐观、信念和人际网络�
 
 - **来源**: Sam Altman：Blog（RSS）
 - **原文链接**: [https://blog.samaltman.com/what-i-wish-someone-had-told-me](https://blog.samaltman.com/what-i-wish-someone-had-told-me)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xr1o0046slc3qsv2eo79](https://aihot.virxact.com/items/cmnw1xr1o0046slc3qsv2eo79)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xr1o0046slc3qsv2eo79](https://aihot.news/items/cmnw1xr1o0046slc3qsv2eo79)

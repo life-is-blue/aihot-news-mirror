@@ -6,7 +6,7 @@
 "discovered_at": "2026-02-04T16:00:00.000Z"
 "source_name": "Anthropic：Engineering（事故复盘 + 工程实践 · 网页）"
 "original_url": "https://www.anthropic.com/engineering/infrastructure-noise"
-"canonical_url": "https://aihot.virxact.com/items/cmorb7ml0008bslhfiqfwufv7"
+"canonical_url": "https://aihot.news/items/cmorb7ml0008bslhfiqfwufv7"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Anthropic：Engineering（事故复盘 + 工程实践 · 网页）
 - **原文链接**: [https://www.anthropic.com/engineering/infrastructure-noise](https://www.anthropic.com/engineering/infrastructure-noise)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmorb7ml0008bslhfiqfwufv7](https://aihot.virxact.com/items/cmorb7ml0008bslhfiqfwufv7)
+- **AIHOT 链接**: [https://aihot.news/items/cmorb7ml0008bslhfiqfwufv7](https://aihot.news/items/cmorb7ml0008bslhfiqfwufv7)

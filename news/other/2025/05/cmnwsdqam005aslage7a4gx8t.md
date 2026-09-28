@@ -7,7 +7,7 @@
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/fuel-your-creativity-with-new-gen\
   erative-media-models-and-tools"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsdqam005aslage7a4gx8t"
+"canonical_url": "https://aihot.news/items/cmnwsdqam005aslage7a4gx8t"
 "score": null
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/fuel-your-creativity-with-new-generative-media-models-and-tools](https://deepmind.google/blog/fuel-your-creativity-with-new-generative-media-models-and-tools)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsdqam005aslage7a4gx8t](https://aihot.virxact.com/items/cmnwsdqam005aslage7a4gx8t)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsdqam005aslage7a4gx8t](https://aihot.news/items/cmnwsdqam005aslage7a4gx8t)

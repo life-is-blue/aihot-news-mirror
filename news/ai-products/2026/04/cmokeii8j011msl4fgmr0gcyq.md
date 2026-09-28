@@ -7,7 +7,7 @@
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/new-guide-deploying-claude-across-the-\
   enterprise-with-claude-cowork"
-"canonical_url": "https://aihot.virxact.com/items/cmokeii8j011msl4fgmr0gcyq"
+"canonical_url": "https://aihot.news/items/cmokeii8j011msl4fgmr0gcyq"
 "score": 66
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Anthropic发布《企业级Claude Cowork部署指南》，旨在帮助非技术�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/new-guide-deploying-claude-across-the-enterprise-with-claude-cowork](https://claude.com/blog/new-guide-deploying-claude-across-the-enterprise-with-claude-cowork)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmokeii8j011msl4fgmr0gcyq](https://aihot.virxact.com/items/cmokeii8j011msl4fgmr0gcyq)
+- **AIHOT 链接**: [https://aihot.news/items/cmokeii8j011msl4fgmr0gcyq](https://aihot.news/items/cmokeii8j011msl4fgmr0gcyq)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-29T03:29:59.282Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2605.30280"
-"canonical_url": "https://aihot.virxact.com/items/cmpqd5x5l03y8slno6er85jod"
+"canonical_url": "https://aihot.news/items/cmpqd5x5l03y8slno6er85jod"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Qwen-VLA是一个统一的具身基础模型，将Qwen的视觉-语言建模从�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2605.30280](https://arxiv.org/abs/2605.30280)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpqd5x5l03y8slno6er85jod](https://aihot.virxact.com/items/cmpqd5x5l03y8slno6er85jod)
+- **AIHOT 链接**: [https://aihot.news/items/cmpqd5x5l03y8slno6er85jod](https://aihot.news/items/cmpqd5x5l03y8slno6er85jod)

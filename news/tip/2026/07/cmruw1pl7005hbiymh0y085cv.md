@@ -7,7 +7,7 @@
 "source_name": "GitHub Blog"
 "original_url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-inte\
   ractive-experiences-with-canvases"
-"canonical_url": "https://aihot.virxact.com/items/cmruw1pl7005hbiymh0y085cv"
+"canonical_url": "https://aihot.news/items/cmruw1pl7005hbiymh0y085cv"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ GitHub Copilot 在应用中推出 canvases 扩展，这是一种共享交互式�
 
 - **来源**: GitHub Blog
 - **原文链接**: [https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases](https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmruw1pl7005hbiymh0y085cv](https://aihot.virxact.com/items/cmruw1pl7005hbiymh0y085cv)
+- **AIHOT 链接**: [https://aihot.news/items/cmruw1pl7005hbiymh0y085cv](https://aihot.news/items/cmruw1pl7005hbiymh0y085cv)

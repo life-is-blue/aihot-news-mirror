@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-25T20:54:34.789Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://www.tomtunguz.com/how-long-should-an-agent-live"
-"canonical_url": "https://aihot.virxact.com/items/cmt9588t109p9rolyegirxdgx"
+"canonical_url": "https://aihot.news/items/cmt9588t109p9rolyegirxdgx"
 "score": 61
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://www.tomtunguz.com/how-long-should-an-agent-live](https://www.tomtunguz.com/how-long-should-an-agent-live)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt9588t109p9rolyegirxdgx](https://aihot.virxact.com/items/cmt9588t109p9rolyegirxdgx)
+- **AIHOT 链接**: [https://aihot.news/items/cmt9588t109p9rolyegirxdgx](https://aihot.news/items/cmt9588t109p9rolyegirxdgx)

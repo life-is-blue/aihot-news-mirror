@@ -7,7 +7,7 @@
 "source_name": "Google Blog：AI（RSS）"
 "original_url": "https://blog.google/innovation-and-ai/models-and-research/gemi\
   ni-models/gemini-3-5"
-"canonical_url": "https://aihot.virxact.com/items/cmpcyioqw01c1sljlgm3yka2w"
+"canonical_url": "https://aihot.news/items/cmpcyioqw01c1sljlgm3yka2w"
 "score": 83
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google 在 I/O 大会上正式发布了最新的 Gemini 3.5 模型系列。该�
 
 - **来源**: Google Blog：AI（RSS）
 - **原文链接**: [https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpcyioqw01c1sljlgm3yka2w](https://aihot.virxact.com/items/cmpcyioqw01c1sljlgm3yka2w)
+- **AIHOT 链接**: [https://aihot.news/items/cmpcyioqw01c1sljlgm3yka2w](https://aihot.news/items/cmpcyioqw01c1sljlgm3yka2w)

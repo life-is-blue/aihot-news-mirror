@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-08T21:16:46.893Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/openai-submits-confidential-s-1"
-"canonical_url": "https://aihot.virxact.com/items/cmq5pocki017bsl5ikjj1dzhk"
+"canonical_url": "https://aihot.news/items/cmq5pocki017bsl5ikjj1dzhk"
 "score": 82
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 近日向 SEC 机密提交了 S-1 草案（即首次公开募股注册声
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/openai-submits-confidential-s-1](https://openai.com/index/openai-submits-confidential-s-1)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq5pocki017bsl5ikjj1dzhk](https://aihot.virxact.com/items/cmq5pocki017bsl5ikjj1dzhk)
+- **AIHOT 链接**: [https://aihot.news/items/cmq5pocki017bsl5ikjj1dzhk](https://aihot.news/items/cmq5pocki017bsl5ikjj1dzhk)

@@ -6,7 +6,7 @@
 "discovered_at": "2025-03-20T17:01:49.000Z"
 "source_name": "X：Jim Fan (@DrJimFan)"
 "original_url": "https://x.com/DrJimFan/status/1902767546438148345"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1ysuy010aslc3r1tyuhfy"
+"canonical_url": "https://aihot.news/items/cmnw1ysuy010aslc3r1tyuhfy"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ NVIDIA 发布世界首个开源人形机器人基础模型 GR00T N1，仅 2B 参
 
 - **来源**: X：Jim Fan (@DrJimFan)
 - **原文链接**: [https://x.com/DrJimFan/status/1902767546438148345](https://x.com/DrJimFan/status/1902767546438148345)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1ysuy010aslc3r1tyuhfy](https://aihot.virxact.com/items/cmnw1ysuy010aslc3r1tyuhfy)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1ysuy010aslc3r1tyuhfy](https://aihot.news/items/cmnw1ysuy010aslc3r1tyuhfy)

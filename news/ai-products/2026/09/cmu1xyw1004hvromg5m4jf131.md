@@ -7,7 +7,7 @@
 "source_name": "Fireworks AI（网页）"
 "original_url": "https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra"
 "canonical_url": "https://aihot.news/items/cmu1xyw1004hvromg5m4jf131"
-"score": 71
+"score": 72
 "content_kind": "news"
 ---
 

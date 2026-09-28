@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-29T23:11:42.938Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
-"canonical_url": "https://aihot.virxact.com/items/cms6p8lnz09o6rohzegz5w5xp"
+"canonical_url": "https://aihot.news/items/cms6p8lnz09o6rohzegz5w5xp"
 "score": 68
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 通过启用两项 API 设置，使 GPT-5.6 在 ARC-AGI-3 基准测试上
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores](https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms6p8lnz09o6rohzegz5w5xp](https://aihot.virxact.com/items/cms6p8lnz09o6rohzegz5w5xp)
+- **AIHOT 链接**: [https://aihot.news/items/cms6p8lnz09o6rohzegz5w5xp](https://aihot.news/items/cms6p8lnz09o6rohzegz5w5xp)

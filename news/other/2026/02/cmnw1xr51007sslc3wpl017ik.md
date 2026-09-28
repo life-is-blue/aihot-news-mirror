@@ -6,7 +6,7 @@
 "discovered_at": "2026-02-28T12:30:00.000Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/our-agreement-with-the-department-of-war"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xr51007sslc3wpl017ik"
+"canonical_url": "https://aihot.news/items/cmnw1xr51007sslc3wpl017ik"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 披露与 Department of War 达成的协议内容，详细划定 AI 部�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/our-agreement-with-the-department-of-war](https://openai.com/index/our-agreement-with-the-department-of-war)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xr51007sslc3wpl017ik](https://aihot.virxact.com/items/cmnw1xr51007sslc3wpl017ik)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xr51007sslc3wpl017ik](https://aihot.news/items/cmnw1xr51007sslc3wpl017ik)

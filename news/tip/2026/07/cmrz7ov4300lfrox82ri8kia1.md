@@ -7,7 +7,7 @@
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/the-new-rules-of-context-engineering-f\
   or-claude-5-generation-models"
-"canonical_url": "https://aihot.virxact.com/items/cmrz7ov4300lfrox82ri8kia1"
+"canonical_url": "https://aihot.news/items/cmrz7ov4300lfrox82ri8kia1"
 "score": 65
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Anthropic 为 Claude Opus 5 和 Claude Fable 5 等新一代模型删除了 Claud
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrz7ov4300lfrox82ri8kia1](https://aihot.virxact.com/items/cmrz7ov4300lfrox82ri8kia1)
+- **AIHOT 链接**: [https://aihot.news/items/cmrz7ov4300lfrox82ri8kia1](https://aihot.news/items/cmrz7ov4300lfrox82ri8kia1)

@@ -6,7 +6,7 @@
 "discovered_at": "2025-12-02T21:39:14.000Z"
 "source_name": "Dwarkesh Patel：Podcast & Blog（RSS）"
 "original_url": "https://www.dwarkesh.com/p/thoughts-on-ai-progress-dec-2025"
-"canonical_url": "https://aihot.virxact.com/items/cmnxjn62e006usl9o2n1ql45p"
+"canonical_url": "https://aihot.news/items/cmnxjn62e006usl9o2n1ql45p"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Dwarkesh Patel：Podcast & Blog（RSS）
 - **原文链接**: [https://www.dwarkesh.com/p/thoughts-on-ai-progress-dec-2025](https://www.dwarkesh.com/p/thoughts-on-ai-progress-dec-2025)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnxjn62e006usl9o2n1ql45p](https://aihot.virxact.com/items/cmnxjn62e006usl9o2n1ql45p)
+- **AIHOT 链接**: [https://aihot.news/items/cmnxjn62e006usl9o2n1ql45p](https://aihot.news/items/cmnxjn62e006usl9o2n1ql45p)

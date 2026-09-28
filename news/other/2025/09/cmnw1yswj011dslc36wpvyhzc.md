@@ -6,7 +6,7 @@
 "discovered_at": "2025-09-17T17:19:13.000Z"
 "source_name": "X：Jeff Dean (@JeffDean)"
 "original_url": "https://x.com/JeffDean/status/1968364129737130472"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yswj011dslc36wpvyhzc"
+"canonical_url": "https://aihot.news/items/cmnw1yswj011dslc36wpvyhzc"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Gemini 2.5 Deep Think 高级版本在 2025 年 ICPC 世界总决赛中取得金�
 
 - **来源**: X：Jeff Dean (@JeffDean)
 - **原文链接**: [https://x.com/JeffDean/status/1968364129737130472](https://x.com/JeffDean/status/1968364129737130472)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yswj011dslc36wpvyhzc](https://aihot.virxact.com/items/cmnw1yswj011dslc36wpvyhzc)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yswj011dslc36wpvyhzc](https://aihot.news/items/cmnw1yswj011dslc36wpvyhzc)

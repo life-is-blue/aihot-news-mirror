@@ -7,7 +7,7 @@
 "source_name": "公众号：火山引擎"
 "original_url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247\
   543189&idx=1&sn=46d89ea5ee1306025dbe25a3316ac14f"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu2isx00y0rofz4gley9ur"
+"canonical_url": "https://aihot.news/items/cmsdu2isx00y0rofz4gley9ur"
 "score": 68
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: 公众号：火山引擎
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543189&idx=1&sn=46d89ea5ee1306025dbe25a3316ac14f](https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543189&idx=1&sn=46d89ea5ee1306025dbe25a3316ac14f)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu2isx00y0rofz4gley9ur](https://aihot.virxact.com/items/cmsdu2isx00y0rofz4gley9ur)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu2isx00y0rofz4gley9ur](https://aihot.news/items/cmsdu2isx00y0rofz4gley9ur)

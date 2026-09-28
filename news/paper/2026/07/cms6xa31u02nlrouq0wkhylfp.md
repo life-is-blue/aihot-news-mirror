@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-30T02:56:49.307Z"
 "source_name": "X：腾讯混元 (@TencentHunyuan)"
 "original_url": "https://x.com/TencentHunyuan/status/2082655737541726636"
-"canonical_url": "https://aihot.virxact.com/items/cms6xa31u02nlrouq0wkhylfp"
+"canonical_url": "https://aihot.news/items/cms6xa31u02nlrouq0wkhylfp"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：腾讯混元 (@TencentHunyuan)
 - **原文链接**: [https://x.com/TencentHunyuan/status/2082655737541726636](https://x.com/TencentHunyuan/status/2082655737541726636)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms6xa31u02nlrouq0wkhylfp](https://aihot.virxact.com/items/cms6xa31u02nlrouq0wkhylfp)
+- **AIHOT 链接**: [https://aihot.news/items/cms6xa31u02nlrouq0wkhylfp](https://aihot.news/items/cms6xa31u02nlrouq0wkhylfp)

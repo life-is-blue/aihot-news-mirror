@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-31T00:00:00.000Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2606.01348"
-"canonical_url": "https://aihot.virxact.com/items/cmpwbvnb101iwslsnq39efzz8"
+"canonical_url": "https://aihot.news/items/cmpwbvnb101iwslsnq39efzz8"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ ChartArena 是一个旨在系统评估图表解析模型的双语基准测试。
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2606.01348](https://arxiv.org/abs/2606.01348)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpwbvnb101iwslsnq39efzz8](https://aihot.virxact.com/items/cmpwbvnb101iwslsnq39efzz8)
+- **AIHOT 链接**: [https://aihot.news/items/cmpwbvnb101iwslsnq39efzz8](https://aihot.news/items/cmpwbvnb101iwslsnq39efzz8)

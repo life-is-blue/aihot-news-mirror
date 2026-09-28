@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-06T16:39:26.843Z"
 "source_name": "X：Yuchen Jin (@Yuchenj_UW)"
 "original_url": "https://x.com/Yuchenj_UW/status/2052065017072386450"
-"canonical_url": "https://aihot.virxact.com/items/cmoua8rhr00psslm0q6m1h9ok"
+"canonical_url": "https://aihot.news/items/cmoua8rhr00psslm0q6m1h9ok"
 "score": 76
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ Dario正积极从各渠道获取芯片，以应对OpenAI Codex的增长势头。
 
 - **来源**: X：Yuchen Jin (@Yuchenj_UW)
 - **原文链接**: [https://x.com/Yuchenj_UW/status/2052065017072386450](https://x.com/Yuchenj_UW/status/2052065017072386450)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoua8rhr00psslm0q6m1h9ok](https://aihot.virxact.com/items/cmoua8rhr00psslm0q6m1h9ok)
+- **AIHOT 链接**: [https://aihot.news/items/cmoua8rhr00psslm0q6m1h9ok](https://aihot.news/items/cmoua8rhr00psslm0q6m1h9ok)

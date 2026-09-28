@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-30T19:16:16.061Z"
 "source_name": "X：Google AI (@GoogleAI)"
 "original_url": "https://x.com/GoogleAI/status/2082902334984609936"
-"canonical_url": "https://aihot.virxact.com/items/cms7w9p0p000fro20pyggbkmb"
+"canonical_url": "https://aihot.news/items/cms7w9p0p000fro20pyggbkmb"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google Earth 网页版上线基于 Nano Banana 2 的图像生成功能，用户�
 
 - **来源**: X：Google AI (@GoogleAI)
 - **原文链接**: [https://x.com/GoogleAI/status/2082902334984609936](https://x.com/GoogleAI/status/2082902334984609936)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms7w9p0p000fro20pyggbkmb](https://aihot.virxact.com/items/cms7w9p0p000fro20pyggbkmb)
+- **AIHOT 链接**: [https://aihot.news/items/cms7w9p0p000fro20pyggbkmb](https://aihot.news/items/cms7w9p0p000fro20pyggbkmb)

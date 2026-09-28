@@ -7,7 +7,7 @@
 "source_name": "Epoch AI：研究、数据与评测"
 "original_url": "https://epoch.ai/data-insights/hyperscaler-capex-vs-cash-flow"
 "canonical_url": "https://aihot.news/items/cmtyo2t5w03i8rog052271dwm"
-"score": 67
+"score": 68
 "content_kind": "news"
 ---
 

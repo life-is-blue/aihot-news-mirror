@@ -6,7 +6,7 @@
 "discovered_at": "2026-01-12T14:23:07.000Z"
 "source_name": "Hacker News：AI 热帖"
 "original_url": "https://github.com/njbrake/agent-of-empires"
-"canonical_url": "https://aihot.virxact.com/items/cmo1h7hxf00jeslrrxd71rfs0"
+"canonical_url": "https://aihot.news/items/cmo1h7hxf00jeslrrxd71rfs0"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Agent-of-empires（AoE）是一款支持 Linux 与 macOS 的 AI 编码代理会�
 
 - **来源**: Hacker News：AI 热帖
 - **原文链接**: [https://github.com/njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmo1h7hxf00jeslrrxd71rfs0](https://aihot.virxact.com/items/cmo1h7hxf00jeslrrxd71rfs0)
+- **AIHOT 链接**: [https://aihot.news/items/cmo1h7hxf00jeslrrxd71rfs0](https://aihot.news/items/cmo1h7hxf00jeslrrxd71rfs0)

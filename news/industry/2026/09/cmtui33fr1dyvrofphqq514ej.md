@@ -7,7 +7,7 @@
 "source_name": "X：Greg Brockman (@gdb)"
 "original_url": "https://x.com/gdb/status/2097769891013280241"
 "canonical_url": "https://aihot.news/items/cmtui33fr1dyvrofphqq514ej"
-"score": 65
+"score": 66
 "content_kind": "news"
 ---
 

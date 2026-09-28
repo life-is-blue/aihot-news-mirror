@@ -7,7 +7,7 @@
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/deployco/news/conversational-design-five-pa\
   tterns-to-shape-customer-facing-ai-experiences"
-"canonical_url": "https://aihot.virxact.com/items/cmrb774jg01azihl1yqa8wkw6"
+"canonical_url": "https://aihot.news/items/cmrb774jg01azihl1yqa8wkw6"
 "score": 59
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/deployco/news/conversational-design-five-patterns-to-shape-customer-facing-ai-experiences](https://openai.com/deployco/news/conversational-design-five-patterns-to-shape-customer-facing-ai-experiences)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrb774jg01azihl1yqa8wkw6](https://aihot.virxact.com/items/cmrb774jg01azihl1yqa8wkw6)
+- **AIHOT 链接**: [https://aihot.news/items/cmrb774jg01azihl1yqa8wkw6](https://aihot.news/items/cmrb774jg01azihl1yqa8wkw6)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-05T17:17:44.734Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/design-mode"
-"canonical_url": "https://aihot.virxact.com/items/cmq16tduz0d15sltr5ig4ei0x"
+"canonical_url": "https://aihot.news/items/cmq16tduz0d15sltr5ig4ei0x"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Cursor 更新 Design Mode，支持点击元素、在页面上绘制区域或语�
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/design-mode](https://cursor.com/blog/design-mode)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq16tduz0d15sltr5ig4ei0x](https://aihot.virxact.com/items/cmq16tduz0d15sltr5ig4ei0x)
+- **AIHOT 链接**: [https://aihot.news/items/cmq16tduz0d15sltr5ig4ei0x](https://aihot.news/items/cmq16tduz0d15sltr5ig4ei0x)

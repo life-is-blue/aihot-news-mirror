@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-05T04:17:04.730Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2605.02881"
-"canonical_url": "https://aihot.virxact.com/items/cmos4a17c04uhslrj2pf1ywi8"
+"canonical_url": "https://aihot.news/items/cmos4a17c04uhslrj2pf1ywi8"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ MolmoAct2 是一个为实际部署设计的全开放动作推理模型，在五�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2605.02881](https://arxiv.org/abs/2605.02881)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmos4a17c04uhslrj2pf1ywi8](https://aihot.virxact.com/items/cmos4a17c04uhslrj2pf1ywi8)
+- **AIHOT 链接**: [https://aihot.news/items/cmos4a17c04uhslrj2pf1ywi8](https://aihot.news/items/cmos4a17c04uhslrj2pf1ywi8)

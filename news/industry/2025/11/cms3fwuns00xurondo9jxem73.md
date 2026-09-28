@@ -6,7 +6,7 @@
 "discovered_at": "2025-11-21T16:00:00.000Z"
 "source_name": "Sierra：Blog（RSS）"
 "original_url": "https://sierra.ai/blog/100m-arr"
-"canonical_url": "https://aihot.virxact.com/items/cms3fwuns00xurondo9jxem73"
+"canonical_url": "https://aihot.news/items/cms3fwuns00xurondo9jxem73"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Sierra 在 2024 年 2 月上线后仅用 7 个季度实现年经常性收入（A
 
 - **来源**: Sierra：Blog（RSS）
 - **原文链接**: [https://sierra.ai/blog/100m-arr](https://sierra.ai/blog/100m-arr)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3fwuns00xurondo9jxem73](https://aihot.virxact.com/items/cms3fwuns00xurondo9jxem73)
+- **AIHOT 链接**: [https://aihot.news/items/cms3fwuns00xurondo9jxem73](https://aihot.news/items/cms3fwuns00xurondo9jxem73)

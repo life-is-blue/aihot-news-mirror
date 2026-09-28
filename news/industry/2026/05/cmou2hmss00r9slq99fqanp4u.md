@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/anthropic-commits-200-billion-to-googl\
   e-cloud-over-five-years"
-"canonical_url": "https://aihot.virxact.com/items/cmou2hmss00r9slq99fqanp4u"
+"canonical_url": "https://aihot.news/items/cmou2hmss00r9slq99fqanp4u"
 "score": 77
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/anthropic-commits-200-billion-to-google-cloud-over-five-years](https://the-decoder.com/anthropic-commits-200-billion-to-google-cloud-over-five-years)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmou2hmss00r9slq99fqanp4u](https://aihot.virxact.com/items/cmou2hmss00r9slq99fqanp4u)
+- **AIHOT 链接**: [https://aihot.news/items/cmou2hmss00r9slq99fqanp4u](https://aihot.news/items/cmou2hmss00r9slq99fqanp4u)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-02T03:00:45.259Z"
 "source_name": "公众号：昆仑万维（天工）"
 "original_url": "https://mp.weixin.qq.com/s/OqL6ID-mAel8XN-slYgXOA"
-"canonical_url": "https://aihot.virxact.com/items/cmr2x3a7n0c0tsl8zxytx1kfx"
+"canonical_url": "https://aihot.news/items/cmr2x3a7n0c0tsl8zxytx1kfx"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: 公众号：昆仑万维（天工）
 - **原文链接**: [https://mp.weixin.qq.com/s/OqL6ID-mAel8XN-slYgXOA](https://mp.weixin.qq.com/s/OqL6ID-mAel8XN-slYgXOA)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr2x3a7n0c0tsl8zxytx1kfx](https://aihot.virxact.com/items/cmr2x3a7n0c0tsl8zxytx1kfx)
+- **AIHOT 链接**: [https://aihot.news/items/cmr2x3a7n0c0tsl8zxytx1kfx](https://aihot.news/items/cmr2x3a7n0c0tsl8zxytx1kfx)

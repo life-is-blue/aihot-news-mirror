@@ -7,7 +7,7 @@
 "source_name": "Artificial Analysis 完整文章（网页）"
 "original_url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7"
 "canonical_url": "https://aihot.news/items/cmubni6yr03ihro4v6pea4amm"
-"score": 67
+"score": 68
 "content_kind": "news"
 ---
 

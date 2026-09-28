@@ -7,7 +7,7 @@
 "source_name": "Cognition 模型 / Devin 博客（网页）"
 "original_url": "https://cognition.com/blog/devin-can-now-schedule-devins"
 "canonical_url": "https://aihot.news/items/cmtyo2ihm03d3rog0oy1iag71"
-"score": 64
+"score": 65
 "content_kind": "news"
 ---
 

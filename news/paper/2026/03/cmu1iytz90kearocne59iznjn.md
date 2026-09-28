@@ -7,7 +7,7 @@
 "source_name": "Together AI 研究与产品博客（RSS）"
 "original_url": "https://www.together.ai/blog/flashattention-4"
 "canonical_url": "https://aihot.news/items/cmu1iytz90kearocne59iznjn"
-"score": 63
+"score": 64
 "content_kind": "news"
 ---
 

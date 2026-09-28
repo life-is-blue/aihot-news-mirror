@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-25T01:08:53.418Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-interactive-brokers"
-"canonical_url": "https://aihot.virxact.com/items/cmqst0js5060tslfu7s6uxjhf"
+"canonical_url": "https://aihot.news/items/cmqst0js5060tslfu7s6uxjhf"
 "score": 55
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-interactive-brokers](https://x.ai/news/grok-interactive-brokers)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqst0js5060tslfu7s6uxjhf](https://aihot.virxact.com/items/cmqst0js5060tslfu7s6uxjhf)
+- **AIHOT 链接**: [https://aihot.news/items/cmqst0js5060tslfu7s6uxjhf](https://aihot.news/items/cmqst0js5060tslfu7s6uxjhf)

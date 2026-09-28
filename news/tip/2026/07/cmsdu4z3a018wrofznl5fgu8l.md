@@ -7,7 +7,7 @@
 "source_name": "公众号：卡尔的AI沃茨"
 "original_url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247\
   508794&idx=1&sn=12d7cfa252e99d6e57f1d9d126227a59"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu4z3a018wrofznl5fgu8l"
+"canonical_url": "https://aihot.news/items/cmsdu4z3a018wrofznl5fgu8l"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Claude Opus 5上线，在多数基准上超越Fable 5，max effort下距Fable 5�
 
 - **来源**: 公众号：卡尔的AI沃茨
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508794&idx=1&sn=12d7cfa252e99d6e57f1d9d126227a59](https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508794&idx=1&sn=12d7cfa252e99d6e57f1d9d126227a59)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu4z3a018wrofznl5fgu8l](https://aihot.virxact.com/items/cmsdu4z3a018wrofznl5fgu8l)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu4z3a018wrofznl5fgu8l](https://aihot.news/items/cmsdu4z3a018wrofznl5fgu8l)

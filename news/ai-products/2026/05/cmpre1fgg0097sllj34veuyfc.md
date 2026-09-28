@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-29T20:42:15.404Z"
 "source_name": "Claude Code：GitHub Releases（RSS）"
 "original_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.157"
-"canonical_url": "https://aihot.virxact.com/items/cmpre1fgg0097sllj34veuyfc"
+"canonical_url": "https://aihot.news/items/cmpre1fgg0097sllj34veuyfc"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Claude Code：GitHub Releases（RSS）
 - **原文链接**: [https://github.com/anthropics/claude-code/releases/tag/v2.1.157](https://github.com/anthropics/claude-code/releases/tag/v2.1.157)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpre1fgg0097sllj34veuyfc](https://aihot.virxact.com/items/cmpre1fgg0097sllj34veuyfc)
+- **AIHOT 链接**: [https://aihot.news/items/cmpre1fgg0097sllj34veuyfc](https://aihot.news/items/cmpre1fgg0097sllj34veuyfc)

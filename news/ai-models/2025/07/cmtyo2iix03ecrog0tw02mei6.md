@@ -8,7 +8,7 @@
 "original_url": "https://www.liquid.ai/blog/liquid-foundation-models-v2-our-sec\
   ond-series-of-generative-ai-models"
 "canonical_url": "https://aihot.news/items/cmtyo2iix03ecrog0tw02mei6"
-"score": 65
+"score": 66
 "content_kind": "news"
 ---
 

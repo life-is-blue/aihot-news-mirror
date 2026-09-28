@@ -7,7 +7,7 @@
 "source_name": "ARC Prize：官方博客"
 "original_url": "https://arcprize.org/blog/arc-prize-2025-results-analysis"
 "canonical_url": "https://aihot.news/items/cmtym44zo0007ro5d8m9jedx5"
-"score": 68
+"score": 69
 "content_kind": "news"
 ---
 

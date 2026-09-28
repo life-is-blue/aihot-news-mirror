@@ -1,18 +1,18 @@
 ---
 "title": "Every firm will need to reconceptualize work as they build agentic
-  systems. As AI and agents take o…"
+  systems. As AI and agents take o..."
 "aihot_id": "cmot7h5vb030oslv7yy8ti4jh"
 "aihot_category": "tip"
 "published_at": "2026-05-05T22:12:51.000Z"
 "discovered_at": "2026-05-05T22:34:13.490Z"
 "source_name": "X：Satya Nadella (@satyanadella)"
 "original_url": "https://x.com/satyanadella/status/2051787232043020719"
-"canonical_url": "https://aihot.virxact.com/items/cmot7h5vb030oslv7yy8ti4jh"
+"canonical_url": "https://aihot.news/items/cmot7h5vb030oslv7yy8ti4jh"
 "score": 70
 "content_kind": "news"
 ---
 
-# Every firm will need to reconceptualize work as they build agentic systems. As AI and agents take o…
+# Every firm will need to reconceptualize work as they build agentic systems. As AI and agents take o...
 
 每家公司都需要在构建智能体系统时重新构想工作。
 
@@ -22,4 +22,4 @@
 
 - **来源**: X：Satya Nadella (@satyanadella)
 - **原文链接**: [https://x.com/satyanadella/status/2051787232043020719](https://x.com/satyanadella/status/2051787232043020719)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmot7h5vb030oslv7yy8ti4jh](https://aihot.virxact.com/items/cmot7h5vb030oslv7yy8ti4jh)
+- **AIHOT 链接**: [https://aihot.news/items/cmot7h5vb030oslv7yy8ti4jh](https://aihot.news/items/cmot7h5vb030oslv7yy8ti4jh)

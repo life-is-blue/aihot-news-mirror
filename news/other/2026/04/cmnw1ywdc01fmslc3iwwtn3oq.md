@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-02T14:29:24.000Z"
 "source_name": "X：Satya Nadella (@satyanadella)"
 "original_url": "https://x.com/satyanadella/status/2039711802259542302"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1ywdc01fmslc3iwwtn3oq"
+"canonical_url": "https://aihot.news/items/cmnw1ywdc01fmslc3iwwtn3oq"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ MAI 模型家族正式登陆 Foundry 平台，推出三款新模型：MAI-Transc
 
 - **来源**: X：Satya Nadella (@satyanadella)
 - **原文链接**: [https://x.com/satyanadella/status/2039711802259542302](https://x.com/satyanadella/status/2039711802259542302)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1ywdc01fmslc3iwwtn3oq](https://aihot.virxact.com/items/cmnw1ywdc01fmslc3iwwtn3oq)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1ywdc01fmslc3iwwtn3oq](https://aihot.news/items/cmnw1ywdc01fmslc3iwwtn3oq)

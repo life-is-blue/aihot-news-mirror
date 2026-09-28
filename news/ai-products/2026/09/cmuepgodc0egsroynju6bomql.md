@@ -7,7 +7,7 @@
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/rollouts-and-security-reviewer"
 "canonical_url": "https://aihot.news/items/cmuepgodc0egsroynju6bomql"
-"score": 60
+"score": 61
 "content_kind": "news"
 ---
 

@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-27T23:07:32.187Z"
 "source_name": "Anthropic：Research（发表成果 · 网页）"
 "original_url": "https://www.anthropic.com/research/coding-agents-social-sciences"
-"canonical_url": "https://aihot.virxact.com/items/cmpoocnzn07snslv4ur3wipc5"
+"canonical_url": "https://aihot.news/items/cmpoocnzn07snslv4ur3wipc5"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Anthropic：Research（发表成果 · 网页）
 - **原文链接**: [https://www.anthropic.com/research/coding-agents-social-sciences](https://www.anthropic.com/research/coding-agents-social-sciences)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpoocnzn07snslv4ur3wipc5](https://aihot.virxact.com/items/cmpoocnzn07snslv4ur3wipc5)
+- **AIHOT 链接**: [https://aihot.news/items/cmpoocnzn07snslv4ur3wipc5](https://aihot.news/items/cmpoocnzn07snslv4ur3wipc5)

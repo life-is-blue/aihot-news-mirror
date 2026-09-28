@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-21T20:08:19.849Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/hugging-face-model-evaluation-security-incident"
-"canonical_url": "https://aihot.virxact.com/items/cmrv35ygl022xbinvx8o3df2j"
+"canonical_url": "https://aihot.news/items/cmrv35ygl022xbinvx8o3df2j"
 "score": 79
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 与 Hugging Face 联合披露一起安全事件：在内部网络能力�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/hugging-face-model-evaluation-security-incident](https://openai.com/index/hugging-face-model-evaluation-security-incident)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrv35ygl022xbinvx8o3df2j](https://aihot.virxact.com/items/cmrv35ygl022xbinvx8o3df2j)
+- **AIHOT 链接**: [https://aihot.news/items/cmrv35ygl022xbinvx8o3df2j](https://aihot.news/items/cmrv35ygl022xbinvx8o3df2j)

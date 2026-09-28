@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-06T02:27:54.856Z"
 "source_name": "Claude Code：GitHub Releases（RSS）"
 "original_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.129"
-"canonical_url": "https://aihot.virxact.com/items/cmotftjxd04wdslv7zwym23oh"
+"canonical_url": "https://aihot.news/items/cmotftjxd04wdslv7zwym23oh"
 "score": 58
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Code 发布 v2.1.129 版本，带来多项功能新增与问题修复。�
 
 - **来源**: Claude Code：GitHub Releases（RSS）
 - **原文链接**: [https://github.com/anthropics/claude-code/releases/tag/v2.1.129](https://github.com/anthropics/claude-code/releases/tag/v2.1.129)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmotftjxd04wdslv7zwym23oh](https://aihot.virxact.com/items/cmotftjxd04wdslv7zwym23oh)
+- **AIHOT 链接**: [https://aihot.news/items/cmotftjxd04wdslv7zwym23oh](https://aihot.news/items/cmotftjxd04wdslv7zwym23oh)

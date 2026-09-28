@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-19T03:05:46.360Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2608.17800"
-"canonical_url": "https://aihot.virxact.com/items/cmszieman0euzrodptihyllom"
+"canonical_url": "https://aihot.news/items/cmszieman0euzrodptihyllom"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ StartupBench 是一个基于市场验证的 AI 初创公司产品构建的端到
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2608.17800](https://arxiv.org/abs/2608.17800)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmszieman0euzrodptihyllom](https://aihot.virxact.com/items/cmszieman0euzrodptihyllom)
+- **AIHOT 链接**: [https://aihot.news/items/cmszieman0euzrodptihyllom](https://aihot.news/items/cmszieman0euzrodptihyllom)

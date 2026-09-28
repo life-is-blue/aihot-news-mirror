@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-24T01:43:37.000Z"
 "source_name": "蚂蚁 inclusionAI：HuggingFace 新模型"
 "original_url": "https://huggingface.co/inclusionAI/SingGuard-0.8b"
-"canonical_url": "https://aihot.virxact.com/items/cmref8c5000edihgvnpxf2wfc"
+"canonical_url": "https://aihot.news/items/cmref8c5000edihgvnpxf2wfc"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ inclusionAI 在 HuggingFace 发布 SingGuard 系列模型，首个版本为 Sing
 
 - **来源**: 蚂蚁 inclusionAI：HuggingFace 新模型
 - **原文链接**: [https://huggingface.co/inclusionAI/SingGuard-0.8b](https://huggingface.co/inclusionAI/SingGuard-0.8b)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmref8c5000edihgvnpxf2wfc](https://aihot.virxact.com/items/cmref8c5000edihgvnpxf2wfc)
+- **AIHOT 链接**: [https://aihot.news/items/cmref8c5000edihgvnpxf2wfc](https://aihot.news/items/cmref8c5000edihgvnpxf2wfc)

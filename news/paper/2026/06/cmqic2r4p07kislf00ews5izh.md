@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-07T16:00:00.000Z"
 "source_name": "Anthropic：Research（发表成果 · 网页）"
 "original_url": "https://www.anthropic.com/research/n-days"
-"canonical_url": "https://aihot.virxact.com/items/cmqic2r4p07kislf00ews5izh"
+"canonical_url": "https://aihot.news/items/cmqic2r4p07kislf00ews5izh"
 "score": 79
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic最新研究评估了大语言模型对N-day漏洞利用的自动化能
 
 - **来源**: Anthropic：Research（发表成果 · 网页）
 - **原文链接**: [https://www.anthropic.com/research/n-days](https://www.anthropic.com/research/n-days)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqic2r4p07kislf00ews5izh](https://aihot.virxact.com/items/cmqic2r4p07kislf00ews5izh)
+- **AIHOT 链接**: [https://aihot.news/items/cmqic2r4p07kislf00ews5izh](https://aihot.news/items/cmqic2r4p07kislf00ews5izh)

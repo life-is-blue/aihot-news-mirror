@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-23T01:14:40.166Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/insights/ai-data-residency"
-"canonical_url": "https://aihot.virxact.com/items/cmqpyc83704y1slp584b2av9b"
+"canonical_url": "https://aihot.news/items/cmqpyc83704y1slp584b2av9b"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Deloitte 报告显示 77% 的公司将供应商国籍纳入 AI 选型考量。Op
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/insights/ai-data-residency](https://openrouter.ai/blog/insights/ai-data-residency)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqpyc83704y1slp584b2av9b](https://aihot.virxact.com/items/cmqpyc83704y1slp584b2av9b)
+- **AIHOT 链接**: [https://aihot.news/items/cmqpyc83704y1slp584b2av9b](https://aihot.news/items/cmqpyc83704y1slp584b2av9b)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-19T07:55:16.173Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2606.20521"
-"canonical_url": "https://aihot.virxact.com/items/cmqkmvyxz00hxslh6sv4zzxc7"
+"canonical_url": "https://aihot.news/items/cmqkmvyxz00hxslh6sv4zzxc7"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ HumanScale项目比较了自我中心人类视频与遥操作真实机器人轨�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2606.20521](https://arxiv.org/abs/2606.20521)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqkmvyxz00hxslh6sv4zzxc7](https://aihot.virxact.com/items/cmqkmvyxz00hxslh6sv4zzxc7)
+- **AIHOT 链接**: [https://aihot.news/items/cmqkmvyxz00hxslh6sv4zzxc7](https://aihot.news/items/cmqkmvyxz00hxslh6sv4zzxc7)

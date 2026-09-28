@@ -6,7 +6,7 @@
 "discovered_at": "2018-04-08T00:00:00.000Z"
 "source_name": "Lilian Weng：Lil'Log（RSS）"
 "original_url": "https://lilianweng.github.io/posts/2018-04-08-policy-gradient"
-"canonical_url": "https://aihot.virxact.com/items/cmpc7e3b90080slmqv9vsy0ou"
+"canonical_url": "https://aihot.news/items/cmpc7e3b90080slmqv9vsy0ou"
 "score": 55
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Lilian Weng：Lil'Log（RSS）
 - **原文链接**: [https://lilianweng.github.io/posts/2018-04-08-policy-gradient](https://lilianweng.github.io/posts/2018-04-08-policy-gradient)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpc7e3b90080slmqv9vsy0ou](https://aihot.virxact.com/items/cmpc7e3b90080slmqv9vsy0ou)
+- **AIHOT 链接**: [https://aihot.news/items/cmpc7e3b90080slmqv9vsy0ou](https://aihot.news/items/cmpc7e3b90080slmqv9vsy0ou)

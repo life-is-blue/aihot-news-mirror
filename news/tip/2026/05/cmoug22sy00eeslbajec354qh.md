@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-06T19:22:21.217Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections"
-"canonical_url": "https://aihot.virxact.com/items/cmoug22sy00eeslbajec354qh"
+"canonical_url": "https://aihot.news/items/cmoug22sy00eeslbajec354qh"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections](https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoug22sy00eeslbajec354qh](https://aihot.virxact.com/items/cmoug22sy00eeslbajec354qh)
+- **AIHOT 链接**: [https://aihot.news/items/cmoug22sy00eeslbajec354qh](https://aihot.news/items/cmoug22sy00eeslbajec354qh)

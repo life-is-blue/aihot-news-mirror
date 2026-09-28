@@ -7,7 +7,7 @@
 "source_name": "GitHub Blog"
 "original_url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusi\
   on-frontier-quality-via-multi-model-orchestration"
-"canonical_url": "https://aihot.virxact.com/items/cmtn66b6s0o0eromy3rzdsvat"
+"canonical_url": "https://aihot.news/items/cmtn66b6s0o0eromy3rzdsvat"
 "score": 68
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ GitHub 推出 Project HydraFusion 研究预览，通过运行时多模型编排�
 
 - **来源**: GitHub Blog
 - **原文链接**: [https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration](https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtn66b6s0o0eromy3rzdsvat](https://aihot.virxact.com/items/cmtn66b6s0o0eromy3rzdsvat)
+- **AIHOT 链接**: [https://aihot.news/items/cmtn66b6s0o0eromy3rzdsvat](https://aihot.news/items/cmtn66b6s0o0eromy3rzdsvat)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-09T18:09:47.624Z"
 "source_name": "Ethan Mollick：One Useful Thing（RSS）"
 "original_url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos"
-"canonical_url": "https://aihot.virxact.com/items/cmq6yfqwl00r9slbhgupwks0e"
+"canonical_url": "https://aihot.news/items/cmq6yfqwl00r9slbhgupwks0e"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 发布 Claude Fable，这是一款提供截然不同推理体验的 AI
 
 - **来源**: Ethan Mollick：One Useful Thing（RSS）
 - **原文链接**: [https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos](https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq6yfqwl00r9slbhgupwks0e](https://aihot.virxact.com/items/cmq6yfqwl00r9slbhgupwks0e)
+- **AIHOT 链接**: [https://aihot.news/items/cmq6yfqwl00r9slbhgupwks0e](https://aihot.news/items/cmq6yfqwl00r9slbhgupwks0e)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-09T12:32:20.000Z"
 "source_name": "蚂蚁 inclusionAI：HuggingFace 新模型"
 "original_url": "https://huggingface.co/inclusionAI/Ling-3.0-flash-dspark"
-"canonical_url": "https://aihot.virxact.com/items/cmt333krj0fv5ro6tjw6bmtb2"
+"canonical_url": "https://aihot.news/items/cmt333krj0fv5ro6tjw6bmtb2"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ inclusionAI 推出 Ling3-DSpark，一个为 Ling-3.0-flash 设计的 DSpark 投�
 
 - **来源**: 蚂蚁 inclusionAI：HuggingFace 新模型
 - **原文链接**: [https://huggingface.co/inclusionAI/Ling-3.0-flash-dspark](https://huggingface.co/inclusionAI/Ling-3.0-flash-dspark)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt333krj0fv5ro6tjw6bmtb2](https://aihot.virxact.com/items/cmt333krj0fv5ro6tjw6bmtb2)
+- **AIHOT 链接**: [https://aihot.news/items/cmt333krj0fv5ro6tjw6bmtb2](https://aihot.news/items/cmt333krj0fv5ro6tjw6bmtb2)

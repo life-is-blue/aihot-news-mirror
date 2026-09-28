@@ -7,7 +7,7 @@
 "source_name": "Epoch AI：研究、数据与评测"
 "original_url": "https://epoch.ai/benchmarks/swe-bench-verified/review"
 "canonical_url": "https://aihot.news/items/cmu61xlxt049profjns27zc01"
-"score": 68
+"score": 69
 "content_kind": "news"
 ---
 

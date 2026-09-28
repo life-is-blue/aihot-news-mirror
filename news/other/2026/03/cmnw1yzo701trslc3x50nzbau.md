@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-19T00:00:00.000Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/composer-2"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yzo701trslc3x50nzbau"
+"canonical_url": "https://aihot.news/items/cmnw1yzo701trslc3x50nzbau"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Composer 2 登陆 Cursor，定价 $0.50/M（输入）和 $2.50/M（输出），T
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/composer-2](https://cursor.com/blog/composer-2)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yzo701trslc3x50nzbau](https://aihot.virxact.com/items/cmnw1yzo701trslc3x50nzbau)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yzo701trslc3x50nzbau](https://aihot.news/items/cmnw1yzo701trslc3x50nzbau)

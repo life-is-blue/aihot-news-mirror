@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-08T19:43:10.088Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/running-codex-safely"
-"canonical_url": "https://aihot.virxact.com/items/cmoxbojzc00g1sllhzpt6155s"
+"canonical_url": "https://aihot.news/items/cmoxbojzc00g1sllhzpt6155s"
 "score": 63
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI通过沙盒隔离、人工审批流程、严格网络策略与原生代�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/running-codex-safely](https://openai.com/index/running-codex-safely)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoxbojzc00g1sllhzpt6155s](https://aihot.virxact.com/items/cmoxbojzc00g1sllhzpt6155s)
+- **AIHOT 链接**: [https://aihot.news/items/cmoxbojzc00g1sllhzpt6155s](https://aihot.news/items/cmoxbojzc00g1sllhzpt6155s)

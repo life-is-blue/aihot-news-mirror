@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-28T15:05:19.390Z"
 "source_name": "X：智谱 Z.ai (@Zai_org)"
 "original_url": "https://x.com/Zai_org/status/2093354097122455713"
-"canonical_url": "https://aihot.virxact.com/items/cmtd32q060c3vroq546ccqp7r"
+"canonical_url": "https://aihot.news/items/cmtd32q060c3vroq546ccqp7r"
 "score": 65
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ GLM-5.3 现已开放权重。
 
 - **来源**: X：智谱 Z.ai (@Zai_org)
 - **原文链接**: [https://x.com/Zai_org/status/2093354097122455713](https://x.com/Zai_org/status/2093354097122455713)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtd32q060c3vroq546ccqp7r](https://aihot.virxact.com/items/cmtd32q060c3vroq546ccqp7r)
+- **AIHOT 链接**: [https://aihot.news/items/cmtd32q060c3vroq546ccqp7r](https://aihot.news/items/cmtd32q060c3vroq546ccqp7r)

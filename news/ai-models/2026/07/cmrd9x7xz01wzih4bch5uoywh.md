@@ -8,7 +8,7 @@
 "original_url": "https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotr\
   on-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-\
   throughput-at-matched-user-throughput"
-"canonical_url": "https://aihot.virxact.com/items/cmrd9x7xz01wzih4bch5uoywh"
+"canonical_url": "https://aihot.news/items/cmrd9x7xz01wzih4bch5uoywh"
 "score": 70
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ NVIDIA 发布 Nemotron-3-Super 的压缩变体 Nemotron-Labs-3-Puzzle-75B-A9B，
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput](https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrd9x7xz01wzih4bch5uoywh](https://aihot.virxact.com/items/cmrd9x7xz01wzih4bch5uoywh)
+- **AIHOT 链接**: [https://aihot.news/items/cmrd9x7xz01wzih4bch5uoywh](https://aihot.news/items/cmrd9x7xz01wzih4bch5uoywh)

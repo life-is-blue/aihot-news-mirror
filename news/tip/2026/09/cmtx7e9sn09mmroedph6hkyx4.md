@@ -7,7 +7,7 @@
 "source_name": "Dwarkesh Patel：Podcast & Blog（RSS）"
 "original_url": "https://www.dwarkesh.com/p/john-beren-charlie"
 "canonical_url": "https://aihot.news/items/cmtx7e9sn09mmroedph6hkyx4"
-"score": 66
+"score": 67
 "content_kind": "news"
 ---
 

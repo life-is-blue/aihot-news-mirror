@@ -7,7 +7,7 @@
 "source_name": "Google Research：Blog（网页）"
 "original_url": "https://research.google/blog/science-one-framework-a-verifiabl\
   e-autonomous-research-framework-via-chain-of-evidence"
-"canonical_url": "https://aihot.virxact.com/items/cmsass3b802g4romzntw9ijll"
+"canonical_url": "https://aihot.news/items/cmsass3b802g4romzntw9ijll"
 "score": 76
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google Research 推出 Science One Framework，一个原生构建证据链的自
 
 - **来源**: Google Research：Blog（网页）
 - **原文链接**: [https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence](https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsass3b802g4romzntw9ijll](https://aihot.virxact.com/items/cmsass3b802g4romzntw9ijll)
+- **AIHOT 链接**: [https://aihot.news/items/cmsass3b802g4romzntw9ijll](https://aihot.news/items/cmsass3b802g4romzntw9ijll)

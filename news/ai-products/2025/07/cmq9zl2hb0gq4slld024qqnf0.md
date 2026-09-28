@@ -7,7 +7,7 @@
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/announcements/updates-to-our-free-t\
   ier-sustaining-accessible-ai-for-everyone"
-"canonical_url": "https://aihot.virxact.com/items/cmq9zl2hb0gq4slld024qqnf0"
+"canonical_url": "https://aihot.news/items/cmq9zl2hb0gq4slld024qqnf0"
 "score": 55
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenRouter 发布免费套餐更新，通过引入新模型来维持可持续的
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/announcements/updates-to-our-free-tier-sustaining-accessible-ai-for-everyone](https://openrouter.ai/blog/announcements/updates-to-our-free-tier-sustaining-accessible-ai-for-everyone)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq9zl2hb0gq4slld024qqnf0](https://aihot.virxact.com/items/cmq9zl2hb0gq4slld024qqnf0)
+- **AIHOT 链接**: [https://aihot.news/items/cmq9zl2hb0gq4slld024qqnf0](https://aihot.news/items/cmq9zl2hb0gq4slld024qqnf0)

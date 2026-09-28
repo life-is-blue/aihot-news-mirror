@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-07T17:51:24.888Z"
 "source_name": "LMSYS：Blog（Chatbot Arena 团队）"
 "original_url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang"
-"canonical_url": "https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq"
+"canonical_url": "https://aihot.news/items/cmsj8rfkl02ruroo5uvyqiqiq"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: LMSYS：Blog（Chatbot Arena 团队）
 - **原文链接**: [https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang](https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq](https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq)
+- **AIHOT 链接**: [https://aihot.news/items/cmsj8rfkl02ruroo5uvyqiqiq](https://aihot.news/items/cmsj8rfkl02ruroo5uvyqiqiq)

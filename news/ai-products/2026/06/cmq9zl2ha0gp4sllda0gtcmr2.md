@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-11T21:05:14.465Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/announcements/advisor-server-tool"
-"canonical_url": "https://aihot.virxact.com/items/cmq9zl2ha0gp4sllda0gtcmr2"
+"canonical_url": "https://aihot.news/items/cmq9zl2ha0gp4sllda0gtcmr2"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter 推出 advisor 服务器工具，允许快速、便宜的模型在生
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/announcements/advisor-server-tool](https://openrouter.ai/blog/announcements/advisor-server-tool)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq9zl2ha0gp4sllda0gtcmr2](https://aihot.virxact.com/items/cmq9zl2ha0gp4sllda0gtcmr2)
+- **AIHOT 链接**: [https://aihot.news/items/cmq9zl2ha0gp4sllda0gtcmr2](https://aihot.news/items/cmq9zl2ha0gp4sllda0gtcmr2)

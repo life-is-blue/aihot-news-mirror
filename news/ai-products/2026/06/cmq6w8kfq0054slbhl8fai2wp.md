@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-09T17:08:14.135Z"
 "source_name": "X：Fei-Fei Li (@drfeifei, World Labs)"
 "original_url": "https://x.com/drfeifei/status/2064387365930676695"
-"canonical_url": "https://aihot.virxact.com/items/cmq6w8kfq0054slbhl8fai2wp"
+"canonical_url": "https://aihot.news/items/cmq6w8kfq0054slbhl8fai2wp"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：Fei-Fei Li (@drfeifei, World Labs)
 - **原文链接**: [https://x.com/drfeifei/status/2064387365930676695](https://x.com/drfeifei/status/2064387365930676695)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq6w8kfq0054slbhl8fai2wp](https://aihot.virxact.com/items/cmq6w8kfq0054slbhl8fai2wp)
+- **AIHOT 链接**: [https://aihot.news/items/cmq6w8kfq0054slbhl8fai2wp](https://aihot.news/items/cmq6w8kfq0054slbhl8fai2wp)

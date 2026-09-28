@@ -6,7 +6,7 @@
 "discovered_at": "2026-09-03T20:45:00.146Z"
 "source_name": "X：Sherwin Wu（@sherwinwu）"
 "original_url": "https://x.com/sherwinwu/status/2095608725730119733"
-"canonical_url": "https://aihot.virxact.com/items/cmtlzumiu0soirow5cfujh2xf"
+"canonical_url": "https://aihot.news/items/cmtlzumiu0soirow5cfujh2xf"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Sherwin Wu 表示自己曾觉得 ARC-AGI-3 很难，如今该基准已被 Astra 
 
 - **来源**: X：Sherwin Wu（@sherwinwu）
 - **原文链接**: [https://x.com/sherwinwu/status/2095608725730119733](https://x.com/sherwinwu/status/2095608725730119733)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtlzumiu0soirow5cfujh2xf](https://aihot.virxact.com/items/cmtlzumiu0soirow5cfujh2xf)
+- **AIHOT 链接**: [https://aihot.news/items/cmtlzumiu0soirow5cfujh2xf](https://aihot.news/items/cmtlzumiu0soirow5cfujh2xf)

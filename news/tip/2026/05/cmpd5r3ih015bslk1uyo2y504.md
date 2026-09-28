@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-19T21:41:29.696Z"
 "source_name": "Hacker News：AI 热帖"
 "original_url": "https://github.com/antoinezambelli/forge"
-"canonical_url": "https://aihot.virxact.com/items/cmpd5r3ih015bslk1uyo2y504"
+"canonical_url": "https://aihot.news/items/cmpd5r3ih015bslk1uyo2y504"
 "score": 89
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Forge 是一个为自托管大语言模型设计的可靠性层，专注于提�
 
 - **来源**: Hacker News：AI 热帖
 - **原文链接**: [https://github.com/antoinezambelli/forge](https://github.com/antoinezambelli/forge)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpd5r3ih015bslk1uyo2y504](https://aihot.virxact.com/items/cmpd5r3ih015bslk1uyo2y504)
+- **AIHOT 链接**: [https://aihot.news/items/cmpd5r3ih015bslk1uyo2y504](https://aihot.news/items/cmpd5r3ih015bslk1uyo2y504)

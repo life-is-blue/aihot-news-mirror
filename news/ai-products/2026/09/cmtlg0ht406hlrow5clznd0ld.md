@@ -6,7 +6,7 @@
 "discovered_at": "2026-09-03T11:29:42.806Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/funes"
-"canonical_url": "https://aihot.virxact.com/items/cmtlg0ht406hlrow5clznd0ld"
+"canonical_url": "https://aihot.news/items/cmtlg0ht406hlrow5clznd0ld"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Hugging Face 发布开源工具 funes，为 Claude Code、Codex、pi、Hermes �
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/funes](https://huggingface.co/blog/funes)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtlg0ht406hlrow5clznd0ld](https://aihot.virxact.com/items/cmtlg0ht406hlrow5clznd0ld)
+- **AIHOT 链接**: [https://aihot.news/items/cmtlg0ht406hlrow5clznd0ld](https://aihot.news/items/cmtlg0ht406hlrow5clznd0ld)

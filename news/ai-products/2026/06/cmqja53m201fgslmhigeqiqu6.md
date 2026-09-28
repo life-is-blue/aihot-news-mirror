@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-18T09:10:41.519Z"
 "source_name": "公众号：月之暗面（Kimi）"
 "original_url": "https://mp.weixin.qq.com/s/KJav-s9qlkzV9yN8r6-sNg"
-"canonical_url": "https://aihot.virxact.com/items/cmqja53m201fgslmhigeqiqu6"
+"canonical_url": "https://aihot.news/items/cmqja53m201fgslmhigeqiqu6"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: 公众号：月之暗面（Kimi）
 - **原文链接**: [https://mp.weixin.qq.com/s/KJav-s9qlkzV9yN8r6-sNg](https://mp.weixin.qq.com/s/KJav-s9qlkzV9yN8r6-sNg)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqja53m201fgslmhigeqiqu6](https://aihot.virxact.com/items/cmqja53m201fgslmhigeqiqu6)
+- **AIHOT 链接**: [https://aihot.news/items/cmqja53m201fgslmhigeqiqu6](https://aihot.news/items/cmqja53m201fgslmhigeqiqu6)

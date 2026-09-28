@@ -7,7 +7,7 @@
 "source_name": "Epoch AI：研究、数据与评测"
 "original_url": "https://epoch.ai/gradient-updates/will-financing-bottleneck-ai-compute"
 "canonical_url": "https://aihot.news/items/cmtym46cp000drobx3e4ncpsk"
-"score": 66
+"score": 67
 "content_kind": "news"
 ---
 

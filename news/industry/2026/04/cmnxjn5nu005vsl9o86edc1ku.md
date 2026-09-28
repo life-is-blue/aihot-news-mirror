@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/the-ai-industry-is-running-out-of-comp\
   ute-with-outages-rationing-and-rising-gpu-prices"
-"canonical_url": "https://aihot.virxact.com/items/cmnxjn5nu005vsl9o86edc1ku"
+"canonical_url": "https://aihot.news/items/cmnxjn5nu005vsl9o86edc1ku"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ AI 智能体需求激增正与有限算力容量产生激烈冲突，引发行�
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/the-ai-industry-is-running-out-of-compute-with-outages-rationing-and-rising-gpu-prices](https://the-decoder.com/the-ai-industry-is-running-out-of-compute-with-outages-rationing-and-rising-gpu-prices)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnxjn5nu005vsl9o86edc1ku](https://aihot.virxact.com/items/cmnxjn5nu005vsl9o86edc1ku)
+- **AIHOT 链接**: [https://aihot.news/items/cmnxjn5nu005vsl9o86edc1ku](https://aihot.news/items/cmnxjn5nu005vsl9o86edc1ku)

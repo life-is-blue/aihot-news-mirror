@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-21T19:28:44.426Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://www.tomtunguz.com/spacex-s1-analysis"
-"canonical_url": "https://aihot.virxact.com/items/cmpfvw2ad0a2vsljwmiqhz1jg"
+"canonical_url": "https://aihot.news/items/cmpfvw2ad0a2vsljwmiqhz1jg"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ SpaceX在提交S-1文件后，展现为一家AI时代的企业集团。公司由
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://www.tomtunguz.com/spacex-s1-analysis](https://www.tomtunguz.com/spacex-s1-analysis)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpfvw2ad0a2vsljwmiqhz1jg](https://aihot.virxact.com/items/cmpfvw2ad0a2vsljwmiqhz1jg)
+- **AIHOT 链接**: [https://aihot.news/items/cmpfvw2ad0a2vsljwmiqhz1jg](https://aihot.news/items/cmpfvw2ad0a2vsljwmiqhz1jg)

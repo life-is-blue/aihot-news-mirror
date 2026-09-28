@@ -8,7 +8,7 @@
 "source_name": "Transluce（网页）"
 "original_url": "https://transluce.org/jailbreaking-frontier-models"
 "canonical_url": "https://aihot.news/items/cmtyo2tx503jorog01e4ibvpa"
-"score": 69
+"score": 70
 "content_kind": "news"
 ---
 

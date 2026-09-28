@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-23T19:55:29.530Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode"
-"canonical_url": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni"
+"canonical_url": "https://aihot.news/items/cmrxxl53u03q5roxp15huqnni"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/think-through-hard-problems-in-voice-mode](https://claude.com/blog/think-through-hard-problems-in-voice-mode)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni](https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni)
+- **AIHOT 链接**: [https://aihot.news/items/cmrxxl53u03q5roxp15huqnni](https://aihot.news/items/cmrxxl53u03q5roxp15huqnni)

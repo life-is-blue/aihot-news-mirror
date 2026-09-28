@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-04T02:58:47.600Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-vapi"
-"canonical_url": "https://aihot.virxact.com/items/cmpywp2ei041asli3q9bqnks0"
+"canonical_url": "https://aihot.news/items/cmpywp2ei041asli3q9bqnks0"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI 宣布与 Vapi 合作，Grok 将作为 Vapi 平台上 12 种核心语音的�
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-vapi](https://x.ai/news/grok-vapi)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpywp2ei041asli3q9bqnks0](https://aihot.virxact.com/items/cmpywp2ei041asli3q9bqnks0)
+- **AIHOT 链接**: [https://aihot.news/items/cmpywp2ei041asli3q9bqnks0](https://aihot.news/items/cmpywp2ei041asli3q9bqnks0)

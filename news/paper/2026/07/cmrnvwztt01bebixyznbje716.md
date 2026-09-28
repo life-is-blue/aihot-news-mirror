@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-16T19:11:01.192Z"
 "source_name": "Moonshot AI：Kimi Blog"
 "original_url": "https://www.kimi.com/blog/perception-bench"
-"canonical_url": "https://aihot.virxact.com/items/cmrnvwztt01bebixyznbje716"
+"canonical_url": "https://aihot.news/items/cmrnvwztt01bebixyznbje716"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Moonshot AI 发布 PerceptionBench，一个从 40 多个现有基准中模型实
 
 - **来源**: Moonshot AI：Kimi Blog
 - **原文链接**: [https://www.kimi.com/blog/perception-bench](https://www.kimi.com/blog/perception-bench)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrnvwztt01bebixyznbje716](https://aihot.virxact.com/items/cmrnvwztt01bebixyznbje716)
+- **AIHOT 链接**: [https://aihot.news/items/cmrnvwztt01bebixyznbje716](https://aihot.news/items/cmrnvwztt01bebixyznbje716)

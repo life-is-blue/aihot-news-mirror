@@ -7,7 +7,7 @@
 "source_name": "TechCrunch：AI（RSS）"
 "original_url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-\
   ais-future-in-hollywood-with-a24-deal"
-"canonical_url": "https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn"
+"canonical_url": "https://aihot.news/items/cmqpl4smd01j1slp5npj3krmn"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google DeepMind 宣布向独立电影制片厂 A24 投资 7500 万美元（据�
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal](https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn](https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn)
+- **AIHOT 链接**: [https://aihot.news/items/cmqpl4smd01j1slp5npj3krmn](https://aihot.news/items/cmqpl4smd01j1slp5npj3krmn)

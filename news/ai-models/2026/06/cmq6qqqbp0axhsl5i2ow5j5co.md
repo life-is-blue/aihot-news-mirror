@@ -7,7 +7,7 @@
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified\
   -encoder-free-multimodal-model"
-"canonical_url": "https://aihot.virxact.com/items/cmq6qqqbp0axhsl5i2ow5j5co"
+"canonical_url": "https://aihot.news/items/cmq6qqqbp0axhsl5i2ow5j5co"
 "score": 80
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Gemma 4 12B 是 Google DeepMind 最新推出的中等规模多模态模型，采
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model](https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq6qqqbp0axhsl5i2ow5j5co](https://aihot.virxact.com/items/cmq6qqqbp0axhsl5i2ow5j5co)
+- **AIHOT 链接**: [https://aihot.news/items/cmq6qqqbp0axhsl5i2ow5j5co](https://aihot.news/items/cmq6qqqbp0axhsl5i2ow5j5co)

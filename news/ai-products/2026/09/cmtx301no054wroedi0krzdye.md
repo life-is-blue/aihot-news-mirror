@@ -7,7 +7,7 @@
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/insights/fusion-explainer"
 "canonical_url": "https://aihot.news/items/cmtx301no054wroedi0krzdye"
-"score": 66
+"score": 67
 "content_kind": "news"
 ---
 

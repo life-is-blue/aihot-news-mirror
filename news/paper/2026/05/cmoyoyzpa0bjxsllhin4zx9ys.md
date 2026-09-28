@@ -7,7 +7,7 @@
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/\
   oncoagent-official-paper"
-"canonical_url": "https://aihot.virxact.com/items/cmoyoyzpa0bjxsllhin4zx9ys"
+"canonical_url": "https://aihot.news/items/cmoyoyzpa0bjxsllhin4zx9ys"
 "score": 68
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper](https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoyoyzpa0bjxsllhin4zx9ys](https://aihot.virxact.com/items/cmoyoyzpa0bjxsllhin4zx9ys)
+- **AIHOT 链接**: [https://aihot.news/items/cmoyoyzpa0bjxsllhin4zx9ys](https://aihot.news/items/cmoyoyzpa0bjxsllhin4zx9ys)

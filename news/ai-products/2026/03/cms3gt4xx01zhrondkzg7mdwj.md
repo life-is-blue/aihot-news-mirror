@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-30T00:00:00.000Z"
 "source_name": "Claude Platform：开发者版本说明（RSS）"
 "original_url": "https://platform.claude.com/docs/en/release-notes/overview#march-30-2026"
-"canonical_url": "https://aihot.virxact.com/items/cms3gt4xx01zhrondkzg7mdwj"
+"canonical_url": "https://aihot.news/items/cms3gt4xx01zhrondkzg7mdwj"
 "score": 68
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude 将 Message Batches API 中 Opus 4.6 和 Sonnet 4.6 的 max_tokens 上限
 
 - **来源**: Claude Platform：开发者版本说明（RSS）
 - **原文链接**: [https://platform.claude.com/docs/en/release-notes/overview#march-30-2026](https://platform.claude.com/docs/en/release-notes/overview#march-30-2026)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3gt4xx01zhrondkzg7mdwj](https://aihot.virxact.com/items/cms3gt4xx01zhrondkzg7mdwj)
+- **AIHOT 链接**: [https://aihot.news/items/cms3gt4xx01zhrondkzg7mdwj](https://aihot.news/items/cms3gt4xx01zhrondkzg7mdwj)

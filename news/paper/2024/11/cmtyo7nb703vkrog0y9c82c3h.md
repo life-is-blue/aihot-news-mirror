@@ -7,7 +7,7 @@
 "source_name": "METR：Research（网页）"
 "original_url": "https://metr.org/blog/2024-11-22-evaluating-r-d-capabilities-of-llms"
 "canonical_url": "https://aihot.news/items/cmtyo7nb703vkrog0y9c82c3h"
-"score": 61
+"score": 62
 "content_kind": "news"
 ---
 

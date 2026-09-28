@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-16T23:12:55.000Z"
 "source_name": "X：唐杰（@jietang）"
 "original_url": "https://x.com/jietang/status/2067022641949814893"
-"canonical_url": "https://aihot.virxact.com/items/cmry2rl7o0007roqag9yhctpu"
+"canonical_url": "https://aihot.news/items/cmry2rl7o0007roqag9yhctpu"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：唐杰（@jietang）
 - **原文链接**: [https://x.com/jietang/status/2067022641949814893](https://x.com/jietang/status/2067022641949814893)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmry2rl7o0007roqag9yhctpu](https://aihot.virxact.com/items/cmry2rl7o0007roqag9yhctpu)
+- **AIHOT 链接**: [https://aihot.news/items/cmry2rl7o0007roqag9yhctpu](https://aihot.news/items/cmry2rl7o0007roqag9yhctpu)

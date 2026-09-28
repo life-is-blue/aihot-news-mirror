@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-03T18:23:17.807Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork"
-"canonical_url": "https://aihot.virxact.com/items/cmpyea69u04bbslaxtvjhkei8"
+"canonical_url": "https://aihot.news/items/cmpyea69u04bbslaxtvjhkei8"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 增长营销负责人 Austin Lau 介绍了非技术知识工作者使�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork](https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpyea69u04bbslaxtvjhkei8](https://aihot.virxact.com/items/cmpyea69u04bbslaxtvjhkei8)
+- **AIHOT 链接**: [https://aihot.news/items/cmpyea69u04bbslaxtvjhkei8](https://aihot.news/items/cmpyea69u04bbslaxtvjhkei8)

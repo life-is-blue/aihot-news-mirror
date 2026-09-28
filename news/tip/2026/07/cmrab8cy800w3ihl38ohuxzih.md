@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-07T07:10:59.560Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals"
-"canonical_url": "https://aihot.virxact.com/items/cmrab8cy800w3ihl38ohuxzih"
+"canonical_url": "https://aihot.news/items/cmrab8cy800w3ihl38ohuxzih"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrab8cy800w3ihl38ohuxzih](https://aihot.virxact.com/items/cmrab8cy800w3ihl38ohuxzih)
+- **AIHOT 链接**: [https://aihot.news/items/cmrab8cy800w3ihl38ohuxzih](https://aihot.news/items/cmrab8cy800w3ihl38ohuxzih)

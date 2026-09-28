@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-18T23:58:20.069Z"
 "source_name": "X：Rohan Paul (@rohanpaul_ai)"
 "original_url": "https://x.com/rohanpaul_ai/status/2067755504613613699"
-"canonical_url": "https://aihot.virxact.com/items/cmqk5umoz03d0slhi4qnma1r3"
+"canonical_url": "https://aihot.news/items/cmqk5umoz03d0slhi4qnma1r3"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ AI 员工 Viktor 在 Slack 上实现 2000 万美元年化收入（无销售团�
 
 - **来源**: X：Rohan Paul (@rohanpaul_ai)
 - **原文链接**: [https://x.com/rohanpaul_ai/status/2067755504613613699](https://x.com/rohanpaul_ai/status/2067755504613613699)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqk5umoz03d0slhi4qnma1r3](https://aihot.virxact.com/items/cmqk5umoz03d0slhi4qnma1r3)
+- **AIHOT 链接**: [https://aihot.news/items/cmqk5umoz03d0slhi4qnma1r3](https://aihot.news/items/cmqk5umoz03d0slhi4qnma1r3)

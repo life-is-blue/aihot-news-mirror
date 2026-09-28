@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-04T15:05:37.147Z"
 "source_name": "X：Rohan Paul (@rohanpaul_ai)"
 "original_url": "https://x.com/rohanpaul_ai/status/2084655258102546579"
-"canonical_url": "https://aihot.virxact.com/items/cmsesile415d4ro2evb21j3n0"
+"canonical_url": "https://aihot.news/items/cmsesile415d4ro2evb21j3n0"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力�
 
 - **来源**: X：Rohan Paul (@rohanpaul_ai)
 - **原文链接**: [https://x.com/rohanpaul_ai/status/2084655258102546579](https://x.com/rohanpaul_ai/status/2084655258102546579)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsesile415d4ro2evb21j3n0](https://aihot.virxact.com/items/cmsesile415d4ro2evb21j3n0)
+- **AIHOT 链接**: [https://aihot.news/items/cmsesile415d4ro2evb21j3n0](https://aihot.news/items/cmsesile415d4ro2evb21j3n0)

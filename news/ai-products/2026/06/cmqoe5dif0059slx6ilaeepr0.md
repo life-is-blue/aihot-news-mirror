@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-21T23:01:43.610Z"
 "source_name": "Simon Willison 博客"
 "original_url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts"
-"canonical_url": "https://aihot.virxact.com/items/cmqoe5dif0059slx6ilaeepr0"
+"canonical_url": "https://aihot.news/items/cmqoe5dif0059slx6ilaeepr0"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Cloudflare 推出临时账户功能，无需注册即可通过 `npx wrangler dep
 
 - **来源**: Simon Willison 博客
 - **原文链接**: [https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts](https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqoe5dif0059slx6ilaeepr0](https://aihot.virxact.com/items/cmqoe5dif0059slx6ilaeepr0)
+- **AIHOT 链接**: [https://aihot.news/items/cmqoe5dif0059slx6ilaeepr0](https://aihot.news/items/cmqoe5dif0059slx6ilaeepr0)

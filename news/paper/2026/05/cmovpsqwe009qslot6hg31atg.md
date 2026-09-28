@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-07T16:42:47.735Z"
 "source_name": "X：智谱 Z.ai (@Zai_org)"
 "original_url": "https://x.com/Zai_org/status/2052426777654387168"
-"canonical_url": "https://aihot.virxact.com/items/cmovpsqwe009qslot6hg31atg"
+"canonical_url": "https://aihot.news/items/cmovpsqwe009qslot6hg31atg"
 "score": 73
 "content_kind": "news"
 ---
@@ -20,4 +20,4 @@ http://arxiv.org/abs/2604.26752
 
 - **来源**: X：智谱 Z.ai (@Zai_org)
 - **原文链接**: [https://x.com/Zai_org/status/2052426777654387168](https://x.com/Zai_org/status/2052426777654387168)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmovpsqwe009qslot6hg31atg](https://aihot.virxact.com/items/cmovpsqwe009qslot6hg31atg)
+- **AIHOT 链接**: [https://aihot.news/items/cmovpsqwe009qslot6hg31atg](https://aihot.news/items/cmovpsqwe009qslot6hg31atg)

@@ -6,7 +6,7 @@
 "discovered_at": "2025-08-07T00:00:00.000Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/announcements/gpt-5-is-now-live"
-"canonical_url": "https://aihot.virxact.com/items/cmor004i90077slixdnkan158"
+"canonical_url": "https://aihot.news/items/cmor004i90077slixdnkan158"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ GPT-5 已在 OpenRouter 平台正式推出。该模型具备长上下文处理�
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/announcements/gpt-5-is-now-live](https://openrouter.ai/announcements/gpt-5-is-now-live)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmor004i90077slixdnkan158](https://aihot.virxact.com/items/cmor004i90077slixdnkan158)
+- **AIHOT 链接**: [https://aihot.news/items/cmor004i90077slixdnkan158](https://aihot.news/items/cmor004i90077slixdnkan158)

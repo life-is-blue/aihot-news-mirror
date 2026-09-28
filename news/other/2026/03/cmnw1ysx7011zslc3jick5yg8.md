@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-17T20:26:09.000Z"
 "source_name": "X：Greg Brockman (@gdb)"
 "original_url": "https://x.com/gdb/status/2034003374627049909"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1ysx7011zslc3jick5yg8"
+"canonical_url": "https://aihot.news/items/cmnw1ysx7011zslc3jick5yg8"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 发布 GPT-5.4 mini，已在 ChatGPT、Codex 及 API 上线。针对编�
 
 - **来源**: X：Greg Brockman (@gdb)
 - **原文链接**: [https://x.com/gdb/status/2034003374627049909](https://x.com/gdb/status/2034003374627049909)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1ysx7011zslc3jick5yg8](https://aihot.virxact.com/items/cmnw1ysx7011zslc3jick5yg8)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1ysx7011zslc3jick5yg8](https://aihot.news/items/cmnw1ysx7011zslc3jick5yg8)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-28T00:00:00.000Z"
 "source_name": "Apple Machine Learning Research（RSS）"
 "original_url": "https://machinelearning.apple.com/research/ladir"
-"canonical_url": "https://aihot.virxact.com/items/cmor004mh009xslix30uoekkb"
+"canonical_url": "https://aihot.news/items/cmor004mh009xslix30uoekkb"
 "score": 62
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Apple Machine Learning Research（RSS）
 - **原文链接**: [https://machinelearning.apple.com/research/ladir](https://machinelearning.apple.com/research/ladir)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmor004mh009xslix30uoekkb](https://aihot.virxact.com/items/cmor004mh009xslix30uoekkb)
+- **AIHOT 链接**: [https://aihot.news/items/cmor004mh009xslix30uoekkb](https://aihot.news/items/cmor004mh009xslix30uoekkb)

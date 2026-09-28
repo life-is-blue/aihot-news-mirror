@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-17T15:29:35.819Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/claude-design-anthropic-labs"
-"canonical_url": "https://aihot.virxact.com/items/cmo32dnbd0524slbana1a5pqh"
+"canonical_url": "https://aihot.news/items/cmo32dnbd0524slbana1a5pqh"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic Labs 推出 Claude Design，由 Claude Opus 4.7 驱动的视觉设计�
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/claude-design-anthropic-labs](https://www.anthropic.com/news/claude-design-anthropic-labs)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmo32dnbd0524slbana1a5pqh](https://aihot.virxact.com/items/cmo32dnbd0524slbana1a5pqh)
+- **AIHOT 链接**: [https://aihot.news/items/cmo32dnbd0524slbana1a5pqh](https://aihot.news/items/cmo32dnbd0524slbana1a5pqh)

@@ -7,7 +7,7 @@
 "source_name": "GitHub Blog"
 "original_url": "https://github.blog/news-insights/product-news/take-your-local\
   -github-sessions-anywhere"
-"canonical_url": "https://aihot.virxact.com/items/cmpbg92bf174tslnzgr9bjsyy"
+"canonical_url": "https://aihot.news/items/cmpbg92bf174tslnzgr9bjsyy"
 "score": 69
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ GitHub为Copilot功能推出了远程控制会话能力，并已全面上线。�
 
 - **来源**: GitHub Blog
 - **原文链接**: [https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere](https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpbg92bf174tslnzgr9bjsyy](https://aihot.virxact.com/items/cmpbg92bf174tslnzgr9bjsyy)
+- **AIHOT 链接**: [https://aihot.news/items/cmpbg92bf174tslnzgr9bjsyy](https://aihot.news/items/cmpbg92bf174tslnzgr9bjsyy)

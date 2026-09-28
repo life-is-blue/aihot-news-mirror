@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-13T18:31:16.611Z"
 "source_name": "X：Suno (@suno)"
 "original_url": "https://x.com/suno/status/2065862499765821916"
-"canonical_url": "https://aihot.virxact.com/items/cmqcoyrfo00ieslttjd60zi3a"
+"canonical_url": "https://aihot.news/items/cmqcoyrfo00ieslttjd60zi3a"
 "score": 70
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@
 
 - **来源**: X：Suno (@suno)
 - **原文链接**: [https://x.com/suno/status/2065862499765821916](https://x.com/suno/status/2065862499765821916)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqcoyrfo00ieslttjd60zi3a](https://aihot.virxact.com/items/cmqcoyrfo00ieslttjd60zi3a)
+- **AIHOT 链接**: [https://aihot.news/items/cmqcoyrfo00ieslttjd60zi3a](https://aihot.news/items/cmqcoyrfo00ieslttjd60zi3a)

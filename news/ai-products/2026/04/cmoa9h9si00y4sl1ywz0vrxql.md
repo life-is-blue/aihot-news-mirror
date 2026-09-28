@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-22T16:22:45.963Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets"
-"canonical_url": "https://aihot.virxact.com/items/cmoa9h9si00y4sl1ywz0vrxql"
+"canonical_url": "https://aihot.news/items/cmoa9h9si00y4sl1ywz0vrxql"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Responses API 集成 WebSockets 技术优化 Codex 智能体循环架构。通�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/speeding-up-agentic-workflows-with-websockets](https://openai.com/index/speeding-up-agentic-workflows-with-websockets)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoa9h9si00y4sl1ywz0vrxql](https://aihot.virxact.com/items/cmoa9h9si00y4sl1ywz0vrxql)
+- **AIHOT 链接**: [https://aihot.news/items/cmoa9h9si00y4sl1ywz0vrxql](https://aihot.news/items/cmoa9h9si00y4sl1ywz0vrxql)

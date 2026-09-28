@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-05T13:36:54.646Z"
 "source_name": "X：面壁智能 OpenBMB (@OpenBMB)"
 "original_url": "https://x.com/OpenBMB/status/2062889699056984281"
-"canonical_url": "https://aihot.virxact.com/items/cmq0yxent0avgsltr8x9ya6jn"
+"canonical_url": "https://aihot.news/items/cmq0yxent0avgsltr8x9ya6jn"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：面壁智能 OpenBMB (@OpenBMB)
 - **原文链接**: [https://x.com/OpenBMB/status/2062889699056984281](https://x.com/OpenBMB/status/2062889699056984281)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq0yxent0avgsltr8x9ya6jn](https://aihot.virxact.com/items/cmq0yxent0avgsltr8x9ya6jn)
+- **AIHOT 链接**: [https://aihot.news/items/cmq0yxent0avgsltr8x9ya6jn](https://aihot.news/items/cmq0yxent0avgsltr8x9ya6jn)

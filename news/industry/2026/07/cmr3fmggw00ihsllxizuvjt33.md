@@ -7,7 +7,7 @@
 "source_name": "Ars Technica：AI（RSS）"
 "original_url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-3\
   7-increase-in-electricity-use-in-2025"
-"canonical_url": "https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33"
+"canonical_url": "https://aihot.news/items/cmr3fmggw00ihsllxizuvjt33"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Ars Technica：AI（RSS）
 - **原文链接**: [https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025](https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33](https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33)
+- **AIHOT 链接**: [https://aihot.news/items/cmr3fmggw00ihsllxizuvjt33](https://aihot.news/items/cmr3fmggw00ihsllxizuvjt33)

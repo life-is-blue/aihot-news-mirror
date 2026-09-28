@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-19T00:00:00.000Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/insights/deepseek-v4-adoption"
-"canonical_url": "https://aihot.virxact.com/items/cmr0yepqh0056slw8l1sxwikz"
+"canonical_url": "https://aihot.news/items/cmr0yepqh0056slw8l1sxwikz"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ DeepSeek 于4月24日发布新一代旗舰模型 V4 系列。OpenRouter 数据�
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/insights/deepseek-v4-adoption](https://openrouter.ai/blog/insights/deepseek-v4-adoption)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr0yepqh0056slw8l1sxwikz](https://aihot.virxact.com/items/cmr0yepqh0056slw8l1sxwikz)
+- **AIHOT 链接**: [https://aihot.news/items/cmr0yepqh0056slw8l1sxwikz](https://aihot.news/items/cmr0yepqh0056slw8l1sxwikz)

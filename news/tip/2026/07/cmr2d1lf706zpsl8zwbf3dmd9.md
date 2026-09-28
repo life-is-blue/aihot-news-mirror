@@ -7,7 +7,7 @@
 "source_name": "Meta Engineering Blog（RSS）"
 "original_url": "https://engineering.fb.com/2026/07/01/data-infrastructure/meta\
   s-ai-storage-blueprint-at-scale"
-"canonical_url": "https://aihot.virxact.com/items/cmr2d1lf706zpsl8zwbf3dmd9"
+"canonical_url": "https://aihot.news/items/cmr2d1lf706zpsl8zwbf3dmd9"
 "score": 71
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Meta 运营数百 EB 级存储集群，基于 Tectonic 分层存储层构建 BLO
 
 - **来源**: Meta Engineering Blog（RSS）
 - **原文链接**: [https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale](https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr2d1lf706zpsl8zwbf3dmd9](https://aihot.virxact.com/items/cmr2d1lf706zpsl8zwbf3dmd9)
+- **AIHOT 链接**: [https://aihot.news/items/cmr2d1lf706zpsl8zwbf3dmd9](https://aihot.news/items/cmr2d1lf706zpsl8zwbf3dmd9)

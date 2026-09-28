@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-04T16:45:02.138Z"
 "source_name": "Google Developers Blog（RSS）"
 "original_url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing"
-"canonical_url": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8"
+"canonical_url": "https://aihot.news/items/cmsew3l4y18qhro2edk0yaat8"
 "score": 61
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google Cloud API Gateway 新增模型路由功能（Public Preview），开发�
 
 - **来源**: Google Developers Blog（RSS）
 - **原文链接**: [https://developers.googleblog.com/a-unified-api-for-ai-model-routing](https://developers.googleblog.com/a-unified-api-for-ai-model-routing)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8](https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8)
+- **AIHOT 链接**: [https://aihot.news/items/cmsew3l4y18qhro2edk0yaat8](https://aihot.news/items/cmsew3l4y18qhro2edk0yaat8)

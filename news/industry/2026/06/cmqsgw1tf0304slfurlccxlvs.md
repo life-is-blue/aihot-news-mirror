@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access\
   -anthropic-tool.html"
-"canonical_url": "https://aihot.virxact.com/items/cmqsgw1tf0304slfurlccxlvs"
+"canonical_url": "https://aihot.news/items/cmqsgw1tf0304slfurlccxlvs"
 "score": 71
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html](https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqsgw1tf0304slfurlccxlvs](https://aihot.virxact.com/items/cmqsgw1tf0304slfurlccxlvs)
+- **AIHOT 链接**: [https://aihot.news/items/cmqsgw1tf0304slfurlccxlvs](https://aihot.news/items/cmqsgw1tf0304slfurlccxlvs)

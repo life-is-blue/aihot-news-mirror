@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/only-three-ai-models-finished-above-st\
   arting-capital-in-a-500-day-startup-survival-test"
-"canonical_url": "https://aihot.virxact.com/items/cmqxnrjtc004ssljh9zvejgbo"
+"canonical_url": "https://aihot.news/items/cmqxnrjtc004ssljh9zvejgbo"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test](https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqxnrjtc004ssljh9zvejgbo](https://aihot.virxact.com/items/cmqxnrjtc004ssljh9zvejgbo)
+- **AIHOT 链接**: [https://aihot.news/items/cmqxnrjtc004ssljh9zvejgbo](https://aihot.news/items/cmqxnrjtc004ssljh9zvejgbo)

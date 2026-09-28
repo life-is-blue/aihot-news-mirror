@@ -6,7 +6,7 @@
 "discovered_at": "2026-02-09T00:00:00.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/transformersjs-v4"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhaj009hslxxl3fxwpvy"
+"canonical_url": "https://aihot.news/items/cmoegbhaj009hslxxl3fxwpvy"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Transformers.js 发布第四个主要版本 v4，该版本现已通过 NPM 包�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/transformersjs-v4](https://huggingface.co/blog/transformersjs-v4)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhaj009hslxxl3fxwpvy](https://aihot.virxact.com/items/cmoegbhaj009hslxxl3fxwpvy)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhaj009hslxxl3fxwpvy](https://aihot.news/items/cmoegbhaj009hslxxl3fxwpvy)

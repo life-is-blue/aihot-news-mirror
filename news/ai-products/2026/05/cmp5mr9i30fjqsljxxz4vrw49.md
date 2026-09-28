@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-14T15:15:11.804Z"
 "source_name": "X：Perplexity (@perplexity_ai)"
 "original_url": "https://x.com/perplexity_ai/status/2054941905633612059"
-"canonical_url": "https://aihot.virxact.com/items/cmp5mr9i30fjqsljxxz4vrw49"
+"canonical_url": "https://aihot.news/items/cmp5mr9i30fjqsljxxz4vrw49"
 "score": 68
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@
 
 - **来源**: X：Perplexity (@perplexity_ai)
 - **原文链接**: [https://x.com/perplexity_ai/status/2054941905633612059](https://x.com/perplexity_ai/status/2054941905633612059)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp5mr9i30fjqsljxxz4vrw49](https://aihot.virxact.com/items/cmp5mr9i30fjqsljxxz4vrw49)
+- **AIHOT 链接**: [https://aihot.news/items/cmp5mr9i30fjqsljxxz4vrw49](https://aihot.news/items/cmp5mr9i30fjqsljxxz4vrw49)

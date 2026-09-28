@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-30T20:28:51.065Z"
 "source_name": "X：Gemini (@GeminiApp)"
 "original_url": "https://x.com/GeminiApp/status/2082923048362299629"
-"canonical_url": "https://aihot.virxact.com/items/cms7yv0bp02mwro20ov2cktzi"
+"canonical_url": "https://aihot.news/items/cms7yv0bp02mwro20ov2cktzi"
 "score": 70
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Gemini Spark 现已与 Google Chrome 的自动浏览功能集成。经你许可�
 
 - **来源**: X：Gemini (@GeminiApp)
 - **原文链接**: [https://x.com/GeminiApp/status/2082923048362299629](https://x.com/GeminiApp/status/2082923048362299629)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms7yv0bp02mwro20ov2cktzi](https://aihot.virxact.com/items/cms7yv0bp02mwro20ov2cktzi)
+- **AIHOT 链接**: [https://aihot.news/items/cms7yv0bp02mwro20ov2cktzi](https://aihot.news/items/cms7yv0bp02mwro20ov2cktzi)

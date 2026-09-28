@@ -6,7 +6,7 @@
 "discovered_at": "2025-02-18T07:04:05.000Z"
 "source_name": "X：DeepSeek (@deepseek_ai)"
 "original_url": "https://x.com/deepseek_ai/status/1891745487071609327"
-"canonical_url": "https://aihot.virxact.com/items/cmo77611u003hslhea6kr5k19"
+"canonical_url": "https://aihot.news/items/cmo77611u003hslhea6kr5k19"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ NSA是一种硬件对齐且原生可训练的稀疏注意力机制，专为超�
 
 - **来源**: X：DeepSeek (@deepseek_ai)
 - **原文链接**: [https://x.com/deepseek_ai/status/1891745487071609327](https://x.com/deepseek_ai/status/1891745487071609327)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmo77611u003hslhea6kr5k19](https://aihot.virxact.com/items/cmo77611u003hslhea6kr5k19)
+- **AIHOT 链接**: [https://aihot.news/items/cmo77611u003hslhea6kr5k19](https://aihot.news/items/cmo77611u003hslhea6kr5k19)

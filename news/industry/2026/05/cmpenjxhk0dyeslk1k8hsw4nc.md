@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-20T22:47:34.489Z"
 "source_name": "X：Elon Musk (@elonmusk, xAI)"
 "original_url": "https://x.com/elonmusk/status/2057228707606196434"
-"canonical_url": "https://aihot.virxact.com/items/cmpenjxhk0dyeslk1k8hsw4nc"
+"canonical_url": "https://aihot.news/items/cmpenjxhk0dyeslk1k8hsw4nc"
 "score": 80
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@
 
 - **来源**: X：Elon Musk (@elonmusk, xAI)
 - **原文链接**: [https://x.com/elonmusk/status/2057228707606196434](https://x.com/elonmusk/status/2057228707606196434)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpenjxhk0dyeslk1k8hsw4nc](https://aihot.virxact.com/items/cmpenjxhk0dyeslk1k8hsw4nc)
+- **AIHOT 链接**: [https://aihot.news/items/cmpenjxhk0dyeslk1k8hsw4nc](https://aihot.news/items/cmpenjxhk0dyeslk1k8hsw4nc)

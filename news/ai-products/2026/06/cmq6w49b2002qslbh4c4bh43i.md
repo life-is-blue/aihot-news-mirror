@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-09T17:04:38.254Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-gopuff"
-"canonical_url": "https://aihot.virxact.com/items/cmq6w49b2002qslbh4c4bh43i"
+"canonical_url": "https://aihot.news/items/cmq6w49b2002qslbh4c4bh43i"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Gopuff与SpaceXAI合作推出Go智能购物助手，内置于Gopuff应用，由G
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-gopuff](https://x.ai/news/grok-gopuff)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq6w49b2002qslbh4c4bh43i](https://aihot.virxact.com/items/cmq6w49b2002qslbh4c4bh43i)
+- **AIHOT 链接**: [https://aihot.news/items/cmq6w49b2002qslbh4c4bh43i](https://aihot.news/items/cmq6w49b2002qslbh4c4bh43i)

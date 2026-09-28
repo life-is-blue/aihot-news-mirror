@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-29T18:38:53.110Z"
 "source_name": "X：OpenAI (@OpenAI)"
 "original_url": "https://x.com/OpenAI/status/2060428604727771421"
-"canonical_url": "https://aihot.virxact.com/items/cmpr9mxrd0c40slnoz5qvsa20"
+"canonical_url": "https://aihot.news/items/cmpr9mxrd0c40slnoz5qvsa20"
 "score": 73
 "content_kind": "news"
 ---
@@ -23,4 +23,4 @@ Windows用户，这条消息是给你的。
 
 - **来源**: X：OpenAI (@OpenAI)
 - **原文链接**: [https://x.com/OpenAI/status/2060428604727771421](https://x.com/OpenAI/status/2060428604727771421)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpr9mxrd0c40slnoz5qvsa20](https://aihot.virxact.com/items/cmpr9mxrd0c40slnoz5qvsa20)
+- **AIHOT 链接**: [https://aihot.news/items/cmpr9mxrd0c40slnoz5qvsa20](https://aihot.news/items/cmpr9mxrd0c40slnoz5qvsa20)

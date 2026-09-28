@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-01T03:39:41.634Z"
 "source_name": "MiniMax：Blog（网页）"
 "original_url": "https://www.minimax.io/blog/minimax-m3"
-"canonical_url": "https://aihot.virxact.com/items/cmpunu0g50002slbrlfonpoc3"
+"canonical_url": "https://aihot.news/items/cmpunu0g50002slbrlfonpoc3"
 "score": 83
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ MiniMax M3 是一个开源前沿模型，具备先进的编码与AI智能体能�
 
 - **来源**: MiniMax：Blog（网页）
 - **原文链接**: [https://www.minimax.io/blog/minimax-m3](https://www.minimax.io/blog/minimax-m3)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpunu0g50002slbrlfonpoc3](https://aihot.virxact.com/items/cmpunu0g50002slbrlfonpoc3)
+- **AIHOT 链接**: [https://aihot.news/items/cmpunu0g50002slbrlfonpoc3](https://aihot.news/items/cmpunu0g50002slbrlfonpoc3)

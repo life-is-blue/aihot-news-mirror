@@ -7,7 +7,7 @@
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/the-full-claude-desktop-experience-on-\
   aws-google-cloud-and-microsoft-foundry"
-"canonical_url": "https://aihot.virxact.com/items/cmqppyj5702txslp5d7ahupmr"
+"canonical_url": "https://aihot.news/items/cmqppyj5702txslp5d7ahupmr"
 "score": 55
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry](https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqppyj5702txslp5d7ahupmr](https://aihot.virxact.com/items/cmqppyj5702txslp5d7ahupmr)
+- **AIHOT 链接**: [https://aihot.news/items/cmqppyj5702txslp5d7ahupmr](https://aihot.news/items/cmqppyj5702txslp5d7ahupmr)

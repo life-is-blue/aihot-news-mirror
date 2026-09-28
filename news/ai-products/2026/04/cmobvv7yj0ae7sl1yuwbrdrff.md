@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-23T19:37:13.684Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/claude-managed-agents-memory"
-"canonical_url": "https://aihot.virxact.com/items/cmobvv7yj0ae7sl1yuwbrdrff"
+"canonical_url": "https://aihot.news/items/cmobvv7yj0ae7sl1yuwbrdrff"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Managed Agents 推出内置记忆功能，现已进入公测阶段。该�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/claude-managed-agents-memory](https://claude.com/blog/claude-managed-agents-memory)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmobvv7yj0ae7sl1yuwbrdrff](https://aihot.virxact.com/items/cmobvv7yj0ae7sl1yuwbrdrff)
+- **AIHOT 链接**: [https://aihot.news/items/cmobvv7yj0ae7sl1yuwbrdrff](https://aihot.news/items/cmobvv7yj0ae7sl1yuwbrdrff)

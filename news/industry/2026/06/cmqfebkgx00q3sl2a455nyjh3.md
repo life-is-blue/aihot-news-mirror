@@ -7,7 +7,7 @@
 "source_name": "TechCrunch：AI（RSS）"
 "original_url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-d\
   angerous-us-government-ban-on-anthropics-most-powerful-models"
-"canonical_url": "https://aihot.virxact.com/items/cmqfebkgx00q3sl2a455nyjh3"
+"canonical_url": "https://aihot.news/items/cmqfebkgx00q3sl2a455nyjh3"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models](https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqfebkgx00q3sl2a455nyjh3](https://aihot.virxact.com/items/cmqfebkgx00q3sl2a455nyjh3)
+- **AIHOT 链接**: [https://aihot.news/items/cmqfebkgx00q3sl2a455nyjh3](https://aihot.news/items/cmqfebkgx00q3sl2a455nyjh3)

@@ -8,7 +8,7 @@
 "original_url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-\
   sol-and-luna-50-cheaper-api-pricing-and-benchmarks"
 "canonical_url": "https://aihot.news/items/cmudnpv0k0hrrrogg9gcyun5n"
-"score": 81
+"score": 82
 "content_kind": "news"
 ---
 

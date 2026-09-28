@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-20T17:49:03.133Z"
 "source_name": "Gary Marcus：The Road to AI We Can Trust（RSS）"
 "original_url": "https://garymarcus.substack.com/p/china-has-all-but-caught-up-the-us"
-"canonical_url": "https://aihot.virxact.com/items/cmrtiqzfu3mx9bitlx9vw60wj"
+"canonical_url": "https://aihot.news/items/cmrtiqzfu3mx9bitlx9vw60wj"
 "score": 61
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Gary Marcus：The Road to AI We Can Trust（RSS）
 - **原文链接**: [https://garymarcus.substack.com/p/china-has-all-but-caught-up-the-us](https://garymarcus.substack.com/p/china-has-all-but-caught-up-the-us)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrtiqzfu3mx9bitlx9vw60wj](https://aihot.virxact.com/items/cmrtiqzfu3mx9bitlx9vw60wj)
+- **AIHOT 链接**: [https://aihot.news/items/cmrtiqzfu3mx9bitlx9vw60wj](https://aihot.news/items/cmrtiqzfu3mx9bitlx9vw60wj)

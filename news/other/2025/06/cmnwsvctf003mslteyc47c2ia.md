@@ -6,7 +6,7 @@
 "discovered_at": "2025-06-01T22:17:53.000Z"
 "source_name": "Ethan Mollick：One Useful Thing（RSS）"
 "original_url": "https://www.oneusefulthing.org/p/the-recent-history-of-ai-in-32-otters"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsvctf003mslteyc47c2ia"
+"canonical_url": "https://aihot.news/items/cmnwsvctf003mslteyc47c2ia"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Ethan Mollick：One Useful Thing（RSS）
 - **原文链接**: [https://www.oneusefulthing.org/p/the-recent-history-of-ai-in-32-otters](https://www.oneusefulthing.org/p/the-recent-history-of-ai-in-32-otters)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsvctf003mslteyc47c2ia](https://aihot.virxact.com/items/cmnwsvctf003mslteyc47c2ia)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsvctf003mslteyc47c2ia](https://aihot.news/items/cmnwsvctf003mslteyc47c2ia)

@@ -8,7 +8,7 @@
 "original_url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-ma\
   c-studio-are-available-today"
 "canonical_url": "https://aihot.news/items/cmucoqh360i0jroedps8dr2es"
-"score": 64
+"score": 65
 "content_kind": "news"
 ---
 

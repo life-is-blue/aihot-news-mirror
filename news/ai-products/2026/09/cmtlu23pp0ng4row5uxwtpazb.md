@@ -6,7 +6,7 @@
 "discovered_at": "2026-09-03T18:02:33.253Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/designing-grok-bot"
-"canonical_url": "https://aihot.virxact.com/items/cmtlu23pp0ng4row5uxwtpazb"
+"canonical_url": "https://aihot.news/items/cmtlu23pp0ng4row5uxwtpazb"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI 发布设计文章，介绍 Grok Bot 如何为超越单次会话的持久化
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/designing-grok-bot](https://x.ai/news/designing-grok-bot)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtlu23pp0ng4row5uxwtpazb](https://aihot.virxact.com/items/cmtlu23pp0ng4row5uxwtpazb)
+- **AIHOT 链接**: [https://aihot.news/items/cmtlu23pp0ng4row5uxwtpazb](https://aihot.news/items/cmtlu23pp0ng4row5uxwtpazb)

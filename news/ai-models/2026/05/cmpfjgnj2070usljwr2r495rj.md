@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-21T13:40:36.679Z"
 "source_name": "X：通义千问 / Qwen (@Alibaba_Qwen)"
 "original_url": "https://x.com/Alibaba_Qwen/status/2057450220708147250"
-"canonical_url": "https://aihot.virxact.com/items/cmpfjgnj2070usljwr2r495rj"
+"canonical_url": "https://aihot.news/items/cmpfjgnj2070usljwr2r495rj"
 "score": 82
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Qwen3.7-Max是Qwen系列面向Agent时代推出的最新旗舰模型，旨在为
 
 - **来源**: X：通义千问 / Qwen (@Alibaba_Qwen)
 - **原文链接**: [https://x.com/Alibaba_Qwen/status/2057450220708147250](https://x.com/Alibaba_Qwen/status/2057450220708147250)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpfjgnj2070usljwr2r495rj](https://aihot.virxact.com/items/cmpfjgnj2070usljwr2r495rj)
+- **AIHOT 链接**: [https://aihot.news/items/cmpfjgnj2070usljwr2r495rj](https://aihot.news/items/cmpfjgnj2070usljwr2r495rj)

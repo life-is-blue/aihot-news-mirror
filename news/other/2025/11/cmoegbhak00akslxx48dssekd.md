@@ -6,7 +6,7 @@
 "discovered_at": "2025-11-13T00:00:00.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/google-cloud"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhak00akslxx48dssekd"
+"canonical_url": "https://aihot.news/items/cmoegbhak00akslxx48dssekd"
 "score": 88
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Hugging Face与Google Cloud宣布建立深度战略合作，旨在将Google Clou
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/google-cloud](https://huggingface.co/blog/google-cloud)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhak00akslxx48dssekd](https://aihot.virxact.com/items/cmoegbhak00akslxx48dssekd)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhak00akslxx48dssekd](https://aihot.news/items/cmoegbhak00akslxx48dssekd)

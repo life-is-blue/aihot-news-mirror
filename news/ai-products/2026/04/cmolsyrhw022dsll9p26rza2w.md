@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-30T18:13:39.121Z"
 "source_name": "Google Developers Blog（RSS）"
 "original_url": "https://developers.googleblog.com/building-with-gemini-embedding-2"
-"canonical_url": "https://aihot.virxact.com/items/cmolsyrhw022dsll9p26rza2w"
+"canonical_url": "https://aihot.news/items/cmolsyrhw022dsll9p26rza2w"
 "score": 62
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google正式发布Gemini Embedding 2统一嵌入模型，该模型能将文本�
 
 - **来源**: Google Developers Blog（RSS）
 - **原文链接**: [https://developers.googleblog.com/building-with-gemini-embedding-2](https://developers.googleblog.com/building-with-gemini-embedding-2)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmolsyrhw022dsll9p26rza2w](https://aihot.virxact.com/items/cmolsyrhw022dsll9p26rza2w)
+- **AIHOT 链接**: [https://aihot.news/items/cmolsyrhw022dsll9p26rza2w](https://aihot.news/items/cmolsyrhw022dsll9p26rza2w)

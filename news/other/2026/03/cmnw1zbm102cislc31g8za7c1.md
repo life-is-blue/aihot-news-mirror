@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-18T20:00:00.000Z"
 "source_name": "Qwen：Blog Retrieval（API）"
 "original_url": "https://qwen.ai/blog?id=qwen3.5-max-preview"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1zbm102cislc31g8za7c1"
+"canonical_url": "https://aihot.news/items/cmnw1zbm102cislc31g8za7c1"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Qwen3.5-Max-Preview 已登陆 LMSYS Chatbot Arena。Qwen Studio 提供聊天机�
 
 - **来源**: Qwen：Blog Retrieval（API）
 - **原文链接**: [https://qwen.ai/blog?id=qwen3.5-max-preview](https://qwen.ai/blog?id=qwen3.5-max-preview)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1zbm102cislc31g8za7c1](https://aihot.virxact.com/items/cmnw1zbm102cislc31g8za7c1)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1zbm102cislc31g8za7c1](https://aihot.news/items/cmnw1zbm102cislc31g8za7c1)

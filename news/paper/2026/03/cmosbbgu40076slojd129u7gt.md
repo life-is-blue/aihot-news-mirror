@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-27T12:00:00.000Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/composer-2-technical-report"
-"canonical_url": "https://aihot.virxact.com/items/cmosbbgu40076slojd129u7gt"
+"canonical_url": "https://aihot.news/items/cmosbbgu40076slojd129u7gt"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/composer-2-technical-report](https://cursor.com/blog/composer-2-technical-report)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmosbbgu40076slojd129u7gt](https://aihot.virxact.com/items/cmosbbgu40076slojd129u7gt)
+- **AIHOT 链接**: [https://aihot.news/items/cmosbbgu40076slojd129u7gt](https://aihot.news/items/cmosbbgu40076slojd129u7gt)

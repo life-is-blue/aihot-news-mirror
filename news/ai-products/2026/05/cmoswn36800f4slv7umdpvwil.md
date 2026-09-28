@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-05T17:30:53.622Z"
 "source_name": "X：Satya Nadella (@satyanadella)"
 "original_url": "https://x.com/satyanadella/status/2051712533174931707"
-"canonical_url": "https://aihot.virxact.com/items/cmoswn36800f4slv7umdpvwil"
+"canonical_url": "https://aihot.news/items/cmoswn36800f4slv7umdpvwil"
 "score": 82
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ Copilot Cowork 新增功能：移动端、技能与插件。
 
 - **来源**: X：Satya Nadella (@satyanadella)
 - **原文链接**: [https://x.com/satyanadella/status/2051712533174931707](https://x.com/satyanadella/status/2051712533174931707)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoswn36800f4slv7umdpvwil](https://aihot.virxact.com/items/cmoswn36800f4slv7umdpvwil)
+- **AIHOT 链接**: [https://aihot.news/items/cmoswn36800f4slv7umdpvwil](https://aihot.news/items/cmoswn36800f4slv7umdpvwil)

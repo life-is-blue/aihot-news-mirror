@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-20T01:09:02.000Z"
 "source_name": "X：Boris Cherny (@bcherny)"
 "original_url": "https://x.com/bcherny/status/2034799341429272937"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yon300j0slc3nqdrnr67"
+"canonical_url": "https://aihot.news/items/cmnw1yon300j0slc3nqdrnr67"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Code 发布 channels 功能，支持通过 Telegram 和 Discord 的 MCP �
 
 - **来源**: X：Boris Cherny (@bcherny)
 - **原文链接**: [https://x.com/bcherny/status/2034799341429272937](https://x.com/bcherny/status/2034799341429272937)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yon300j0slc3nqdrnr67](https://aihot.virxact.com/items/cmnw1yon300j0slc3nqdrnr67)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yon300j0slc3nqdrnr67](https://aihot.news/items/cmnw1yon300j0slc3nqdrnr67)

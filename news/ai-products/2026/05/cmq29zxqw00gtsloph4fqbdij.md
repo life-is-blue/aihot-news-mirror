@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-07T12:00:00.000Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/agentic-web-tools"
-"canonical_url": "https://aihot.virxact.com/items/cmq29zxqw00gtsloph4fqbdij"
+"canonical_url": "https://aihot.news/items/cmq29zxqw00gtsloph4fqbdij"
 "score": 55
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter 推出新功能，允许任何工具调用模型自主进行网页搜
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/agentic-web-tools](https://openrouter.ai/blog/agentic-web-tools)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq29zxqw00gtsloph4fqbdij](https://aihot.virxact.com/items/cmq29zxqw00gtsloph4fqbdij)
+- **AIHOT 链接**: [https://aihot.news/items/cmq29zxqw00gtsloph4fqbdij](https://aihot.news/items/cmq29zxqw00gtsloph4fqbdij)

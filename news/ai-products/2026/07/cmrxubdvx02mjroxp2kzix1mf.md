@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-23T18:23:54.981Z"
 "source_name": "X：Greg Brockman (@gdb)"
 "original_url": "https://x.com/gdb/status/2080351159638704615"
-"canonical_url": "https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf"
+"canonical_url": "https://aihot.news/items/cmrxubdvx02mjroxp2kzix1mf"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 宣布向美国用户推出 ChatGPT 健康功能，支持安全连接 App
 
 - **来源**: X：Greg Brockman (@gdb)
 - **原文链接**: [https://x.com/gdb/status/2080351159638704615](https://x.com/gdb/status/2080351159638704615)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf](https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf)
+- **AIHOT 链接**: [https://aihot.news/items/cmrxubdvx02mjroxp2kzix1mf](https://aihot.news/items/cmrxubdvx02mjroxp2kzix1mf)

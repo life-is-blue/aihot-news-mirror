@@ -7,7 +7,7 @@
 "source_name": "TechCrunch：AI（RSS）"
 "original_url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly\
   -into-your-smartphone-keyboard"
-"canonical_url": "https://aihot.virxact.com/items/cmr0yab2e003oslw8uw5zghrc"
+"canonical_url": "https://aihot.news/items/cmr0yab2e003oslw8uw5zghrc"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard](https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr0yab2e003oslw8uw5zghrc](https://aihot.virxact.com/items/cmr0yab2e003oslw8uw5zghrc)
+- **AIHOT 链接**: [https://aihot.news/items/cmr0yab2e003oslw8uw5zghrc](https://aihot.news/items/cmr0yab2e003oslw8uw5zghrc)

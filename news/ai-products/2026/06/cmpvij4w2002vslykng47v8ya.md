@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-01T17:59:04.210Z"
 "source_name": "X：Perplexity (@perplexity_ai)"
 "original_url": "https://x.com/perplexity_ai/status/2061506359326384319"
-"canonical_url": "https://aihot.virxact.com/items/cmpvij4w2002vslykng47v8ya"
+"canonical_url": "https://aihot.news/items/cmpvij4w2002vslykng47v8ya"
 "score": 70
 "content_kind": "news"
 ---
@@ -23,4 +23,4 @@ https://research.perplexity.ai/articles/rethinking-search-as-code-generation
 
 - **来源**: X：Perplexity (@perplexity_ai)
 - **原文链接**: [https://x.com/perplexity_ai/status/2061506359326384319](https://x.com/perplexity_ai/status/2061506359326384319)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpvij4w2002vslykng47v8ya](https://aihot.virxact.com/items/cmpvij4w2002vslykng47v8ya)
+- **AIHOT 链接**: [https://aihot.news/items/cmpvij4w2002vslykng47v8ya](https://aihot.news/items/cmpvij4w2002vslykng47v8ya)

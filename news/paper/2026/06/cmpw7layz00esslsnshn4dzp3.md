@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-02T05:40:36.495Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2606.02031"
-"canonical_url": "https://aihot.virxact.com/items/cmpw7layz00esslsnshn4dzp3"
+"canonical_url": "https://aihot.news/items/cmpw7layz00esslsnshn4dzp3"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenWebRL是一个用于在真实网站上通过在线多轮强化学习训练�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2606.02031](https://arxiv.org/abs/2606.02031)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpw7layz00esslsnshn4dzp3](https://aihot.virxact.com/items/cmpw7layz00esslsnshn4dzp3)
+- **AIHOT 链接**: [https://aihot.news/items/cmpw7layz00esslsnshn4dzp3](https://aihot.news/items/cmpw7layz00esslsnshn4dzp3)

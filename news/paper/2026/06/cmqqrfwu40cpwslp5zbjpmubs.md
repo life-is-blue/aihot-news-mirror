@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-23T14:49:20.796Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2606.23189"
-"canonical_url": "https://aihot.virxact.com/items/cmqqrfwu40cpwslp5zbjpmubs"
+"canonical_url": "https://aihot.news/items/cmqqrfwu40cpwslp5zbjpmubs"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ AgentCIBench评估计算机使用智能体（CUA）是否遵循情境完整性�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2606.23189](https://arxiv.org/abs/2606.23189)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqqrfwu40cpwslp5zbjpmubs](https://aihot.virxact.com/items/cmqqrfwu40cpwslp5zbjpmubs)
+- **AIHOT 链接**: [https://aihot.news/items/cmqqrfwu40cpwslp5zbjpmubs](https://aihot.news/items/cmqqrfwu40cpwslp5zbjpmubs)

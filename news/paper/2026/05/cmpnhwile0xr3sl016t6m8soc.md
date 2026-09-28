@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-27T03:19:20.111Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2605.26494"
-"canonical_url": "https://aihot.virxact.com/items/cmpnhwile0xr3sl016t6m8soc"
+"canonical_url": "https://aihot.news/items/cmpnhwile0xr3sl016t6m8soc"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ MiniMax推出M2系列大语言模型。其旗舰模型M2采用混合专家（MoE
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2605.26494](https://arxiv.org/abs/2605.26494)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpnhwile0xr3sl016t6m8soc](https://aihot.virxact.com/items/cmpnhwile0xr3sl016t6m8soc)
+- **AIHOT 链接**: [https://aihot.news/items/cmpnhwile0xr3sl016t6m8soc](https://aihot.news/items/cmpnhwile0xr3sl016t6m8soc)

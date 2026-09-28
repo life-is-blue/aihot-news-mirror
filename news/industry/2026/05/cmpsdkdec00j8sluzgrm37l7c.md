@@ -7,7 +7,7 @@
 "source_name": "The Verge：AI（RSS）"
 "original_url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-\
   tiktok-shop-blackface-shein-dropshipping"
-"canonical_url": "https://aihot.virxact.com/items/cmpsdkdec00j8sluzgrm37l7c"
+"canonical_url": "https://aihot.news/items/cmpsdkdec00j8sluzgrm37l7c"
 "score": 73
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: The Verge：AI（RSS）
 - **原文链接**: [https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping](https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpsdkdec00j8sluzgrm37l7c](https://aihot.virxact.com/items/cmpsdkdec00j8sluzgrm37l7c)
+- **AIHOT 链接**: [https://aihot.news/items/cmpsdkdec00j8sluzgrm37l7c](https://aihot.news/items/cmpsdkdec00j8sluzgrm37l7c)

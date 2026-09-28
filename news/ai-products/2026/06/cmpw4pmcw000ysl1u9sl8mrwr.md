@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-02T04:19:59.129Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/announcements/may-release-spotlight"
-"canonical_url": "https://aihot.virxact.com/items/cmpw4pmcw000ysl1u9sl8mrwr"
+"canonical_url": "https://aihot.news/items/cmpw4pmcw000ysl1u9sl8mrwr"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter 发布5月更新，推出语音与转录API、模型融合（Model Fu
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/announcements/may-release-spotlight](https://openrouter.ai/announcements/may-release-spotlight)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpw4pmcw000ysl1u9sl8mrwr](https://aihot.virxact.com/items/cmpw4pmcw000ysl1u9sl8mrwr)
+- **AIHOT 链接**: [https://aihot.news/items/cmpw4pmcw000ysl1u9sl8mrwr](https://aihot.news/items/cmpw4pmcw000ysl1u9sl8mrwr)

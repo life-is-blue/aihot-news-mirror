@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-\
   of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago"
-"canonical_url": "https://aihot.virxact.com/items/cmr3hyp3j0139sllxjjc2fk8h"
+"canonical_url": "https://aihot.news/items/cmr3hyp3j0139sllxjjc2fk8h"
 "score": 71
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Remote Labor Index（RLI）衡量 AI 智能体完成 240 个付费自由职业�
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago](https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr3hyp3j0139sllxjjc2fk8h](https://aihot.virxact.com/items/cmr3hyp3j0139sllxjjc2fk8h)
+- **AIHOT 链接**: [https://aihot.news/items/cmr3hyp3j0139sllxjjc2fk8h](https://aihot.news/items/cmr3hyp3j0139sllxjjc2fk8h)

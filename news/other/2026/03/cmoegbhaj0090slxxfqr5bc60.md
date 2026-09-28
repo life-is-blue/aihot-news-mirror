@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-20T19:38:16.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhaj0090slxxfqr5bc60"
+"canonical_url": "https://aihot.news/items/cmoegbhaj0090slxxfqr5bc60"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune](https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhaj0090slxxfqr5bc60](https://aihot.virxact.com/items/cmoegbhaj0090slxxfqr5bc60)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhaj0090slxxfqr5bc60](https://aihot.news/items/cmoegbhaj0090slxxfqr5bc60)

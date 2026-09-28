@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-04T20:02:43.151Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/announcements/gpt55-cost-analysis"
-"canonical_url": "https://aihot.virxact.com/items/cmormma1d00prslrjlz268jku"
+"canonical_url": "https://aihot.news/items/cmormma1d00prslrjlz268jku"
 "score": 59
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 将 GPT-5.5 的按 token 计价提高了一倍，但新模型在输出上
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/announcements/gpt55-cost-analysis](https://openrouter.ai/announcements/gpt55-cost-analysis)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmormma1d00prslrjlz268jku](https://aihot.virxact.com/items/cmormma1d00prslrjlz268jku)
+- **AIHOT 链接**: [https://aihot.news/items/cmormma1d00prslrjlz268jku](https://aihot.news/items/cmormma1d00prslrjlz268jku)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-19T01:27:14.379Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/tutorials/openclaw-openrouter"
-"canonical_url": "https://aihot.virxact.com/items/cmqk90yo9047eslhiuppd7ed6"
+"canonical_url": "https://aihot.news/items/cmqk90yo9047eslhiuppd7ed6"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenClaw 已内置 OpenRouter 支持，一条命令即可为 AI 智能体配置�
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/tutorials/openclaw-openrouter](https://openrouter.ai/blog/tutorials/openclaw-openrouter)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqk90yo9047eslhiuppd7ed6](https://aihot.virxact.com/items/cmqk90yo9047eslhiuppd7ed6)
+- **AIHOT 链接**: [https://aihot.news/items/cmqk90yo9047eslhiuppd7ed6](https://aihot.news/items/cmqk90yo9047eslhiuppd7ed6)

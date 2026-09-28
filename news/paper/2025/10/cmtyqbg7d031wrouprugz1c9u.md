@@ -8,7 +8,7 @@
 "original_url": "https://www.promptarmor.com/resources/hijacking-claude-code-vi\
   a-injected-marketplace-plugins"
 "canonical_url": "https://aihot.news/items/cmtyqbg7d031wrouprugz1c9u"
-"score": 68
+"score": 69
 "content_kind": "news"
 ---
 

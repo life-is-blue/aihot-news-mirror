@@ -6,7 +6,7 @@
 "discovered_at": "2025-01-24T00:00:00.000Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/announcements/reasoning-tokens-for-thinking-models"
-"canonical_url": "https://aihot.virxact.com/items/cmq9zl2hc0gqoslld4wzaedkk"
+"canonical_url": "https://aihot.news/items/cmq9zl2hc0gqoslld4wzaedkk"
 "score": 59
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter 为思考模型（thinking models）新增推理 token（reasoning to
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/announcements/reasoning-tokens-for-thinking-models](https://openrouter.ai/blog/announcements/reasoning-tokens-for-thinking-models)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq9zl2hc0gqoslld4wzaedkk](https://aihot.virxact.com/items/cmq9zl2hc0gqoslld4wzaedkk)
+- **AIHOT 链接**: [https://aihot.news/items/cmq9zl2hc0gqoslld4wzaedkk](https://aihot.news/items/cmq9zl2hc0gqoslld4wzaedkk)

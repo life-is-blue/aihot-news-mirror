@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-10T14:32:49.512Z"
 "source_name": "a16z：News（RSS）"
 "original_url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve"
-"canonical_url": "https://aihot.virxact.com/items/cmsnbzkyr01qjrohfmjqlmjk5"
+"canonical_url": "https://aihot.news/items/cmsnbzkyr01qjrohfmjqlmjk5"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ a16z 数据显示，计算机操作智能体在 OSWorld-Verified 基准上的最
 
 - **来源**: a16z：News（RSS）
 - **原文链接**: [https://www.a16z.news/p/can-agents-use-a-computer-yet-weve](https://www.a16z.news/p/can-agents-use-a-computer-yet-weve)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsnbzkyr01qjrohfmjqlmjk5](https://aihot.virxact.com/items/cmsnbzkyr01qjrohfmjqlmjk5)
+- **AIHOT 链接**: [https://aihot.news/items/cmsnbzkyr01qjrohfmjqlmjk5](https://aihot.news/items/cmsnbzkyr01qjrohfmjqlmjk5)

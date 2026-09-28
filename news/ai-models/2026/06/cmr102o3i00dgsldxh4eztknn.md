@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-30T18:48:42.763Z"
 "source_name": "Claude Code：GitHub Releases（RSS）"
 "original_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.197"
-"canonical_url": "https://aihot.virxact.com/items/cmr102o3i00dgsldxh4eztknn"
+"canonical_url": "https://aihot.news/items/cmr102o3i00dgsldxh4eztknn"
 "score": 81
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Code v2.1.197 更新将 Claude Sonnet 5 设为默认模型，原生支持
 
 - **来源**: Claude Code：GitHub Releases（RSS）
 - **原文链接**: [https://github.com/anthropics/claude-code/releases/tag/v2.1.197](https://github.com/anthropics/claude-code/releases/tag/v2.1.197)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr102o3i00dgsldxh4eztknn](https://aihot.virxact.com/items/cmr102o3i00dgsldxh4eztknn)
+- **AIHOT 链接**: [https://aihot.news/items/cmr102o3i00dgsldxh4eztknn](https://aihot.news/items/cmr102o3i00dgsldxh4eztknn)

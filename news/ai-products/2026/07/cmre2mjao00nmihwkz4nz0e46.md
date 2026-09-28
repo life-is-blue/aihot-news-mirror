@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-09T22:21:09.153Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://microsoft.github.io/flint-chart"
-"canonical_url": "https://aihot.virxact.com/items/cmre2mjao00nmihwkz4nz0e46"
+"canonical_url": "https://aihot.news/items/cmre2mjao00nmihwkz4nz0e46"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://microsoft.github.io/flint-chart](https://microsoft.github.io/flint-chart)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmre2mjao00nmihwkz4nz0e46](https://aihot.virxact.com/items/cmre2mjao00nmihwkz4nz0e46)
+- **AIHOT 链接**: [https://aihot.news/items/cmre2mjao00nmihwkz4nz0e46](https://aihot.news/items/cmre2mjao00nmihwkz4nz0e46)

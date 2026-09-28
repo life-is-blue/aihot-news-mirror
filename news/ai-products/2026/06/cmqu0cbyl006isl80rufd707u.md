@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-25T21:21:50.179Z"
 "source_name": "X：OpenAI Developers (@OpenAIDevs)"
 "original_url": "https://x.com/OpenAIDevs/status/2070254532911882707"
-"canonical_url": "https://aihot.virxact.com/items/cmqu0cbyl006isl80rufd707u"
+"canonical_url": "https://aihot.news/items/cmqu0cbyl006isl80rufd707u"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 宣布 Codex 在 ChatGPT 移动应用中正式开放（GA），并新增�
 
 - **来源**: X：OpenAI Developers (@OpenAIDevs)
 - **原文链接**: [https://x.com/OpenAIDevs/status/2070254532911882707](https://x.com/OpenAIDevs/status/2070254532911882707)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqu0cbyl006isl80rufd707u](https://aihot.virxact.com/items/cmqu0cbyl006isl80rufd707u)
+- **AIHOT 链接**: [https://aihot.news/items/cmqu0cbyl006isl80rufd707u](https://aihot.news/items/cmqu0cbyl006isl80rufd707u)

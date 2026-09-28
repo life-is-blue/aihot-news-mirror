@@ -6,7 +6,7 @@
 "discovered_at": "2025-09-17T17:38:36.000Z"
 "source_name": "X：Noam Brown (@polynoamial)"
 "original_url": "https://x.com/polynoamial/status/1968369005116408149"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yur701ceslc3g3sfeewc"
+"canonical_url": "https://aihot.news/items/cmnw1yur701ceslc3g3sfeewc"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 推理系统在 2025 ICPC 世界总决赛中获得 12/12 满分，成绩�
 
 - **来源**: X：Noam Brown (@polynoamial)
 - **原文链接**: [https://x.com/polynoamial/status/1968369005116408149](https://x.com/polynoamial/status/1968369005116408149)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yur701ceslc3g3sfeewc](https://aihot.virxact.com/items/cmnw1yur701ceslc3g3sfeewc)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yur701ceslc3g3sfeewc](https://aihot.news/items/cmnw1yur701ceslc3g3sfeewc)

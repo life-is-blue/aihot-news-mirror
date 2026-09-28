@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-17T18:10:52.127Z"
 "source_name": "The Verge：AI（RSS）"
 "original_url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast"
-"canonical_url": "https://aihot.virxact.com/items/cmrp97h7o0020biuxh7pzewro"
+"canonical_url": "https://aihot.news/items/cmrp97h7o0020biuxh7pzewro"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Apple 对 OpenAI 提起诉讼，指控其存在多项不当行为，尽管许多
 
 - **来源**: The Verge：AI（RSS）
 - **原文链接**: [https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast](https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrp97h7o0020biuxh7pzewro](https://aihot.virxact.com/items/cmrp97h7o0020biuxh7pzewro)
+- **AIHOT 链接**: [https://aihot.news/items/cmrp97h7o0020biuxh7pzewro](https://aihot.news/items/cmrp97h7o0020biuxh7pzewro)

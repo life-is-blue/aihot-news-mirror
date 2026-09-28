@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-08T18:50:51.580Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/observability-for-developers-building-connectors"
-"canonical_url": "https://aihot.virxact.com/items/cmq5kh0q200g7sl38uoitn0e3"
+"canonical_url": "https://aihot.news/items/cmq5kh0q200g7sl38uoitn0e3"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude 为目录中已发布的 Connector 新增性能监控仪表盘（公开�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/observability-for-developers-building-connectors](https://claude.com/blog/observability-for-developers-building-connectors)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq5kh0q200g7sl38uoitn0e3](https://aihot.virxact.com/items/cmq5kh0q200g7sl38uoitn0e3)
+- **AIHOT 链接**: [https://aihot.news/items/cmq5kh0q200g7sl38uoitn0e3](https://aihot.news/items/cmq5kh0q200g7sl38uoitn0e3)

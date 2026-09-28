@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-25T18:53:23.683Z"
 "source_name": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)"
 "original_url": "https://x.com/AndrewYNg/status/2092315079576555806"
-"canonical_url": "https://aihot.virxact.com/items/cmt90wf1p06j9roly5e34fmu3"
+"canonical_url": "https://aihot.news/items/cmt90wf1p06j9roly5e34fmu3"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Andrew Ng 旗下开源智能体 OpenWorker 发布新版，强化安全工作流�
 
 - **来源**: X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)
 - **原文链接**: [https://x.com/AndrewYNg/status/2092315079576555806](https://x.com/AndrewYNg/status/2092315079576555806)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt90wf1p06j9roly5e34fmu3](https://aihot.virxact.com/items/cmt90wf1p06j9roly5e34fmu3)
+- **AIHOT 链接**: [https://aihot.news/items/cmt90wf1p06j9roly5e34fmu3](https://aihot.news/items/cmt90wf1p06j9roly5e34fmu3)

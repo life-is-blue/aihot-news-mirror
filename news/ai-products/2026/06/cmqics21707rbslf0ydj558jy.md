@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-17T17:36:44.595Z"
 "source_name": "MarkTechPost（RSS）"
 "original_url": "https://www.marktechpost.com/2026/06/17/vercel-releases-eve"
-"canonical_url": "https://aihot.virxact.com/items/cmqics21707rbslf0ydj558jy"
+"canonical_url": "https://aihot.news/items/cmqics21707rbslf0ydj558jy"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Vercel 发布开源 AI 智能体框架 Eve（npm 包，Apache-2.0 许可）。Ev
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/06/17/vercel-releases-eve](https://www.marktechpost.com/2026/06/17/vercel-releases-eve)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqics21707rbslf0ydj558jy](https://aihot.virxact.com/items/cmqics21707rbslf0ydj558jy)
+- **AIHOT 链接**: [https://aihot.news/items/cmqics21707rbslf0ydj558jy](https://aihot.news/items/cmqics21707rbslf0ydj558jy)

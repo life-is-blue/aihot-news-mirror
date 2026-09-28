@@ -7,7 +7,7 @@
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/start-building-with-nano-banana-2\
   -lite-and-gemini-omni-flash"
-"canonical_url": "https://aihot.virxact.com/items/cmr0ucc880030slatw1gfkq2h"
+"canonical_url": "https://aihot.news/items/cmr0ucc880030slatw1gfkq2h"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google DeepMind 推出 Nano Banana 2 Lite（gemini-3.1-flash-lite-image），为
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash](https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr0ucc880030slatw1gfkq2h](https://aihot.virxact.com/items/cmr0ucc880030slatw1gfkq2h)
+- **AIHOT 链接**: [https://aihot.news/items/cmr0ucc880030slatw1gfkq2h](https://aihot.news/items/cmr0ucc880030slatw1gfkq2h)

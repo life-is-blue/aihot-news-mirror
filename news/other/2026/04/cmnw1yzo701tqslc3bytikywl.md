@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-02T00:00:00.000Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/cursor-3"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yzo701tqslc3bytikywl"
+"canonical_url": "https://aihot.news/items/cmnw1yzo701tqslc3bytikywl"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Cursor 3.0 正式发布，重构为以 Agent 为核心的统一工作空间。�
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/cursor-3](https://cursor.com/blog/cursor-3)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yzo701tqslc3bytikywl](https://aihot.virxact.com/items/cmnw1yzo701tqslc3bytikywl)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yzo701tqslc3bytikywl](https://aihot.news/items/cmnw1yzo701tqslc3bytikywl)

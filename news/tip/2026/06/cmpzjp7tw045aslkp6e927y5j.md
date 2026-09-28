@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-04T13:42:52.868Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr"
-"canonical_url": "https://aihot.virxact.com/items/cmpzjp7tw045aslkp6e927y5j"
+"canonical_url": "https://aihot.news/items/cmpzjp7tw045aslkp6e927y5j"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Nemotron 3.5 ASR 是一个 600M 参数的多语言流式语音识别模型，单
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr](https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpzjp7tw045aslkp6e927y5j](https://aihot.virxact.com/items/cmpzjp7tw045aslkp6e927y5j)
+- **AIHOT 链接**: [https://aihot.news/items/cmpzjp7tw045aslkp6e927y5j](https://aihot.news/items/cmpzjp7tw045aslkp6e927y5j)

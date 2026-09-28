@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-17T03:20:29.817Z"
 "source_name": "公众号：月之暗面（Kimi）"
 "original_url": "https://mp.weixin.qq.com/s/lu1iJdvy_cDhVaX8PqbucQ"
-"canonical_url": "https://aihot.virxact.com/items/cmrodegdr021wbito32kpybwh"
+"canonical_url": "https://aihot.news/items/cmrodegdr021wbito32kpybwh"
 "score": 80
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Kimi 发布迄今能力最强的开源模型 Kimi K3，拥有 2.8 万亿参数�
 
 - **来源**: 公众号：月之暗面（Kimi）
 - **原文链接**: [https://mp.weixin.qq.com/s/lu1iJdvy_cDhVaX8PqbucQ](https://mp.weixin.qq.com/s/lu1iJdvy_cDhVaX8PqbucQ)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrodegdr021wbito32kpybwh](https://aihot.virxact.com/items/cmrodegdr021wbito32kpybwh)
+- **AIHOT 链接**: [https://aihot.news/items/cmrodegdr021wbito32kpybwh](https://aihot.news/items/cmrodegdr021wbito32kpybwh)

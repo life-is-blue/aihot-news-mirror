@@ -6,8 +6,8 @@
 "discovered_at": "2026-09-03T08:29:42.598Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/train-to-paint-with-code"
-"canonical_url": "https://aihot.virxact.com/items/cmtl9l0kb0mksroal28uvoaug"
-"score": 62
+"canonical_url": "https://aihot.news/items/cmtl9l0kb0mksroal28uvoaug"
+"score": 63
 "content_kind": "news"
 ---
 
@@ -17,4 +17,4 @@ Hugging Face 博客作者基于 Surya Narreddi 的原始想法，用 TRL、OpenE
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/train-to-paint-with-code](https://huggingface.co/blog/train-to-paint-with-code)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtl9l0kb0mksroal28uvoaug](https://aihot.virxact.com/items/cmtl9l0kb0mksroal28uvoaug)
+- **AIHOT 链接**: [https://aihot.news/items/cmtl9l0kb0mksroal28uvoaug](https://aihot.news/items/cmtl9l0kb0mksroal28uvoaug)

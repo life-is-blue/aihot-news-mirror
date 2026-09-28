@@ -7,7 +7,7 @@
 "source_name": "公众号：月之暗面（Kimi）"
 "original_url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247\
   484277&idx=1&sn=adb8f9994d83b37d7d77a3f29af53ab1"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu100x00srrofzjmzw85cq"
+"canonical_url": "https://aihot.news/items/cmsdu100x00srrofzjmzw85cq"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Kimi 电脑客户端为 Kimi Work（Beta 版）新增「目标模式」和「插
 
 - **来源**: 公众号：月之暗面（Kimi）
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484277&idx=1&sn=adb8f9994d83b37d7d77a3f29af53ab1](https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484277&idx=1&sn=adb8f9994d83b37d7d77a3f29af53ab1)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu100x00srrofzjmzw85cq](https://aihot.virxact.com/items/cmsdu100x00srrofzjmzw85cq)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu100x00srrofzjmzw85cq](https://aihot.news/items/cmsdu100x00srrofzjmzw85cq)

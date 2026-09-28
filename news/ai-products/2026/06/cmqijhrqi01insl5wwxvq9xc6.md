@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-17T20:44:36.833Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/claude-design-stays-on-brand-for-daily-work"
-"canonical_url": "https://aihot.virxact.com/items/cmqijhrqi01insl5wwxvq9xc6"
+"canonical_url": "https://aihot.news/items/cmqijhrqi01insl5wwxvq9xc6"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/claude-design-stays-on-brand-for-daily-work](https://claude.com/blog/claude-design-stays-on-brand-for-daily-work)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqijhrqi01insl5wwxvq9xc6](https://aihot.virxact.com/items/cmqijhrqi01insl5wwxvq9xc6)
+- **AIHOT 链接**: [https://aihot.news/items/cmqijhrqi01insl5wwxvq9xc6](https://aihot.news/items/cmqijhrqi01insl5wwxvq9xc6)

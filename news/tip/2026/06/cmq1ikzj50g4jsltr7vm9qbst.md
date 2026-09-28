@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-05T22:47:08.286Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim"
-"canonical_url": "https://aihot.virxact.com/items/cmq1ikzj50g4jsltr7vm9qbst"
+"canonical_url": "https://aihot.news/items/cmq1ikzj50g4jsltr7vm9qbst"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq1ikzj50g4jsltr7vm9qbst](https://aihot.virxact.com/items/cmq1ikzj50g4jsltr7vm9qbst)
+- **AIHOT 链接**: [https://aihot.news/items/cmq1ikzj50g4jsltr7vm9qbst](https://aihot.news/items/cmq1ikzj50g4jsltr7vm9qbst)

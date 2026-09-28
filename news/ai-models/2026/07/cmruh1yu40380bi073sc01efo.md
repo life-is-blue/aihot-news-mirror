@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-11T00:00:00.000Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2607.10387"
-"canonical_url": "https://aihot.virxact.com/items/cmruh1yu40380bi073sc01efo"
+"canonical_url": "https://aihot.news/items/cmruh1yu40380bi073sc01efo"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ GigaChat Audio 是一种时间感知的音频大语言模型，支持长达120�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2607.10387](https://arxiv.org/abs/2607.10387)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmruh1yu40380bi073sc01efo](https://aihot.virxact.com/items/cmruh1yu40380bi073sc01efo)
+- **AIHOT 链接**: [https://aihot.news/items/cmruh1yu40380bi073sc01efo](https://aihot.news/items/cmruh1yu40380bi073sc01efo)

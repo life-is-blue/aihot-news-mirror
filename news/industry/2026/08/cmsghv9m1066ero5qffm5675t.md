@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-05T19:43:05.068Z"
 "source_name": "X：Jeff Dean (@JeffDean)"
 "original_url": "https://x.com/JeffDean/status/2085083442669318443"
-"canonical_url": "https://aihot.virxact.com/items/cmsghv9m1066ero5qffm5675t"
+"canonical_url": "https://aihot.news/items/cmsghv9m1066ero5qffm5675t"
 "score": 81
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Jeff Dean 在谷歌任职 27 年后宣布离职，将于明日正式离开。他
 
 - **来源**: X：Jeff Dean (@JeffDean)
 - **原文链接**: [https://x.com/JeffDean/status/2085083442669318443](https://x.com/JeffDean/status/2085083442669318443)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsghv9m1066ero5qffm5675t](https://aihot.virxact.com/items/cmsghv9m1066ero5qffm5675t)
+- **AIHOT 链接**: [https://aihot.news/items/cmsghv9m1066ero5qffm5675t](https://aihot.news/items/cmsghv9m1066ero5qffm5675t)

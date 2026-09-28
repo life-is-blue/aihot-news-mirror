@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-16T01:47:08.000Z"
 "source_name": "Gary Marcus：The Road to AI We Can Trust（RSS）"
 "original_url": "https://garymarcus.substack.com/p/breaking-sam-altman-concedes-that"
-"canonical_url": "https://aihot.virxact.com/items/cmnxjn4xi003vsl9o51gaccao"
+"canonical_url": "https://aihot.news/items/cmnxjn4xi003vsl9o51gaccao"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI CEO Sam Altman 坦言，仅靠扩大模型规模无法达到 AGI，必须
 
 - **来源**: Gary Marcus：The Road to AI We Can Trust（RSS）
 - **原文链接**: [https://garymarcus.substack.com/p/breaking-sam-altman-concedes-that](https://garymarcus.substack.com/p/breaking-sam-altman-concedes-that)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnxjn4xi003vsl9o51gaccao](https://aihot.virxact.com/items/cmnxjn4xi003vsl9o51gaccao)
+- **AIHOT 链接**: [https://aihot.news/items/cmnxjn4xi003vsl9o51gaccao](https://aihot.news/items/cmnxjn4xi003vsl9o51gaccao)

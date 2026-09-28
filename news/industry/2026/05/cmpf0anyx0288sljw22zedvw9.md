@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-\
   employees-to-refocus-on-ai"
-"canonical_url": "https://aihot.virxact.com/items/cmpf0anyx0288sljw22zedvw9"
+"canonical_url": "https://aihot.news/items/cmpf0anyx0288sljw22zedvw9"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai](https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpf0anyx0288sljw22zedvw9](https://aihot.virxact.com/items/cmpf0anyx0288sljw22zedvw9)
+- **AIHOT 链接**: [https://aihot.news/items/cmpf0anyx0288sljw22zedvw9](https://aihot.news/items/cmpf0anyx0288sljw22zedvw9)

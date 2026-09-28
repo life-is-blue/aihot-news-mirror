@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-08T16:21:05.358Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend"
-"canonical_url": "https://aihot.virxact.com/items/cmrcabmvj00ymihqce96ilbfi"
+"canonical_url": "https://aihot.news/items/cmrcabmvj00ymihqce96ilbfi"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Hugging Face 宣布 transformers vLLM 后端现与手写原生 vLLM 实现速度
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/native-speed-vllm-transformers-backend](https://huggingface.co/blog/native-speed-vllm-transformers-backend)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrcabmvj00ymihqce96ilbfi](https://aihot.virxact.com/items/cmrcabmvj00ymihqce96ilbfi)
+- **AIHOT 链接**: [https://aihot.news/items/cmrcabmvj00ymihqce96ilbfi](https://aihot.news/items/cmrcabmvj00ymihqce96ilbfi)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-04T15:12:36.927Z"
 "source_name": "NVIDIA Blog（RSS）"
 "original_url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available"
-"canonical_url": "https://aihot.virxact.com/items/cmsesrlcn15j6ro2ecpj577wj"
+"canonical_url": "https://aihot.news/items/cmsesrlcn15j6ro2ecpj577wj"
 "score": 68
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ NVIDIA Alpamayo 2 Super 现已开放商用，基于 Cosmos 3 Super Reasoner 构�
 
 - **来源**: NVIDIA Blog（RSS）
 - **原文链接**: [https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available](https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsesrlcn15j6ro2ecpj577wj](https://aihot.virxact.com/items/cmsesrlcn15j6ro2ecpj577wj)
+- **AIHOT 链接**: [https://aihot.news/items/cmsesrlcn15j6ro2ecpj577wj](https://aihot.news/items/cmsesrlcn15j6ro2ecpj577wj)

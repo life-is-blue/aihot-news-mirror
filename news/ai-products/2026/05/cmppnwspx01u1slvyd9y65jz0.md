@@ -7,7 +7,7 @@
 "source_name": "TechCrunch：AI（RSS）"
 "original_url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai\
   -startup-from-oculus-founders-launches-its-ios-app"
-"canonical_url": "https://aihot.virxact.com/items/cmppnwspx01u1slvyd9y65jz0"
+"canonical_url": "https://aihot.news/items/cmppnwspx01u1slvyd9y65jz0"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app](https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmppnwspx01u1slvyd9y65jz0](https://aihot.virxact.com/items/cmppnwspx01u1slvyd9y65jz0)
+- **AIHOT 链接**: [https://aihot.news/items/cmppnwspx01u1slvyd9y65jz0](https://aihot.news/items/cmppnwspx01u1slvyd9y65jz0)

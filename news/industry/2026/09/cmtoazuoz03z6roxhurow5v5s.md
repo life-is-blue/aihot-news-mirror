@@ -7,7 +7,7 @@
 "source_name": "The Verge：AI（RSS）"
 "original_url": "https://www.theverge.com/ai-artificial-intelligence/990773/ope\
   nai-german-wiki-incident"
-"canonical_url": "https://aihot.virxact.com/items/cmtoazuoz03z6roxhurow5v5s"
+"canonical_url": "https://aihot.news/items/cmtoazuoz03z6roxhurow5v5s"
 "score": 84
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenAI 承认涉及此前报道的 wiki 事件，一群疑似内部的失控智�
 
 - **来源**: The Verge：AI（RSS）
 - **原文链接**: [https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident](https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtoazuoz03z6roxhurow5v5s](https://aihot.virxact.com/items/cmtoazuoz03z6roxhurow5v5s)
+- **AIHOT 链接**: [https://aihot.news/items/cmtoazuoz03z6roxhurow5v5s](https://aihot.news/items/cmtoazuoz03z6roxhurow5v5s)

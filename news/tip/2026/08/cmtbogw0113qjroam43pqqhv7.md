@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-25T00:00:00.000Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/insights/gpt-5-6-discounts-jevons-paradox"
-"canonical_url": "https://aihot.virxact.com/items/cmtbogw0113qjroam43pqqhv7"
+"canonical_url": "https://aihot.news/items/cmtbogw0113qjroam43pqqhv7"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter 数据显示，OpenAI 对 Terra 和 Luna 模型的大幅折扣使日�
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/insights/gpt-5-6-discounts-jevons-paradox](https://openrouter.ai/blog/insights/gpt-5-6-discounts-jevons-paradox)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtbogw0113qjroam43pqqhv7](https://aihot.virxact.com/items/cmtbogw0113qjroam43pqqhv7)
+- **AIHOT 链接**: [https://aihot.news/items/cmtbogw0113qjroam43pqqhv7](https://aihot.news/items/cmtbogw0113qjroam43pqqhv7)

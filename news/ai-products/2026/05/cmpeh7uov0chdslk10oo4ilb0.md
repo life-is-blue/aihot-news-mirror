@@ -7,7 +7,7 @@
 "source_name": "Google Blog：AI（RSS）"
 "original_url": "https://blog.google/innovation-and-ai/technology/ai/google-io-\
   2026-all-our-announcements"
-"canonical_url": "https://aihot.virxact.com/items/cmpeh7uov0chdslk10oo4ilb0"
+"canonical_url": "https://aihot.news/items/cmpeh7uov0chdslk10oo4ilb0"
 "score": 68
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Google Blog：AI（RSS）
 - **原文链接**: [https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements](https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpeh7uov0chdslk10oo4ilb0](https://aihot.virxact.com/items/cmpeh7uov0chdslk10oo4ilb0)
+- **AIHOT 链接**: [https://aihot.news/items/cmpeh7uov0chdslk10oo4ilb0](https://aihot.news/items/cmpeh7uov0chdslk10oo4ilb0)

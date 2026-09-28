@@ -7,7 +7,7 @@
 "source_name": "Answer.AI 官方研发博客（RSS）"
 "original_url": "https://www.answer.ai/posts/2026-08-19-llms-code-simpler.html"
 "canonical_url": "https://aihot.news/items/cmtym2sjp0002roaxipy2vvyx"
-"score": 62
+"score": 63
 "content_kind": "news"
 ---
 

@@ -7,7 +7,7 @@
 "source_name": "Google Blog：AI（RSS）"
 "original_url": "https://blog.google/innovation-and-ai/models-and-research/goog\
   le-research/amie-for-disease-management-in-nature"
-"canonical_url": "https://aihot.virxact.com/items/cmqi8ca6w06k1slf0tgau5lib"
+"canonical_url": "https://aihot.news/items/cmqi8ca6w06k1slf0tgau5lib"
 "score": 55
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Google Blog：AI（RSS）
 - **原文链接**: [https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature](https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqi8ca6w06k1slf0tgau5lib](https://aihot.virxact.com/items/cmqi8ca6w06k1slf0tgau5lib)
+- **AIHOT 链接**: [https://aihot.news/items/cmqi8ca6w06k1slf0tgau5lib](https://aihot.news/items/cmqi8ca6w06k1slf0tgau5lib)

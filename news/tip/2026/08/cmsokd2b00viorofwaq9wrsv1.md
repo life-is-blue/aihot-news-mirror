@@ -7,7 +7,7 @@
 "source_name": "The Verge：AI（RSS）"
 "original_url": "https://www.theverge.com/ai-artificial-intelligence/977273/the\
   -ai-takeover-of-mathematics-has-begun"
-"canonical_url": "https://aihot.virxact.com/items/cmsokd2b00viorofwaq9wrsv1"
+"canonical_url": "https://aihot.news/items/cmsokd2b00viorofwaq9wrsv1"
 "score": 75
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenAI 宣布其未发布的 Astra 模型解决了 10 道长期悬而未决的�
 
 - **来源**: The Verge：AI（RSS）
 - **原文链接**: [https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun](https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsokd2b00viorofwaq9wrsv1](https://aihot.virxact.com/items/cmsokd2b00viorofwaq9wrsv1)
+- **AIHOT 链接**: [https://aihot.news/items/cmsokd2b00viorofwaq9wrsv1](https://aihot.news/items/cmsokd2b00viorofwaq9wrsv1)

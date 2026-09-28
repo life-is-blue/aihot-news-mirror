@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-30T18:27:02.105Z"
 "source_name": "X：OpenRouter (@OpenRouter)"
 "original_url": "https://x.com/OpenRouter/status/2072020173872325088"
-"canonical_url": "https://aihot.virxact.com/items/cmr0zasvg006csldxyvzab0ub"
+"canonical_url": "https://aihot.news/items/cmr0zasvg006csldxyvzab0ub"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Sonnet 5 正在 OpenRouter 上推出，促销价格：$2/M 输入，$10/M
 
 - **来源**: X：OpenRouter (@OpenRouter)
 - **原文链接**: [https://x.com/OpenRouter/status/2072020173872325088](https://x.com/OpenRouter/status/2072020173872325088)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr0zasvg006csldxyvzab0ub](https://aihot.virxact.com/items/cmr0zasvg006csldxyvzab0ub)
+- **AIHOT 链接**: [https://aihot.news/items/cmr0zasvg006csldxyvzab0ub](https://aihot.news/items/cmr0zasvg006csldxyvzab0ub)

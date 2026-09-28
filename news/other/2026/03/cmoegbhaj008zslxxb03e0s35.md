@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-24T02:01:52.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/ServiceNow-AI/eva"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhaj008zslxxb03e0s35"
+"canonical_url": "https://aihot.news/items/cmoegbhaj008zslxxb03e0s35"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ ServiceNow AI团队在Hugging Face上发布了语音智能体评估框架EVA。�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/ServiceNow-AI/eva](https://huggingface.co/blog/ServiceNow-AI/eva)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhaj008zslxxb03e0s35](https://aihot.virxact.com/items/cmoegbhaj008zslxxb03e0s35)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhaj008zslxxb03e0s35](https://aihot.news/items/cmoegbhaj008zslxxb03e0s35)

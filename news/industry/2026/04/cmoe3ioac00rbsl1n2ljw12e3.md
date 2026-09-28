@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/google-pours-up-to-40-billion-into-cha\
   tgpt-rival-anthropic"
-"canonical_url": "https://aihot.virxact.com/items/cmoe3ioac00rbsl1n2ljw12e3"
+"canonical_url": "https://aihot.news/items/cmoe3ioac00rbsl1n2ljw12e3"
 "score": 71
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google 计划向人工智能公司 Anthropic 投资高达 400 亿美元。Anthro
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/google-pours-up-to-40-billion-into-chatgpt-rival-anthropic](https://the-decoder.com/google-pours-up-to-40-billion-into-chatgpt-rival-anthropic)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoe3ioac00rbsl1n2ljw12e3](https://aihot.virxact.com/items/cmoe3ioac00rbsl1n2ljw12e3)
+- **AIHOT 链接**: [https://aihot.news/items/cmoe3ioac00rbsl1n2ljw12e3](https://aihot.news/items/cmoe3ioac00rbsl1n2ljw12e3)

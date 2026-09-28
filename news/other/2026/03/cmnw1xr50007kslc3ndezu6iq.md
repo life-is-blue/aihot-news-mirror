@@ -7,7 +7,7 @@
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/the-five-ai-value-models-driving-busi\
   ness-reinvention"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xr50007kslc3ndezu6iq"
+"canonical_url": "https://aihot.news/items/cmnw1xr50007kslc3ndezu6iq"
 "score": null
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/the-five-ai-value-models-driving-business-reinvention](https://openai.com/index/the-five-ai-value-models-driving-business-reinvention)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xr50007kslc3ndezu6iq](https://aihot.virxact.com/items/cmnw1xr50007kslc3ndezu6iq)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xr50007kslc3ndezu6iq](https://aihot.news/items/cmnw1xr50007kslc3ndezu6iq)

@@ -6,7 +6,7 @@
 "discovered_at": "2025-08-28T18:07:58.000Z"
 "source_name": "X：Andrej Karpathy (@karpathy)"
 "original_url": "https://x.com/karpathy/status/1961128638725923119"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yovj00m6slc3toqxahg3"
+"canonical_url": "https://aihot.news/items/cmnw1yovj00m6slc3toqxahg3"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：Andrej Karpathy (@karpathy)
 - **原文链接**: [https://x.com/karpathy/status/1961128638725923119](https://x.com/karpathy/status/1961128638725923119)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yovj00m6slc3toqxahg3](https://aihot.virxact.com/items/cmnw1yovj00m6slc3toqxahg3)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yovj00m6slc3toqxahg3](https://aihot.news/items/cmnw1yovj00m6slc3toqxahg3)

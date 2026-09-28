@@ -6,7 +6,7 @@
 "discovered_at": "2025-11-21T00:00:00.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/open-asr-leaderboard"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhak00afslxxc7lp1atf"
+"canonical_url": "https://aihot.news/items/cmoegbhak00afslxxc7lp1atf"
 "score": 83
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Hugging Face 的 Open ASR 排行榜新增多语言和长格式语音识别评估
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/open-asr-leaderboard](https://huggingface.co/blog/open-asr-leaderboard)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhak00afslxxc7lp1atf](https://aihot.virxact.com/items/cmoegbhak00afslxxc7lp1atf)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhak00afslxxc7lp1atf](https://aihot.news/items/cmoegbhak00afslxxc7lp1atf)

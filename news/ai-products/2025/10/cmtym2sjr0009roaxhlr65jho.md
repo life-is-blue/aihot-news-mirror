@@ -7,7 +7,7 @@
 "source_name": "Answer.AI 官方研发博客（RSS）"
 "original_url": "https://www.answer.ai/posts/2025-10-01-cachy.html"
 "canonical_url": "https://aihot.news/items/cmtym2sjr0009roaxhlr65jho"
-"score": 64
+"score": 65
 "content_kind": "news"
 ---
 

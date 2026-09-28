@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-16T14:27:09.000Z"
 "source_name": "Google AI：DEV 作者专属（RSS）"
 "original_url": "https://dev.to/googleai/diffusiongemma-the-developer-guide-5a3l"
-"canonical_url": "https://aihot.virxact.com/items/cms3dqexj0avhro3frmmt7ywl"
+"canonical_url": "https://aihot.news/items/cms3dqexj0avhro3frmmt7ywl"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google AI 发布 DiffusionGemma 开发者指南，该实验性模型基于 Gemma
 
 - **来源**: Google AI：DEV 作者专属（RSS）
 - **原文链接**: [https://dev.to/googleai/diffusiongemma-the-developer-guide-5a3l](https://dev.to/googleai/diffusiongemma-the-developer-guide-5a3l)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3dqexj0avhro3frmmt7ywl](https://aihot.virxact.com/items/cms3dqexj0avhro3frmmt7ywl)
+- **AIHOT 链接**: [https://aihot.news/items/cms3dqexj0avhro3frmmt7ywl](https://aihot.news/items/cms3dqexj0avhro3frmmt7ywl)

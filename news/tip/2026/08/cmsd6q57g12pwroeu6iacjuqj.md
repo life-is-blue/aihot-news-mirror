@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-03T12:07:51.874Z"
 "source_name": "X：Kimi.ai (@Kimi_Moonshot)"
 "original_url": "https://x.com/Kimi_Moonshot/status/2084245860339298423"
-"canonical_url": "https://aihot.virxact.com/items/cmsd6q57g12pwroeu6iacjuqj"
+"canonical_url": "https://aihot.news/items/cmsd6q57g12pwroeu6iacjuqj"
 "score": 70
 "content_kind": "news"
 ---
@@ -24,4 +24,4 @@ Kimi Slides 处理整个幻灯片制作流程：
 
 - **来源**: X：Kimi.ai (@Kimi_Moonshot)
 - **原文链接**: [https://x.com/Kimi_Moonshot/status/2084245860339298423](https://x.com/Kimi_Moonshot/status/2084245860339298423)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsd6q57g12pwroeu6iacjuqj](https://aihot.virxact.com/items/cmsd6q57g12pwroeu6iacjuqj)
+- **AIHOT 链接**: [https://aihot.news/items/cmsd6q57g12pwroeu6iacjuqj](https://aihot.news/items/cmsd6q57g12pwroeu6iacjuqj)

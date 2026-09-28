@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-29T02:46:47.295Z"
 "source_name": "X：硅基流动 SiliconFlow (@SiliconFlowAI)"
 "original_url": "https://x.com/SiliconFlowAI/status/2049315797701673290"
-"canonical_url": "https://aihot.virxact.com/items/cmojgetz8044hslzproti2au3"
+"canonical_url": "https://aihot.news/items/cmojgetz8044hslzproti2au3"
 "score": 63
 "content_kind": "news"
 ---
@@ -15,7 +15,7 @@
 
 👀 🚀 🙌
 
-【引用 @SiliconFlowAI】：开发者们正在用他们的 token 投票 🔥
+[引用 @SiliconFlowAI]：开发者们正在用他们的 token 投票 🔥
 SiliconFlow 现已成为日 token 使用量排名第一的第三方模型提供商
 在 @OpenRouter 上，
 • 每日约 280B token
@@ -26,4 +26,4 @@ SiliconFlow 现已成为日 token 使用量排名第一的第三方模型提供�
 
 - **来源**: X：硅基流动 SiliconFlow (@SiliconFlowAI)
 - **原文链接**: [https://x.com/SiliconFlowAI/status/2049315797701673290](https://x.com/SiliconFlowAI/status/2049315797701673290)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmojgetz8044hslzproti2au3](https://aihot.virxact.com/items/cmojgetz8044hslzproti2au3)
+- **AIHOT 链接**: [https://aihot.news/items/cmojgetz8044hslzproti2au3](https://aihot.news/items/cmojgetz8044hslzproti2au3)

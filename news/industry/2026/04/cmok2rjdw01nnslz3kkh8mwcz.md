@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/openai-lands-on-aws-one-day-after-micr\
   osoft-deal-restructuring"
-"canonical_url": "https://aihot.virxact.com/items/cmok2rjdw01nnslz3kkh8mwcz"
+"canonical_url": "https://aihot.news/items/cmok2rjdw01nnslz3kkh8mwcz"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/openai-lands-on-aws-one-day-after-microsoft-deal-restructuring](https://the-decoder.com/openai-lands-on-aws-one-day-after-microsoft-deal-restructuring)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmok2rjdw01nnslz3kkh8mwcz](https://aihot.virxact.com/items/cmok2rjdw01nnslz3kkh8mwcz)
+- **AIHOT 链接**: [https://aihot.news/items/cmok2rjdw01nnslz3kkh8mwcz](https://aihot.news/items/cmok2rjdw01nnslz3kkh8mwcz)

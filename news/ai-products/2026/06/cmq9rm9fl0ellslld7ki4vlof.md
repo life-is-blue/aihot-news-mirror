@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-11T17:22:12.277Z"
 "source_name": "X：SpaceXAI (@SpaceXAI)"
 "original_url": "https://x.com/xai/status/2065119714658152592"
-"canonical_url": "https://aihot.virxact.com/items/cmq9rm9fl0ellslld7ki4vlof"
+"canonical_url": "https://aihot.news/items/cmq9rm9fl0ellslld7ki4vlof"
 "score": 70
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@
 
 - **来源**: X：SpaceXAI (@SpaceXAI)
 - **原文链接**: [https://x.com/xai/status/2065119714658152592](https://x.com/xai/status/2065119714658152592)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq9rm9fl0ellslld7ki4vlof](https://aihot.virxact.com/items/cmq9rm9fl0ellslld7ki4vlof)
+- **AIHOT 链接**: [https://aihot.news/items/cmq9rm9fl0ellslld7ki4vlof](https://aihot.news/items/cmq9rm9fl0ellslld7ki4vlof)

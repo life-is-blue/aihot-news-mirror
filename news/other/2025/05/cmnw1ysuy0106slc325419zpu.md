@@ -6,7 +6,7 @@
 "discovered_at": "2025-05-20T13:29:57.000Z"
 "source_name": "X：Jim Fan (@DrJimFan)"
 "original_url": "https://x.com/DrJimFan/status/1924819887139987855"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1ysuy0106slc325419zpu"
+"canonical_url": "https://aihot.news/items/cmnw1ysuy0106slc325419zpu"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ DreamGen让机器人在视频生成模型中"做梦"合成训练数据。通过�
 
 - **来源**: X：Jim Fan (@DrJimFan)
 - **原文链接**: [https://x.com/DrJimFan/status/1924819887139987855](https://x.com/DrJimFan/status/1924819887139987855)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1ysuy0106slc325419zpu](https://aihot.virxact.com/items/cmnw1ysuy0106slc325419zpu)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1ysuy0106slc325419zpu](https://aihot.news/items/cmnw1ysuy0106slc325419zpu)

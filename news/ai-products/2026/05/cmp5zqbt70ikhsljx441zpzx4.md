@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-14T21:18:25.729Z"
 "source_name": "X：Sam Altman (@sama)"
 "original_url": "https://x.com/sama/status/2055034461591588916"
-"canonical_url": "https://aihot.virxact.com/items/cmp5zqbt70ikhsljx441zpzx4"
+"canonical_url": "https://aihot.news/items/cmp5zqbt70ikhsljx441zpzx4"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ ChatGPT手机应用中推出Codex功能！
 
 - **来源**: X：Sam Altman (@sama)
 - **原文链接**: [https://x.com/sama/status/2055034461591588916](https://x.com/sama/status/2055034461591588916)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp5zqbt70ikhsljx441zpzx4](https://aihot.virxact.com/items/cmp5zqbt70ikhsljx441zpzx4)
+- **AIHOT 链接**: [https://aihot.news/items/cmp5zqbt70ikhsljx441zpzx4](https://aihot.news/items/cmp5zqbt70ikhsljx441zpzx4)

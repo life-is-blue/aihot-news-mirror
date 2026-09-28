@@ -6,7 +6,7 @@
 "discovered_at": "2024-12-18T16:00:00.000Z"
 "source_name": "Anthropic：Engineering（事故复盘 + 工程实践 · 网页）"
 "original_url": "https://www.anthropic.com/engineering/building-effective-agents"
-"canonical_url": "https://aihot.virxact.com/items/cmorb7ml1008sslhfbtb6n1vk"
+"canonical_url": "https://aihot.news/items/cmorb7ml1008sslhfbtb6n1vk"
 "score": 80
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic基于实践经验指出，成功的LLM智能体往往采用简单、�
 
 - **来源**: Anthropic：Engineering（事故复盘 + 工程实践 · 网页）
 - **原文链接**: [https://www.anthropic.com/engineering/building-effective-agents](https://www.anthropic.com/engineering/building-effective-agents)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmorb7ml1008sslhfbtb6n1vk](https://aihot.virxact.com/items/cmorb7ml1008sslhfbtb6n1vk)
+- **AIHOT 链接**: [https://aihot.news/items/cmorb7ml1008sslhfbtb6n1vk](https://aihot.news/items/cmorb7ml1008sslhfbtb6n1vk)

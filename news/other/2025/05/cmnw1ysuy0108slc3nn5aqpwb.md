@@ -7,7 +7,7 @@
 "discovered_at": "2025-05-08T15:41:39.000Z"
 "source_name": "X：Jim Fan (@DrJimFan)"
 "original_url": "https://x.com/DrJimFan/status/1920504375925223669"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1ysuy0108slc3nn5aqpwb"
+"canonical_url": "https://aihot.news/items/cmnw1ysuy0108slc3nn5aqpwb"
 "score": null
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: X：Jim Fan (@DrJimFan)
 - **原文链接**: [https://x.com/DrJimFan/status/1920504375925223669](https://x.com/DrJimFan/status/1920504375925223669)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1ysuy0108slc3nn5aqpwb](https://aihot.virxact.com/items/cmnw1ysuy0108slc3nn5aqpwb)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1ysuy0108slc3nn5aqpwb](https://aihot.news/items/cmnw1ysuy0108slc3nn5aqpwb)

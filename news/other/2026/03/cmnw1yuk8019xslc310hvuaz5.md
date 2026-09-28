@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-27T02:20:25.000Z"
 "source_name": "X：OpenAI Developers (@OpenAIDevs)"
 "original_url": "https://x.com/OpenAIDevs/status/2037354021787439197"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yuk8019xslc310hvuaz5"
+"canonical_url": "https://aihot.news/items/cmnw1yuk8019xslc310hvuaz5"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Codex 已重置所有套餐的使用限制，方便用户体验新推出的插�
 
 - **来源**: X：OpenAI Developers (@OpenAIDevs)
 - **原文链接**: [https://x.com/OpenAIDevs/status/2037354021787439197](https://x.com/OpenAIDevs/status/2037354021787439197)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yuk8019xslc310hvuaz5](https://aihot.virxact.com/items/cmnw1yuk8019xslc310hvuaz5)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yuk8019xslc310hvuaz5](https://aihot.news/items/cmnw1yuk8019xslc310hvuaz5)

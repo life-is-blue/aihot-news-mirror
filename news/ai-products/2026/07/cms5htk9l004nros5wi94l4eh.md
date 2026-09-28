@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-29T02:56:17.464Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://github.com/gavamedia/deltafin"
-"canonical_url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh"
+"canonical_url": "https://aihot.news/items/cms5htk9l004nros5wi94l4eh"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Deltafin 项目成功在 64 GB M1 Max 上运行了 2.8T 参数的 MoE 模型 Kim
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://github.com/gavamedia/deltafin](https://github.com/gavamedia/deltafin)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh](https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh)
+- **AIHOT 链接**: [https://aihot.news/items/cms5htk9l004nros5wi94l4eh](https://aihot.news/items/cms5htk9l004nros5wi94l4eh)

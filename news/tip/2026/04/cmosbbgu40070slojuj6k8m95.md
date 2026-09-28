@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-21T12:00:00.000Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/app-stability"
-"canonical_url": "https://aihot.virxact.com/items/cmosbbgu40070slojuj6k8m95"
+"canonical_url": "https://aihot.news/items/cmosbbgu40070slojuj6k8m95"
 "score": 55
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Cursor 团队针对用户全天依赖应用、崩溃影响严重的问题，聚�
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/app-stability](https://cursor.com/blog/app-stability)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmosbbgu40070slojuj6k8m95](https://aihot.virxact.com/items/cmosbbgu40070slojuj6k8m95)
+- **AIHOT 链接**: [https://aihot.news/items/cmosbbgu40070slojuj6k8m95](https://aihot.news/items/cmosbbgu40070slojuj6k8m95)

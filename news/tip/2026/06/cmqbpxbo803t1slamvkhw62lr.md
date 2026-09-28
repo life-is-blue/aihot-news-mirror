@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-13T02:10:22.554Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/insights/reliability-failover"
-"canonical_url": "https://aihot.virxact.com/items/cmqbpxbo803t1slamvkhw62lr"
+"canonical_url": "https://aihot.news/items/cmqbpxbo803t1slamvkhw62lr"
 "score": 59
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter 默认启用提供商故障转移（provider failover），模型回�
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/insights/reliability-failover](https://openrouter.ai/blog/insights/reliability-failover)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqbpxbo803t1slamvkhw62lr](https://aihot.virxact.com/items/cmqbpxbo803t1slamvkhw62lr)
+- **AIHOT 链接**: [https://aihot.news/items/cmqbpxbo803t1slamvkhw62lr](https://aihot.news/items/cmqbpxbo803t1slamvkhw62lr)

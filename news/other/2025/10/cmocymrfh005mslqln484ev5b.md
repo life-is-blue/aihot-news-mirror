@@ -6,7 +6,7 @@
 "discovered_at": "2025-10-24T00:48:24.000Z"
 "source_name": "美团 LongCat：HuggingFace 新模型"
 "original_url": "https://huggingface.co/meituan-longcat/LongCat-Flash-Omni-FP8"
-"canonical_url": "https://aihot.virxact.com/items/cmocymrfh005mslqln484ev5b"
+"canonical_url": "https://aihot.news/items/cmocymrfh005mslqln484ev5b"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: 美团 LongCat：HuggingFace 新模型
 - **原文链接**: [https://huggingface.co/meituan-longcat/LongCat-Flash-Omni-FP8](https://huggingface.co/meituan-longcat/LongCat-Flash-Omni-FP8)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmocymrfh005mslqln484ev5b](https://aihot.virxact.com/items/cmocymrfh005mslqln484ev5b)
+- **AIHOT 链接**: [https://aihot.news/items/cmocymrfh005mslqln484ev5b](https://aihot.news/items/cmocymrfh005mslqln484ev5b)

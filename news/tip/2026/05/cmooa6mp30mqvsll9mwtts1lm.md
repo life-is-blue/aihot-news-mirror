@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-02T11:51:16.979Z"
 "source_name": "X：Demis Hassabis (@demishassabis)"
 "original_url": "https://x.com/demishassabis/status/2050539386475786708"
-"canonical_url": "https://aihot.virxact.com/items/cmooa6mp30mqvsll9mwtts1lm"
+"canonical_url": "https://aihot.news/items/cmooa6mp30mqvsll9mwtts1lm"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：Demis Hassabis (@demishassabis)
 - **原文链接**: [https://x.com/demishassabis/status/2050539386475786708](https://x.com/demishassabis/status/2050539386475786708)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmooa6mp30mqvsll9mwtts1lm](https://aihot.virxact.com/items/cmooa6mp30mqvsll9mwtts1lm)
+- **AIHOT 链接**: [https://aihot.news/items/cmooa6mp30mqvsll9mwtts1lm](https://aihot.news/items/cmooa6mp30mqvsll9mwtts1lm)

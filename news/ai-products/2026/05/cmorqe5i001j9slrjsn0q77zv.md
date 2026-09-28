@@ -7,7 +7,7 @@
 "source_name": "Google Blog：AI（RSS）"
 "original_url": "https://blog.google/innovation-and-ai/technology/developers-to\
   ols/event-driven-webhooks"
-"canonical_url": "https://aihot.virxact.com/items/cmorqe5i001j9slrjsn0q77zv"
+"canonical_url": "https://aihot.news/items/cmorqe5i001j9slrjsn0q77zv"
 "score": 71
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Gemini API 引入了事件驱动的 Webhook 功能，这是一种基于推送的
 
 - **来源**: Google Blog：AI（RSS）
 - **原文链接**: [https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks](https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmorqe5i001j9slrjsn0q77zv](https://aihot.virxact.com/items/cmorqe5i001j9slrjsn0q77zv)
+- **AIHOT 链接**: [https://aihot.news/items/cmorqe5i001j9slrjsn0q77zv](https://aihot.news/items/cmorqe5i001j9slrjsn0q77zv)

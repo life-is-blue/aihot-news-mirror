@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-10T04:01:21.161Z"
 "source_name": "公众号：龙猫LongCat（美团）"
 "original_url": "https://mp.weixin.qq.com/s/iCq4jVlTdKOt74zAMYIIdw"
-"canonical_url": "https://aihot.virxact.com/items/cmrees13p006wihgvrokrpgpy"
+"canonical_url": "https://aihot.news/items/cmrees13p006wihgvrokrpgpy"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: 公众号：龙猫LongCat（美团）
 - **原文链接**: [https://mp.weixin.qq.com/s/iCq4jVlTdKOt74zAMYIIdw](https://mp.weixin.qq.com/s/iCq4jVlTdKOt74zAMYIIdw)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrees13p006wihgvrokrpgpy](https://aihot.virxact.com/items/cmrees13p006wihgvrokrpgpy)
+- **AIHOT 链接**: [https://aihot.news/items/cmrees13p006wihgvrokrpgpy](https://aihot.news/items/cmrees13p006wihgvrokrpgpy)

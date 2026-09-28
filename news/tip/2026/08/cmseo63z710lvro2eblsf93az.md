@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-04T13:03:55.521Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x"
-"canonical_url": "https://aihot.virxact.com/items/cmseo63z710lvro2eblsf93az"
+"canonical_url": "https://aihot.news/items/cmseo63z710lvro2eblsf93az"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://github.com/ryanzhou/deepseek-v4-flash-mi300x](https://github.com/ryanzhou/deepseek-v4-flash-mi300x)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmseo63z710lvro2eblsf93az](https://aihot.virxact.com/items/cmseo63z710lvro2eblsf93az)
+- **AIHOT 链接**: [https://aihot.news/items/cmseo63z710lvro2eblsf93az](https://aihot.news/items/cmseo63z710lvro2eblsf93az)

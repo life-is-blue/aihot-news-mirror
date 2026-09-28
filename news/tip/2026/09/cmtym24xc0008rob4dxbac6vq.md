@@ -7,7 +7,7 @@
 "source_name": "Baseten 工程博客（网页）"
 "original_url": "https://www.baseten.co/blog/best-open-source-models-for-post-training"
 "canonical_url": "https://aihot.news/items/cmtym24xc0008rob4dxbac6vq"
-"score": 61
+"score": 62
 "content_kind": "news"
 ---
 

@@ -7,7 +7,7 @@
 "source_name": "The Verge：AI（RSS）"
 "original_url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-musta\
   fa-suleyman-superintelligence-agi-openai-automation"
-"canonical_url": "https://aihot.virxact.com/items/cmq5ae45j060nslt214k74uu3"
+"canonical_url": "https://aihot.news/items/cmq5ae45j060nslt214k74uu3"
 "score": 79
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: The Verge：AI（RSS）
 - **原文链接**: [https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation](https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq5ae45j060nslt214k74uu3](https://aihot.virxact.com/items/cmq5ae45j060nslt214k74uu3)
+- **AIHOT 链接**: [https://aihot.news/items/cmq5ae45j060nslt214k74uu3](https://aihot.news/items/cmq5ae45j060nslt214k74uu3)

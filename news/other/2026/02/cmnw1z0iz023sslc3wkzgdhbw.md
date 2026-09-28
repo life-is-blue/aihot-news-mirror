@@ -6,7 +6,7 @@
 "discovered_at": "2026-02-09T15:54:33.000Z"
 "source_name": "Hacker News：AI 热帖"
 "original_url": "https://hallucinatingsplines.com/"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1z0iz023sslc3wkzgdhbw"
+"canonical_url": "https://aihot.news/items/cmnw1z0iz023sslc3wkzgdhbw"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News：AI 热帖
 - **原文链接**: [https://hallucinatingsplines.com/](https://hallucinatingsplines.com/)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1z0iz023sslc3wkzgdhbw](https://aihot.virxact.com/items/cmnw1z0iz023sslc3wkzgdhbw)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1z0iz023sslc3wkzgdhbw](https://aihot.news/items/cmnw1z0iz023sslc3wkzgdhbw)

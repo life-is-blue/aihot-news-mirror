@@ -7,7 +7,7 @@
 "source_name": "TechCrunch：AI（RSS）"
 "original_url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still\
   -lacks-evidence-for-anthropic-supply-chain-risk-label"
-"canonical_url": "https://aihot.virxact.com/items/cms7yt12z02fdro20rgzdgpdy"
+"canonical_url": "https://aihot.news/items/cms7yt12z02fdro20rgzdgpdy"
 "score": 73
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label](https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms7yt12z02fdro20rgzdgpdy](https://aihot.virxact.com/items/cms7yt12z02fdro20rgzdgpdy)
+- **AIHOT 链接**: [https://aihot.news/items/cms7yt12z02fdro20rgzdgpdy](https://aihot.news/items/cms7yt12z02fdro20rgzdgpdy)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-30T14:43:57.605Z"
 "source_name": "X：通义千问 / Qwen (@Alibaba_Qwen)"
 "original_url": "https://x.com/Alibaba_Qwen/status/2049861145574690992"
-"canonical_url": "https://aihot.virxact.com/items/cmollgyq100d3sll99qp9kyyu"
+"canonical_url": "https://aihot.news/items/cmollgyq100d3sll99qp9kyyu"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Qwen团队推出开源稀疏自编码器套件Qwen-Scope，将SAE特征转化为
 
 - **来源**: X：通义千问 / Qwen (@Alibaba_Qwen)
 - **原文链接**: [https://x.com/Alibaba_Qwen/status/2049861145574690992](https://x.com/Alibaba_Qwen/status/2049861145574690992)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmollgyq100d3sll99qp9kyyu](https://aihot.virxact.com/items/cmollgyq100d3sll99qp9kyyu)
+- **AIHOT 链接**: [https://aihot.news/items/cmollgyq100d3sll99qp9kyyu](https://aihot.news/items/cmollgyq100d3sll99qp9kyyu)

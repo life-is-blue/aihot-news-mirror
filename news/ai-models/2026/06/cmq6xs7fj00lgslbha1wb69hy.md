@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-09T17:51:29.796Z"
 "source_name": "X：Jeff Dean (@JeffDean)"
 "original_url": "https://x.com/JeffDean/status/2064400689825288351"
-"canonical_url": "https://aihot.virxact.com/items/cmq6xs7fj00lgslbha1wb69hy"
+"canonical_url": "https://aihot.news/items/cmq6xs7fj00lgslbha1wb69hy"
 "score": 81
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@
 
 - **来源**: X：Jeff Dean (@JeffDean)
 - **原文链接**: [https://x.com/JeffDean/status/2064400689825288351](https://x.com/JeffDean/status/2064400689825288351)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq6xs7fj00lgslbha1wb69hy](https://aihot.virxact.com/items/cmq6xs7fj00lgslbha1wb69hy)
+- **AIHOT 链接**: [https://aihot.news/items/cmq6xs7fj00lgslbha1wb69hy](https://aihot.news/items/cmq6xs7fj00lgslbha1wb69hy)

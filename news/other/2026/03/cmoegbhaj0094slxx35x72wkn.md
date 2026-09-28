@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-10T00:00:00.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/async-rl-training-landscape"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhaj0094slxx35x72wkn"
+"canonical_url": "https://aihot.news/items/cmoegbhaj0094slxx35x72wkn"
 "score": 83
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/async-rl-training-landscape](https://huggingface.co/blog/async-rl-training-landscape)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhaj0094slxx35x72wkn](https://aihot.virxact.com/items/cmoegbhaj0094slxx35x72wkn)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhaj0094slxx35x72wkn](https://aihot.news/items/cmoegbhaj0094slxx35x72wkn)

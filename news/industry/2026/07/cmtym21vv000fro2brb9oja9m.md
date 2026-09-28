@@ -8,7 +8,7 @@
 "original_url": "https://www.together.ai/blog/together-ai-announces-strategic-p\
   artnership-with-moonshot-ai-to-natively-serve-kimi-models"
 "canonical_url": "https://aihot.news/items/cmtym21vv000fro2brb9oja9m"
-"score": 64
+"score": 65
 "content_kind": "news"
 ---
 

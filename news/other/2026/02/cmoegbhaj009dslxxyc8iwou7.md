@@ -6,7 +6,7 @@
 "discovered_at": "2026-02-18T16:15:45.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/ibm-research/itbenchandmast"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhaj009dslxxyc8iwou7"
+"canonical_url": "https://aihot.news/items/cmoegbhaj009dslxxyc8iwou7"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ IBM Research与加州大学伯克利分校合作，通过新构建的IT-Bench基
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/ibm-research/itbenchandmast](https://huggingface.co/blog/ibm-research/itbenchandmast)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhaj009dslxxyc8iwou7](https://aihot.virxact.com/items/cmoegbhaj009dslxxyc8iwou7)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhaj009dslxxyc8iwou7](https://aihot.news/items/cmoegbhaj009dslxxyc8iwou7)

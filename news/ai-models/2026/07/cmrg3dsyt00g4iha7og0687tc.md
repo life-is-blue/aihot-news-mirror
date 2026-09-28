@@ -7,7 +7,7 @@
 "source_name": "MarkTechPost（RSS）"
 "original_url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-un\
   veils-lingbot-va-2-0"
-"canonical_url": "https://aihot.virxact.com/items/cmrg3dsyt00g4iha7og0687tc"
+"canonical_url": "https://aihot.news/items/cmrg3dsyt00g4iha7og0687tc"
 "score": 74
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0](https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrg3dsyt00g4iha7og0687tc](https://aihot.virxact.com/items/cmrg3dsyt00g4iha7og0687tc)
+- **AIHOT 链接**: [https://aihot.news/items/cmrg3dsyt00g4iha7og0687tc](https://aihot.news/items/cmrg3dsyt00g4iha7og0687tc)

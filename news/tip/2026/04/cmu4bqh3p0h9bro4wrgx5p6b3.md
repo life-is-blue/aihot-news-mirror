@@ -7,7 +7,7 @@
 "source_name": "Augment Code 博客（网页）"
 "original_url": "https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files"
 "canonical_url": "https://aihot.news/items/cmu4bqh3p0h9bro4wrgx5p6b3"
-"score": 76
+"score": 77
 "content_kind": "news"
 ---
 

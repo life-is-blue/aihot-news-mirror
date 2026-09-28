@@ -7,7 +7,7 @@
 "source_name": "Artificial Analysis 完整文章（网页）"
 "original_url": "https://artificialanalysis.ai/articles/announcing-the-speech-agent-arena"
 "canonical_url": "https://aihot.news/items/cmtym47p9000brogey1guc4wt"
-"score": 62
+"score": 63
 "content_kind": "news"
 ---
 

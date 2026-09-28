@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-14T16:36:24.904Z"
 "source_name": "X：OpenRouter (@OpenRouter)"
 "original_url": "https://x.com/OpenRouter/status/2054957185982177504"
-"canonical_url": "https://aihot.virxact.com/items/cmp5pnlwr0g8esljxgm4ojw16"
+"canonical_url": "https://aihot.news/items/cmp5pnlwr0g8esljxgm4ojw16"
 "score": 68
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@
 
 - **来源**: X：OpenRouter (@OpenRouter)
 - **原文链接**: [https://x.com/OpenRouter/status/2054957185982177504](https://x.com/OpenRouter/status/2054957185982177504)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp5pnlwr0g8esljxgm4ojw16](https://aihot.virxact.com/items/cmp5pnlwr0g8esljxgm4ojw16)
+- **AIHOT 链接**: [https://aihot.news/items/cmp5pnlwr0g8esljxgm4ojw16](https://aihot.news/items/cmp5pnlwr0g8esljxgm4ojw16)

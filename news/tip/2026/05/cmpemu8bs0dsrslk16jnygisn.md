@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-20T22:27:35.939Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://www.tomtunguz.com/ai-model-inflation"
-"canonical_url": "https://aihot.virxact.com/items/cmpemu8bs0dsrslk16jnygisn"
+"canonical_url": "https://aihot.news/items/cmpemu8bs0dsrslk16jnygisn"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://www.tomtunguz.com/ai-model-inflation](https://www.tomtunguz.com/ai-model-inflation)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpemu8bs0dsrslk16jnygisn](https://aihot.virxact.com/items/cmpemu8bs0dsrslk16jnygisn)
+- **AIHOT 链接**: [https://aihot.news/items/cmpemu8bs0dsrslk16jnygisn](https://aihot.news/items/cmpemu8bs0dsrslk16jnygisn)

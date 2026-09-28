@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/figma-bets-on-human-judgment-at-config\
   -2026-while-the-ai-powering-its-canvas-belongs-to-someone-else"
-"canonical_url": "https://aihot.virxact.com/items/cmqsbrhhm01o1slfu2kei9qhy"
+"canonical_url": "https://aihot.news/items/cmqsbrhhm01o1slfu2kei9qhy"
 "score": 74
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Figma在Config 2026将设计画布扩展至代码、动画、3D深度和着色�
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/figma-bets-on-human-judgment-at-config-2026-while-the-ai-powering-its-canvas-belongs-to-someone-else](https://the-decoder.com/figma-bets-on-human-judgment-at-config-2026-while-the-ai-powering-its-canvas-belongs-to-someone-else)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqsbrhhm01o1slfu2kei9qhy](https://aihot.virxact.com/items/cmqsbrhhm01o1slfu2kei9qhy)
+- **AIHOT 链接**: [https://aihot.news/items/cmqsbrhhm01o1slfu2kei9qhy](https://aihot.news/items/cmqsbrhhm01o1slfu2kei9qhy)

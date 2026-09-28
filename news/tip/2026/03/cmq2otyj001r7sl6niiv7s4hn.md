@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-16T15:00:09.000Z"
 "source_name": "公众号：月之暗面（Kimi）"
 "original_url": "https://mp.weixin.qq.com/s/zVEVLlcnTluFpdhc8qdjlQ"
-"canonical_url": "https://aihot.virxact.com/items/cmq2otyj001r7sl6niiv7s4hn"
+"canonical_url": "https://aihot.news/items/cmq2otyj001r7sl6niiv7s4hn"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Kimi支持的个人开发者开源项目OneClaw下载量突破10万，提供一�
 
 - **来源**: 公众号：月之暗面（Kimi）
 - **原文链接**: [https://mp.weixin.qq.com/s/zVEVLlcnTluFpdhc8qdjlQ](https://mp.weixin.qq.com/s/zVEVLlcnTluFpdhc8qdjlQ)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq2otyj001r7sl6niiv7s4hn](https://aihot.virxact.com/items/cmq2otyj001r7sl6niiv7s4hn)
+- **AIHOT 链接**: [https://aihot.news/items/cmq2otyj001r7sl6niiv7s4hn](https://aihot.news/items/cmq2otyj001r7sl6niiv7s4hn)

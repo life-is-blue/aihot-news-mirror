@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-26T18:02:41.262Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/claude-in-chrome-generally-available"
-"canonical_url": "https://aihot.virxact.com/items/cmtaej1vz0czhroj2aybdbq26"
+"canonical_url": "https://aihot.news/items/cmtaej1vz0czhroj2aybdbq26"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 宣布 Claude in Chrome 现已面向所有付费 Claude 套餐全面�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/claude-in-chrome-generally-available](https://claude.com/blog/claude-in-chrome-generally-available)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtaej1vz0czhroj2aybdbq26](https://aihot.virxact.com/items/cmtaej1vz0czhroj2aybdbq26)
+- **AIHOT 链接**: [https://aihot.news/items/cmtaej1vz0czhroj2aybdbq26](https://aihot.news/items/cmtaej1vz0czhroj2aybdbq26)

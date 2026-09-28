@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-15T18:32:54.409Z"
 "source_name": "X：OpenRouter (@OpenRouter)"
 "original_url": "https://x.com/OpenRouter/status/2066585705581797616"
-"canonical_url": "https://aihot.virxact.com/items/cmqfjwkcg00nsslq8hl0hy4hc"
+"canonical_url": "https://aihot.news/items/cmqfjwkcg00nsslq8hl0hy4hc"
 "score": 65
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenRouter 上新增免费容量，由 @eigenlabs 的 Darkbloom 提供：gpt-oss
 
 - **来源**: X：OpenRouter (@OpenRouter)
 - **原文链接**: [https://x.com/OpenRouter/status/2066585705581797616](https://x.com/OpenRouter/status/2066585705581797616)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqfjwkcg00nsslq8hl0hy4hc](https://aihot.virxact.com/items/cmqfjwkcg00nsslq8hl0hy4hc)
+- **AIHOT 链接**: [https://aihot.news/items/cmqfjwkcg00nsslq8hl0hy4hc](https://aihot.news/items/cmqfjwkcg00nsslq8hl0hy4hc)

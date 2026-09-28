@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-02T16:03:21.000Z"
 "source_name": "X：Google DeepMind (@GoogleDeepMind)"
 "original_url": "https://x.com/GoogleDeepMind/status/2039735446628925907"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yr5o00vuslc3ry0ivlsy"
+"canonical_url": "https://aihot.news/items/cmnw1yr5o00vuslc3ry0ivlsy"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google 发布 Gemma 4 开源模型系列，采用 Apache 2.0 许可证，支持�
 
 - **来源**: X：Google DeepMind (@GoogleDeepMind)
 - **原文链接**: [https://x.com/GoogleDeepMind/status/2039735446628925907](https://x.com/GoogleDeepMind/status/2039735446628925907)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yr5o00vuslc3ry0ivlsy](https://aihot.virxact.com/items/cmnw1yr5o00vuslc3ry0ivlsy)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yr5o00vuslc3ry0ivlsy](https://aihot.news/items/cmnw1yr5o00vuslc3ry0ivlsy)

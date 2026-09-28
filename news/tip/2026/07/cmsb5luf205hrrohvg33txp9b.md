@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-23T11:05:07.000Z"
 "source_name": "蚂蚁 inclusionAI：GitHub 新仓库"
 "original_url": "https://github.com/inclusionAI/PanelWise"
-"canonical_url": "https://aihot.virxact.com/items/cmsb5luf205hrrohvg33txp9b"
+"canonical_url": "https://aihot.news/items/cmsb5luf205hrrohvg33txp9b"
 "score": 57
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: 蚂蚁 inclusionAI：GitHub 新仓库
 - **原文链接**: [https://github.com/inclusionAI/PanelWise](https://github.com/inclusionAI/PanelWise)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsb5luf205hrrohvg33txp9b](https://aihot.virxact.com/items/cmsb5luf205hrrohvg33txp9b)
+- **AIHOT 链接**: [https://aihot.news/items/cmsb5luf205hrrohvg33txp9b](https://aihot.news/items/cmsb5luf205hrrohvg33txp9b)

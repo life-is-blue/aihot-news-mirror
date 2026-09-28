@@ -7,7 +7,7 @@
 "source_name": "Together AI 研究与产品博客（RSS）"
 "original_url": "https://www.together.ai/blog/the-open-source-ai-stack"
 "canonical_url": "https://aihot.news/items/cmtym21vv0005ro2bwwudu7j1"
-"score": 67
+"score": 68
 "content_kind": "news"
 ---
 

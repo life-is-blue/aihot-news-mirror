@@ -6,7 +6,7 @@
 "discovered_at": "2026-01-21T16:00:00.000Z"
 "source_name": "Moonshot AI：Kimi Blog"
 "original_url": "https://www.kimi.com/blog/kimi-vendor-verifier"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsdpte002vslagm82ixdho"
+"canonical_url": "https://aihot.news/items/cmnwsdpte002vslagm82ixdho"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Kimi 发布 K2.5 模型时开源 Kimi Vendor Verifier（KVV），用于验证第
 
 - **来源**: Moonshot AI：Kimi Blog
 - **原文链接**: [https://www.kimi.com/blog/kimi-vendor-verifier](https://www.kimi.com/blog/kimi-vendor-verifier)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsdpte002vslagm82ixdho](https://aihot.virxact.com/items/cmnwsdpte002vslagm82ixdho)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsdpte002vslagm82ixdho](https://aihot.news/items/cmnwsdpte002vslagm82ixdho)

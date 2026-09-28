@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-20T19:38:45.834Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-build-for-everyone"
-"canonical_url": "https://aihot.virxact.com/items/cmt1xbu7q0b7troovffggr2jh"
+"canonical_url": "https://aihot.news/items/cmt1xbu7q0b7troovffggr2jh"
 "score": 82
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Grok Build 现已面向所有套餐开放，支持网页、iOS 和 Android 端�
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-build-for-everyone](https://x.ai/news/grok-build-for-everyone)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt1xbu7q0b7troovffggr2jh](https://aihot.virxact.com/items/cmt1xbu7q0b7troovffggr2jh)
+- **AIHOT 链接**: [https://aihot.news/items/cmt1xbu7q0b7troovffggr2jh](https://aihot.news/items/cmt1xbu7q0b7troovffggr2jh)

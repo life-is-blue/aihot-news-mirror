@@ -7,7 +7,7 @@
 "source_name": "MarkTechPost（RSS）"
 "original_url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-so\
   urce-mcp-extension-using-local-hybrid-rag"
-"canonical_url": "https://aihot.virxact.com/items/cms782fxi02w4ro2evmcwz6uj"
+"canonical_url": "https://aihot.news/items/cms782fxi02w4ro2evmcwz6uj"
 "score": 74
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Marktechpost AI 团队发布 Token Saver，一款面向 Claude Desktop 的开源
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag](https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms782fxi02w4ro2evmcwz6uj](https://aihot.virxact.com/items/cms782fxi02w4ro2evmcwz6uj)
+- **AIHOT 链接**: [https://aihot.news/items/cms782fxi02w4ro2evmcwz6uj](https://aihot.news/items/cms782fxi02w4ro2evmcwz6uj)

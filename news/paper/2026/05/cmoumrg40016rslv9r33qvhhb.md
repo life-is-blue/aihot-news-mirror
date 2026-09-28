@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-06T22:30:00.552Z"
 "source_name": "Apple Machine Learning Research（RSS）"
 "original_url": "https://machinelearning.apple.com/research/spatial"
-"canonical_url": "https://aihot.virxact.com/items/cmoumrg40016rslv9r33qvhhb"
+"canonical_url": "https://aihot.news/items/cmoumrg40016rslv9r33qvhhb"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Apple Machine Learning Research（RSS）
 - **原文链接**: [https://machinelearning.apple.com/research/spatial](https://machinelearning.apple.com/research/spatial)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoumrg40016rslv9r33qvhhb](https://aihot.virxact.com/items/cmoumrg40016rslv9r33qvhhb)
+- **AIHOT 链接**: [https://aihot.news/items/cmoumrg40016rslv9r33qvhhb](https://aihot.news/items/cmoumrg40016rslv9r33qvhhb)

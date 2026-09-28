@@ -6,7 +6,7 @@
 "discovered_at": "2026-09-01T18:29:22.881Z"
 "source_name": "Claude Platform：开发者版本说明（RSS）"
 "original_url": "https://platform.claude.com/docs/en/release-notes/overview#september-1-2026"
-"canonical_url": "https://aihot.virxact.com/items/cmtj04igz04xproel00pt2oju"
+"canonical_url": "https://aihot.news/items/cmtj04igz04xproel00pt2oju"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 发布 Claude Fable 5.1（claude-fable-5-1），面向长时间运行�
 
 - **来源**: Claude Platform：开发者版本说明（RSS）
 - **原文链接**: [https://platform.claude.com/docs/en/release-notes/overview#september-1-2026](https://platform.claude.com/docs/en/release-notes/overview#september-1-2026)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtj04igz04xproel00pt2oju](https://aihot.virxact.com/items/cmtj04igz04xproel00pt2oju)
+- **AIHOT 链接**: [https://aihot.news/items/cmtj04igz04xproel00pt2oju](https://aihot.news/items/cmtj04igz04xproel00pt2oju)

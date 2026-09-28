@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-25T05:11:02.954Z"
 "source_name": "Simon Willison 博客"
 "original_url": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide"
-"canonical_url": "https://aihot.virxact.com/items/cmodvswnc02e9slud79j5vkgo"
+"canonical_url": "https://aihot.news/items/cmodvswnc02e9slud79j5vkgo"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 针对新发布的 GPT-5.5 API 模型发布了详细的提示指南。核
 
 - **来源**: Simon Willison 博客
 - **原文链接**: [https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide](https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmodvswnc02e9slud79j5vkgo](https://aihot.virxact.com/items/cmodvswnc02e9slud79j5vkgo)
+- **AIHOT 链接**: [https://aihot.news/items/cmodvswnc02e9slud79j5vkgo](https://aihot.news/items/cmodvswnc02e9slud79j5vkgo)

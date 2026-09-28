@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-04T20:45:11.258Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://www.tomtunguz.com/what-if-gpu-prices-double"
-"canonical_url": "https://aihot.virxact.com/items/cmsf4nabx1g03ro2e3ripbdfm"
+"canonical_url": "https://aihot.news/items/cmsf4nabx1g03ro2e3ripbdfm"
 "score": 63
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://www.tomtunguz.com/what-if-gpu-prices-double](https://www.tomtunguz.com/what-if-gpu-prices-double)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsf4nabx1g03ro2e3ripbdfm](https://aihot.virxact.com/items/cmsf4nabx1g03ro2e3ripbdfm)
+- **AIHOT 链接**: [https://aihot.news/items/cmsf4nabx1g03ro2e3ripbdfm](https://aihot.news/items/cmsf4nabx1g03ro2e3ripbdfm)

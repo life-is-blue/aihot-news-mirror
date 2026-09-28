@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-11T13:11:57.044Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/openai-launches-the-deployment-company"
-"canonical_url": "https://aihot.virxact.com/items/cmp1810fy0w14sllhclq644mh"
+"canonical_url": "https://aihot.news/items/cmp1810fy0w14sllhclq644mh"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 正式推出全新企业部署公司 DeployCo，旨在帮助各类组织�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/openai-launches-the-deployment-company](https://openai.com/index/openai-launches-the-deployment-company)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp1810fy0w14sllhclq644mh](https://aihot.virxact.com/items/cmp1810fy0w14sllhclq644mh)
+- **AIHOT 链接**: [https://aihot.news/items/cmp1810fy0w14sllhclq644mh](https://aihot.news/items/cmp1810fy0w14sllhclq644mh)

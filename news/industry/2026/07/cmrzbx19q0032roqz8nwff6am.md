@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-wei\
   ght-ai-models.html"
-"canonical_url": "https://aihot.virxact.com/items/cmrzbx19q0032roqz8nwff6am"
+"canonical_url": "https://aihot.news/items/cmrzbx19q0032roqz8nwff6am"
 "score": 77
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrzbx19q0032roqz8nwff6am](https://aihot.virxact.com/items/cmrzbx19q0032roqz8nwff6am)
+- **AIHOT 链接**: [https://aihot.news/items/cmrzbx19q0032roqz8nwff6am](https://aihot.news/items/cmrzbx19q0032roqz8nwff6am)

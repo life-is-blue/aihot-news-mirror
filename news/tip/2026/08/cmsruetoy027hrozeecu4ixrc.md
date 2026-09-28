@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-13T18:19:39.804Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/builders-guide-to-gpt-5-6"
-"canonical_url": "https://aihot.virxact.com/items/cmsruetoy027hrozeecu4ixrc"
+"canonical_url": "https://aihot.news/items/cmsruetoy027hrozeecu4ixrc"
 "score": 80
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ GPT-5.6 模型家族以更低成本实现前沿级智能体性能，并新增推
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/builders-guide-to-gpt-5-6](https://openai.com/index/builders-guide-to-gpt-5-6)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsruetoy027hrozeecu4ixrc](https://aihot.virxact.com/items/cmsruetoy027hrozeecu4ixrc)
+- **AIHOT 链接**: [https://aihot.news/items/cmsruetoy027hrozeecu4ixrc](https://aihot.news/items/cmsruetoy027hrozeecu4ixrc)

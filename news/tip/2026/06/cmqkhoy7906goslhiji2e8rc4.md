@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-19T05:29:50.847Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch"
-"canonical_url": "https://aihot.virxact.com/items/cmqkhoy7906goslhiji2e8rc4"
+"canonical_url": "https://aihot.news/items/cmqkhoy7906goslhiji2e8rc4"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Agent Builder 正式上市（GA）。基于 Elasticsearch 的持久化内存层�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch](https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqkhoy7906goslhiji2e8rc4](https://aihot.virxact.com/items/cmqkhoy7906goslhiji2e8rc4)
+- **AIHOT 链接**: [https://aihot.news/items/cmqkhoy7906goslhiji2e8rc4](https://aihot.news/items/cmqkhoy7906goslhiji2e8rc4)

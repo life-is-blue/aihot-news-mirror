@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-07T15:10:38.641Z"
 "source_name": "Apple Machine Learning Research（RSS）"
 "original_url": "https://machinelearning.apple.com/research/dynamics-fine-tuning-llms"
-"canonical_url": "https://aihot.virxact.com/items/cmrasd6r300hxihog9hxmteoz"
+"canonical_url": "https://aihot.news/items/cmrasd6r300hxihog9hxmteoz"
 "score": 55
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ DynaMiCS是一种动态混合优化器，将多领域微调建模为带性能约
 
 - **来源**: Apple Machine Learning Research（RSS）
 - **原文链接**: [https://machinelearning.apple.com/research/dynamics-fine-tuning-llms](https://machinelearning.apple.com/research/dynamics-fine-tuning-llms)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrasd6r300hxihog9hxmteoz](https://aihot.virxact.com/items/cmrasd6r300hxihog9hxmteoz)
+- **AIHOT 链接**: [https://aihot.news/items/cmrasd6r300hxihog9hxmteoz](https://aihot.news/items/cmrasd6r300hxihog9hxmteoz)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-06T01:20:36.359Z"
 "source_name": "公众号：卡尔的AI沃茨"
 "original_url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w"
-"canonical_url": "https://aihot.virxact.com/items/cmr8j9weh02kxsl0dy08683oe"
+"canonical_url": "https://aihot.news/items/cmr8j9weh02kxsl0dy08683oe"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Fable 5即将下线，作者整理了8个经实战验证的提示词：/g
 
 - **来源**: 公众号：卡尔的AI沃茨
 - **原文链接**: [https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w](https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr8j9weh02kxsl0dy08683oe](https://aihot.virxact.com/items/cmr8j9weh02kxsl0dy08683oe)
+- **AIHOT 链接**: [https://aihot.news/items/cmr8j9weh02kxsl0dy08683oe](https://aihot.news/items/cmr8j9weh02kxsl0dy08683oe)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-13T16:00:00.000Z"
 "source_name": "Moonshot AI：Kimi Blog"
 "original_url": "https://www.kimi.com/blog/kimi-k3"
-"canonical_url": "https://aihot.virxact.com/items/cmrnvwztt01bdbixyj6fk8322"
+"canonical_url": "https://aihot.news/items/cmrnvwztt01bdbixyj6fk8322"
 "score": 81
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Moonshot AI：Kimi Blog
 - **原文链接**: [https://www.kimi.com/blog/kimi-k3](https://www.kimi.com/blog/kimi-k3)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrnvwztt01bdbixyj6fk8322](https://aihot.virxact.com/items/cmrnvwztt01bdbixyj6fk8322)
+- **AIHOT 链接**: [https://aihot.news/items/cmrnvwztt01bdbixyj6fk8322](https://aihot.news/items/cmrnvwztt01bdbixyj6fk8322)

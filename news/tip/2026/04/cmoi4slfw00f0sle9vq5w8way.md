@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-28T04:33:49.632Z"
 "source_name": "Runway：News（网页）"
 "original_url": "https://runwayml.com/news/no-idle-gpus-managing-research-compute-at-runway"
-"canonical_url": "https://aihot.virxact.com/items/cmoi4slfw00f0sle9vq5w8way"
+"canonical_url": "https://aihot.news/items/cmoi4slfw00f0sle9vq5w8way"
 "score": 58
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Runway通过采用Kueue作为Kubernetes准入控制器，将GPU利用率提升�
 
 - **来源**: Runway：News（网页）
 - **原文链接**: [https://runwayml.com/news/no-idle-gpus-managing-research-compute-at-runway](https://runwayml.com/news/no-idle-gpus-managing-research-compute-at-runway)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoi4slfw00f0sle9vq5w8way](https://aihot.virxact.com/items/cmoi4slfw00f0sle9vq5w8way)
+- **AIHOT 链接**: [https://aihot.news/items/cmoi4slfw00f0sle9vq5w8way](https://aihot.news/items/cmoi4slfw00f0sle9vq5w8way)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-18T19:14:48.112Z"
 "source_name": "Runway：News（网页）"
 "original_url": "https://runwayml.com/news/dtensor-distributed-training"
-"canonical_url": "https://aihot.virxact.com/items/cmpbl2x12189rslnzoe9jhur3"
+"canonical_url": "https://aihot.news/items/cmpbl2x12189rslnzoe9jhur3"
 "score": 57
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Runway：News（网页）
 - **原文链接**: [https://runwayml.com/news/dtensor-distributed-training](https://runwayml.com/news/dtensor-distributed-training)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpbl2x12189rslnzoe9jhur3](https://aihot.virxact.com/items/cmpbl2x12189rslnzoe9jhur3)
+- **AIHOT 链接**: [https://aihot.news/items/cmpbl2x12189rslnzoe9jhur3](https://aihot.news/items/cmpbl2x12189rslnzoe9jhur3)

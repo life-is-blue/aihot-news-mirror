@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-14T05:22:30.653Z"
 "source_name": "X：硅基流动 SiliconFlow (@SiliconFlowAI)"
 "original_url": "https://x.com/SiliconFlowAI/status/2088127458558271885"
-"canonical_url": "https://aihot.virxact.com/items/cmssi38vn03o9rofffr0z8lyb"
+"canonical_url": "https://aihot.news/items/cmssi38vn03o9rofffr0z8lyb"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ DeepSeek-V4-Pro-0813 正式上线硅基流动 SiliconFlow，提供 Day-0 支持�
 
 - **来源**: X：硅基流动 SiliconFlow (@SiliconFlowAI)
 - **原文链接**: [https://x.com/SiliconFlowAI/status/2088127458558271885](https://x.com/SiliconFlowAI/status/2088127458558271885)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmssi38vn03o9rofffr0z8lyb](https://aihot.virxact.com/items/cmssi38vn03o9rofffr0z8lyb)
+- **AIHOT 链接**: [https://aihot.news/items/cmssi38vn03o9rofffr0z8lyb](https://aihot.news/items/cmssi38vn03o9rofffr0z8lyb)

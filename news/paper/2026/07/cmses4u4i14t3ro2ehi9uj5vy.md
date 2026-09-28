@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-31T00:00:00.000Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2607.29377"
-"canonical_url": "https://aihot.virxact.com/items/cmses4u4i14t3ro2ehi9uj5vy"
+"canonical_url": "https://aihot.news/items/cmses4u4i14t3ro2ehi9uj5vy"
 "score": 80
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Zero-Mem 提出零 token 记忆操作，除最终问答外，记忆构建、检�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2607.29377](https://arxiv.org/abs/2607.29377)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmses4u4i14t3ro2ehi9uj5vy](https://aihot.virxact.com/items/cmses4u4i14t3ro2ehi9uj5vy)
+- **AIHOT 链接**: [https://aihot.news/items/cmses4u4i14t3ro2ehi9uj5vy](https://aihot.news/items/cmses4u4i14t3ro2ehi9uj5vy)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-31T22:34:37.000Z"
 "source_name": "Ethan Mollick：One Useful Thing（RSS）"
 "original_url": "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsvcte0036slteq3z7p19v"
+"canonical_url": "https://aihot.news/items/cmnwsvcte0036slteq3z7p19v"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ AI 能力已足够强大，但人们仍缺乏趁手的工具和界面来完成�
 
 - **来源**: Ethan Mollick：One Useful Thing（RSS）
 - **原文链接**: [https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of](https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsvcte0036slteq3z7p19v](https://aihot.virxact.com/items/cmnwsvcte0036slteq3z7p19v)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsvcte0036slteq3z7p19v](https://aihot.news/items/cmnwsvcte0036slteq3z7p19v)

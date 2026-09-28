@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-29T00:56:24.557Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/tutorials/langchain-chatopenrouter-setup"
-"canonical_url": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap"
+"canonical_url": "https://aihot.news/items/cms5dje230234ro7czv3o3wap"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter 发布了 langchain-openrouter（Python）和 @langchain/openrouter�
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/tutorials/langchain-chatopenrouter-setup](https://openrouter.ai/blog/tutorials/langchain-chatopenrouter-setup)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap](https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap)
+- **AIHOT 链接**: [https://aihot.news/items/cms5dje230234ro7czv3o3wap](https://aihot.news/items/cms5dje230234ro7czv3o3wap)

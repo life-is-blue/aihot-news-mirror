@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-11T13:13:55.266Z"
 "source_name": "NVIDIA Blog（RSS）"
 "original_url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron"
-"canonical_url": "https://aihot.virxact.com/items/cmsoolxde07isrop2eb5rrtvq"
+"canonical_url": "https://aihot.news/items/cmsoolxde07isrop2eb5rrtvq"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ NVIDIA 发布 Nemotron 3.5 Lightning，一款可定制的开源 30B 混合专家
 
 - **来源**: NVIDIA Blog（RSS）
 - **原文链接**: [https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron](https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsoolxde07isrop2eb5rrtvq](https://aihot.virxact.com/items/cmsoolxde07isrop2eb5rrtvq)
+- **AIHOT 链接**: [https://aihot.news/items/cmsoolxde07isrop2eb5rrtvq](https://aihot.news/items/cmsoolxde07isrop2eb5rrtvq)

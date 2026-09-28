@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden\
   -malware-without-verification-giving-attackers-full-control"
-"canonical_url": "https://aihot.virxact.com/items/cmqz20a0a000dsly4gw09u9xt"
+"canonical_url": "https://aihot.news/items/cmqz20a0a000dsly4gw09u9xt"
 "score": 73
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control](https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqz20a0a000dsly4gw09u9xt](https://aihot.virxact.com/items/cmqz20a0a000dsly4gw09u9xt)
+- **AIHOT 链接**: [https://aihot.news/items/cmqz20a0a000dsly4gw09u9xt](https://aihot.news/items/cmqz20a0a000dsly4gw09u9xt)

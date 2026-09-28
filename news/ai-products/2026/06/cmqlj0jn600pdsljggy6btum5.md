@@ -8,7 +8,7 @@
 "original_url": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-sp\
   atialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-\
   spatial-reasoning"
-"canonical_url": "https://aihot.virxact.com/items/cmqlj0jn600pdsljggy6btum5"
+"canonical_url": "https://aihot.news/items/cmqlj0jn600pdsljggy6btum5"
 "score": 77
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ NVIDIA Research 发布 SpatialClaw，一个免训练的空间推理框架。它�
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning](https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqlj0jn600pdsljggy6btum5](https://aihot.virxact.com/items/cmqlj0jn600pdsljggy6btum5)
+- **AIHOT 链接**: [https://aihot.news/items/cmqlj0jn600pdsljggy6btum5](https://aihot.news/items/cmqlj0jn600pdsljggy6btum5)

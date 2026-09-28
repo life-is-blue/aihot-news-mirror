@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-11T02:58:56.708Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2606.12370"
-"canonical_url": "https://aihot.virxact.com/items/cmq8ws2lk06imslld3t5k4rid"
+"canonical_url": "https://aihot.news/items/cmq8ws2lk06imslld3t5k4rid"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Bebop系统研究多token预测（MTP）在大语言模型RL后训练中的加�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2606.12370](https://arxiv.org/abs/2606.12370)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq8ws2lk06imslld3t5k4rid](https://aihot.virxact.com/items/cmq8ws2lk06imslld3t5k4rid)
+- **AIHOT 链接**: [https://aihot.news/items/cmq8ws2lk06imslld3t5k4rid](https://aihot.news/items/cmq8ws2lk06imslld3t5k4rid)

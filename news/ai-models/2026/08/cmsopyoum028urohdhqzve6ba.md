@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-11T13:51:45.827Z"
 "source_name": "LMSYS：Blog（Chatbot Arena 团队）"
 "original_url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning"
-"canonical_url": "https://aihot.virxact.com/items/cmsopyoum028urohdhqzve6ba"
+"canonical_url": "https://aihot.news/items/cmsopyoum028urohdhqzve6ba"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ SGLang 宣布对 NVIDIA Nemotron 3.5 Lightning 提供 Day-0 支持，该开源�
 
 - **来源**: LMSYS：Blog（Chatbot Arena 团队）
 - **原文链接**: [https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning](https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsopyoum028urohdhqzve6ba](https://aihot.virxact.com/items/cmsopyoum028urohdhqzve6ba)
+- **AIHOT 链接**: [https://aihot.news/items/cmsopyoum028urohdhqzve6ba](https://aihot.news/items/cmsopyoum028urohdhqzve6ba)

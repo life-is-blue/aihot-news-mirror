@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-24T17:24:25.589Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/claude-opus-5"
-"canonical_url": "https://aihot.virxact.com/items/cmrz7mrck00gprox8j0j9qfst"
+"canonical_url": "https://aihot.news/items/cmrz7mrck00gprox8j0j9qfst"
 "score": 92
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 发布 Claude Opus 5，其智能水平接近 Claude Fable 5，但价�
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/claude-opus-5](https://www.anthropic.com/news/claude-opus-5)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrz7mrck00gprox8j0j9qfst](https://aihot.virxact.com/items/cmrz7mrck00gprox8j0j9qfst)
+- **AIHOT 链接**: [https://aihot.news/items/cmrz7mrck00gprox8j0j9qfst](https://aihot.news/items/cmrz7mrck00gprox8j0j9qfst)

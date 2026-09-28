@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-01T03:33:11.895Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/redeploying-fable-5"
-"canonical_url": "https://aihot.virxact.com/items/cmr1it9y503a7slnly16stbs6"
+"canonical_url": "https://aihot.news/items/cmr1it9y503a7slnly16stbs6"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/redeploying-fable-5](https://www.anthropic.com/news/redeploying-fable-5)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr1it9y503a7slnly16stbs6](https://aihot.virxact.com/items/cmr1it9y503a7slnly16stbs6)
+- **AIHOT 链接**: [https://aihot.news/items/cmr1it9y503a7slnly16stbs6](https://aihot.news/items/cmr1it9y503a7slnly16stbs6)

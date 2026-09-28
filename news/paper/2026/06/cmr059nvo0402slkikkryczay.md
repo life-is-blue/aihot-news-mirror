@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-28T00:00:00.000Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2606.29537"
-"canonical_url": "https://aihot.virxact.com/items/cmr059nvo0402slkikkryczay"
+"canonical_url": "https://aihot.news/items/cmr059nvo0402slkikkryczay"
 "score": 82
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OSWorld2.0 发布，包含108个长时域计算机使用工作流，覆盖日常
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2606.29537](https://arxiv.org/abs/2606.29537)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr059nvo0402slkikkryczay](https://aihot.virxact.com/items/cmr059nvo0402slkikkryczay)
+- **AIHOT 链接**: [https://aihot.news/items/cmr059nvo0402slkikkryczay](https://aihot.news/items/cmr059nvo0402slkikkryczay)

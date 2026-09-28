@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-12T14:30:03.000Z"
 "source_name": "X：Krea AI (@krea_ai)"
 "original_url": "https://x.com/krea_ai/status/2054207481421975829"
-"canonical_url": "https://aihot.virxact.com/items/cmp3sw038006jsljxd1i9okos"
+"canonical_url": "https://aihot.news/items/cmp3sw038006jsljxd1i9okos"
 "score": 68
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@
 
 - **来源**: X：Krea AI (@krea_ai)
 - **原文链接**: [https://x.com/krea_ai/status/2054207481421975829](https://x.com/krea_ai/status/2054207481421975829)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp3sw038006jsljxd1i9okos](https://aihot.virxact.com/items/cmp3sw038006jsljxd1i9okos)
+- **AIHOT 链接**: [https://aihot.news/items/cmp3sw038006jsljxd1i9okos](https://aihot.news/items/cmp3sw038006jsljxd1i9okos)

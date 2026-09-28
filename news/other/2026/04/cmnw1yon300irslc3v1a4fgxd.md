@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-03T23:14:55.000Z"
 "source_name": "X：Boris Cherny (@bcherny)"
 "original_url": "https://x.com/bcherny/status/2040206440556826908"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yon300irslc3v1a4fgxd"
+"canonical_url": "https://aihot.news/items/cmnw1yon300irslc3v1a4fgxd"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：Boris Cherny (@bcherny)
 - **原文链接**: [https://x.com/bcherny/status/2040206440556826908](https://x.com/bcherny/status/2040206440556826908)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yon300irslc3v1a4fgxd](https://aihot.virxact.com/items/cmnw1yon300irslc3v1a4fgxd)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yon300irslc3v1a4fgxd](https://aihot.news/items/cmnw1yon300irslc3v1a4fgxd)

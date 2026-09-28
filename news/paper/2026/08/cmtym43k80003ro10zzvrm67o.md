@@ -7,7 +7,7 @@
 "source_name": "Prime Intellect（网页）"
 "original_url": "https://www.primeintellect.ai/blog/universal-offline-sandbox-escape"
 "canonical_url": "https://aihot.news/items/cmtym43k80003ro10zzvrm67o"
-"score": 71
+"score": 72
 "content_kind": "news"
 ---
 

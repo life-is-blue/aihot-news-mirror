@@ -7,7 +7,7 @@
 "source_name": "公众号：数字生命卡兹克"
 "original_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647\
   684622&idx=1&sn=dab33249e9c9bd280524c433b9435764"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu10dl00w2rofzv9vv0stu"
+"canonical_url": "https://aihot.news/items/cmsdu10dl00w2rofzv9vv0stu"
 "score": 75
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Anthropic发布Claude Opus 5，全量上线并全线可用，上下文100万，�
 
 - **来源**: 公众号：数字生命卡兹克
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684622&idx=1&sn=dab33249e9c9bd280524c433b9435764](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684622&idx=1&sn=dab33249e9c9bd280524c433b9435764)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu10dl00w2rofzv9vv0stu](https://aihot.virxact.com/items/cmsdu10dl00w2rofzv9vv0stu)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu10dl00w2rofzv9vv0stu](https://aihot.news/items/cmsdu10dl00w2rofzv9vv0stu)

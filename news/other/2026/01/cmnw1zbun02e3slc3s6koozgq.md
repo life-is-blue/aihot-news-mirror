@@ -6,7 +6,7 @@
 "discovered_at": "2026-01-09T23:20:59.000Z"
 "source_name": "Midjourney：Updates（RSS）"
 "original_url": "https://updates.midjourney.com/niji-v7"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1zbun02e3slc3s6koozgq"
+"canonical_url": "https://aihot.news/items/cmnw1zbun02e3slc3s6koozgq"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Niji V7 图像模型正式上线。该版本专为亚洲及动漫场景优化，
 
 - **来源**: Midjourney：Updates（RSS）
 - **原文链接**: [https://updates.midjourney.com/niji-v7](https://updates.midjourney.com/niji-v7)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1zbun02e3slc3s6koozgq](https://aihot.virxact.com/items/cmnw1zbun02e3slc3s6koozgq)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1zbun02e3slc3s6koozgq](https://aihot.news/items/cmnw1zbun02e3slc3s6koozgq)

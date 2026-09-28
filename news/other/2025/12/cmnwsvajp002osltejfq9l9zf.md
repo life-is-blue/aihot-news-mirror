@@ -6,7 +6,7 @@
 "discovered_at": "2025-12-31T16:00:00.000Z"
 "source_name": "Dario Amodei：Blog（网页）"
 "original_url": "https://www.darioamodei.com/essay/the-adolescence-of-technology"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsvajp002osltejfq9l9zf"
+"canonical_url": "https://aihot.news/items/cmnwsvajp002osltejfq9l9zf"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Dario Amodei 将当前 AI 发展阶段定义为「技术的青春期」，认为
 
 - **来源**: Dario Amodei：Blog（网页）
 - **原文链接**: [https://www.darioamodei.com/essay/the-adolescence-of-technology](https://www.darioamodei.com/essay/the-adolescence-of-technology)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsvajp002osltejfq9l9zf](https://aihot.virxact.com/items/cmnwsvajp002osltejfq9l9zf)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsvajp002osltejfq9l9zf](https://aihot.news/items/cmnwsvajp002osltejfq9l9zf)

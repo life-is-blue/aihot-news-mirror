@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-12T15:45:47.855Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/announcements/web-search-benchmark"
-"canonical_url": "https://aihot.virxact.com/items/cmsq9h6gs01x5ronde8fdla7e"
+"canonical_url": "https://aihot.news/items/cmsq9h6gs01x5ronde8fdla7e"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter 发布实时排行榜，系统评测模型、搜索引擎、搜索方
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/announcements/web-search-benchmark](https://openrouter.ai/blog/announcements/web-search-benchmark)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsq9h6gs01x5ronde8fdla7e](https://aihot.virxact.com/items/cmsq9h6gs01x5ronde8fdla7e)
+- **AIHOT 链接**: [https://aihot.news/items/cmsq9h6gs01x5ronde8fdla7e](https://aihot.news/items/cmsq9h6gs01x5ronde8fdla7e)

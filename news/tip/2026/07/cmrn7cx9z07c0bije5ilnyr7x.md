@@ -8,7 +8,7 @@
 "original_url": "https://www.marktechpost.com/2026/07/16/patter-sdk-guide-to-bu\
   ilding-a-restaurant-booking-phone-agent-with-dynamic-variables-guardrails-lat\
   ency-dashboards-and-eval-checks"
-"canonical_url": "https://aihot.virxact.com/items/cmrn7cx9z07c0bije5ilnyr7x"
+"canonical_url": "https://aihot.news/items/cmrn7cx9z07c0bije5ilnyr7x"
 "score": 72
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Patter SDK 发布教程，演示如何构建一个餐厅预订场景的语音智
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/07/16/patter-sdk-guide-to-building-a-restaurant-booking-phone-agent-with-dynamic-variables-guardrails-latency-dashboards-and-eval-checks](https://www.marktechpost.com/2026/07/16/patter-sdk-guide-to-building-a-restaurant-booking-phone-agent-with-dynamic-variables-guardrails-latency-dashboards-and-eval-checks)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrn7cx9z07c0bije5ilnyr7x](https://aihot.virxact.com/items/cmrn7cx9z07c0bije5ilnyr7x)
+- **AIHOT 链接**: [https://aihot.news/items/cmrn7cx9z07c0bije5ilnyr7x](https://aihot.news/items/cmrn7cx9z07c0bije5ilnyr7x)

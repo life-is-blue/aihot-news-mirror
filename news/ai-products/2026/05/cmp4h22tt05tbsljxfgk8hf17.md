@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-13T19:48:02.646Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/cloud-agent-development-environments"
-"canonical_url": "https://aihot.virxact.com/items/cmp4h22tt05tbsljxfgk8hf17"
+"canonical_url": "https://aihot.news/items/cmp4h22tt05tbsljxfgk8hf17"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Cursor发布新工具，用于配置云端智能体开发环境。核心更新�
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/cloud-agent-development-environments](https://cursor.com/blog/cloud-agent-development-environments)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp4h22tt05tbsljxfgk8hf17](https://aihot.virxact.com/items/cmp4h22tt05tbsljxfgk8hf17)
+- **AIHOT 链接**: [https://aihot.news/items/cmp4h22tt05tbsljxfgk8hf17](https://aihot.news/items/cmp4h22tt05tbsljxfgk8hf17)

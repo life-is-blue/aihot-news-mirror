@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-04T01:36:36.223Z"
 "source_name": "X：Elon Musk (@elonmusk, xAI)"
 "original_url": "https://x.com/elonmusk/status/2062346295256527350"
-"canonical_url": "https://aihot.virxact.com/items/cmpytr88o038ksli37i4bd9fv"
+"canonical_url": "https://aihot.news/items/cmpytr88o038ksli37i4bd9fv"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI 与 Cloudflare 合作，将 Grok 的 LLM、音频、图像和视频模型接
 
 - **来源**: X：Elon Musk (@elonmusk, xAI)
 - **原文链接**: [https://x.com/elonmusk/status/2062346295256527350](https://x.com/elonmusk/status/2062346295256527350)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpytr88o038ksli37i4bd9fv](https://aihot.virxact.com/items/cmpytr88o038ksli37i4bd9fv)
+- **AIHOT 链接**: [https://aihot.news/items/cmpytr88o038ksli37i4bd9fv](https://aihot.news/items/cmpytr88o038ksli37i4bd9fv)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-24T12:00:00.000Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/announcements/agent-sdk-with-callmodel"
-"canonical_url": "https://aihot.virxact.com/items/cmor004i8006sslixp4qxwj74"
+"canonical_url": "https://aihot.news/items/cmor004i8006sslixp4qxwj74"
 "score": 55
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter 发布 Agent SDK，其核心是 callModel 函数。该函数可将一
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/announcements/agent-sdk-with-callmodel](https://openrouter.ai/announcements/agent-sdk-with-callmodel)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmor004i8006sslixp4qxwj74](https://aihot.virxact.com/items/cmor004i8006sslixp4qxwj74)
+- **AIHOT 链接**: [https://aihot.news/items/cmor004i8006sslixp4qxwj74](https://aihot.news/items/cmor004i8006sslixp4qxwj74)

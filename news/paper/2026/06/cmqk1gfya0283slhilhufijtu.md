@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-18T21:55:20.446Z"
 "source_name": "OpenAI：Alignment 研究博客（RSS）"
 "original_url": "https://alignment.openai.com/beneficial-rl"
-"canonical_url": "https://aihot.virxact.com/items/cmqk1gfya0283slhilhufijtu"
+"canonical_url": "https://aihot.news/items/cmqk1gfya0283slhilhufijtu"
 "score": 64
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 通过强化学习在真实对话场景中训练模型，使其展现诚�
 
 - **来源**: OpenAI：Alignment 研究博客（RSS）
 - **原文链接**: [https://alignment.openai.com/beneficial-rl](https://alignment.openai.com/beneficial-rl)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqk1gfya0283slhilhufijtu](https://aihot.virxact.com/items/cmqk1gfya0283slhilhufijtu)
+- **AIHOT 链接**: [https://aihot.news/items/cmqk1gfya0283slhilhufijtu](https://aihot.news/items/cmqk1gfya0283slhilhufijtu)

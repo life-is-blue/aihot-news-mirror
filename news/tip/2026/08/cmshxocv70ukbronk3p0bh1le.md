@@ -7,7 +7,7 @@
 "source_name": "GitHub Blog"
 "original_url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-\
   commands-in-the-github-copilot-app"
-"canonical_url": "https://aihot.virxact.com/items/cmshxocv70ukbronk3p0bh1le"
+"canonical_url": "https://aihot.news/items/cmshxocv70ukbronk3p0bh1le"
 "score": 69
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ GitHub Copilot 应用中的斜杠命令可帮助管理会话、导航项目和�
 
 - **来源**: GitHub Blog
 - **原文链接**: [https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app](https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmshxocv70ukbronk3p0bh1le](https://aihot.virxact.com/items/cmshxocv70ukbronk3p0bh1le)
+- **AIHOT 链接**: [https://aihot.news/items/cmshxocv70ukbronk3p0bh1le](https://aihot.news/items/cmshxocv70ukbronk3p0bh1le)

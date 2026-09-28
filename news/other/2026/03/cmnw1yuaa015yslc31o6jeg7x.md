@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-05T20:07:34.000Z"
 "source_name": "X：OpenAI (@OpenAI)"
 "original_url": "https://x.com/OpenAI/status/2029650046002811280"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yuaa015yslc31o6jeg7x"
+"canonical_url": "https://aihot.news/items/cmnw1yuaa015yslc31o6jeg7x"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 推出 CoT 可控性评估套件及研究论文。测试发现 GPT-5.4 Th
 
 - **来源**: X：OpenAI (@OpenAI)
 - **原文链接**: [https://x.com/OpenAI/status/2029650046002811280](https://x.com/OpenAI/status/2029650046002811280)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yuaa015yslc31o6jeg7x](https://aihot.virxact.com/items/cmnw1yuaa015yslc31o6jeg7x)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yuaa015yslc31o6jeg7x](https://aihot.news/items/cmnw1yuaa015yslc31o6jeg7x)

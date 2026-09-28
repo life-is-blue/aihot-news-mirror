@@ -7,7 +7,7 @@
 "source_name": "ARC Prize：官方博客"
 "original_url": "https://arcprize.org/blog/analyzing-o3-with-arc-agi"
 "canonical_url": "https://aihot.news/items/cmtyo2p2s03g6rog05alsxq1q"
-"score": 69
+"score": 70
 "content_kind": "news"
 ---
 

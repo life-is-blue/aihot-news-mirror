@@ -7,7 +7,7 @@
 "source_name": "字节 Seed：Research Feed（网页内嵌数据）"
 "original_url": "https://seed.bytedance.com/zh/blog/seed2-1-%E6%AD%A3%E5%BC%8F%\
   E5%8F%91%E5%B8%83-%E6%B7%B1%E5%85%A5-ai-%E7%94%9F%E4%BA%A7%E5%8A%9B"
-"canonical_url": "https://aihot.virxact.com/items/cmqq5ns6p06scslp5dlnxluux"
+"canonical_url": "https://aihot.news/items/cmqq5ns6p06scslp5dlnxluux"
 "score": 64
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: 字节 Seed：Research Feed（网页内嵌数据）
 - **原文链接**: [https://seed.bytedance.com/zh/blog/seed2-1-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83-%E6%B7%B1%E5%85%A5-ai-%E7%94%9F%E4%BA%A7%E5%8A%9B](https://seed.bytedance.com/zh/blog/seed2-1-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83-%E6%B7%B1%E5%85%A5-ai-%E7%94%9F%E4%BA%A7%E5%8A%9B)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqq5ns6p06scslp5dlnxluux](https://aihot.virxact.com/items/cmqq5ns6p06scslp5dlnxluux)
+- **AIHOT 链接**: [https://aihot.news/items/cmqq5ns6p06scslp5dlnxluux](https://aihot.news/items/cmqq5ns6p06scslp5dlnxluux)

@@ -7,7 +7,7 @@
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/projects-redesigned"
 "canonical_url": "https://aihot.news/items/cmu5tujnp0jvoroqoq64oqnjr"
-"score": 69
+"score": 70
 "content_kind": "news"
 ---
 

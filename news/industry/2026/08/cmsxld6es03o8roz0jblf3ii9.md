@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it\
   -ended-at-an-amazon-ai-training-facility"
-"canonical_url": "https://aihot.virxact.com/items/cmsxld6es03o8roz0jblf3ii9"
+"canonical_url": "https://aihot.news/items/cmsxld6es03o8roz0jblf3ii9"
 "score": 71
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility](https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsxld6es03o8roz0jblf3ii9](https://aihot.virxact.com/items/cmsxld6es03o8roz0jblf3ii9)
+- **AIHOT 链接**: [https://aihot.news/items/cmsxld6es03o8roz0jblf3ii9](https://aihot.news/items/cmsxld6es03o8roz0jblf3ii9)

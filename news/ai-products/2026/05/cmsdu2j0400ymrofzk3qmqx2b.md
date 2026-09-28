@@ -7,7 +7,7 @@
 "source_name": "公众号：小米 MiMo"
 "original_url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247\
   484703&idx=1&sn=5f51475626b6a65b937943a198d7d1af"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu2j0400ymrofzk3qmqx2b"
+"canonical_url": "https://aihot.news/items/cmsdu2j0400ymrofzk3qmqx2b"
 "score": 62
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: 公众号：小米 MiMo
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484703&idx=1&sn=5f51475626b6a65b937943a198d7d1af](https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484703&idx=1&sn=5f51475626b6a65b937943a198d7d1af)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu2j0400ymrofzk3qmqx2b](https://aihot.virxact.com/items/cmsdu2j0400ymrofzk3qmqx2b)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu2j0400ymrofzk3qmqx2b](https://aihot.news/items/cmsdu2j0400ymrofzk3qmqx2b)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-30T02:57:14.831Z"
 "source_name": "X：百度 Baidu (@Baidu_Inc)"
 "original_url": "https://x.com/Baidu_Inc/status/2049682555809788282"
-"canonical_url": "https://aihot.virxact.com/items/cmokw84i803ygslje2py2thep"
+"canonical_url": "https://aihot.news/items/cmokw84i803ygslje2py2thep"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：百度 Baidu (@Baidu_Inc)
 - **原文链接**: [https://x.com/Baidu_Inc/status/2049682555809788282](https://x.com/Baidu_Inc/status/2049682555809788282)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmokw84i803ygslje2py2thep](https://aihot.virxact.com/items/cmokw84i803ygslje2py2thep)
+- **AIHOT 链接**: [https://aihot.news/items/cmokw84i803ygslje2py2thep](https://aihot.news/items/cmokw84i803ygslje2py2thep)

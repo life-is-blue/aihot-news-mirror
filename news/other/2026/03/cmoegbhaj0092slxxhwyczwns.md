@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-17T12:33:39.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/Hcompany/holotron-12b"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhaj0092slxxhwyczwns"
+"canonical_url": "https://aihot.news/items/cmoegbhaj0092slxxhwyczwns"
 "score": 83
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ H公司发布了多模态计算机使用模型Holotron-12B。该模型基于NVID
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/Hcompany/holotron-12b](https://huggingface.co/blog/Hcompany/holotron-12b)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhaj0092slxxhwyczwns](https://aihot.virxact.com/items/cmoegbhaj0092slxxhwyczwns)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhaj0092slxxhwyczwns](https://aihot.news/items/cmoegbhaj0092slxxhwyczwns)

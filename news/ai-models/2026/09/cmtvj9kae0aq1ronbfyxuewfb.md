@@ -8,7 +8,7 @@
 "original_url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-mem\
   ory-needs-for-ai-agents"
 "canonical_url": "https://aihot.news/items/cmtvj9kae0aq1ronbfyxuewfb"
-"score": 79
+"score": 80
 "content_kind": "news"
 ---
 

@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-03T18:10:00.000Z"
 "source_name": "X：Nathan Lambert (@natolambert)"
 "original_url": "https://x.com/natolambert/status/2040129705655820687"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1ytoi014wslc3faof480u"
+"canonical_url": "https://aihot.news/items/cmnw1ytoi014wslc3faof480u"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：Nathan Lambert (@natolambert)
 - **原文链接**: [https://x.com/natolambert/status/2040129705655820687](https://x.com/natolambert/status/2040129705655820687)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1ytoi014wslc3faof480u](https://aihot.virxact.com/items/cmnw1ytoi014wslc3faof480u)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1ytoi014wslc3faof480u](https://aihot.news/items/cmnw1ytoi014wslc3faof480u)

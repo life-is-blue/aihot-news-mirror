@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-29T20:12:51.036Z"
 "source_name": "X：Claude Devs (@ClaudeDevs)"
 "original_url": "https://x.com/ClaudeDevs/status/2049575802568839648"
-"canonical_url": "https://aihot.virxact.com/items/cmokhs2nk00leslje73ptltsc"
+"canonical_url": "https://aihot.news/items/cmokhs2nk00leslje73ptltsc"
 "score": 62
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Claude Code 内置一项用于操作 Claude Platform 的技能。
 
 - **来源**: X：Claude Devs (@ClaudeDevs)
 - **原文链接**: [https://x.com/ClaudeDevs/status/2049575802568839648](https://x.com/ClaudeDevs/status/2049575802568839648)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmokhs2nk00leslje73ptltsc](https://aihot.virxact.com/items/cmokhs2nk00leslje73ptltsc)
+- **AIHOT 链接**: [https://aihot.news/items/cmokhs2nk00leslje73ptltsc](https://aihot.news/items/cmokhs2nk00leslje73ptltsc)

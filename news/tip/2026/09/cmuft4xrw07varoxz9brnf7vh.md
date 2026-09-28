@@ -8,7 +8,7 @@
 "original_url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manip\
   ulate-ai-to-scam-you-88df434d2073"
 "canonical_url": "https://aihot.news/items/cmuft4xrw07varoxz9brnf7vh"
-"score": 76
+"score": 77
 "content_kind": "news"
 ---
 

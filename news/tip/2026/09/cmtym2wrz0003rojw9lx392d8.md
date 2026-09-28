@@ -7,7 +7,7 @@
 "source_name": "Tessl：产品与工程博客"
 "original_url": "https://tessl.io/blog/what-your-design-system-cant-teach-ai-agents"
 "canonical_url": "https://aihot.news/items/cmtym2wrz0003rojw9lx392d8"
-"score": 65
+"score": 66
 "content_kind": "news"
 ---
 

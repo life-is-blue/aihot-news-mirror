@@ -8,7 +8,7 @@
 "original_url": "https://www.promptarmor.com/resources/what-is-the-risk-of-clau\
   de-dynamic-workflows"
 "canonical_url": "https://aihot.news/items/cmtym6tgo000iroo58yo1wp1a"
-"score": 67
+"score": 68
 "content_kind": "news"
 ---
 

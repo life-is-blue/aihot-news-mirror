@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-30T23:45:31.779Z"
 "source_name": "X：OpenRouter (@OpenRouter)"
 "original_url": "https://x.com/OpenRouter/status/2049996465263759563"
-"canonical_url": "https://aihot.virxact.com/items/cmom4tfdb04t3sll9byfrl4s0"
+"canonical_url": "https://aihot.news/items/cmom4tfdb04t3sll9byfrl4s0"
 "score": 68
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Grok-4.3 以比 Grok-4.2 更低的价格发布，同时在代理性能上实现�
 
 - **来源**: X：OpenRouter (@OpenRouter)
 - **原文链接**: [https://x.com/OpenRouter/status/2049996465263759563](https://x.com/OpenRouter/status/2049996465263759563)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmom4tfdb04t3sll9byfrl4s0](https://aihot.virxact.com/items/cmom4tfdb04t3sll9byfrl4s0)
+- **AIHOT 链接**: [https://aihot.news/items/cmom4tfdb04t3sll9byfrl4s0](https://aihot.news/items/cmom4tfdb04t3sll9byfrl4s0)

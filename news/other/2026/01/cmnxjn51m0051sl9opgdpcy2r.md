@@ -6,7 +6,7 @@
 "discovered_at": "2026-01-27T22:47:24.000Z"
 "source_name": "Nathan Lambert：Interconnects（RSS）"
 "original_url": "https://www.interconnects.ai/p/arcee-ai-goes-all-in-on-open-models"
-"canonical_url": "https://aihot.virxact.com/items/cmnxjn51m0051sl9opgdpcy2r"
+"canonical_url": "https://aihot.news/items/cmnxjn51m0051sl9opgdpcy2r"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Arcee AI 发布开源大模型 Trinity Large，标志着其全面投入在美国
 
 - **来源**: Nathan Lambert：Interconnects（RSS）
 - **原文链接**: [https://www.interconnects.ai/p/arcee-ai-goes-all-in-on-open-models](https://www.interconnects.ai/p/arcee-ai-goes-all-in-on-open-models)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnxjn51m0051sl9opgdpcy2r](https://aihot.virxact.com/items/cmnxjn51m0051sl9opgdpcy2r)
+- **AIHOT 链接**: [https://aihot.news/items/cmnxjn51m0051sl9opgdpcy2r](https://aihot.news/items/cmnxjn51m0051sl9opgdpcy2r)

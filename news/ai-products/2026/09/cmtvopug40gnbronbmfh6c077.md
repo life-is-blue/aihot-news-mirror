@@ -7,7 +7,7 @@
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/put-data-to-work"
 "canonical_url": "https://aihot.news/items/cmtvopug40gnbronbmfh6c077"
-"score": 62
+"score": 63
 "content_kind": "news"
 ---
 

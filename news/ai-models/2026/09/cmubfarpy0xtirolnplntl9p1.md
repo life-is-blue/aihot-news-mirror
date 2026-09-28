@@ -7,7 +7,7 @@
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-4-7"
 "canonical_url": "https://aihot.news/items/cmubfarpy0xtirolnplntl9p1"
-"score": 73
+"score": 74
 "content_kind": "news"
 ---
 

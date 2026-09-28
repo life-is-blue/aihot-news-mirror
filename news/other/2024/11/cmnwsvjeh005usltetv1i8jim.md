@@ -6,7 +6,7 @@
 "discovered_at": "2024-11-04T00:00:00.000Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/api"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsvjeh005usltetv1i8jim"
+"canonical_url": "https://aihot.news/items/cmnwsvjeh005usltetv1i8jim"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI 启动 Grok API 公测，发布新模型 grok-beta，支持 128k 上下文�
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/api](https://x.ai/news/api)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsvjeh005usltetv1i8jim](https://aihot.virxact.com/items/cmnwsvjeh005usltetv1i8jim)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsvjeh005usltetv1i8jim](https://aihot.news/items/cmnwsvjeh005usltetv1i8jim)

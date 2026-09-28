@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-08T22:24:02.356Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/claude-for-foundation-models"
-"canonical_url": "https://aihot.virxact.com/items/cmq5s35qm01vksl5i8iuvz0zv"
+"canonical_url": "https://aihot.news/items/cmq5s35qm01vksl5i8iuvz0zv"
 "score": 63
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 通过一个新 Swift 包，让 Apple 开发者能在 Foundation Model
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/claude-for-foundation-models](https://claude.com/blog/claude-for-foundation-models)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq5s35qm01vksl5i8iuvz0zv](https://aihot.virxact.com/items/cmq5s35qm01vksl5i8iuvz0zv)
+- **AIHOT 链接**: [https://aihot.news/items/cmq5s35qm01vksl5i8iuvz0zv](https://aihot.news/items/cmq5s35qm01vksl5i8iuvz0zv)

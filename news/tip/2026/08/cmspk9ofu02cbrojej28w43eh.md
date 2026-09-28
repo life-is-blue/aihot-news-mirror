@@ -7,7 +7,7 @@
 "source_name": "公众号：卡尔的AI沃茨"
 "original_url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247\
   509276&idx=1&sn=675b64d514b1179c8f2362941144bbb4"
-"canonical_url": "https://aihot.virxact.com/items/cmspk9ofu02cbrojej28w43eh"
+"canonical_url": "https://aihot.news/items/cmspk9ofu02cbrojej28w43eh"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Codex 和 Claude 新增跨 Session 传消息功能后，新对话可从之前所
 
 - **来源**: 公众号：卡尔的AI沃茨
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509276&idx=1&sn=675b64d514b1179c8f2362941144bbb4](https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509276&idx=1&sn=675b64d514b1179c8f2362941144bbb4)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmspk9ofu02cbrojej28w43eh](https://aihot.virxact.com/items/cmspk9ofu02cbrojej28w43eh)
+- **AIHOT 链接**: [https://aihot.news/items/cmspk9ofu02cbrojej28w43eh](https://aihot.news/items/cmspk9ofu02cbrojej28w43eh)

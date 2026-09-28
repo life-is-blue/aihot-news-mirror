@@ -7,7 +7,7 @@
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/tutorials/keep-your-agent-running-w\
   hen-models-disappear"
-"canonical_url": "https://aihot.virxact.com/items/cmqgyawhe01qhslpu4aoqe5a4"
+"canonical_url": "https://aihot.news/items/cmqgyawhe01qhslpu4aoqe5a4"
 "score": 62
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Anthropic 在 Claude Fable 5 发布仅数天后便对其进行了限制。如果
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/tutorials/keep-your-agent-running-when-models-disappear](https://openrouter.ai/blog/tutorials/keep-your-agent-running-when-models-disappear)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqgyawhe01qhslpu4aoqe5a4](https://aihot.virxact.com/items/cmqgyawhe01qhslpu4aoqe5a4)
+- **AIHOT 链接**: [https://aihot.news/items/cmqgyawhe01qhslpu4aoqe5a4](https://aihot.news/items/cmqgyawhe01qhslpu4aoqe5a4)

@@ -6,7 +6,7 @@
 "discovered_at": "2020-06-19T17:39:12.000Z"
 "source_name": "Sam Altman：Blog（RSS）"
 "original_url": "https://blog.samaltman.com/researchers-and-founders"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xr1o004cslc3c3zhbdgm"
+"canonical_url": "https://aihot.news/items/cmnw1xr1o004cslc3c3zhbdgm"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Sam Altman：Blog（RSS）
 - **原文链接**: [https://blog.samaltman.com/researchers-and-founders](https://blog.samaltman.com/researchers-and-founders)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xr1o004cslc3c3zhbdgm](https://aihot.virxact.com/items/cmnw1xr1o004cslc3c3zhbdgm)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xr1o004cslc3c3zhbdgm](https://aihot.news/items/cmnw1xr1o004cslc3c3zhbdgm)

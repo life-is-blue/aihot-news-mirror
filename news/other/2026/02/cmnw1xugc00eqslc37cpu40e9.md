@@ -6,7 +6,7 @@
 "discovered_at": "2026-02-24T16:00:00.000Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/acquires-vercept"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xugc00eqslc37cpu40e9"
+"canonical_url": "https://aihot.news/items/cmnw1xugc00eqslc37cpu40e9"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 收购 Vercept，后者专注 AI 感知与交互，将停止外部产�
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/acquires-vercept](https://www.anthropic.com/news/acquires-vercept)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xugc00eqslc37cpu40e9](https://aihot.virxact.com/items/cmnw1xugc00eqslc37cpu40e9)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xugc00eqslc37cpu40e9](https://aihot.news/items/cmnw1xugc00eqslc37cpu40e9)

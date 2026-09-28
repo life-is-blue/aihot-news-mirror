@@ -6,7 +6,7 @@
 "discovered_at": "2025-06-15T00:00:00.000Z"
 "source_name": "Anthropic：Transformer Circuits（可解释性研究）"
 "original_url": "https://transformer-circuits.pub/2025/crosscoder-diffing-update/index.html"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbh73006qslxx90ouy6kj"
+"canonical_url": "https://aihot.news/items/cmoegbh73006qslxx90ouy6kj"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic可解释性团队在Crosscoder模型差异分析中发现，模型独�
 
 - **来源**: Anthropic：Transformer Circuits（可解释性研究）
 - **原文链接**: [https://transformer-circuits.pub/2025/crosscoder-diffing-update/index.html](https://transformer-circuits.pub/2025/crosscoder-diffing-update/index.html)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbh73006qslxx90ouy6kj](https://aihot.virxact.com/items/cmoegbh73006qslxx90ouy6kj)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbh73006qslxx90ouy6kj](https://aihot.news/items/cmoegbh73006qslxx90ouy6kj)

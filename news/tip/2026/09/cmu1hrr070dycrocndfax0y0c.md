@@ -7,7 +7,7 @@
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://tomtunguz.com/what-does-the-pause-mean"
 "canonical_url": "https://aihot.news/items/cmu1hrr070dycrocndfax0y0c"
-"score": 69
+"score": 70
 "content_kind": "news"
 ---
 

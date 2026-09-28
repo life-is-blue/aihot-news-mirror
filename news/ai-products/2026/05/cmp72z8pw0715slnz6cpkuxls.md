@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-15T15:37:09.764Z"
 "source_name": "X：OpenRouter (@OpenRouter)"
 "original_url": "https://x.com/OpenRouter/status/2055305259287801865"
-"canonical_url": "https://aihot.virxact.com/items/cmp72z8pw0715slnz6cpkuxls"
+"canonical_url": "https://aihot.news/items/cmp72z8pw0715slnz6cpkuxls"
 "score": 74
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ OpenRouter BYOK 三项重大升级 🔑
 
 - **来源**: X：OpenRouter (@OpenRouter)
 - **原文链接**: [https://x.com/OpenRouter/status/2055305259287801865](https://x.com/OpenRouter/status/2055305259287801865)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp72z8pw0715slnz6cpkuxls](https://aihot.virxact.com/items/cmp72z8pw0715slnz6cpkuxls)
+- **AIHOT 链接**: [https://aihot.news/items/cmp72z8pw0715slnz6cpkuxls](https://aihot.news/items/cmp72z8pw0715slnz6cpkuxls)

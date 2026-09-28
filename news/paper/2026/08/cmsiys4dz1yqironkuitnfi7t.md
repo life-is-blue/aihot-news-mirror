@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/stanford-and-arc-institute-scientists-\
   used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab"
-"canonical_url": "https://aihot.virxact.com/items/cmsiys4dz1yqironkuitnfi7t"
+"canonical_url": "https://aihot.news/items/cmsiys4dz1yqironkuitnfi7t"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab](https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsiys4dz1yqironkuitnfi7t](https://aihot.virxact.com/items/cmsiys4dz1yqironkuitnfi7t)
+- **AIHOT 链接**: [https://aihot.news/items/cmsiys4dz1yqironkuitnfi7t](https://aihot.news/items/cmsiys4dz1yqironkuitnfi7t)

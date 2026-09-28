@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-11T13:31:48.671Z"
 "source_name": "X：小北 (@frxiaobei)"
 "original_url": "https://x.com/frxiaobei/status/2053827716605169804"
-"canonical_url": "https://aihot.virxact.com/items/cmp18qjt40w66sllh0j926j5m"
+"canonical_url": "https://aihot.news/items/cmp18qjt40w66sllh0j926j5m"
 "score": 75
 "content_kind": "news"
 ---
@@ -25,4 +25,4 @@ https://github.com/Fokkyp/SoftwareCopyright-Skill
 
 - **来源**: X：小北 (@frxiaobei)
 - **原文链接**: [https://x.com/frxiaobei/status/2053827716605169804](https://x.com/frxiaobei/status/2053827716605169804)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp18qjt40w66sllh0j926j5m](https://aihot.virxact.com/items/cmp18qjt40w66sllh0j926j5m)
+- **AIHOT 链接**: [https://aihot.news/items/cmp18qjt40w66sllh0j926j5m](https://aihot.news/items/cmp18qjt40w66sllh0j926j5m)

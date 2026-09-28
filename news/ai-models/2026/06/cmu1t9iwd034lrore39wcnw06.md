@@ -8,7 +8,7 @@
 "original_url": "https://mp.weixin.qq.com/s?__biz=MzYyMTA0NTc5NQ%3D%3D&mid=2247\
   485752&idx=1&sn=121389006455818a6331af4745ba0317"
 "canonical_url": "https://aihot.news/items/cmu1t9iwd034lrore39wcnw06"
-"score": 76
+"score": 77
 "content_kind": "news"
 ---
 

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-27T00:48:17.667Z"
 "source_name": "X：Anthropic (@AnthropicAI)"
 "original_url": "https://x.com/AnthropicAI/status/2070665903440871779"
-"canonical_url": "https://aihot.virxact.com/items/cmqvn5p9r0ehjsl80cax6tebw"
+"canonical_url": "https://aihot.news/items/cmqvn5p9r0ehjsl80cax6tebw"
 "score": 55
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@
 
 - **来源**: X：Anthropic (@AnthropicAI)
 - **原文链接**: [https://x.com/AnthropicAI/status/2070665903440871779](https://x.com/AnthropicAI/status/2070665903440871779)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqvn5p9r0ehjsl80cax6tebw](https://aihot.virxact.com/items/cmqvn5p9r0ehjsl80cax6tebw)
+- **AIHOT 链接**: [https://aihot.news/items/cmqvn5p9r0ehjsl80cax6tebw](https://aihot.news/items/cmqvn5p9r0ehjsl80cax6tebw)

@@ -7,7 +7,7 @@
 "source_name": "Google Blog：AI（RSS）"
 "original_url": "https://blog.google/innovation-and-ai/technology/developers-to\
   ols/google-io-2026-collection"
-"canonical_url": "https://aihot.virxact.com/items/cmpcxg3ft00zrsljleo7yyeed"
+"canonical_url": "https://aihot.news/items/cmpcxg3ft00zrsljleo7yyeed"
 "score": 81
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Google Blog：AI（RSS）
 - **原文链接**: [https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection](https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpcxg3ft00zrsljleo7yyeed](https://aihot.virxact.com/items/cmpcxg3ft00zrsljleo7yyeed)
+- **AIHOT 链接**: [https://aihot.news/items/cmpcxg3ft00zrsljleo7yyeed](https://aihot.news/items/cmpcxg3ft00zrsljleo7yyeed)

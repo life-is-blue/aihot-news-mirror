@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-02T12:00:00.000Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/planetscale"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yzo701ttslc3w5vo32vc"
+"canonical_url": "https://aihot.news/items/cmnw1yzo701ttslc3w5vo32vc"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ PlanetScale 引入 Bugbot 作为 AI 代码审查代理，应对 AI 代码生成�
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/planetscale](https://cursor.com/blog/planetscale)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yzo701ttslc3w5vo32vc](https://aihot.virxact.com/items/cmnw1yzo701ttslc3w5vo32vc)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yzo701ttslc3w5vo32vc](https://aihot.news/items/cmnw1yzo701ttslc3w5vo32vc)

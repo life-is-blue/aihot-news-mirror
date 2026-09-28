@@ -7,7 +7,7 @@
 "source_name": "Google Developers Blog（RSS）"
 "original_url": "https://developers.googleblog.com/one-year-of-innovation-celeb\
   rating-100k-members-in-the-google-cloud-x-nvidia-developer-community"
-"canonical_url": "https://aihot.virxact.com/items/cmpd57aiz00zqslk11q0lp88m"
+"canonical_url": "https://aihot.news/items/cmpd57aiz00zqslk11q0lp88m"
 "score": 57
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google Cloud与NVIDIA开发者社区迎来成立一周年，会员规模突破10
 
 - **来源**: Google Developers Blog（RSS）
 - **原文链接**: [https://developers.googleblog.com/one-year-of-innovation-celebrating-100k-members-in-the-google-cloud-x-nvidia-developer-community](https://developers.googleblog.com/one-year-of-innovation-celebrating-100k-members-in-the-google-cloud-x-nvidia-developer-community)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpd57aiz00zqslk11q0lp88m](https://aihot.virxact.com/items/cmpd57aiz00zqslk11q0lp88m)
+- **AIHOT 链接**: [https://aihot.news/items/cmpd57aiz00zqslk11q0lp88m](https://aihot.news/items/cmpd57aiz00zqslk11q0lp88m)

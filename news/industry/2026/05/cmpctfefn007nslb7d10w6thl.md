@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-19T15:56:26.897Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://twitter.com/karpathy/status/2056753169888334312"
-"canonical_url": "https://aihot.virxact.com/items/cmpctfefn007nslb7d10w6thl"
+"canonical_url": "https://aihot.news/items/cmpctfefn007nslb7d10w6thl"
 "score": 83
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ AI领域知名专家安德烈·卡帕西于2026年5月19日宣布加入人工智
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://twitter.com/karpathy/status/2056753169888334312](https://twitter.com/karpathy/status/2056753169888334312)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpctfefn007nslb7d10w6thl](https://aihot.virxact.com/items/cmpctfefn007nslb7d10w6thl)
+- **AIHOT 链接**: [https://aihot.news/items/cmpctfefn007nslb7d10w6thl](https://aihot.news/items/cmpctfefn007nslb7d10w6thl)

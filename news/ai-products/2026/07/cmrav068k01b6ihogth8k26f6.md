@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-07T16:24:13.051Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/cowork-web-mobile"
-"canonical_url": "https://aihot.virxact.com/items/cmrav068k01b6ihogth8k26f6"
+"canonical_url": "https://aihot.news/items/cmrav068k01b6ihogth8k26f6"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Cowork 正在向移动端和网页端开放，让会话和文件跨设备
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/cowork-web-mobile](https://claude.com/blog/cowork-web-mobile)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrav068k01b6ihogth8k26f6](https://aihot.virxact.com/items/cmrav068k01b6ihogth8k26f6)
+- **AIHOT 链接**: [https://aihot.news/items/cmrav068k01b6ihogth8k26f6](https://aihot.news/items/cmrav068k01b6ihogth8k26f6)

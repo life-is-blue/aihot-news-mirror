@@ -7,7 +7,7 @@
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/projects"
 "canonical_url": "https://aihot.news/items/cmtw4o8qc03iwrolkwc03elil"
-"score": 77
+"score": 78
 "content_kind": "news"
 ---
 

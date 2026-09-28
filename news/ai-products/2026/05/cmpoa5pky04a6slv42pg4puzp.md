@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-27T16:30:12.120Z"
 "source_name": "X：SpaceXAI (@SpaceXAI)"
 "original_url": "https://x.com/xai/status/2059666227115819149"
-"canonical_url": "https://aihot.virxact.com/items/cmpoa5pky04a6slv42pg4puzp"
+"canonical_url": "https://aihot.news/items/cmpoa5pky04a6slv42pg4puzp"
 "score": 69
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ https://x.ai/news/grok-kilocode
 
 - **来源**: X：SpaceXAI (@SpaceXAI)
 - **原文链接**: [https://x.com/xai/status/2059666227115819149](https://x.com/xai/status/2059666227115819149)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpoa5pky04a6slv42pg4puzp](https://aihot.virxact.com/items/cmpoa5pky04a6slv42pg4puzp)
+- **AIHOT 链接**: [https://aihot.news/items/cmpoa5pky04a6slv42pg4puzp](https://aihot.news/items/cmpoa5pky04a6slv42pg4puzp)

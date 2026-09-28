@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-10T18:10:05.043Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/building-with-claude-managed-agents"
-"canonical_url": "https://aihot.virxact.com/items/cmq8dw6zy01j9slldz50x70ky"
+"canonical_url": "https://aihot.news/items/cmq8dw6zy01j9slldz50x70ky"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 推出 Claude Managed Agents，一套可组合 API 套件，用于构�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/building-with-claude-managed-agents](https://claude.com/blog/building-with-claude-managed-agents)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq8dw6zy01j9slldz50x70ky](https://aihot.virxact.com/items/cmq8dw6zy01j9slldz50x70ky)
+- **AIHOT 链接**: [https://aihot.news/items/cmq8dw6zy01j9slldz50x70ky](https://aihot.news/items/cmq8dw6zy01j9slldz50x70ky)

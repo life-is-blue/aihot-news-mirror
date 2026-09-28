@@ -6,7 +6,7 @@
 "discovered_at": "2026-02-19T16:22:23.000Z"
 "source_name": "X：Noam Shazeer（@NoamShazeer）"
 "original_url": "https://x.com/NoamShazeer/status/2024519946764734574"
-"canonical_url": "https://aihot.virxact.com/items/cms3g991b01m6ronde7mw52cy"
+"canonical_url": "https://aihot.news/items/cms3g991b01m6ronde7mw52cy"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：Noam Shazeer（@NoamShazeer）
 - **原文链接**: [https://x.com/NoamShazeer/status/2024519946764734574](https://x.com/NoamShazeer/status/2024519946764734574)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3g991b01m6ronde7mw52cy](https://aihot.virxact.com/items/cms3g991b01m6ronde7mw52cy)
+- **AIHOT 链接**: [https://aihot.news/items/cms3g991b01m6ronde7mw52cy](https://aihot.news/items/cms3g991b01m6ronde7mw52cy)

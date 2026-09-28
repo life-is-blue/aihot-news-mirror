@@ -7,7 +7,7 @@
 "source_name": "Epoch AI：研究、数据与评测"
 "original_url": "https://epoch.ai/benchmarks/healthbench-professional/review"
 "canonical_url": "https://aihot.news/items/cmu61xlxt049lrofjy9zm8zy8"
-"score": 60
+"score": 61
 "content_kind": "news"
 ---
 

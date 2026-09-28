@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-26T19:31:57.761Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://www.tomtunguz.com/agent-gravity"
-"canonical_url": "https://aihot.virxact.com/items/cmpn17grf0tlcsl01fs5lcfjh"
+"canonical_url": "https://aihot.news/items/cmpn17grf0tlcsl01fs5lcfjh"
 "score": 58
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://www.tomtunguz.com/agent-gravity](https://www.tomtunguz.com/agent-gravity)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpn17grf0tlcsl01fs5lcfjh](https://aihot.virxact.com/items/cmpn17grf0tlcsl01fs5lcfjh)
+- **AIHOT 链接**: [https://aihot.news/items/cmpn17grf0tlcsl01fs5lcfjh](https://aihot.news/items/cmpn17grf0tlcsl01fs5lcfjh)

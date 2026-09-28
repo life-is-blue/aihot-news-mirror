@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-24T17:01:52.000Z"
 "source_name": "X：Sam Altman (@sama)"
 "original_url": "https://x.com/sama/status/2036488680769241223"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yuk00192slc3ehyjmra8"
+"canonical_url": "https://aihot.news/items/cmnw1yuk00192slc3ehyjmra8"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI基金会宣布未来一年将投入至少10亿美元，用于推动AI驱�
 
 - **来源**: X：Sam Altman (@sama)
 - **原文链接**: [https://x.com/sama/status/2036488680769241223](https://x.com/sama/status/2036488680769241223)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yuk00192slc3ehyjmra8](https://aihot.virxact.com/items/cmnw1yuk00192slc3ehyjmra8)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yuk00192slc3ehyjmra8](https://aihot.news/items/cmnw1yuk00192slc3ehyjmra8)

@@ -7,7 +7,7 @@
 "source_name": "Google Blog：AI（RSS）"
 "original_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language"
 "canonical_url": "https://aihot.news/items/cmu2vlgqe03sxrowkkyx8bc1s"
-"score": 62
+"score": 63
 "content_kind": "news"
 ---
 

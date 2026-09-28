@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-10T19:00:00.150Z"
 "source_name": "X：OpenRouter (@OpenRouter)"
 "original_url": "https://x.com/OpenRouter/status/2053548965220475115"
-"canonical_url": "https://aihot.virxact.com/items/cmp050ra30n3lsllh9scrq6zz"
+"canonical_url": "https://aihot.news/items/cmp050ra30n3lsllh9scrq6zz"
 "score": 69
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Anthropic 已在令牌份额排行榜上位列第一
 
 - **来源**: X：OpenRouter (@OpenRouter)
 - **原文链接**: [https://x.com/OpenRouter/status/2053548965220475115](https://x.com/OpenRouter/status/2053548965220475115)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp050ra30n3lsllh9scrq6zz](https://aihot.virxact.com/items/cmp050ra30n3lsllh9scrq6zz)
+- **AIHOT 链接**: [https://aihot.news/items/cmp050ra30n3lsllh9scrq6zz](https://aihot.news/items/cmp050ra30n3lsllh9scrq6zz)

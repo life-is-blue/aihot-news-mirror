@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-15T12:07:25.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhaj008nslxxzax41zht"
+"canonical_url": "https://aihot.news/items/cmoegbhaj008nslxxzax41zht"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ IBM Research在Hugging Face发布的博客详细剖析了其智能体框架VAKRA
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis](https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhaj008nslxxzax41zht](https://aihot.virxact.com/items/cmoegbhaj008nslxxzax41zht)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhaj008nslxxzax41zht](https://aihot.news/items/cmoegbhaj008nslxxzax41zht)

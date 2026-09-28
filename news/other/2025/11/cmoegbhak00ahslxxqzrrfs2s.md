@@ -6,7 +6,7 @@
 "discovered_at": "2025-11-19T05:19:07.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/ServiceNow-AI/apriel-h1"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhak00ahslxxqzrrfs2s"
+"canonical_url": "https://aihot.news/items/cmoegbhak00ahslxxqzrrfs2s"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ ServiceNow-AI在Hugging Face发布博客，介绍了其提出的Apriel-H1方法�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/ServiceNow-AI/apriel-h1](https://huggingface.co/blog/ServiceNow-AI/apriel-h1)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhak00ahslxxqzrrfs2s](https://aihot.virxact.com/items/cmoegbhak00ahslxxqzrrfs2s)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhak00ahslxxqzrrfs2s](https://aihot.news/items/cmoegbhak00ahslxxqzrrfs2s)

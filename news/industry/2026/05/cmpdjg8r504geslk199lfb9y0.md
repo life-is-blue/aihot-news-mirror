@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-20T04:04:53.432Z"
 "source_name": "X：Greg Brockman (@gdb)"
 "original_url": "https://x.com/gdb/status/2056948285038887255"
-"canonical_url": "https://aihot.virxact.com/items/cmpdjg8r504geslk199lfb9y0"
+"canonical_url": "https://aihot.news/items/cmpdjg8r504geslk199lfb9y0"
 "score": 79
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI宣布向Y Combinator当前批次的每家创业公司提供价值200万�
 
 - **来源**: X：Greg Brockman (@gdb)
 - **原文链接**: [https://x.com/gdb/status/2056948285038887255](https://x.com/gdb/status/2056948285038887255)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpdjg8r504geslk199lfb9y0](https://aihot.virxact.com/items/cmpdjg8r504geslk199lfb9y0)
+- **AIHOT 链接**: [https://aihot.news/items/cmpdjg8r504geslk199lfb9y0](https://aihot.news/items/cmpdjg8r504geslk199lfb9y0)

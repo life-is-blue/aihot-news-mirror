@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-08T17:24:50.355Z"
 "source_name": "X：OpenAI (@OpenAI)"
 "original_url": "https://x.com/OpenAI/status/2052800507727781979"
-"canonical_url": "https://aihot.virxact.com/items/cmox6qtbl00jtsl5skwv8vazf"
+"canonical_url": "https://aihot.news/items/cmox6qtbl00jtsl5skwv8vazf"
 "score": 81
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ https://chatgpt.com/codex/switch-to-codex/
 
 - **来源**: X：OpenAI (@OpenAI)
 - **原文链接**: [https://x.com/OpenAI/status/2052800507727781979](https://x.com/OpenAI/status/2052800507727781979)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmox6qtbl00jtsl5skwv8vazf](https://aihot.virxact.com/items/cmox6qtbl00jtsl5skwv8vazf)
+- **AIHOT 链接**: [https://aihot.news/items/cmox6qtbl00jtsl5skwv8vazf](https://aihot.news/items/cmox6qtbl00jtsl5skwv8vazf)

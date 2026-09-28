@@ -6,7 +6,7 @@
 "discovered_at": "2025-07-02T13:23:13.000Z"
 "source_name": "X：Yann LeCun (@ylecun)"
 "original_url": "https://x.com/ylecun/status/1940400873492115576"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yxbf01muslc3pwsf8kmh"
+"canonical_url": "https://aihot.news/items/cmnw1yxbf01muslc3pwsf8kmh"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ DeepSeek 时刻后，AI 人才正从封闭的 OpenAI、Anthropic 流向拥抱开
 
 - **来源**: X：Yann LeCun (@ylecun)
 - **原文链接**: [https://x.com/ylecun/status/1940400873492115576](https://x.com/ylecun/status/1940400873492115576)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yxbf01muslc3pwsf8kmh](https://aihot.virxact.com/items/cmnw1yxbf01muslc3pwsf8kmh)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yxbf01muslc3pwsf8kmh](https://aihot.news/items/cmnw1yxbf01muslc3pwsf8kmh)

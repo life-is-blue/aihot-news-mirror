@@ -7,7 +7,7 @@
 "source_name": "TechCrunch：AI（RSS）"
 "original_url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-age\
   nt-for-everything-will-everyone-use-them"
-"canonical_url": "https://aihot.virxact.com/items/cmt7e3m7h234gro73wwwhymb0"
+"canonical_url": "https://aihot.news/items/cmt7e3m7h234gro73wwwhymb0"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenAI 推出 ChatGPT Work，将 Codex 改造为面向非工程师的智能体�
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them](https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt7e3m7h234gro73wwwhymb0](https://aihot.virxact.com/items/cmt7e3m7h234gro73wwwhymb0)
+- **AIHOT 链接**: [https://aihot.news/items/cmt7e3m7h234gro73wwwhymb0](https://aihot.news/items/cmt7e3m7h234gro73wwwhymb0)

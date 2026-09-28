@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-03T00:00:00.000Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2607.03451"
-"canonical_url": "https://aihot.virxact.com/items/cmrbg84yf03maihl15k3on92w"
+"canonical_url": "https://aihot.news/items/cmrbg84yf03maihl15k3on92w"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ SkillOpt-Lite 将智能体技能优化形式化为零阶优化，提出文件系
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2607.03451](https://arxiv.org/abs/2607.03451)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrbg84yf03maihl15k3on92w](https://aihot.virxact.com/items/cmrbg84yf03maihl15k3on92w)
+- **AIHOT 链接**: [https://aihot.news/items/cmrbg84yf03maihl15k3on92w](https://aihot.news/items/cmrbg84yf03maihl15k3on92w)

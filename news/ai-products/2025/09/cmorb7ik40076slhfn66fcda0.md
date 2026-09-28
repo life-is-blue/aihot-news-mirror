@@ -6,7 +6,7 @@
 "discovered_at": "2025-09-29T08:07:23.000Z"
 "source_name": "蚂蚁 inclusionAI：GitHub 新仓库"
 "original_url": "https://github.com/inclusionAI/dInfer"
-"canonical_url": "https://aihot.virxact.com/items/cmorb7ik40076slhfn66fcda0"
+"canonical_url": "https://aihot.news/items/cmorb7ik40076slhfn66fcda0"
 "score": 58
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ inclusionAI团队发布了dInfer，一个专为扩散语言模型设计的高效
 
 - **来源**: 蚂蚁 inclusionAI：GitHub 新仓库
 - **原文链接**: [https://github.com/inclusionAI/dInfer](https://github.com/inclusionAI/dInfer)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmorb7ik40076slhfn66fcda0](https://aihot.virxact.com/items/cmorb7ik40076slhfn66fcda0)
+- **AIHOT 链接**: [https://aihot.news/items/cmorb7ik40076slhfn66fcda0](https://aihot.news/items/cmorb7ik40076slhfn66fcda0)

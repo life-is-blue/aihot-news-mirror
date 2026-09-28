@@ -7,7 +7,7 @@
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-bu\
   ild-with-more-control"
-"canonical_url": "https://aihot.virxact.com/items/cmtbq1hfq156croamzzo9gno2"
+"canonical_url": "https://aihot.news/items/cmtbq1hfq156croamzzo9gno2"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google 推出 Gemini Omni 1.1 Flash，为开发者提供更强的生成式视频
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control](https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtbq1hfq156croamzzo9gno2](https://aihot.virxact.com/items/cmtbq1hfq156croamzzo9gno2)
+- **AIHOT 链接**: [https://aihot.news/items/cmtbq1hfq156croamzzo9gno2](https://aihot.news/items/cmtbq1hfq156croamzzo9gno2)

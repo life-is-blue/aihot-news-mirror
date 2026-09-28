@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-05T18:23:11.943Z"
 "source_name": "X：Rohan Paul (@rohanpaul_ai)"
 "original_url": "https://x.com/rohanpaul_ai/status/2073834219659534816"
-"canonical_url": "https://aihot.virxact.com/items/cmr84d4v901hssl04oav0ki73"
+"canonical_url": "https://aihot.news/items/cmr84d4v901hssl04oav0ki73"
 "score": 84
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Mark Zuckerberg 表示，他的职责就是集中精英人才、资本和基础�
 
 - **来源**: X：Rohan Paul (@rohanpaul_ai)
 - **原文链接**: [https://x.com/rohanpaul_ai/status/2073834219659534816](https://x.com/rohanpaul_ai/status/2073834219659534816)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr84d4v901hssl04oav0ki73](https://aihot.virxact.com/items/cmr84d4v901hssl04oav0ki73)
+- **AIHOT 链接**: [https://aihot.news/items/cmr84d4v901hssl04oav0ki73](https://aihot.news/items/cmr84d4v901hssl04oav0ki73)

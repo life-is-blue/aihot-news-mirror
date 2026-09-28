@@ -7,7 +7,7 @@
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/gemini-25-pro-preview-even-better\
   -coding-performance"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsdqam005cslag2l0b0ayl"
+"canonical_url": "https://aihot.news/items/cmnwsdqam005cslag2l0b0ayl"
 "score": null
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/gemini-25-pro-preview-even-better-coding-performance](https://deepmind.google/blog/gemini-25-pro-preview-even-better-coding-performance)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsdqam005cslag2l0b0ayl](https://aihot.virxact.com/items/cmnwsdqam005cslag2l0b0ayl)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsdqam005cslag2l0b0ayl](https://aihot.news/items/cmnwsdqam005cslag2l0b0ayl)

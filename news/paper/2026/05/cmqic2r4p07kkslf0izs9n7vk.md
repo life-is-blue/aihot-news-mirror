@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-21T16:00:00.000Z"
 "source_name": "Anthropic：Research（发表成果 · 网页）"
 "original_url": "https://www.anthropic.com/research/exploit-evals"
-"canonical_url": "https://aihot.virxact.com/items/cmqic2r4p07kkslf0izs9n7vk"
+"canonical_url": "https://aihot.news/items/cmqic2r4p07kkslf0izs9n7vk"
 "score": 83
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 与 ExploitBench、ExploitGym 和 SCONE-bench 的研究者合作，测
 
 - **来源**: Anthropic：Research（发表成果 · 网页）
 - **原文链接**: [https://www.anthropic.com/research/exploit-evals](https://www.anthropic.com/research/exploit-evals)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqic2r4p07kkslf0izs9n7vk](https://aihot.virxact.com/items/cmqic2r4p07kkslf0izs9n7vk)
+- **AIHOT 链接**: [https://aihot.news/items/cmqic2r4p07kkslf0izs9n7vk](https://aihot.news/items/cmqic2r4p07kkslf0izs9n7vk)

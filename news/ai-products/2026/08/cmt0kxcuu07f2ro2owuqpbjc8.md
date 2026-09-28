@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-19T21:04:04.391Z"
 "source_name": "X：Sky Computing Lab (@haoailab)"
 "original_url": "https://x.com/haoailab/status/2090177721913770407"
-"canonical_url": "https://aihot.virxact.com/items/cmt0kxcuu07f2ro2owuqpbjc8"
+"canonical_url": "https://aihot.news/items/cmt0kxcuu07f2ro2owuqpbjc8"
 "score": 71
 "content_kind": "news"
 ---
@@ -23,4 +23,4 @@ FastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解
 
 - **来源**: X：Sky Computing Lab (@haoailab)
 - **原文链接**: [https://x.com/haoailab/status/2090177721913770407](https://x.com/haoailab/status/2090177721913770407)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt0kxcuu07f2ro2owuqpbjc8](https://aihot.virxact.com/items/cmt0kxcuu07f2ro2owuqpbjc8)
+- **AIHOT 链接**: [https://aihot.news/items/cmt0kxcuu07f2ro2owuqpbjc8](https://aihot.news/items/cmt0kxcuu07f2ro2owuqpbjc8)

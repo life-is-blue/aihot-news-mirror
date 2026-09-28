@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-12T16:09:42.032Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-4-6"
-"canonical_url": "https://aihot.virxact.com/items/cmsqabu0f001krouc6sfhic2d"
+"canonical_url": "https://aihot.news/items/cmsqabu0f001krouc6sfhic2d"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI 今日发布 Grok 4.6，在 Grok 4.5 基础上重点强化长时运行智能
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-4-6](https://x.ai/news/grok-4-6)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsqabu0f001krouc6sfhic2d](https://aihot.virxact.com/items/cmsqabu0f001krouc6sfhic2d)
+- **AIHOT 链接**: [https://aihot.news/items/cmsqabu0f001krouc6sfhic2d](https://aihot.news/items/cmsqabu0f001krouc6sfhic2d)

@@ -6,7 +6,7 @@
 "discovered_at": "2025-11-19T00:00:00.000Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-goes-global"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsvjeh005jslted32zlg77"
+"canonical_url": "https://aihot.news/items/cmnwsvjeh005jslted32zlg77"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI 与沙特阿拉伯及 PIF 旗下 HUMAIN 签署框架协议，将在沙特建
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-goes-global](https://x.ai/news/grok-goes-global)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsvjeh005jslted32zlg77](https://aihot.virxact.com/items/cmnwsvjeh005jslted32zlg77)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsvjeh005jslted32zlg77](https://aihot.news/items/cmnwsvjeh005jslted32zlg77)

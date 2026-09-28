@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-27T17:34:02.542Z"
 "source_name": "Google Research：Blog（网页）"
 "original_url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation"
-"canonical_url": "https://aihot.virxact.com/items/cmpocftbm04v2slv4qabfidb6"
+"canonical_url": "https://aihot.news/items/cmpocftbm04v2slv4qabfidb6"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google Research 推出了一种新的隐私分析解决方案。该方案结合�
 
 - **来源**: Google Research：Blog（网页）
 - **原文链接**: [https://research.google/blog/private-analytics-via-zero-trust-aggregation](https://research.google/blog/private-analytics-via-zero-trust-aggregation)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpocftbm04v2slv4qabfidb6](https://aihot.virxact.com/items/cmpocftbm04v2slv4qabfidb6)
+- **AIHOT 链接**: [https://aihot.news/items/cmpocftbm04v2slv4qabfidb6](https://aihot.news/items/cmpocftbm04v2slv4qabfidb6)

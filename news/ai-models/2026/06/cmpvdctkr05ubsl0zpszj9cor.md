@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-01T15:34:11.919Z"
 "source_name": "X：商汤 SenseTime (@SenseTime_AI)"
 "original_url": "https://x.com/SenseTime_AI/status/2061465029959209106"
-"canonical_url": "https://aihot.virxact.com/items/cmpvdctkr05ubsl0zpszj9cor"
+"canonical_url": "https://aihot.news/items/cmpvdctkr05ubsl0zpszj9cor"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：商汤 SenseTime (@SenseTime_AI)
 - **原文链接**: [https://x.com/SenseTime_AI/status/2061465029959209106](https://x.com/SenseTime_AI/status/2061465029959209106)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpvdctkr05ubsl0zpszj9cor](https://aihot.virxact.com/items/cmpvdctkr05ubsl0zpszj9cor)
+- **AIHOT 链接**: [https://aihot.news/items/cmpvdctkr05ubsl0zpszj9cor](https://aihot.news/items/cmpvdctkr05ubsl0zpszj9cor)

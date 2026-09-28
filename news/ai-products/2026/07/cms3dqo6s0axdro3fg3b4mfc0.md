@@ -7,7 +7,7 @@
 "source_name": "Google Cloud：Databases（RSS）"
 "original_url": "https://cloud.google.com/blog/products/databases/supercharge-p\
   gvector-4x-faster-hnsw-with-alloydb"
-"canonical_url": "https://aihot.virxact.com/items/cms3dqo6s0axdro3fg3b4mfc0"
+"canonical_url": "https://aihot.news/items/cms3dqo6s0axdro3fg3b4mfc0"
 "score": 71
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google Cloud 的 AlloyDB 在预览版中推出列式引擎加速的 HNSW 索引�
 
 - **来源**: Google Cloud：Databases（RSS）
 - **原文链接**: [https://cloud.google.com/blog/products/databases/supercharge-pgvector-4x-faster-hnsw-with-alloydb](https://cloud.google.com/blog/products/databases/supercharge-pgvector-4x-faster-hnsw-with-alloydb)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3dqo6s0axdro3fg3b4mfc0](https://aihot.virxact.com/items/cms3dqo6s0axdro3fg3b4mfc0)
+- **AIHOT 链接**: [https://aihot.news/items/cms3dqo6s0axdro3fg3b4mfc0](https://aihot.news/items/cms3dqo6s0axdro3fg3b4mfc0)

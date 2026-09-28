@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-13T17:30:13.000Z"
 "source_name": "X：Claude (@claudeai)"
 "original_url": "https://x.com/claudeai/status/2032509548297343196"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yoll00hbslc3z9skim3m"
+"canonical_url": "https://aihot.news/items/cmnw1yoll00hbslc3z9skim3m"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Opus 4.6 和 Claude Sonnet 4.6 的 100 万 token 上下文窗口现已正
 
 - **来源**: X：Claude (@claudeai)
 - **原文链接**: [https://x.com/claudeai/status/2032509548297343196](https://x.com/claudeai/status/2032509548297343196)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yoll00hbslc3z9skim3m](https://aihot.virxact.com/items/cmnw1yoll00hbslc3z9skim3m)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yoll00hbslc3z9skim3m](https://aihot.news/items/cmnw1yoll00hbslc3z9skim3m)

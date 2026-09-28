@@ -8,7 +8,7 @@
 "original_url": "https://www.promptarmor.com/resources/data-exfiltration-from-w\
   riter-com-via-indirect-prompt-injection"
 "canonical_url": "https://aihot.news/items/cmtyqbg7d0320roup8ykphc3h"
-"score": 65
+"score": 66
 "content_kind": "news"
 ---
 

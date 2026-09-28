@@ -7,7 +7,7 @@
 "source_name": "Meta Engineering Blog（RSS）"
 "original_url": "https://engineering.fb.com/2026/08/24/networking-traffic/metar\
   oce-rdma-transport-ai-ethernet"
-"canonical_url": "https://aihot.virxact.com/items/cmt7nq1d02bs1ro7373u88po4"
+"canonical_url": "https://aihot.news/items/cmt7nq1d02bs1ro7373u88po4"
 "score": 62
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Meta 设计并开源了 MetaRoCE，一个专为 AI 工作负载在通用以太�
 
 - **来源**: Meta Engineering Blog（RSS）
 - **原文链接**: [https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet](https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt7nq1d02bs1ro7373u88po4](https://aihot.virxact.com/items/cmt7nq1d02bs1ro7373u88po4)
+- **AIHOT 链接**: [https://aihot.news/items/cmt7nq1d02bs1ro7373u88po4](https://aihot.news/items/cmt7nq1d02bs1ro7373u88po4)

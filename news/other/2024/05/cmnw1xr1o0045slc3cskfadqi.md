@@ -6,7 +6,7 @@
 "discovered_at": "2024-05-13T17:39:38.000Z"
 "source_name": "Sam Altman：Blog（RSS）"
 "original_url": "https://blog.samaltman.com/gpt-4o"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xr1o0045slc3cskfadqi"
+"canonical_url": "https://aihot.news/items/cmnw1xr1o0045slc3cskfadqi"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 将 GPT-4o 向所有 ChatGPT 用户免费开放，无广告。全新语�
 
 - **来源**: Sam Altman：Blog（RSS）
 - **原文链接**: [https://blog.samaltman.com/gpt-4o](https://blog.samaltman.com/gpt-4o)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xr1o0045slc3cskfadqi](https://aihot.virxact.com/items/cmnw1xr1o0045slc3cskfadqi)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xr1o0045slc3cskfadqi](https://aihot.news/items/cmnw1xr1o0045slc3cskfadqi)

@@ -7,7 +7,7 @@
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
 "canonical_url": "https://aihot.news/items/cmuefqp730041rovxbpewc3gn"
-"score": 75
+"score": 76
 "content_kind": "news"
 ---
 

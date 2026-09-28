@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-21T14:28:27.351Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/the-ai-native-sdlc-playbook"
-"canonical_url": "https://aihot.virxact.com/items/cmt31oi0x0ehyro6tui3xycqe"
+"canonical_url": "https://aihot.news/items/cmt31oi0x0ehyro6tui3xycqe"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 发布 AI 原生 SDLC 实战手册，提出将传统六阶段软件开
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/the-ai-native-sdlc-playbook](https://claude.com/blog/the-ai-native-sdlc-playbook)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt31oi0x0ehyro6tui3xycqe](https://aihot.virxact.com/items/cmt31oi0x0ehyro6tui3xycqe)
+- **AIHOT 链接**: [https://aihot.news/items/cmt31oi0x0ehyro6tui3xycqe](https://aihot.news/items/cmt31oi0x0ehyro6tui3xycqe)

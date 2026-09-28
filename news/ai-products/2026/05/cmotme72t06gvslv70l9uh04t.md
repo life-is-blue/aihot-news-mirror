@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-06T05:31:55.407Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://blog.cloudflare.com/agents-stripe-projects"
-"canonical_url": "https://aihot.virxact.com/items/cmotme72t06gvslv70l9uh04t"
+"canonical_url": "https://aihot.news/items/cmotme72t06gvslv70l9uh04t"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Cloudflare宣布其代理商合作伙伴现可直接创建Cloudflare账户、购
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://blog.cloudflare.com/agents-stripe-projects](https://blog.cloudflare.com/agents-stripe-projects)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmotme72t06gvslv70l9uh04t](https://aihot.virxact.com/items/cmotme72t06gvslv70l9uh04t)
+- **AIHOT 链接**: [https://aihot.news/items/cmotme72t06gvslv70l9uh04t](https://aihot.news/items/cmotme72t06gvslv70l9uh04t)

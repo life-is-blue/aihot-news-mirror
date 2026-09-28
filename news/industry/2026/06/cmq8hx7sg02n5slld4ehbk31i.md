@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-10T20:03:02.224Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/prc-linked-influence-operations-ai-debates"
-"canonical_url": "https://aihot.virxact.com/items/cmq8hx7sg02n5slld4ehbk31i"
+"canonical_url": "https://aihot.news/items/cmq8hx7sg02n5slld4ehbk31i"
 "score": 55
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI发布最新报告，详细披露了PRC关联的影响力行动利用AI工
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/prc-linked-influence-operations-ai-debates](https://openai.com/index/prc-linked-influence-operations-ai-debates)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq8hx7sg02n5slld4ehbk31i](https://aihot.virxact.com/items/cmq8hx7sg02n5slld4ehbk31i)
+- **AIHOT 链接**: [https://aihot.news/items/cmq8hx7sg02n5slld4ehbk31i](https://aihot.news/items/cmq8hx7sg02n5slld4ehbk31i)

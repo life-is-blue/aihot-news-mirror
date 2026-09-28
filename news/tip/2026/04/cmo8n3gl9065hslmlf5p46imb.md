@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-21T13:08:27.976Z"
 "source_name": "Gary Marcus：The Road to AI We Can Trust（RSS）"
 "original_url": "https://garymarcus.substack.com/p/please-dont-trust-your-chatbot-for"
-"canonical_url": "https://aihot.virxact.com/items/cmo8n3gl9065hslmlf5p46imb"
+"canonical_url": "https://aihot.news/items/cmo8n3gl9065hslmlf5p46imb"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Gary Marcus：The Road to AI We Can Trust（RSS）
 - **原文链接**: [https://garymarcus.substack.com/p/please-dont-trust-your-chatbot-for](https://garymarcus.substack.com/p/please-dont-trust-your-chatbot-for)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmo8n3gl9065hslmlf5p46imb](https://aihot.virxact.com/items/cmo8n3gl9065hslmlf5p46imb)
+- **AIHOT 链接**: [https://aihot.news/items/cmo8n3gl9065hslmlf5p46imb](https://aihot.news/items/cmo8n3gl9065hslmlf5p46imb)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-13T09:54:36.848Z"
 "source_name": "公众号：通义实验室（千问）"
 "original_url": "https://mp.weixin.qq.com/s/QNl4pn5JzxpEeFAEvq88ZA"
-"canonical_url": "https://aihot.virxact.com/items/cmqc6ibv400ktslt4e8zhjo27"
+"canonical_url": "https://aihot.news/items/cmqc6ibv400ktslt4e8zhjo27"
 "score": 79
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ MNN 推理引擎深度适配 Arm SME2 指令集，使 Qwen3-VL-4B-Instruct 在�
 
 - **来源**: 公众号：通义实验室（千问）
 - **原文链接**: [https://mp.weixin.qq.com/s/QNl4pn5JzxpEeFAEvq88ZA](https://mp.weixin.qq.com/s/QNl4pn5JzxpEeFAEvq88ZA)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqc6ibv400ktslt4e8zhjo27](https://aihot.virxact.com/items/cmqc6ibv400ktslt4e8zhjo27)
+- **AIHOT 链接**: [https://aihot.news/items/cmqc6ibv400ktslt4e8zhjo27](https://aihot.news/items/cmqc6ibv400ktslt4e8zhjo27)

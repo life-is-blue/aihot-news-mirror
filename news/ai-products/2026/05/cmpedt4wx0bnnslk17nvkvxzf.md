@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-20T18:14:40.920Z"
 "source_name": "X：Gemini (@GeminiApp)"
 "original_url": "https://x.com/GeminiApp/status/2057159933934907825"
-"canonical_url": "https://aihot.virxact.com/items/cmpedt4wx0bnnslk17nvkvxzf"
+"canonical_url": "https://aihot.news/items/cmpedt4wx0bnnslk17nvkvxzf"
 "score": 72
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@
 
 - **来源**: X：Gemini (@GeminiApp)
 - **原文链接**: [https://x.com/GeminiApp/status/2057159933934907825](https://x.com/GeminiApp/status/2057159933934907825)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpedt4wx0bnnslk17nvkvxzf](https://aihot.virxact.com/items/cmpedt4wx0bnnslk17nvkvxzf)
+- **AIHOT 链接**: [https://aihot.news/items/cmpedt4wx0bnnslk17nvkvxzf](https://aihot.news/items/cmpedt4wx0bnnslk17nvkvxzf)

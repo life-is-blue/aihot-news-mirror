@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-13T17:22:11.372Z"
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/introducing-gemini-3-7-flash"
-"canonical_url": "https://aihot.virxact.com/items/cmsrscwfn03f7ro0n7qijclds"
+"canonical_url": "https://aihot.news/items/cmsrscwfn03f7ro0n7qijclds"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google DeepMind 发布 Gemini 3.7 Flash，距 3.6 Flash 仅三周，主打编程
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/introducing-gemini-3-7-flash](https://deepmind.google/blog/introducing-gemini-3-7-flash)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsrscwfn03f7ro0n7qijclds](https://aihot.virxact.com/items/cmsrscwfn03f7ro0n7qijclds)
+- **AIHOT 链接**: [https://aihot.news/items/cmsrscwfn03f7ro0n7qijclds](https://aihot.news/items/cmsrscwfn03f7ro0n7qijclds)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-12T16:46:38.109Z"
 "source_name": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)"
 "original_url": "https://x.com/mustafasuleyman/status/2087570047967408396"
-"canonical_url": "https://aihot.virxact.com/items/cmsqbnb8j01nrroosmwa5r6mj"
+"canonical_url": "https://aihot.news/items/cmsqbnb8j01nrroosmwa5r6mj"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)
 - **原文链接**: [https://x.com/mustafasuleyman/status/2087570047967408396](https://x.com/mustafasuleyman/status/2087570047967408396)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsqbnb8j01nrroosmwa5r6mj](https://aihot.virxact.com/items/cmsqbnb8j01nrroosmwa5r6mj)
+- **AIHOT 链接**: [https://aihot.news/items/cmsqbnb8j01nrroosmwa5r6mj](https://aihot.news/items/cmsqbnb8j01nrroosmwa5r6mj)

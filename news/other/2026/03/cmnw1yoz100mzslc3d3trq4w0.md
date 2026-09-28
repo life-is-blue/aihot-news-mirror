@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-25T23:14:21.000Z"
 "source_name": "X：Anthropic (@AnthropicAI)"
 "original_url": "https://x.com/AnthropicAI/status/2036944806317088921"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yoz100mzslc3d3trq4w0"
+"canonical_url": "https://aihot.news/items/cmnw1yoz100mzslc3d3trq4w0"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 工程博客发文介绍 Claude Code auto mode 的设计思路。该�
 
 - **来源**: X：Anthropic (@AnthropicAI)
 - **原文链接**: [https://x.com/AnthropicAI/status/2036944806317088921](https://x.com/AnthropicAI/status/2036944806317088921)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yoz100mzslc3d3trq4w0](https://aihot.virxact.com/items/cmnw1yoz100mzslc3d3trq4w0)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yoz100mzslc3d3trq4w0](https://aihot.news/items/cmnw1yoz100mzslc3d3trq4w0)

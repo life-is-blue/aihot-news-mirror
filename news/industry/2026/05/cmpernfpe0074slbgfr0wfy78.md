@@ -7,7 +7,7 @@
 "source_name": "Ars Technica：AI（RSS）"
 "original_url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-tr\
   ial-accusing-sam-altman-openai-of-stealing-a-charity"
-"canonical_url": "https://aihot.virxact.com/items/cmpernfpe0074slbgfr0wfy78"
+"canonical_url": "https://aihot.news/items/cmpernfpe0074slbgfr0wfy78"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Ars Technica：AI（RSS）
 - **原文链接**: [https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity](https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpernfpe0074slbgfr0wfy78](https://aihot.virxact.com/items/cmpernfpe0074slbgfr0wfy78)
+- **AIHOT 链接**: [https://aihot.news/items/cmpernfpe0074slbgfr0wfy78](https://aihot.news/items/cmpernfpe0074slbgfr0wfy78)

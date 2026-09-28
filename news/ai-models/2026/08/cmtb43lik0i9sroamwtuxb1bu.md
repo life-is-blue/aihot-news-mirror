@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-27T05:58:28.764Z"
 "source_name": "X：唐杰（@jietang）"
 "original_url": "https://x.com/jietang/status/2092850258573471936"
-"canonical_url": "https://aihot.virxact.com/items/cmtb43lik0i9sroamwtuxb1bu"
+"canonical_url": "https://aihot.news/items/cmtb43lik0i9sroamwtuxb1bu"
 "score": 71
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ Ox Alpha = GLM-5.3 Flash AA = 57，以1/100的前沿价格，
 
 - **来源**: X：唐杰（@jietang）
 - **原文链接**: [https://x.com/jietang/status/2092850258573471936](https://x.com/jietang/status/2092850258573471936)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtb43lik0i9sroamwtuxb1bu](https://aihot.virxact.com/items/cmtb43lik0i9sroamwtuxb1bu)
+- **AIHOT 链接**: [https://aihot.news/items/cmtb43lik0i9sroamwtuxb1bu](https://aihot.news/items/cmtb43lik0i9sroamwtuxb1bu)

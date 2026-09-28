@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-01T16:49:49.022Z"
 "source_name": "X：Claude (@claudeai)"
 "original_url": "https://x.com/claudeai/status/2050252933866930339"
-"canonical_url": "https://aihot.virxact.com/items/cmon5eol00deksll98ldqe9zd"
+"canonical_url": "https://aihot.news/items/cmon5eol00deksll98ldqe9zd"
 "score": 67
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ Code with Claude，我们的开发者大会，下周回归。
 
 - **来源**: X：Claude (@claudeai)
 - **原文链接**: [https://x.com/claudeai/status/2050252933866930339](https://x.com/claudeai/status/2050252933866930339)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmon5eol00deksll98ldqe9zd](https://aihot.virxact.com/items/cmon5eol00deksll98ldqe9zd)
+- **AIHOT 链接**: [https://aihot.news/items/cmon5eol00deksll98ldqe9zd](https://aihot.news/items/cmon5eol00deksll98ldqe9zd)

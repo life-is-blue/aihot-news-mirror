@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-30T17:19:46.089Z"
 "source_name": "Simon Willison 博客"
 "original_url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video"
-"canonical_url": "https://aihot.virxact.com/items/cmr0wwa6g0085sl40xkkzeruy"
+"canonical_url": "https://aihot.news/items/cmr0wwa6g0085sl40xkkzeruy"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ shot-scraper 1.10 新增 shot-scraper video 命令，支持通过 storyboard.yml
 
 - **来源**: Simon Willison 博客
 - **原文链接**: [https://simonwillison.net/2026/Jun/30/shot-scraper-video](https://simonwillison.net/2026/Jun/30/shot-scraper-video)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr0wwa6g0085sl40xkkzeruy](https://aihot.virxact.com/items/cmr0wwa6g0085sl40xkkzeruy)
+- **AIHOT 链接**: [https://aihot.news/items/cmr0wwa6g0085sl40xkkzeruy](https://aihot.news/items/cmr0wwa6g0085sl40xkkzeruy)

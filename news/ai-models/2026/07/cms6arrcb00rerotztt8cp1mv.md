@@ -8,7 +8,7 @@
 "original_url": "https://deepmind.google/blog/were-launching-lyria-35-in-google\
   -flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-contro\
   l"
-"canonical_url": "https://aihot.virxact.com/items/cms6arrcb00rerotztt8cp1mv"
+"canonical_url": "https://aihot.news/items/cms6arrcb00rerotztt8cp1mv"
 "score": 63
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Google DeepMind 今日在 Google Flow Music 中发布新一代音乐生成模型
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control](https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms6arrcb00rerotztt8cp1mv](https://aihot.virxact.com/items/cms6arrcb00rerotztt8cp1mv)
+- **AIHOT 链接**: [https://aihot.news/items/cms6arrcb00rerotztt8cp1mv](https://aihot.news/items/cms6arrcb00rerotztt8cp1mv)

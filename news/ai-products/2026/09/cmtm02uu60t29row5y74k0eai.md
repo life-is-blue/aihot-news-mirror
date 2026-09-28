@@ -6,7 +6,7 @@
 "discovered_at": "2026-09-03T20:51:25.010Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/daybreak-for-frontline-defenders"
-"canonical_url": "https://aihot.virxact.com/items/cmtm02uu60t29row5y74k0eai"
+"canonical_url": "https://aihot.news/items/cmtm02uu60t29row5y74k0eai"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 发布 Daybreak for Frontline Defenders 全球计划，承诺提供10亿�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/daybreak-for-frontline-defenders](https://openai.com/index/daybreak-for-frontline-defenders)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtm02uu60t29row5y74k0eai](https://aihot.virxact.com/items/cmtm02uu60t29row5y74k0eai)
+- **AIHOT 链接**: [https://aihot.news/items/cmtm02uu60t29row5y74k0eai](https://aihot.news/items/cmtm02uu60t29row5y74k0eai)

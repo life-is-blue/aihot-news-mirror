@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-02T18:34:57.709Z"
 "source_name": "X：Tibo (@thsottiaux)"
 "original_url": "https://x.com/thsottiaux/status/2061876999564791952"
-"canonical_url": "https://aihot.virxact.com/items/cmpwz95lr025rsl79ga4etdfp"
+"canonical_url": "https://aihot.news/items/cmpwz95lr025rsl79ga4etdfp"
 "score": 67
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Codex 日常工作使用中新增大量实用功能。
 
 - **来源**: X：Tibo (@thsottiaux)
 - **原文链接**: [https://x.com/thsottiaux/status/2061876999564791952](https://x.com/thsottiaux/status/2061876999564791952)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpwz95lr025rsl79ga4etdfp](https://aihot.virxact.com/items/cmpwz95lr025rsl79ga4etdfp)
+- **AIHOT 链接**: [https://aihot.news/items/cmpwz95lr025rsl79ga4etdfp](https://aihot.news/items/cmpwz95lr025rsl79ga4etdfp)

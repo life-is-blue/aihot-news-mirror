@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-23T10:00:00.000Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/academy/how-to-use-codex-for-everyday-work"
-"canonical_url": "https://aihot.virxact.com/items/cmpoebxkl05c8slv43ixkow0f"
+"canonical_url": "https://aihot.news/items/cmpoebxkl05c8slv43ixkow0f"
 "score": 63
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/academy/how-to-use-codex-for-everyday-work](https://openai.com/academy/how-to-use-codex-for-everyday-work)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpoebxkl05c8slv43ixkow0f](https://aihot.virxact.com/items/cmpoebxkl05c8slv43ixkow0f)
+- **AIHOT 链接**: [https://aihot.news/items/cmpoebxkl05c8slv43ixkow0f](https://aihot.news/items/cmpoebxkl05c8slv43ixkow0f)

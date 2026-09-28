@@ -7,7 +7,7 @@
 "source_name": "TechCrunch：AI（RSS）"
 "original_url": "https://techcrunch.com/2026/07/13/video-generation-startup-pix\
   verse-raises-439m-valuation-soars-past-2b"
-"canonical_url": "https://aihot.virxact.com/items/cmrjw1gyj011bbiw2epuuumva"
+"canonical_url": "https://aihot.news/items/cmrjw1gyj011bbiw2epuuumva"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b](https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrjw1gyj011bbiw2epuuumva](https://aihot.virxact.com/items/cmrjw1gyj011bbiw2epuuumva)
+- **AIHOT 链接**: [https://aihot.news/items/cmrjw1gyj011bbiw2epuuumva](https://aihot.news/items/cmrjw1gyj011bbiw2epuuumva)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-20T16:07:41.000Z"
 "source_name": "X：Claude (@claudeai)"
 "original_url": "https://x.com/claudeai/status/2035025492617961704"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yoll00h8slc36irjb39l"
+"canonical_url": "https://aihot.news/items/cmnw1yoll00h8slc36irjb39l"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Cowork 新增 Projects 功能，支持将任务与上下文集中管理，专注
 
 - **来源**: X：Claude (@claudeai)
 - **原文链接**: [https://x.com/claudeai/status/2035025492617961704](https://x.com/claudeai/status/2035025492617961704)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yoll00h8slc36irjb39l](https://aihot.virxact.com/items/cmnw1yoll00h8slc36irjb39l)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yoll00h8slc36irjb39l](https://aihot.news/items/cmnw1yoll00h8slc36irjb39l)

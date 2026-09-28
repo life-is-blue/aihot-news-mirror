@@ -9,7 +9,7 @@
   -palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-\
   2000814477"
 "canonical_url": "https://aihot.news/items/cmud32gov0427rov6rcxw9xlf"
-"score": 86
+"score": 87
 "content_kind": "news"
 ---
 

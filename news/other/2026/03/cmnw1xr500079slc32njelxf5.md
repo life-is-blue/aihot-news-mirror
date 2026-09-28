@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-10T11:00:00.000Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/instruction-hierarchy-challenge"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xr500079slc32njelxf5"
+"canonical_url": "https://aihot.news/items/cmnw1xr500079slc32njelxf5"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ IH-Challenge 训练模型优先处理可信指令，改进指令层级、安全�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/instruction-hierarchy-challenge](https://openai.com/index/instruction-hierarchy-challenge)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xr500079slc32njelxf5](https://aihot.virxact.com/items/cmnw1xr500079slc32njelxf5)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xr500079slc32njelxf5](https://aihot.news/items/cmnw1xr500079slc32njelxf5)

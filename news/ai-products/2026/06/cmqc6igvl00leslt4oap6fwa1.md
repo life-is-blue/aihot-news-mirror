@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-08T13:43:49.000Z"
 "source_name": "公众号：月之暗面（Kimi）"
 "original_url": "https://mp.weixin.qq.com/s/sqGuRyeU9AvZZ3IXj8ddJg"
-"canonical_url": "https://aihot.virxact.com/items/cmqc6igvl00leslt4oap6fwa1"
+"canonical_url": "https://aihot.news/items/cmqc6igvl00leslt4oap6fwa1"
 "score": 62
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Kimi Code 开源 Coding Agent 大版本升级：一行命令安装，毫秒级�
 
 - **来源**: 公众号：月之暗面（Kimi）
 - **原文链接**: [https://mp.weixin.qq.com/s/sqGuRyeU9AvZZ3IXj8ddJg](https://mp.weixin.qq.com/s/sqGuRyeU9AvZZ3IXj8ddJg)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqc6igvl00leslt4oap6fwa1](https://aihot.virxact.com/items/cmqc6igvl00leslt4oap6fwa1)
+- **AIHOT 链接**: [https://aihot.news/items/cmqc6igvl00leslt4oap6fwa1](https://aihot.news/items/cmqc6igvl00leslt4oap6fwa1)

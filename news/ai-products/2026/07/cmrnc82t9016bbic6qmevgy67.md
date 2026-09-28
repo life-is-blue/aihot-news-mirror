@@ -7,7 +7,7 @@
 "source_name": "Google Developers Blog（RSS）"
 "original_url": "https://developers.googleblog.com/expanding-choice-in-gemini-e\
   nterprise-agent-platform-introducing-grounding-with-parallel-web-search"
-"canonical_url": "https://aihot.virxact.com/items/cmrnc82t9016bbic6qmevgy67"
+"canonical_url": "https://aihot.news/items/cmrnc82t9016bbic6qmevgy67"
 "score": 60
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google Cloud 与 Parallel Web Systems 合作，将 Parallel 的搜索基础设�
 
 - **来源**: Google Developers Blog（RSS）
 - **原文链接**: [https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search](https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrnc82t9016bbic6qmevgy67](https://aihot.virxact.com/items/cmrnc82t9016bbic6qmevgy67)
+- **AIHOT 链接**: [https://aihot.news/items/cmrnc82t9016bbic6qmevgy67](https://aihot.news/items/cmrnc82t9016bbic6qmevgy67)

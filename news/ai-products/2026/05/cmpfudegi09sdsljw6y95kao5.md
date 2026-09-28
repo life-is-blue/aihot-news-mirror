@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-21T18:45:42.287Z"
 "source_name": "Runway：News（网页）"
 "original_url": "https://runwayml.com/news/introducing-aleph-2-and-edit-studio"
-"canonical_url": "https://aihot.virxact.com/items/cmpfudegi09sdsljw6y95kao5"
+"canonical_url": "https://aihot.news/items/cmpfudegi09sdsljw6y95kao5"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Runway于2026年5月21日发布了视频编辑模型Aleph 2.0及其新产品Edit
 
 - **来源**: Runway：News（网页）
 - **原文链接**: [https://runwayml.com/news/introducing-aleph-2-and-edit-studio](https://runwayml.com/news/introducing-aleph-2-and-edit-studio)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpfudegi09sdsljw6y95kao5](https://aihot.virxact.com/items/cmpfudegi09sdsljw6y95kao5)
+- **AIHOT 链接**: [https://aihot.news/items/cmpfudegi09sdsljw6y95kao5](https://aihot.news/items/cmpfudegi09sdsljw6y95kao5)

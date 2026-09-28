@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-19T17:48:59.448Z"
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/introducing-gemini-omni"
-"canonical_url": "https://aihot.virxact.com/items/cmpcxg3ae00yzsljlcn3lr3hf"
+"canonical_url": "https://aihot.news/items/cmpcxg3ae00yzsljlcn3lr3hf"
 "score": 83
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/introducing-gemini-omni](https://deepmind.google/blog/introducing-gemini-omni)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpcxg3ae00yzsljlcn3lr3hf](https://aihot.virxact.com/items/cmpcxg3ae00yzsljlcn3lr3hf)
+- **AIHOT 链接**: [https://aihot.news/items/cmpcxg3ae00yzsljlcn3lr3hf](https://aihot.news/items/cmpcxg3ae00yzsljlcn3lr3hf)

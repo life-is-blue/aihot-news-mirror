@@ -8,7 +8,7 @@
 "original_url": "https://www.promptarmor.com/resources/screen-takeover-attack-i\
   n-ai-tool-acquired-for-1b"
 "canonical_url": "https://aihot.news/items/cmtyqbg7d031troupswowxh36"
-"score": 66
+"score": 67
 "content_kind": "news"
 ---
 

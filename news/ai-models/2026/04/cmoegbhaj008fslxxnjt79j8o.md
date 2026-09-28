@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-24T00:00:00.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/deepseekv4"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhaj008fslxxnjt79j8o"
+"canonical_url": "https://aihot.news/items/cmoegbhaj008fslxxnjt79j8o"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ DeepSeek发布新一代模型DeepSeek-V4，其核心突破在于实现了长达�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/deepseekv4](https://huggingface.co/blog/deepseekv4)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhaj008fslxxnjt79j8o](https://aihot.virxact.com/items/cmoegbhaj008fslxxnjt79j8o)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhaj008fslxxnjt79j8o](https://aihot.news/items/cmoegbhaj008fslxxnjt79j8o)

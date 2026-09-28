@@ -7,7 +7,7 @@
 "source_name": "Artificial Intelligence News（网页）"
 "original_url": "https://www.artificialintelligence-news.com/news/five-eyes-war\
   ning-ai-cyber-threats"
-"canonical_url": "https://aihot.virxact.com/items/cmqqdbcno08taslp5yd9dbxjt"
+"canonical_url": "https://aihot.news/items/cmqqdbcno08taslp5yd9dbxjt"
 "score": 74
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Artificial Intelligence News（网页）
 - **原文链接**: [https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats](https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqqdbcno08taslp5yd9dbxjt](https://aihot.virxact.com/items/cmqqdbcno08taslp5yd9dbxjt)
+- **AIHOT 链接**: [https://aihot.news/items/cmqqdbcno08taslp5yd9dbxjt](https://aihot.news/items/cmqqdbcno08taslp5yd9dbxjt)

@@ -7,7 +7,7 @@
 "source_name": "Google Developers Blog（RSS）"
 "original_url": "https://developers.googleblog.com/announcing-genkit-middleware\
   -intercept-extend-and-harden-your-agentic-apps"
-"canonical_url": "https://aihot.virxact.com/items/cmp5qtyt20gjgsljxg925uv7t"
+"canonical_url": "https://aihot.news/items/cmp5qtyt20gjgsljxg925uv7t"
 "score": 62
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google开源框架Genkit近日推出其核心中间件系统，旨在提升智�
 
 - **来源**: Google Developers Blog（RSS）
 - **原文链接**: [https://developers.googleblog.com/announcing-genkit-middleware-intercept-extend-and-harden-your-agentic-apps](https://developers.googleblog.com/announcing-genkit-middleware-intercept-extend-and-harden-your-agentic-apps)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp5qtyt20gjgsljxg925uv7t](https://aihot.virxact.com/items/cmp5qtyt20gjgsljxg925uv7t)
+- **AIHOT 链接**: [https://aihot.news/items/cmp5qtyt20gjgsljxg925uv7t](https://aihot.news/items/cmp5qtyt20gjgsljxg925uv7t)

@@ -7,7 +7,7 @@
 "source_name": "Ars Technica：AI（RSS）"
 "original_url": "https://arstechnica.com/science/2026/05/preprint-server-arxiv-\
   will-ban-submitters-of-ai-generated-hallucinations"
-"canonical_url": "https://aihot.virxact.com/items/cmpernfpe0078slbgvipizga5"
+"canonical_url": "https://aihot.news/items/cmpernfpe0078slbgvipizga5"
 "score": 74
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Ars Technica：AI（RSS）
 - **原文链接**: [https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations](https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpernfpe0078slbgvipizga5](https://aihot.virxact.com/items/cmpernfpe0078slbgvipizga5)
+- **AIHOT 链接**: [https://aihot.news/items/cmpernfpe0078slbgvipizga5](https://aihot.news/items/cmpernfpe0078slbgvipizga5)

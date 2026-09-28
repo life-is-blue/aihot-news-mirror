@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-31T21:52:46.540Z"
 "source_name": "Simon Willison 博客"
 "original_url": "https://simonwillison.net/2026/Jul/31/smevals"
-"canonical_url": "https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow"
+"canonical_url": "https://aihot.news/items/cms9has920ey7ro9k5oh4ooow"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ smevals 是 Simon Willison 与 Prime Radiant 实验室合作开发的新工具�
 
 - **来源**: Simon Willison 博客
 - **原文链接**: [https://simonwillison.net/2026/Jul/31/smevals](https://simonwillison.net/2026/Jul/31/smevals)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow](https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow)
+- **AIHOT 链接**: [https://aihot.news/items/cms9has920ey7ro9k5oh4ooow](https://aihot.news/items/cms9has920ey7ro9k5oh4ooow)

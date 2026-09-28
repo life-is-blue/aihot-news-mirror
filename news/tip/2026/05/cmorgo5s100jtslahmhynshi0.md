@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-04T17:16:08.020Z"
 "source_name": "Simon Willison 博客"
 "original_url": "https://simonwillison.net/2026/May/4/redis-array"
-"canonical_url": "https://aihot.virxact.com/items/cmorgo5s100jtslahmhynshi0"
+"canonical_url": "https://aihot.news/items/cmorgo5s100jtslahmhynshi0"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Redis创始人Salvatore Sanfilippo提交了为Redis新增数组数据类型的PR
 
 - **来源**: Simon Willison 博客
 - **原文链接**: [https://simonwillison.net/2026/May/4/redis-array](https://simonwillison.net/2026/May/4/redis-array)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmorgo5s100jtslahmhynshi0](https://aihot.virxact.com/items/cmorgo5s100jtslahmhynshi0)
+- **AIHOT 链接**: [https://aihot.news/items/cmorgo5s100jtslahmhynshi0](https://aihot.news/items/cmorgo5s100jtslahmhynshi0)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-29T20:34:34.356Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://www.tomtunguz.com/ai-spend-breakeven-2029"
-"canonical_url": "https://aihot.virxact.com/items/cmqzoeyal000psl42yjcez2oc"
+"canonical_url": "https://aihot.news/items/cmqzoeyal000psl42yjcez2oc"
 "score": 58
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic在算力上的支出达到每位工程师每年51.5万美元，是其�
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://www.tomtunguz.com/ai-spend-breakeven-2029](https://www.tomtunguz.com/ai-spend-breakeven-2029)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqzoeyal000psl42yjcez2oc](https://aihot.virxact.com/items/cmqzoeyal000psl42yjcez2oc)
+- **AIHOT 链接**: [https://aihot.news/items/cmqzoeyal000psl42yjcez2oc](https://aihot.news/items/cmqzoeyal000psl42yjcez2oc)

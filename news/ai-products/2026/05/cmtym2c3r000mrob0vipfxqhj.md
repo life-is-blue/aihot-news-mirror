@@ -7,7 +7,7 @@
 "source_name": "LlamaIndex：产品、工程与评测"
 "original_url": "https://www.llamaindex.ai/blog/liteparse-v2-0-runs-everywhere"
 "canonical_url": "https://aihot.news/items/cmtym2c3r000mrob0vipfxqhj"
-"score": 60
+"score": 61
 "content_kind": "news"
 ---
 

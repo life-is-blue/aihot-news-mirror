@@ -13,7 +13,7 @@
 
 # PromptArmor 分析 30 天 Claude Code 遥测数据：4% 的会话占 65% 的开销
 
-PromptArmor 基于一个十人团队 30 天的 310，009 条 OTel 遥测事件分析 Claude Code 和 Cowork 的安全与成本。
+PromptArmor 基于一个十人团队 30 天的 310,009 条 OTel 遥测事件分析 Claude Code 和 Cowork 的安全与成本。
 
 - **来源**: PromptArmor：Threat Intelligence
 - **原文链接**: [https://www.promptarmor.com/resources/claude-cost-and-risk-otel-findings](https://www.promptarmor.com/resources/claude-cost-and-risk-otel-findings)

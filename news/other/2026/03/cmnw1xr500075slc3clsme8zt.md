@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-11T11:30:00.000Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/designing-agents-to-resist-prompt-injection"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xr500075slc3clsme8zt"
+"canonical_url": "https://aihot.news/items/cmnw1xr500075slc3clsme8zt"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ ChatGPT 防御提示注入与社会工程的方法：在 agent 工作流中约�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/designing-agents-to-resist-prompt-injection](https://openai.com/index/designing-agents-to-resist-prompt-injection)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xr500075slc3clsme8zt](https://aihot.virxact.com/items/cmnw1xr500075slc3clsme8zt)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xr500075slc3clsme8zt](https://aihot.news/items/cmnw1xr500075slc3clsme8zt)

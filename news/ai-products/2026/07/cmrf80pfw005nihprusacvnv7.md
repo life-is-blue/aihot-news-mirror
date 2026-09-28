@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-10T17:39:53.724Z"
 "source_name": "X：Greg Brockman (@gdb)"
 "original_url": "https://x.com/gdb/status/2075633868552769998"
-"canonical_url": "https://aihot.virxact.com/items/cmrf80pfw005nihprusacvnv7"
+"canonical_url": "https://aihot.news/items/cmrf80pfw005nihprusacvnv7"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 联合创始人 Greg Brockman 宣布推出实验项目 Tend，这是一�
 
 - **来源**: X：Greg Brockman (@gdb)
 - **原文链接**: [https://x.com/gdb/status/2075633868552769998](https://x.com/gdb/status/2075633868552769998)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrf80pfw005nihprusacvnv7](https://aihot.virxact.com/items/cmrf80pfw005nihprusacvnv7)
+- **AIHOT 链接**: [https://aihot.news/items/cmrf80pfw005nihprusacvnv7](https://aihot.news/items/cmrf80pfw005nihprusacvnv7)

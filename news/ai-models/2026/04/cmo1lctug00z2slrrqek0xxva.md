@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-16T14:45:18.211Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/claude-opus-4-7"
-"canonical_url": "https://aihot.virxact.com/items/cmo1lctug00z2slrrqek0xxva"
+"canonical_url": "https://aihot.news/items/cmo1lctug00z2slrrqek0xxva"
 "score": 79
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Opus 4.7 全面上线，在高级软件工程任务上实现重大飞跃�
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/claude-opus-4-7](https://www.anthropic.com/news/claude-opus-4-7)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmo1lctug00z2slrrqek0xxva](https://aihot.virxact.com/items/cmo1lctug00z2slrrqek0xxva)
+- **AIHOT 链接**: [https://aihot.news/items/cmo1lctug00z2slrrqek0xxva](https://aihot.news/items/cmo1lctug00z2slrrqek0xxva)

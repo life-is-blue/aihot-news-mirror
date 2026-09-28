@@ -7,7 +7,7 @@
 "source_name": "Artificial Analysis 完整文章（网页）"
 "original_url": "https://artificialanalysis.ai/articles/claude-opus-5-5"
 "canonical_url": "https://aihot.news/items/cmucyny580521roni2aiyh9xj"
-"score": 81
+"score": 82
 "content_kind": "news"
 ---
 

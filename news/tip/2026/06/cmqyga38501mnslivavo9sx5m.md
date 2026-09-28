@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-28T23:59:03.977Z"
 "source_name": "X：Boris Cherny (@bcherny)"
 "original_url": "https://x.com/bcherny/status/2071379474277613732"
-"canonical_url": "https://aihot.virxact.com/items/cmqyga38501mnslivavo9sx5m"
+"canonical_url": "https://aihot.news/items/cmqyga38501mnslivavo9sx5m"
 "score": 68
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Boris Cherny以Anthropic的Claude Code团队为例，归纳出五种未来产品
 
 - **来源**: X：Boris Cherny (@bcherny)
 - **原文链接**: [https://x.com/bcherny/status/2071379474277613732](https://x.com/bcherny/status/2071379474277613732)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqyga38501mnslivavo9sx5m](https://aihot.virxact.com/items/cmqyga38501mnslivavo9sx5m)
+- **AIHOT 链接**: [https://aihot.news/items/cmqyga38501mnslivavo9sx5m](https://aihot.news/items/cmqyga38501mnslivavo9sx5m)

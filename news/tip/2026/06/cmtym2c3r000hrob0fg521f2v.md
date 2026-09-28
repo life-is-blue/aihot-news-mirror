@@ -7,7 +7,7 @@
 "source_name": "LlamaIndex：产品、工程与评测"
 "original_url": "https://www.llamaindex.ai/blog/building-a-better-liteparse-skill-with-evals"
 "canonical_url": "https://aihot.news/items/cmtym2c3r000hrob0fg521f2v"
-"score": 68
+"score": 69
 "content_kind": "news"
 ---
 

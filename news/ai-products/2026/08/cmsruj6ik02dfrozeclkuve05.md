@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-13T18:23:04.579Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/builds"
-"canonical_url": "https://aihot.virxact.com/items/cmsruj6ik02dfrozeclkuve05"
+"canonical_url": "https://aihot.news/items/cmsruj6ik02dfrozeclkuve05"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Cursor 推出 builds 功能，在后台持续准备就绪的开发环境副本�
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/builds](https://cursor.com/blog/builds)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsruj6ik02dfrozeclkuve05](https://aihot.virxact.com/items/cmsruj6ik02dfrozeclkuve05)
+- **AIHOT 链接**: [https://aihot.news/items/cmsruj6ik02dfrozeclkuve05](https://aihot.news/items/cmsruj6ik02dfrozeclkuve05)

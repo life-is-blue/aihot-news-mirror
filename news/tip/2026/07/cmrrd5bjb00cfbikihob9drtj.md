@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-globa\
   l-decision-making"
-"canonical_url": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj"
+"canonical_url": "https://aihot.news/items/cmrrd5bjb00cfbikihob9drtj"
 "score": 71
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj](https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj)
+- **AIHOT 链接**: [https://aihot.news/items/cmrrd5bjb00cfbikihob9drtj](https://aihot.news/items/cmrrd5bjb00cfbikihob9drtj)

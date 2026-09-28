@@ -6,7 +6,7 @@
 "discovered_at": "2026-01-28T00:00:00.000Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-imagine-api"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsvjeh005bsltetxdqmx34"
+"canonical_url": "https://aihot.news/items/cmnwsvjeh005bsltetxdqmx34"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI推出Grok Imagine API，提供文本/图像转视频及高精度编辑功能
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-imagine-api](https://x.ai/news/grok-imagine-api)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsvjeh005bsltetxdqmx34](https://aihot.virxact.com/items/cmnwsvjeh005bsltetxdqmx34)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsvjeh005bsltetxdqmx34](https://aihot.news/items/cmnwsvjeh005bsltetxdqmx34)

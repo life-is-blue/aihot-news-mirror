@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-28T16:33:13.939Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://www.tomtunguz.com/jonathan-jaffe-office-hours-post-event"
-"canonical_url": "https://aihot.virxact.com/items/cmppppbp2028islvycnmyohzq"
+"canonical_url": "https://aihot.news/items/cmppppbp2028islvycnmyohzq"
 "score": 61
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Lemonade的CISO Jonathan Jaffe探讨了AI智能体时代的安全新挑战。他
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://www.tomtunguz.com/jonathan-jaffe-office-hours-post-event](https://www.tomtunguz.com/jonathan-jaffe-office-hours-post-event)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmppppbp2028islvycnmyohzq](https://aihot.virxact.com/items/cmppppbp2028islvycnmyohzq)
+- **AIHOT 链接**: [https://aihot.news/items/cmppppbp2028islvycnmyohzq](https://aihot.news/items/cmppppbp2028islvycnmyohzq)

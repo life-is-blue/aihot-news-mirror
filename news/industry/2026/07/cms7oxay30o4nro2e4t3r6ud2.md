@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-30T15:50:35.428Z"
 "source_name": "LMSYS：Blog（Chatbot Arena 团队）"
 "original_url": "https://www.lmsys.org/blog/2026-07-30-sglang-google-tpu"
-"canonical_url": "https://aihot.virxact.com/items/cms7oxay30o4nro2e4t3r6ud2"
+"canonical_url": "https://aihot.news/items/cms7oxay30o4nro2e4t3r6ud2"
 "score": 61
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ RadixArk 与 Google Cloud 合作，将开源推理框架 SGLang 引入 Google TP
 
 - **来源**: LMSYS：Blog（Chatbot Arena 团队）
 - **原文链接**: [https://www.lmsys.org/blog/2026-07-30-sglang-google-tpu](https://www.lmsys.org/blog/2026-07-30-sglang-google-tpu)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms7oxay30o4nro2e4t3r6ud2](https://aihot.virxact.com/items/cms7oxay30o4nro2e4t3r6ud2)
+- **AIHOT 链接**: [https://aihot.news/items/cms7oxay30o4nro2e4t3r6ud2](https://aihot.news/items/cms7oxay30o4nro2e4t3r6ud2)

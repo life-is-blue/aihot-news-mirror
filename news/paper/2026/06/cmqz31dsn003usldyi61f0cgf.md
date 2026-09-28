@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-29T10:36:08.824Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/mapping-ai-jobs-transition-eu"
-"canonical_url": "https://aihot.virxact.com/items/cmqz31dsn003usldyi61f0cgf"
+"canonical_url": "https://aihot.news/items/cmqz31dsn003usldyi61f0cgf"
 "score": 62
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 发布新报告，分析 AI 对欧盟就业的影响，划定哪些职业
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/mapping-ai-jobs-transition-eu](https://openai.com/index/mapping-ai-jobs-transition-eu)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqz31dsn003usldyi61f0cgf](https://aihot.virxact.com/items/cmqz31dsn003usldyi61f0cgf)
+- **AIHOT 链接**: [https://aihot.news/items/cmqz31dsn003usldyi61f0cgf](https://aihot.news/items/cmqz31dsn003usldyi61f0cgf)

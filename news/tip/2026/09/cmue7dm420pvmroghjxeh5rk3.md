@@ -8,7 +8,7 @@
 "original_url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-mode\
   rnization-projects"
 "canonical_url": "https://aihot.news/items/cmue7dm420pvmroghjxeh5rk3"
-"score": 63
+"score": 64
 "content_kind": "news"
 ---
 

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-29T12:27:13.918Z"
 "source_name": "X：AI at Meta (@AIatMeta)"
 "original_url": "https://x.com/AIatMeta/status/2071566924803395741"
-"canonical_url": "https://aihot.virxact.com/items/cmqz708gp006kslj16zzl8far"
+"canonical_url": "https://aihot.news/items/cmqz708gp006kslj16zzl8far"
 "score": 79
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Meta公布Brain2Qwerty v2，这是非侵入式脑电信号解码研究的最新�
 
 - **来源**: X：AI at Meta (@AIatMeta)
 - **原文链接**: [https://x.com/AIatMeta/status/2071566924803395741](https://x.com/AIatMeta/status/2071566924803395741)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqz708gp006kslj16zzl8far](https://aihot.virxact.com/items/cmqz708gp006kslj16zzl8far)
+- **AIHOT 链接**: [https://aihot.news/items/cmqz708gp006kslj16zzl8far](https://aihot.news/items/cmqz708gp006kslj16zzl8far)

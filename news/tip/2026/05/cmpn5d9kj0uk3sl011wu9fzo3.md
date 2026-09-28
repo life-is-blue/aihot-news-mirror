@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-26T21:28:23.760Z"
 "source_name": "X：Google AI (@GoogleAI)"
 "original_url": "https://x.com/GoogleAI/status/2059381218660270435"
-"canonical_url": "https://aihot.virxact.com/items/cmpn5d9kj0uk3sl011wu9fzo3"
+"canonical_url": "https://aihot.news/items/cmpn5d9kj0uk3sl011wu9fzo3"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google 发布了其多模态模型 Gemini Omni 的视频生成功能使用指南
 
 - **来源**: X：Google AI (@GoogleAI)
 - **原文链接**: [https://x.com/GoogleAI/status/2059381218660270435](https://x.com/GoogleAI/status/2059381218660270435)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpn5d9kj0uk3sl011wu9fzo3](https://aihot.virxact.com/items/cmpn5d9kj0uk3sl011wu9fzo3)
+- **AIHOT 链接**: [https://aihot.news/items/cmpn5d9kj0uk3sl011wu9fzo3](https://aihot.news/items/cmpn5d9kj0uk3sl011wu9fzo3)

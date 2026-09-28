@@ -7,7 +7,7 @@
 "source_name": "Fireworks AI（网页）"
 "original_url": "https://fireworks.ai/blog/ember-1"
 "canonical_url": "https://aihot.news/items/cmuemnn9m07yproynbzmmumd3"
-"score": 65
+"score": 66
 "content_kind": "news"
 ---
 

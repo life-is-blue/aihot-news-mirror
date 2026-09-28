@@ -8,7 +8,7 @@
 "original_url": "https://epoch.ai/gradient-updates/what-we-learned-from-1604-ch\
   inese-ai-job-postings"
 "canonical_url": "https://aihot.news/items/cmtym46cq000urobx9ig4e3fu"
-"score": 63
+"score": 64
 "content_kind": "news"
 ---
 

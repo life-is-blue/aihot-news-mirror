@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-21T20:06:26.552Z"
 "source_name": "X：Gemini (@GeminiApp)"
 "original_url": "https://x.com/GeminiApp/status/2057550225863246236"
-"canonical_url": "https://aihot.virxact.com/items/cmpfx8pgl0aftsljw6ddy0mx0"
+"canonical_url": "https://aihot.news/items/cmpfx8pgl0aftsljw6ddy0mx0"
 "score": 67
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Gemini现在可以连接更多应用，包括@OpenTable、@Canva和@Instacart。
 
 - **来源**: X：Gemini (@GeminiApp)
 - **原文链接**: [https://x.com/GeminiApp/status/2057550225863246236](https://x.com/GeminiApp/status/2057550225863246236)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpfx8pgl0aftsljw6ddy0mx0](https://aihot.virxact.com/items/cmpfx8pgl0aftsljw6ddy0mx0)
+- **AIHOT 链接**: [https://aihot.news/items/cmpfx8pgl0aftsljw6ddy0mx0](https://aihot.news/items/cmpfx8pgl0aftsljw6ddy0mx0)

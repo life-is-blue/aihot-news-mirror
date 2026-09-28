@@ -7,7 +7,7 @@
 "source_name": "公众号：可灵AI（快手·视频）"
 "original_url": "https://mp.weixin.qq.com/s?__biz=MzU5NTkwNDU2OA%3D%3D&mid=2247\
   496569&idx=1&sn=6cfa86b8ad2b72604e2a2e7364e0375b"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu2ieh00xlrofzi2fnb1wr"
+"canonical_url": "https://aihot.news/items/cmsdu2ieh00xlrofzi2fnb1wr"
 "score": 71
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: 公众号：可灵AI（快手·视频）
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=MzU5NTkwNDU2OA%3D%3D&mid=2247496569&idx=1&sn=6cfa86b8ad2b72604e2a2e7364e0375b](https://mp.weixin.qq.com/s?__biz=MzU5NTkwNDU2OA%3D%3D&mid=2247496569&idx=1&sn=6cfa86b8ad2b72604e2a2e7364e0375b)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu2ieh00xlrofzi2fnb1wr](https://aihot.virxact.com/items/cmsdu2ieh00xlrofzi2fnb1wr)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu2ieh00xlrofzi2fnb1wr](https://aihot.news/items/cmsdu2ieh00xlrofzi2fnb1wr)

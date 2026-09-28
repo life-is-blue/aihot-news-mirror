@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-28T23:24:59.020Z"
 "source_name": "X：Tibo (@thsottiaux)"
 "original_url": "https://x.com/thsottiaux/status/2082241164850364555"
-"canonical_url": "https://aihot.virxact.com/items/cms5a9tpy00utro7c9bw0s295"
+"canonical_url": "https://aihot.news/items/cms5a9tpy00utro7c9bw0s295"
 "score": 77
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ https://github.com/openai/codex-security
 
 - **来源**: X：Tibo (@thsottiaux)
 - **原文链接**: [https://x.com/thsottiaux/status/2082241164850364555](https://x.com/thsottiaux/status/2082241164850364555)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms5a9tpy00utro7c9bw0s295](https://aihot.virxact.com/items/cms5a9tpy00utro7c9bw0s295)
+- **AIHOT 链接**: [https://aihot.news/items/cms5a9tpy00utro7c9bw0s295](https://aihot.news/items/cms5a9tpy00utro7c9bw0s295)

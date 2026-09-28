@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-15T02:48:57.619Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2605.14386"
-"canonical_url": "https://aihot.virxact.com/items/cmp6bj8c100i4slnz7wn18jd1"
+"canonical_url": "https://aihot.news/items/cmp6bj8c100i4slnz7wn18jd1"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Darwin Family框架通过免训练的梯度无关权重重组，探索重组现�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2605.14386](https://arxiv.org/abs/2605.14386)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp6bj8c100i4slnz7wn18jd1](https://aihot.virxact.com/items/cmp6bj8c100i4slnz7wn18jd1)
+- **AIHOT 链接**: [https://aihot.news/items/cmp6bj8c100i4slnz7wn18jd1](https://aihot.news/items/cmp6bj8c100i4slnz7wn18jd1)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-31T00:52:35.343Z"
 "source_name": "Simon Willison 博客"
 "original_url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server"
-"canonical_url": "https://aihot.virxact.com/items/cms88a67t030srot0ull6ajb8"
+"canonical_url": "https://aihot.news/items/cms88a67t030srot0ull6ajb8"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Simon Willison 发布 llm-chat-completions-server 0.1a0 插件，可在本地 90
 
 - **来源**: Simon Willison 博客
 - **原文链接**: [https://simonwillison.net/2026/Jul/30/llm-chat-completions-server](https://simonwillison.net/2026/Jul/30/llm-chat-completions-server)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms88a67t030srot0ull6ajb8](https://aihot.virxact.com/items/cms88a67t030srot0ull6ajb8)
+- **AIHOT 链接**: [https://aihot.news/items/cms88a67t030srot0ull6ajb8](https://aihot.news/items/cms88a67t030srot0ull6ajb8)

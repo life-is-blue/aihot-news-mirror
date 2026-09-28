@@ -6,7 +6,7 @@
 "discovered_at": "2026-01-15T00:00:00.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/open-responses"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhak009wslxxl02tlygi"
+"canonical_url": "https://aihot.news/items/cmoegbhak009wslxxl02tlygi"
 "score": 80
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 正通过开源与开放科学推进人工智能的民主化进程。其�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/open-responses](https://huggingface.co/blog/open-responses)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhak009wslxxl02tlygi](https://aihot.virxact.com/items/cmoegbhak009wslxxl02tlygi)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhak009wslxxl02tlygi](https://aihot.news/items/cmoegbhak009wslxxl02tlygi)

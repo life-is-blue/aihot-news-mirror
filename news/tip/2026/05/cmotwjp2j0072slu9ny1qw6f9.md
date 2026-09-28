@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-06T10:16:03.347Z"
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/0/946/947.htm"
-"canonical_url": "https://aihot.virxact.com/items/cmotwjp2j0072slu9ny1qw6f9"
+"canonical_url": "https://aihot.news/items/cmotwjp2j0072slu9ny1qw6f9"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Qt集团近日推出一项名为QML分析器的AI智能体开发技能。该技�
 
 - **来源**: IT之家（RSS）
 - **原文链接**: [https://www.ithome.com/0/946/947.htm](https://www.ithome.com/0/946/947.htm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmotwjp2j0072slu9ny1qw6f9](https://aihot.virxact.com/items/cmotwjp2j0072slu9ny1qw6f9)
+- **AIHOT 链接**: [https://aihot.news/items/cmotwjp2j0072slu9ny1qw6f9](https://aihot.news/items/cmotwjp2j0072slu9ny1qw6f9)

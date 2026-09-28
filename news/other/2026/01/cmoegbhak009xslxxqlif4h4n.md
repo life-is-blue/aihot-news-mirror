@@ -7,7 +7,7 @@
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brin\
   gs-advanced-reasoning"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhak009xslxxqlif4h4n"
+"canonical_url": "https://aihot.news/items/cmoegbhak009xslxxqlif4h4n"
 "score": 80
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ NVIDIA在Hugging Face上发布了Cosmos Reason 2模型，旨在提升物理AI系
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning](https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhak009xslxxqlif4h4n](https://aihot.virxact.com/items/cmoegbhak009xslxxqlif4h4n)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhak009xslxxqlif4h4n](https://aihot.news/items/cmoegbhak009xslxxqlif4h4n)

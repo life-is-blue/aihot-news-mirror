@@ -7,7 +7,7 @@
 "source_name": "公众号：数字生命卡兹克"
 "original_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647\
   685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7"
-"canonical_url": "https://aihot.virxact.com/items/cmsr160kg0dk0roz2mb20yxwk"
+"canonical_url": "https://aihot.news/items/cmsr160kg0dk0roz2mb20yxwk"
 "score": 65
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机
 
 - **来源**: 公众号：数字生命卡兹克
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsr160kg0dk0roz2mb20yxwk](https://aihot.virxact.com/items/cmsr160kg0dk0roz2mb20yxwk)
+- **AIHOT 链接**: [https://aihot.news/items/cmsr160kg0dk0roz2mb20yxwk](https://aihot.news/items/cmsr160kg0dk0roz2mb20yxwk)

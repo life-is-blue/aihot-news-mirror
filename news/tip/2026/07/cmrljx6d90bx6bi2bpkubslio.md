@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-15T03:59:41.281Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills"
-"canonical_url": "https://aihot.virxact.com/items/cmrljx6d90bx6bi2bpkubslio"
+"canonical_url": "https://aihot.news/items/cmrljx6d90bx6bi2bpkubslio"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills](https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrljx6d90bx6bi2bpkubslio](https://aihot.virxact.com/items/cmrljx6d90bx6bi2bpkubslio)
+- **AIHOT 链接**: [https://aihot.news/items/cmrljx6d90bx6bi2bpkubslio](https://aihot.news/items/cmrljx6d90bx6bi2bpkubslio)

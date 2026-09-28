@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-29T16:36:13.802Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://www.tomtunguz.com/inference-market-segmentation"
-"canonical_url": "https://aihot.virxact.com/items/cmoka1gyq00ewslegrophhyqy"
+"canonical_url": "https://aihot.news/items/cmoka1gyq00ewslegrophhyqy"
 "score": 57
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ AI推理市场正快速分化，各模态如文本、图像、视频和音频发
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://www.tomtunguz.com/inference-market-segmentation](https://www.tomtunguz.com/inference-market-segmentation)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoka1gyq00ewslegrophhyqy](https://aihot.virxact.com/items/cmoka1gyq00ewslegrophhyqy)
+- **AIHOT 链接**: [https://aihot.news/items/cmoka1gyq00ewslegrophhyqy](https://aihot.news/items/cmoka1gyq00ewslegrophhyqy)

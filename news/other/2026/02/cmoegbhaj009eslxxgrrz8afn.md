@@ -6,7 +6,7 @@
 "discovered_at": "2026-02-18T00:00:00.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/gradio-html-one-shot-apps"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhaj009eslxxgrrz8afn"
+"canonical_url": "https://aihot.news/items/cmoegbhaj009eslxxgrrz8afn"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Gradio 的 gr.HTML 组件允许开发者通过单一 Python 文件快速构建�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/gradio-html-one-shot-apps](https://huggingface.co/blog/gradio-html-one-shot-apps)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhaj009eslxxgrrz8afn](https://aihot.virxact.com/items/cmoegbhaj009eslxxgrrz8afn)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhaj009eslxxgrrz8afn](https://aihot.news/items/cmoegbhaj009eslxxgrrz8afn)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-04T03:42:34.049Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2606.04513"
-"canonical_url": "https://aihot.virxact.com/items/cmpyy97hn04hesli3ew9ty7cu"
+"canonical_url": "https://aihot.news/items/cmpyy97hn04hesli3ew9ty7cu"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ MapAgent是一种工业级智能体架构，用于生成符合规范的车道级
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2606.04513](https://arxiv.org/abs/2606.04513)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpyy97hn04hesli3ew9ty7cu](https://aihot.virxact.com/items/cmpyy97hn04hesli3ew9ty7cu)
+- **AIHOT 链接**: [https://aihot.news/items/cmpyy97hn04hesli3ew9ty7cu](https://aihot.news/items/cmpyy97hn04hesli3ew9ty7cu)

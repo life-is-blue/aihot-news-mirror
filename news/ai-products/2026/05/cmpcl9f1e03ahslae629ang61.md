@@ -7,7 +7,7 @@
 "source_name": "Apple：Newsroom（RSS）"
 "original_url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-acces\
   sibility-features-and-updates-with-apple-intelligence"
-"canonical_url": "https://aihot.virxact.com/items/cmpcl9f1e03ahslae629ang61"
+"canonical_url": "https://aihot.news/items/cmpcl9f1e03ahslae629ang61"
 "score": 57
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Apple：Newsroom（RSS）
 - **原文链接**: [https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence](https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpcl9f1e03ahslae629ang61](https://aihot.virxact.com/items/cmpcl9f1e03ahslae629ang61)
+- **AIHOT 链接**: [https://aihot.news/items/cmpcl9f1e03ahslae629ang61](https://aihot.news/items/cmpcl9f1e03ahslae629ang61)

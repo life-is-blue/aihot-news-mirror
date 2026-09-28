@@ -7,7 +7,7 @@
 "source_name": "X：OpenAI (@OpenAI)"
 "original_url": "https://x.com/OpenAI/status/2097394956457623964"
 "canonical_url": "https://aihot.news/items/cmtt0suj301amro9ok5my0zyl"
-"score": 56
+"score": 57
 "content_kind": "news"
 ---
 

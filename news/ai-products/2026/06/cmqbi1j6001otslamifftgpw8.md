@@ -7,7 +7,7 @@
 "source_name": "GitHub Blog"
 "original_url": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-m\
   ore-selective-about-delegation"
-"canonical_url": "https://aihot.virxact.com/items/cmqbi1j6001otslamifftgpw8"
+"canonical_url": "https://aihot.news/items/cmqbi1j6001otslamifftgpw8"
 "score": 61
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ GitHub Copilot CLI 通过更好的编排实现了更少的任务交接和更快�
 
 - **来源**: GitHub Blog
 - **原文链接**: [https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation](https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqbi1j6001otslamifftgpw8](https://aihot.virxact.com/items/cmqbi1j6001otslamifftgpw8)
+- **AIHOT 链接**: [https://aihot.news/items/cmqbi1j6001otslamifftgpw8](https://aihot.news/items/cmqbi1j6001otslamifftgpw8)

@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/a-26000-student-study-shows-ais-hidden\
   -learning-cost-takes-two-full-years-to-surface"
-"canonical_url": "https://aihot.virxact.com/items/cmr65ieko002tslf0xiomac0c"
+"canonical_url": "https://aihot.news/items/cmr65ieko002tslf0xiomac0c"
 "score": 73
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface](https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr65ieko002tslf0xiomac0c](https://aihot.virxact.com/items/cmr65ieko002tslf0xiomac0c)
+- **AIHOT 链接**: [https://aihot.news/items/cmr65ieko002tslf0xiomac0c](https://aihot.news/items/cmr65ieko002tslf0xiomac0c)

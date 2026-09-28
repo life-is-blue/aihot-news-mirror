@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-31T17:03:47.031Z"
 "source_name": "Runway：News（网页）"
 "original_url": "https://runwayml.com/news/research/introducing-solaris"
-"canonical_url": "https://aihot.virxact.com/items/cmthhmoi10e71rodmx6wngoz1"
+"canonical_url": "https://aihot.news/items/cmthhmoi10e71rodmx6wngoz1"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Runway 发布 Solaris，称其为新模型家族 Interface World Models 的第�
 
 - **来源**: Runway：News（网页）
 - **原文链接**: [https://runwayml.com/news/research/introducing-solaris](https://runwayml.com/news/research/introducing-solaris)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmthhmoi10e71rodmx6wngoz1](https://aihot.virxact.com/items/cmthhmoi10e71rodmx6wngoz1)
+- **AIHOT 链接**: [https://aihot.news/items/cmthhmoi10e71rodmx6wngoz1](https://aihot.news/items/cmthhmoi10e71rodmx6wngoz1)

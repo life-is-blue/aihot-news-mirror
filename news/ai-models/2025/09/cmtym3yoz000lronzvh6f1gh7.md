@@ -7,7 +7,7 @@
 "source_name": "Liquid AI 模型与工程博客（网页）"
 "original_url": "https://www.liquid.ai/blog/lfm2-audio-an-end-to-end-audio-foundation-model"
 "canonical_url": "https://aihot.news/items/cmtym3yoz000lronzvh6f1gh7"
-"score": 63
+"score": 64
 "content_kind": "news"
 ---
 

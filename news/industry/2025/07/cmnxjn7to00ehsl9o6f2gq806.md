@@ -6,7 +6,7 @@
 "discovered_at": "2025-07-15T18:11:24.000Z"
 "source_name": "X：Lilian Weng (@lilianweng)"
 "original_url": "https://x.com/lilianweng/status/1945184437185966149"
-"canonical_url": "https://aihot.virxact.com/items/cmnxjn7to00ehsl9o6f2gq806"
+"canonical_url": "https://aihot.news/items/cmnxjn7to00ehsl9o6f2gq806"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Thinking Machines实验室宣布重启招聘，并确认已完成由a16z领投�
 
 - **来源**: X：Lilian Weng (@lilianweng)
 - **原文链接**: [https://x.com/lilianweng/status/1945184437185966149](https://x.com/lilianweng/status/1945184437185966149)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnxjn7to00ehsl9o6f2gq806](https://aihot.virxact.com/items/cmnxjn7to00ehsl9o6f2gq806)
+- **AIHOT 链接**: [https://aihot.news/items/cmnxjn7to00ehsl9o6f2gq806](https://aihot.news/items/cmnxjn7to00ehsl9o6f2gq806)

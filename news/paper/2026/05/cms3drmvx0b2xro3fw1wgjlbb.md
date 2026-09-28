@@ -7,7 +7,7 @@
 "source_name": "Sierra：Blog（RSS）"
 "original_url": "https://sierra.ai/blog/tau-voice-benchmarking-real-time-voice-\
   agents-on-real-world-tasks"
-"canonical_url": "https://aihot.virxact.com/items/cms3drmvx0b2xro3fw1wgjlbb"
+"canonical_url": "https://aihot.news/items/cms3drmvx0b2xro3fw1wgjlbb"
 "score": 64
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Sierra：Blog（RSS）
 - **原文链接**: [https://sierra.ai/blog/tau-voice-benchmarking-real-time-voice-agents-on-real-world-tasks](https://sierra.ai/blog/tau-voice-benchmarking-real-time-voice-agents-on-real-world-tasks)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3drmvx0b2xro3fw1wgjlbb](https://aihot.virxact.com/items/cms3drmvx0b2xro3fw1wgjlbb)
+- **AIHOT 链接**: [https://aihot.news/items/cms3drmvx0b2xro3fw1wgjlbb](https://aihot.news/items/cms3drmvx0b2xro3fw1wgjlbb)

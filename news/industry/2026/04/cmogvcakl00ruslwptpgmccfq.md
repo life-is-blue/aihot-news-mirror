@@ -7,7 +7,7 @@
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/announcing-our-partnership-with-t\
   he-republic-of-korea"
-"canonical_url": "https://aihot.virxact.com/items/cmogvcakl00ruslwptpgmccfq"
+"canonical_url": "https://aihot.news/items/cmogvcakl00ruslwptpgmccfq"
 "score": 56
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google DeepMind 与韩国政府建立合作伙伴关系，旨在利用前沿AI�
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea](https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmogvcakl00ruslwptpgmccfq](https://aihot.virxact.com/items/cmogvcakl00ruslwptpgmccfq)
+- **AIHOT 链接**: [https://aihot.news/items/cmogvcakl00ruslwptpgmccfq](https://aihot.news/items/cmogvcakl00ruslwptpgmccfq)

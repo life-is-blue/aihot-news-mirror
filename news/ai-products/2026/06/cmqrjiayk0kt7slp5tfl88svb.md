@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-24T03:55:02.067Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2606.24530"
-"canonical_url": "https://aihot.virxact.com/items/cmqrjiayk0kt7slp5tfl88svb"
+"canonical_url": "https://aihot.news/items/cmqrjiayk0kt7slp5tfl88svb"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ NatureBench是一个跨学科基准测试，包含90个从Nature系列同行评�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2606.24530](https://arxiv.org/abs/2606.24530)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqrjiayk0kt7slp5tfl88svb](https://aihot.virxact.com/items/cmqrjiayk0kt7slp5tfl88svb)
+- **AIHOT 链接**: [https://aihot.news/items/cmqrjiayk0kt7slp5tfl88svb](https://aihot.news/items/cmqrjiayk0kt7slp5tfl88svb)

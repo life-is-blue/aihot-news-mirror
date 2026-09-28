@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-07T19:58:09.093Z"
 "source_name": "X：AI at Meta (@AIatMeta)"
 "original_url": "https://x.com/AIatMeta/status/2074577662840832382"
-"canonical_url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz"
+"canonical_url": "https://aihot.news/items/cmrb2mxmc0072ihl1mx0aw1bz"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Meta Superintelligence Labs 发布首个媒体生成模型 Muse Image 和 Muse V
 
 - **来源**: X：AI at Meta (@AIatMeta)
 - **原文链接**: [https://x.com/AIatMeta/status/2074577662840832382](https://x.com/AIatMeta/status/2074577662840832382)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz](https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz)
+- **AIHOT 链接**: [https://aihot.news/items/cmrb2mxmc0072ihl1mx0aw1bz](https://aihot.news/items/cmrb2mxmc0072ihl1mx0aw1bz)

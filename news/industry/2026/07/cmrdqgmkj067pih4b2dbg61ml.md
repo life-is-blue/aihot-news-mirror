@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-09T16:40:37.929Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/ben-bernanke"
-"canonical_url": "https://aihot.virxact.com/items/cmrdqgmkj067pih4b2dbg61ml"
+"canonical_url": "https://aihot.news/items/cmrdqgmkj067pih4b2dbg61ml"
 "score": 56
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic的长期利益信托（LTBT）任命前美联储主席、2022年诺贝
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/ben-bernanke](https://www.anthropic.com/news/ben-bernanke)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrdqgmkj067pih4b2dbg61ml](https://aihot.virxact.com/items/cmrdqgmkj067pih4b2dbg61ml)
+- **AIHOT 链接**: [https://aihot.news/items/cmrdqgmkj067pih4b2dbg61ml](https://aihot.news/items/cmrdqgmkj067pih4b2dbg61ml)

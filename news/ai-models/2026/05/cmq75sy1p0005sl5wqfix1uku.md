@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-11T00:00:00.000Z"
 "source_name": "Thinking Machines Lab：官方博客（RSS）"
 "original_url": "https://thinkingmachines.ai/blog/interaction-models"
-"canonical_url": "https://aihot.virxact.com/items/cmq75sy1p0005sl5wqfix1uku"
+"canonical_url": "https://aihot.news/items/cmq75sy1p0005sl5wqfix1uku"
 "score": 59
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Thinking Machines Lab发布interaction models研究预览。该模型从零训�
 
 - **来源**: Thinking Machines Lab：官方博客（RSS）
 - **原文链接**: [https://thinkingmachines.ai/blog/interaction-models](https://thinkingmachines.ai/blog/interaction-models)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq75sy1p0005sl5wqfix1uku](https://aihot.virxact.com/items/cmq75sy1p0005sl5wqfix1uku)
+- **AIHOT 链接**: [https://aihot.news/items/cmq75sy1p0005sl5wqfix1uku](https://aihot.news/items/cmq75sy1p0005sl5wqfix1uku)

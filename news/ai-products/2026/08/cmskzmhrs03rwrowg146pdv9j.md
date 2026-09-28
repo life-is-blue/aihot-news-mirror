@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-08T23:11:13.416Z"
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/0/987/452.htm"
-"canonical_url": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j"
+"canonical_url": "https://aihot.news/items/cmskzmhrs03rwrowg146pdv9j"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户�
 
 - **来源**: IT之家（RSS）
 - **原文链接**: [https://www.ithome.com/0/987/452.htm](https://www.ithome.com/0/987/452.htm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j](https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j)
+- **AIHOT 链接**: [https://aihot.news/items/cmskzmhrs03rwrowg146pdv9j](https://aihot.news/items/cmskzmhrs03rwrowg146pdv9j)

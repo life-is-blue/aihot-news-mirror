@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-03T09:51:21.088Z"
 "source_name": "Anthropic：Research（发表成果 · 网页）"
 "original_url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack"
-"canonical_url": "https://aihot.virxact.com/items/cmpxvzm7o00jqsliwbt1hnvae"
+"canonical_url": "https://aihot.news/items/cmpxvzm7o00jqsliwbt1hnvae"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 分析 2025 年 3 月至 2026 年 3 月间 832 个被封禁的恶意�
 
 - **来源**: Anthropic：Research（发表成果 · 网页）
 - **原文链接**: [https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack](https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpxvzm7o00jqsliwbt1hnvae](https://aihot.virxact.com/items/cmpxvzm7o00jqsliwbt1hnvae)
+- **AIHOT 链接**: [https://aihot.news/items/cmpxvzm7o00jqsliwbt1hnvae](https://aihot.news/items/cmpxvzm7o00jqsliwbt1hnvae)

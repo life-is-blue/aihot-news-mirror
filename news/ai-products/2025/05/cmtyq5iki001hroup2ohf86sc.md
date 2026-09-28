@@ -7,7 +7,7 @@
 "source_name": "Modal 官方工程博客（RSS）"
 "original_url": "https://modal.com/blog/introducing-b200-h200"
 "canonical_url": "https://aihot.news/items/cmtyq5iki001hroup2ohf86sc"
-"score": 61
+"score": 62
 "content_kind": "news"
 ---
 

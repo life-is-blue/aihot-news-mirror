@@ -7,7 +7,7 @@
 "source_name": "Cognition 模型 / Devin 博客（网页）"
 "original_url": "https://cognition.com/blog/deepwiki-mcp-server"
 "canonical_url": "https://aihot.news/items/cmtyo2ihp03durog0rr9lwnbk"
-"score": 63
+"score": 64
 "content_kind": "news"
 ---
 

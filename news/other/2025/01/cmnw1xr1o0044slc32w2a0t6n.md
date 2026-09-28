@@ -6,7 +6,7 @@
 "discovered_at": "2025-01-06T01:37:29.000Z"
 "source_name": "Sam Altman：Blog（RSS）"
 "original_url": "https://blog.samaltman.com/reflections"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xr1o0044slc32w2a0t6n"
+"canonical_url": "https://aihot.news/items/cmnw1xr1o0044slc32w2a0t6n"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Sam Altman在ChatGPT两周年之际回顾OpenAI九年历程：从坚信AGI可能
 
 - **来源**: Sam Altman：Blog（RSS）
 - **原文链接**: [https://blog.samaltman.com/reflections](https://blog.samaltman.com/reflections)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xr1o0044slc32w2a0t6n](https://aihot.virxact.com/items/cmnw1xr1o0044slc32w2a0t6n)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xr1o0044slc32w2a0t6n](https://aihot.news/items/cmnw1xr1o0044slc32w2a0t6n)

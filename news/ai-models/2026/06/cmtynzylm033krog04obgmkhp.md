@@ -7,7 +7,7 @@
 "source_name": "vLLM 官方博客（RSS）"
 "original_url": "https://vllm.ai/blog/2026-06-10-diffusion-gemma"
 "canonical_url": "https://aihot.news/items/cmtynzylm033krog04obgmkhp"
-"score": 63
+"score": 64
 "content_kind": "news"
 ---
 

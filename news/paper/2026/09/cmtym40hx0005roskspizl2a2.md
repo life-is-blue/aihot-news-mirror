@@ -13,7 +13,7 @@
 
 # Cognition 团队用 Devin 完成 RSA-260 分解，刷新公开 RSA 挑战纪录
 
-Cognition 研究团队驱动多个 Devin 智能体构建 GPU 格子筛，用约 4，900 GPU 天（约 40 万美元）完成 260 位 RSA-260 分解，创下公开 RSA 分解挑战新纪录，超越 2020 年 2 月的 RSA-250。
+Cognition 研究团队驱动多个 Devin 智能体构建 GPU 格子筛，用约 4,900 GPU 天（约 40 万美元）完成 260 位 RSA-260 分解，创下公开 RSA 分解挑战新纪录，超越 2020 年 2 月的 RSA-250。
 
 - **来源**: Cognition 模型 / Devin 博客（网页）
 - **原文链接**: [https://cognition.com/blog/factoring-rsa-260](https://cognition.com/blog/factoring-rsa-260)

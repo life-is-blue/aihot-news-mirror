@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-11T18:47:37.597Z"
 "source_name": "X：OpenAI Developers (@OpenAIDevs)"
 "original_url": "https://x.com/OpenAIDevs/status/2087242829076791392"
-"canonical_url": "https://aihot.virxact.com/items/cmsp0j1ph027prortm21absbh"
+"canonical_url": "https://aihot.news/items/cmsp0j1ph027prortm21absbh"
 "score": 67
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@
 
 - **来源**: X：OpenAI Developers (@OpenAIDevs)
 - **原文链接**: [https://x.com/OpenAIDevs/status/2087242829076791392](https://x.com/OpenAIDevs/status/2087242829076791392)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsp0j1ph027prortm21absbh](https://aihot.virxact.com/items/cmsp0j1ph027prortm21absbh)
+- **AIHOT 链接**: [https://aihot.news/items/cmsp0j1ph027prortm21absbh](https://aihot.news/items/cmsp0j1ph027prortm21absbh)

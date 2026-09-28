@@ -7,7 +7,7 @@
 "source_name": "OpenAI Developers（RSS）"
 "original_url": "https://www.youtube.com/watch?v=2f3K43FHRKo"
 "canonical_url": "https://aihot.news/items/cmug3poks0e6drogvnpg71iza"
-"score": 78
+"score": 79
 "content_kind": "news"
 ---
 

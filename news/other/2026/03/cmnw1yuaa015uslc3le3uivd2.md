@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-17T17:08:20.000Z"
 "source_name": "X：OpenAI (@OpenAI)"
 "original_url": "https://x.com/OpenAI/status/2033953592424731072"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yuaa015uslc3le3uivd2"
+"canonical_url": "https://aihot.news/items/cmnw1yuaa015uslc3le3uivd2"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ GPT-5.4 mini 今日在 ChatGPT、Codex 和 API 中可用。针对编程、计算
 
 - **来源**: X：OpenAI (@OpenAI)
 - **原文链接**: [https://x.com/OpenAI/status/2033953592424731072](https://x.com/OpenAI/status/2033953592424731072)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yuaa015uslc3le3uivd2](https://aihot.virxact.com/items/cmnw1yuaa015uslc3le3uivd2)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yuaa015uslc3le3uivd2](https://aihot.news/items/cmnw1yuaa015uslc3le3uivd2)

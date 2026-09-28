@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-10T16:17:28.000Z"
 "source_name": "X：Noam Brown (@polynoamial)"
 "original_url": "https://x.com/polynoamial/status/2031404079583473953"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yur701ccslc35wdd7g56"
+"canonical_url": "https://aihot.news/items/cmnw1yur701ccslc35wdd7g56"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：Noam Brown (@polynoamial)
 - **原文链接**: [https://x.com/polynoamial/status/2031404079583473953](https://x.com/polynoamial/status/2031404079583473953)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yur701ccslc35wdd7g56](https://aihot.virxact.com/items/cmnw1yur701ccslc35wdd7g56)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yur701ccslc35wdd7g56](https://aihot.news/items/cmnw1yur701ccslc35wdd7g56)

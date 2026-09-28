@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-20T21:18:22.513Z"
 "source_name": "X：OpenClaw (@openclaw)"
 "original_url": "https://x.com/openclaw/status/2057202955581809093"
-"canonical_url": "https://aihot.virxact.com/items/cmpekd9070d8islk1h15tb7oi"
+"canonical_url": "https://aihot.news/items/cmpekd9070d8islk1h15tb7oi"
 "score": 66
 "content_kind": "news"
 ---
@@ -25,4 +25,4 @@ https://github.com/openclaw/openclaw/releases/tag/v2026.5.19
 
 - **来源**: X：OpenClaw (@openclaw)
 - **原文链接**: [https://x.com/openclaw/status/2057202955581809093](https://x.com/openclaw/status/2057202955581809093)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpekd9070d8islk1h15tb7oi](https://aihot.virxact.com/items/cmpekd9070d8islk1h15tb7oi)
+- **AIHOT 链接**: [https://aihot.news/items/cmpekd9070d8islk1h15tb7oi](https://aihot.news/items/cmpekd9070d8islk1h15tb7oi)

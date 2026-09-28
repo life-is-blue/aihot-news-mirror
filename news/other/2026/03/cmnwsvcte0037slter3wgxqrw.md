@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-12T14:10:07.000Z"
 "source_name": "Ethan Mollick：One Useful Thing（RSS）"
 "original_url": "https://www.oneusefulthing.org/p/the-shape-of-the-thing"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsvcte0037slter3wgxqrw"
+"canonical_url": "https://aihot.news/items/cmnwsvcte0037slter3wgxqrw"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Ethan Mollick：One Useful Thing（RSS）
 - **原文链接**: [https://www.oneusefulthing.org/p/the-shape-of-the-thing](https://www.oneusefulthing.org/p/the-shape-of-the-thing)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsvcte0037slter3wgxqrw](https://aihot.virxact.com/items/cmnwsvcte0037slter3wgxqrw)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsvcte0037slter3wgxqrw](https://aihot.news/items/cmnwsvcte0037slter3wgxqrw)

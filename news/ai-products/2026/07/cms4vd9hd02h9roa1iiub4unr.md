@@ -7,7 +7,7 @@
 "source_name": "Google Blog：AI（RSS）"
 "original_url": "https://blog.google/innovation-and-ai/technology/developers-to\
   ols/expanding-managed-agents-gemini-api-3-6-flash-hooks"
-"canonical_url": "https://aihot.virxact.com/items/cms4vd9hd02h9roa1iiub4unr"
+"canonical_url": "https://aihot.news/items/cms4vd9hd02h9roa1iiub4unr"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google DeepMind 将 Gemini API Managed Agents 的默认模型升级为 Gemini 3.
 
 - **来源**: Google Blog：AI（RSS）
 - **原文链接**: [https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks](https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms4vd9hd02h9roa1iiub4unr](https://aihot.virxact.com/items/cms4vd9hd02h9roa1iiub4unr)
+- **AIHOT 链接**: [https://aihot.news/items/cms4vd9hd02h9roa1iiub4unr](https://aihot.news/items/cms4vd9hd02h9roa1iiub4unr)

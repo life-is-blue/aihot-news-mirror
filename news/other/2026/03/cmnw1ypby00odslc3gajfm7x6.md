@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-31T08:37:55.000Z"
 "source_name": "X：Artificial Analysis (@ArtificialAnlys)"
 "original_url": "https://x.com/ArtificialAnlys/status/2038898573937635359"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1ypby00odslc3gajfm7x6"
+"canonical_url": "https://aihot.news/items/cmnw1ypby00odslc3gajfm7x6"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ KwaiKAT发布非推理代码模型KAT-Coder-Pro V2，在Artificial Analysis Inte
 
 - **来源**: X：Artificial Analysis (@ArtificialAnlys)
 - **原文链接**: [https://x.com/ArtificialAnlys/status/2038898573937635359](https://x.com/ArtificialAnlys/status/2038898573937635359)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1ypby00odslc3gajfm7x6](https://aihot.virxact.com/items/cmnw1ypby00odslc3gajfm7x6)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1ypby00odslc3gajfm7x6](https://aihot.news/items/cmnw1ypby00odslc3gajfm7x6)

@@ -8,7 +8,7 @@
 "original_url": "https://metr.org/blog/2025-08-12-research-update-towards-recon\
   ciling-slowdown-with-time-horizons"
 "canonical_url": "https://aihot.news/items/cmtyo7nb703vbrog0wobc9ksx"
-"score": 60
+"score": 61
 "content_kind": "news"
 ---
 

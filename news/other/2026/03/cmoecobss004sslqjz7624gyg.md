@@ -7,7 +7,7 @@
 "source_name": "Apple：Newsroom（RSS）"
 "original_url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-ne\
   w-macbook-air-with-m5"
-"canonical_url": "https://aihot.virxact.com/items/cmoecobss004sslqjz7624gyg"
+"canonical_url": "https://aihot.news/items/cmoecobss004sslqjz7624gyg"
 "score": 71
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Apple 发布了搭载 M5 芯片的全新 MacBook Air，为这款全球最受欢�
 
 - **来源**: Apple：Newsroom（RSS）
 - **原文链接**: [https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoecobss004sslqjz7624gyg](https://aihot.virxact.com/items/cmoecobss004sslqjz7624gyg)
+- **AIHOT 链接**: [https://aihot.news/items/cmoecobss004sslqjz7624gyg](https://aihot.news/items/cmoecobss004sslqjz7624gyg)

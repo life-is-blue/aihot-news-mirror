@@ -7,7 +7,7 @@
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://tomtunguz.com/openai-research-acceleration-agentic-productivity"
 "canonical_url": "https://aihot.news/items/cmtt3hrxg02xarowa0a6iz1dc"
-"score": 66
+"score": 67
 "content_kind": "news"
 ---
 

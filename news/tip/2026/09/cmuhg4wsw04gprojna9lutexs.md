@@ -7,7 +7,7 @@
 "source_name": "X：Yuchen Jin (@Yuchenj_UW)"
 "original_url": "https://x.com/Yuchenj_UW/status/2103589198427193593"
 "canonical_url": "https://aihot.news/items/cmuhg4wsw04gprojna9lutexs"
-"score": 83
+"score": 84
 "content_kind": "news"
 ---
 

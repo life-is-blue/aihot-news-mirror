@@ -7,7 +7,7 @@
 "discovered_at": "2026-04-24T12:00:00.000Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/create-agent-harness-with-agent-sdk"
-"canonical_url": "https://aihot.virxact.com/items/cmq29zxqw00h0slop1rsf54ib"
+"canonical_url": "https://aihot.news/items/cmq29zxqw00h0slop1rsf54ib"
 "score": 55
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenRouter Agent SDK 推出 `create-agent-tui` 和 `create-headless-agent` 两�
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/create-agent-harness-with-agent-sdk](https://openrouter.ai/blog/create-agent-harness-with-agent-sdk)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq29zxqw00h0slop1rsf54ib](https://aihot.virxact.com/items/cmq29zxqw00h0slop1rsf54ib)
+- **AIHOT 链接**: [https://aihot.news/items/cmq29zxqw00h0slop1rsf54ib](https://aihot.news/items/cmq29zxqw00h0slop1rsf54ib)

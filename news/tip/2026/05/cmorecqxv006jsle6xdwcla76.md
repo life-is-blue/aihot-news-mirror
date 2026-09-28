@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-04T16:11:21.494Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://www.tomtunguz.com/ad-supported-ai-works"
-"canonical_url": "https://aihot.virxact.com/items/cmorecqxv006jsle6xdwcla76"
+"canonical_url": "https://aihot.news/items/cmorecqxv006jsle6xdwcla76"
 "score": 63
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://www.tomtunguz.com/ad-supported-ai-works](https://www.tomtunguz.com/ad-supported-ai-works)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmorecqxv006jsle6xdwcla76](https://aihot.virxact.com/items/cmorecqxv006jsle6xdwcla76)
+- **AIHOT 链接**: [https://aihot.news/items/cmorecqxv006jsle6xdwcla76](https://aihot.news/items/cmorecqxv006jsle6xdwcla76)

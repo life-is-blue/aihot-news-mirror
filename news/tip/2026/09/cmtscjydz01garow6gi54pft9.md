@@ -6,8 +6,8 @@
 "discovered_at": "2026-09-08T07:27:15.232Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://cims.nyu.edu/~tristanb/statement.pdf"
-"canonical_url": "https://aihot.virxact.com/items/cmtscjydz01garow6gi54pft9"
-"score": 82
+"canonical_url": "https://aihot.news/items/cmtscjydz01garow6gi54pft9"
+"score": 83
 "content_kind": "news"
 ---
 
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://cims.nyu.edu/~tristanb/statement.pdf](https://cims.nyu.edu/~tristanb/statement.pdf)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtscjydz01garow6gi54pft9](https://aihot.virxact.com/items/cmtscjydz01garow6gi54pft9)
+- **AIHOT 链接**: [https://aihot.news/items/cmtscjydz01garow6gi54pft9](https://aihot.news/items/cmtscjydz01garow6gi54pft9)

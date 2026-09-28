@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-16T21:41:15.000Z"
 "source_name": "X：Sam Altman (@sama)"
 "original_url": "https://x.com/sama/status/2033659889843913000"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yuk10196slc32istzclt"
+"canonical_url": "https://aihot.news/items/cmnw1yuk10196slc32istzclt"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ GPT-5.4 API 上线首周日处理量达 5T tokens，流量超过去年同期整�
 
 - **来源**: X：Sam Altman (@sama)
 - **原文链接**: [https://x.com/sama/status/2033659889843913000](https://x.com/sama/status/2033659889843913000)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yuk10196slc32istzclt](https://aihot.virxact.com/items/cmnw1yuk10196slc32istzclt)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yuk10196slc32istzclt](https://aihot.news/items/cmnw1yuk10196slc32istzclt)

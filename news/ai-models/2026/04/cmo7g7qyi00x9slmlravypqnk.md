@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-20T17:08:04.298Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.kimi.com/blog/kimi-k2-6"
-"canonical_url": "https://aihot.virxact.com/items/cmo7g7qyi00x9slmlravypqnk"
+"canonical_url": "https://aihot.news/items/cmo7g7qyi00x9slmlravypqnk"
 "score": 81
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Kimi发布K2.6版本，专注提升开源编程能力。新版本在代码生成
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.kimi.com/blog/kimi-k2-6](https://www.kimi.com/blog/kimi-k2-6)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmo7g7qyi00x9slmlravypqnk](https://aihot.virxact.com/items/cmo7g7qyi00x9slmlravypqnk)
+- **AIHOT 链接**: [https://aihot.news/items/cmo7g7qyi00x9slmlravypqnk](https://aihot.news/items/cmo7g7qyi00x9slmlravypqnk)

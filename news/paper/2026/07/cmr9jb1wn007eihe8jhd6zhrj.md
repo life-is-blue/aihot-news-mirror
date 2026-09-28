@@ -7,7 +7,7 @@
 "source_name": "Apple Machine Learning Research（RSS）"
 "original_url": "https://machinelearning.apple.com/research/annotator-safety-po\
   licy-interpretability"
-"canonical_url": "https://aihot.virxact.com/items/cmr9jb1wn007eihe8jhd6zhrj"
+"canonical_url": "https://aihot.news/items/cmr9jb1wn007eihe8jhd6zhrj"
 "score": 56
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Apple Machine Learning Research（RSS）
 - **原文链接**: [https://machinelearning.apple.com/research/annotator-safety-policy-interpretability](https://machinelearning.apple.com/research/annotator-safety-policy-interpretability)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr9jb1wn007eihe8jhd6zhrj](https://aihot.virxact.com/items/cmr9jb1wn007eihe8jhd6zhrj)
+- **AIHOT 链接**: [https://aihot.news/items/cmr9jb1wn007eihe8jhd6zhrj](https://aihot.news/items/cmr9jb1wn007eihe8jhd6zhrj)

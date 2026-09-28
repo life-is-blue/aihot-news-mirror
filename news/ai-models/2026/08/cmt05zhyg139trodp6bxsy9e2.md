@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-19T14:05:48.972Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/LiquidAI/qad"
-"canonical_url": "https://aihot.virxact.com/items/cmt05zhyg139trodp6bxsy9e2"
+"canonical_url": "https://aihot.news/items/cmt05zhyg139trodp6bxsy9e2"
 "score": 64
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Liquid AI 发布基于量化感知蒸馏（QAD）训练的 LFM2.5-230M、350M、
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/LiquidAI/qad](https://huggingface.co/blog/LiquidAI/qad)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt05zhyg139trodp6bxsy9e2](https://aihot.virxact.com/items/cmt05zhyg139trodp6bxsy9e2)
+- **AIHOT 链接**: [https://aihot.news/items/cmt05zhyg139trodp6bxsy9e2](https://aihot.news/items/cmt05zhyg139trodp6bxsy9e2)

@@ -6,7 +6,7 @@
 "discovered_at": "2025-08-20T20:03:47.000Z"
 "source_name": "X：Noam Brown (@polynoamial)"
 "original_url": "https://x.com/polynoamial/status/1958258682325770667"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yur801chslc3oe6hpf2m"
+"canonical_url": "https://aihot.news/items/cmnw1yur801chslc3oe6hpf2m"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ GPT-5-pro 已能证明新的数学定理。在凸优化开放问题测试中，�
 
 - **来源**: X：Noam Brown (@polynoamial)
 - **原文链接**: [https://x.com/polynoamial/status/1958258682325770667](https://x.com/polynoamial/status/1958258682325770667)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yur801chslc3oe6hpf2m](https://aihot.virxact.com/items/cmnw1yur801chslc3oe6hpf2m)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yur801chslc3oe6hpf2m](https://aihot.news/items/cmnw1yur801chslc3oe6hpf2m)

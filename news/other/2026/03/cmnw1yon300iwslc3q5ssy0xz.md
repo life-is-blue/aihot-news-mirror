@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-24T21:26:26.000Z"
 "source_name": "X：Boris Cherny (@bcherny)"
 "original_url": "https://x.com/bcherny/status/2036555259997462541"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yon300iwslc3q5ssy0xz"
+"canonical_url": "https://aihot.news/items/cmnw1yon300iwslc3q5ssy0xz"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Code 推出 auto mode，自动代为决定文件写入与 bash 命令的�
 
 - **来源**: X：Boris Cherny (@bcherny)
 - **原文链接**: [https://x.com/bcherny/status/2036555259997462541](https://x.com/bcherny/status/2036555259997462541)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yon300iwslc3q5ssy0xz](https://aihot.virxact.com/items/cmnw1yon300iwslc3q5ssy0xz)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yon300iwslc3q5ssy0xz](https://aihot.news/items/cmnw1yon300iwslc3q5ssy0xz)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-05T18:56:44.175Z"
 "source_name": "X：Google AI for Developers (@googleaidevs)"
 "original_url": "https://x.com/googleaidevs/status/2051734539085455542"
-"canonical_url": "https://aihot.virxact.com/items/cmoszpesi013qslv7xoitn4om"
+"canonical_url": "https://aihot.news/items/cmoszpesi013qslv7xoitn4om"
 "score": 68
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Gemini API 文件搜索工具近日扩展三项功能更新，旨在帮助开发
 
 - **来源**: X：Google AI for Developers (@googleaidevs)
 - **原文链接**: [https://x.com/googleaidevs/status/2051734539085455542](https://x.com/googleaidevs/status/2051734539085455542)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoszpesi013qslv7xoitn4om](https://aihot.virxact.com/items/cmoszpesi013qslv7xoitn4om)
+- **AIHOT 链接**: [https://aihot.news/items/cmoszpesi013qslv7xoitn4om](https://aihot.news/items/cmoszpesi013qslv7xoitn4om)

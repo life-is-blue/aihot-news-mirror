@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-21T17:56:25.415Z"
 "source_name": "LMSYS：Blog（Chatbot Arena 团队）"
 "original_url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell"
-"canonical_url": "https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl"
+"canonical_url": "https://aihot.news/items/cmt393qov0kfhro6tuwhxhubl"
 "score": 63
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: LMSYS：Blog（Chatbot Arena 团队）
 - **原文链接**: [https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell](https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl](https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl)
+- **AIHOT 链接**: [https://aihot.news/items/cmt393qov0kfhro6tuwhxhubl](https://aihot.news/items/cmt393qov0kfhro6tuwhxhubl)

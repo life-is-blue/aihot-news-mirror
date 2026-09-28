@@ -7,7 +7,7 @@
 "source_name": "Factory 研究 / 产品（RSS）"
 "original_url": "https://factory.ai/news/factory-desktop"
 "canonical_url": "https://aihot.news/items/cmtym4203000urows1xf60x8b"
-"score": 63
+"score": 64
 "content_kind": "news"
 ---
 

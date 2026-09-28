@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-08T16:00:00.000Z"
 "source_name": "Runway：News（网页）"
 "original_url": "https://runwayml.com/news/introducing-runway-characters"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1z01001xfslc37lyosljj"
+"canonical_url": "https://aihot.news/items/cmnw1z01001xfslc37lyosljj"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Runway 推出 Characters API，基于 GWM-1 世界模型，支持用单张图片
 
 - **来源**: Runway：News（网页）
 - **原文链接**: [https://runwayml.com/news/introducing-runway-characters](https://runwayml.com/news/introducing-runway-characters)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1z01001xfslc37lyosljj](https://aihot.virxact.com/items/cmnw1z01001xfslc37lyosljj)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1z01001xfslc37lyosljj](https://aihot.news/items/cmnw1z01001xfslc37lyosljj)

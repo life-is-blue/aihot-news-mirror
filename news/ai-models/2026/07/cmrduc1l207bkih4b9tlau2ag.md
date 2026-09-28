@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-09T18:29:02.669Z"
 "source_name": "X：Tibo (@thsottiaux)"
 "original_url": "https://x.com/thsottiaux/status/2075283734136525255"
-"canonical_url": "https://aihot.virxact.com/items/cmrduc1l207bkih4b9tlau2ag"
+"canonical_url": "https://aihot.news/items/cmrduc1l207bkih4b9tlau2ag"
 "score": 65
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ GPT 5.6 Sol 是我们迄今为止在几乎所有方面最好的模型。
 
 - **来源**: X：Tibo (@thsottiaux)
 - **原文链接**: [https://x.com/thsottiaux/status/2075283734136525255](https://x.com/thsottiaux/status/2075283734136525255)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrduc1l207bkih4b9tlau2ag](https://aihot.virxact.com/items/cmrduc1l207bkih4b9tlau2ag)
+- **AIHOT 链接**: [https://aihot.news/items/cmrduc1l207bkih4b9tlau2ag](https://aihot.news/items/cmrduc1l207bkih4b9tlau2ag)

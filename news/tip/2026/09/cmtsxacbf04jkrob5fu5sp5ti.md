@@ -7,7 +7,7 @@
 "source_name": "X：Claude Devs (@ClaudeDevs)"
 "original_url": "https://x.com/ClaudeDevs/status/2097369738968195513"
 "canonical_url": "https://aihot.news/items/cmtsxacbf04jkrob5fu5sp5ti"
-"score": 67
+"score": 68
 "content_kind": "news"
 ---
 

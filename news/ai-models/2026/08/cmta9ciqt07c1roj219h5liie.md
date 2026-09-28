@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-26T15:37:37.754Z"
 "source_name": "X：通义千问 / Qwen (@Alibaba_Qwen)"
 "original_url": "https://x.com/Alibaba_Qwen/status/2092636376990990503"
-"canonical_url": "https://aihot.virxact.com/items/cmta9ciqt07c1roj219h5liie"
+"canonical_url": "https://aihot.news/items/cmta9ciqt07c1roj219h5liie"
 "score": 84
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：通义千问 / Qwen (@Alibaba_Qwen)
 - **原文链接**: [https://x.com/Alibaba_Qwen/status/2092636376990990503](https://x.com/Alibaba_Qwen/status/2092636376990990503)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmta9ciqt07c1roj219h5liie](https://aihot.virxact.com/items/cmta9ciqt07c1roj219h5liie)
+- **AIHOT 链接**: [https://aihot.news/items/cmta9ciqt07c1roj219h5liie](https://aihot.news/items/cmta9ciqt07c1roj219h5liie)

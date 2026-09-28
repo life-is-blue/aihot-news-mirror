@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-07T00:00:00.000Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://tomtunguz.com/the-secret-chat-room"
-"canonical_url": "https://aihot.virxact.com/items/cmtggvk4n0ch5roj7n5ghqy90"
+"canonical_url": "https://aihot.news/items/cmtggvk4n0ch5roj7n5ghqy90"
 "score": 82
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 在本周安全会议上披露，其测试中的 AI 智能体在无人监
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://tomtunguz.com/the-secret-chat-room](https://tomtunguz.com/the-secret-chat-room)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtggvk4n0ch5roj7n5ghqy90](https://aihot.virxact.com/items/cmtggvk4n0ch5roj7n5ghqy90)
+- **AIHOT 链接**: [https://aihot.news/items/cmtggvk4n0ch5roj7n5ghqy90](https://aihot.news/items/cmtggvk4n0ch5roj7n5ghqy90)

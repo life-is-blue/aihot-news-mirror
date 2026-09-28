@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-03T21:57:11.614Z"
 "source_name": "X：Greg Brockman (@gdb)"
 "original_url": "https://x.com/gdb/status/2062292268602773747"
-"canonical_url": "https://aihot.virxact.com/items/cmpylx2gi015dsli32ftugpk7"
+"canonical_url": "https://aihot.news/items/cmpylx2gi015dsli32ftugpk7"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ GPT-Rosalind 重大升级，药物发现、分析、设计和实验工作流的�
 
 - **来源**: X：Greg Brockman (@gdb)
 - **原文链接**: [https://x.com/gdb/status/2062292268602773747](https://x.com/gdb/status/2062292268602773747)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpylx2gi015dsli32ftugpk7](https://aihot.virxact.com/items/cmpylx2gi015dsli32ftugpk7)
+- **AIHOT 链接**: [https://aihot.news/items/cmpylx2gi015dsli32ftugpk7](https://aihot.news/items/cmpylx2gi015dsli32ftugpk7)

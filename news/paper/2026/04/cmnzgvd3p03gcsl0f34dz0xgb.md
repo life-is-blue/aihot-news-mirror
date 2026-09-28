@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-13T00:00:00.000Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2604.11784"
-"canonical_url": "https://aihot.virxact.com/items/cmnzgvd3p03gcsl0f34dz0xgb"
+"canonical_url": "https://aihot.news/items/cmnzgvd3p03gcsl0f34dz0xgb"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ ClawGUI是面向GUI Agent的开源全栈框架，统一解决训练、评估与�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2604.11784](https://arxiv.org/abs/2604.11784)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnzgvd3p03gcsl0f34dz0xgb](https://aihot.virxact.com/items/cmnzgvd3p03gcsl0f34dz0xgb)
+- **AIHOT 链接**: [https://aihot.news/items/cmnzgvd3p03gcsl0f34dz0xgb](https://aihot.news/items/cmnzgvd3p03gcsl0f34dz0xgb)

@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-start\
   ing-to-see-heavy-job-losses-in-roles-exposed-to-ai"
-"canonical_url": "https://aihot.virxact.com/items/cmp8rvo9o0l0lslnz1fqjrx38"
+"canonical_url": "https://aihot.news/items/cmp8rvo9o0l0lslnz1fqjrx38"
 "score": 75
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai](https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp8rvo9o0l0lslnz1fqjrx38](https://aihot.virxact.com/items/cmp8rvo9o0l0lslnz1fqjrx38)
+- **AIHOT 链接**: [https://aihot.news/items/cmp8rvo9o0l0lslnz1fqjrx38](https://aihot.news/items/cmp8rvo9o0l0lslnz1fqjrx38)

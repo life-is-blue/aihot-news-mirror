@@ -7,7 +7,7 @@
 "source_name": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
 "original_url": "https://x.com/ClementDelangue/status/2102141768674222323"
 "canonical_url": "https://aihot.news/items/cmubqsb9b03v9rocigei56crg"
-"score": 69
+"score": 70
 "content_kind": "news"
 ---
 

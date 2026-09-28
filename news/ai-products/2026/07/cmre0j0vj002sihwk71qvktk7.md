@@ -7,7 +7,7 @@
 "source_name": "Google Developers Blog（RSS）"
 "original_url": "https://developers.googleblog.com/litertjs-googles-high-perfor\
   mance-web-ai-inference"
-"canonical_url": "https://aihot.virxact.com/items/cmre0j0vj002sihwk71qvktk7"
+"canonical_url": "https://aihot.news/items/cmre0j0vj002sihwk71qvktk7"
 "score": 62
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google 发布 LiteRT.js，这是 LiteRT 跨平台边缘 AI 运行时的最新成
 
 - **来源**: Google Developers Blog（RSS）
 - **原文链接**: [https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference](https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmre0j0vj002sihwk71qvktk7](https://aihot.virxact.com/items/cmre0j0vj002sihwk71qvktk7)
+- **AIHOT 链接**: [https://aihot.news/items/cmre0j0vj002sihwk71qvktk7](https://aihot.news/items/cmre0j0vj002sihwk71qvktk7)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-01T19:16:16.488Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/stargate-michigan-data-center"
-"canonical_url": "https://aihot.virxact.com/items/cmpvlaey600deslfpl35rf3t5"
+"canonical_url": "https://aihot.news/items/cmpvlaey600deslfpl35rf3t5"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI在密歇根州启动了名为Stargate的1GW数据中心项目。作为AI�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/stargate-michigan-data-center](https://openai.com/index/stargate-michigan-data-center)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpvlaey600deslfpl35rf3t5](https://aihot.virxact.com/items/cmpvlaey600deslfpl35rf3t5)
+- **AIHOT 链接**: [https://aihot.news/items/cmpvlaey600deslfpl35rf3t5](https://aihot.news/items/cmpvlaey600deslfpl35rf3t5)

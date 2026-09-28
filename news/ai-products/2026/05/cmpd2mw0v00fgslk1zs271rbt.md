@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-19T20:14:12.360Z"
 "source_name": "X：OpenAI (@OpenAI)"
 "original_url": "https://x.com/OpenAI/status/2056823271774101907"
-"canonical_url": "https://aihot.virxact.com/items/cmpd2mw0v00fgslk1zs271rbt"
+"canonical_url": "https://aihot.news/items/cmpd2mw0v00fgslk1zs271rbt"
 "score": 67
 "content_kind": "news"
 ---
@@ -23,4 +23,4 @@ http://openai.com/guaranteed-capacity
 
 - **来源**: X：OpenAI (@OpenAI)
 - **原文链接**: [https://x.com/OpenAI/status/2056823271774101907](https://x.com/OpenAI/status/2056823271774101907)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpd2mw0v00fgslk1zs271rbt](https://aihot.virxact.com/items/cmpd2mw0v00fgslk1zs271rbt)
+- **AIHOT 链接**: [https://aihot.news/items/cmpd2mw0v00fgslk1zs271rbt](https://aihot.news/items/cmpd2mw0v00fgslk1zs271rbt)

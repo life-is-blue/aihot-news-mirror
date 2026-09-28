@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-07T04:19:20.827Z"
 "source_name": "蚂蚁 inclusionAI：GitHub 新仓库"
 "original_url": "https://github.com/inclusionAI/Avernet"
-"canonical_url": "https://aihot.virxact.com/items/cmra53mfd012bihx8mexd46u8"
+"canonical_url": "https://aihot.news/items/cmra53mfd012bihx8mexd46u8"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: 蚂蚁 inclusionAI：GitHub 新仓库
 - **原文链接**: [https://github.com/inclusionAI/Avernet](https://github.com/inclusionAI/Avernet)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmra53mfd012bihx8mexd46u8](https://aihot.virxact.com/items/cmra53mfd012bihx8mexd46u8)
+- **AIHOT 链接**: [https://aihot.news/items/cmra53mfd012bihx8mexd46u8](https://aihot.news/items/cmra53mfd012bihx8mexd46u8)

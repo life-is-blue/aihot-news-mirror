@@ -7,7 +7,7 @@
 "source_name": "Anthropic：The Institute（旗舰研究长文 · 网页）"
 "original_url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development"
 "canonical_url": "https://aihot.news/items/cmu605ozy000arok0lxr4x1y8"
-"score": 72
+"score": 73
 "content_kind": "news"
 ---
 

@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-04T03:54:49.548Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2608.02023"
-"canonical_url": "https://aihot.virxact.com/items/cmse4jxrl0d1gro2ewjdbr7n3"
+"canonical_url": "https://aihot.news/items/cmse4jxrl0d1gro2ewjdbr7n3"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ SwanTale 提出统一的多说话人语音与音频生成模型，同时支持�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2608.02023](https://arxiv.org/abs/2608.02023)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmse4jxrl0d1gro2ewjdbr7n3](https://aihot.virxact.com/items/cmse4jxrl0d1gro2ewjdbr7n3)
+- **AIHOT 链接**: [https://aihot.news/items/cmse4jxrl0d1gro2ewjdbr7n3](https://aihot.news/items/cmse4jxrl0d1gro2ewjdbr7n3)

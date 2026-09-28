@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/openai-releases-open-source-model-that\
   -strips-personal-data-from-text"
-"canonical_url": "https://aihot.virxact.com/items/cmobkh53b08j2sl1y7wce0zhb"
+"canonical_url": "https://aihot.news/items/cmobkh53b08j2sl1y7wce0zhb"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenAI 推出开源模型 Privacy Filter，专门用于检测和编辑文本中�
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/openai-releases-open-source-model-that-strips-personal-data-from-text](https://the-decoder.com/openai-releases-open-source-model-that-strips-personal-data-from-text)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmobkh53b08j2sl1y7wce0zhb](https://aihot.virxact.com/items/cmobkh53b08j2sl1y7wce0zhb)
+- **AIHOT 链接**: [https://aihot.news/items/cmobkh53b08j2sl1y7wce0zhb](https://aihot.news/items/cmobkh53b08j2sl1y7wce0zhb)

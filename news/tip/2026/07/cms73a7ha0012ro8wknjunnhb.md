@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-30T05:44:51.943Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://www.tomtunguz.com/microsoft-resells-the-frontier"
-"canonical_url": "https://aihot.virxact.com/items/cms73a7ha0012ro8wknjunnhb"
+"canonical_url": "https://aihot.news/items/cms73a7ha0012ro8wknjunnhb"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Azure 上财年营收首破 1000 亿美元，同比增长 43%，但 Google Cloud
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://www.tomtunguz.com/microsoft-resells-the-frontier](https://www.tomtunguz.com/microsoft-resells-the-frontier)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms73a7ha0012ro8wknjunnhb](https://aihot.virxact.com/items/cms73a7ha0012ro8wknjunnhb)
+- **AIHOT 链接**: [https://aihot.news/items/cms73a7ha0012ro8wknjunnhb](https://aihot.news/items/cms73a7ha0012ro8wknjunnhb)

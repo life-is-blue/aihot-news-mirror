@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-08T02:18:33.680Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2607.06291"
-"canonical_url": "https://aihot.virxact.com/items/cmrbg84yf03mbihl1gfbbgeuz"
+"canonical_url": "https://aihot.news/items/cmrbg84yf03mbihl1gfbbgeuz"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ AlayaWorld 是一个全栈开源框架，用于构建交互式生成世界。该
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2607.06291](https://arxiv.org/abs/2607.06291)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrbg84yf03mbihl1gfbbgeuz](https://aihot.virxact.com/items/cmrbg84yf03mbihl1gfbbgeuz)
+- **AIHOT 链接**: [https://aihot.news/items/cmrbg84yf03mbihl1gfbbgeuz](https://aihot.news/items/cmrbg84yf03mbihl1gfbbgeuz)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-19T20:29:51.178Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://deepmind.google/models/gemini-omni"
-"canonical_url": "https://aihot.virxact.com/items/cmpd36zyr00i1slk17odo5fw0"
+"canonical_url": "https://aihot.news/items/cmpd36zyr00i1slk17odo5fw0"
 "score": 80
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google DeepMind 于 2026 年 5 月 19 日发布了新一代多模态大模型 Ge
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://deepmind.google/models/gemini-omni](https://deepmind.google/models/gemini-omni)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpd36zyr00i1slk17odo5fw0](https://aihot.virxact.com/items/cmpd36zyr00i1slk17odo5fw0)
+- **AIHOT 链接**: [https://aihot.news/items/cmpd36zyr00i1slk17odo5fw0](https://aihot.news/items/cmpd36zyr00i1slk17odo5fw0)

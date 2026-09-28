@@ -7,7 +7,7 @@
 "source_name": "Google AI：DEV 作者专属（RSS）"
 "original_url": "https://dev.to/googleai/the-no-longer-missing-multi-agent-patt\
   ern-triggering-dynamic-workflows-from-an-agent-ef3"
-"canonical_url": "https://aihot.virxact.com/items/cms3dqexj0avjro3ffpjyder4"
+"canonical_url": "https://aihot.news/items/cms3dqexj0avjro3ffpjyder4"
 "score": 66
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google 发布 ADK 2.4.0，允许将 Workflow 直接注册为 Agent 的工具列�
 
 - **来源**: Google AI：DEV 作者专属（RSS）
 - **原文链接**: [https://dev.to/googleai/the-no-longer-missing-multi-agent-pattern-triggering-dynamic-workflows-from-an-agent-ef3](https://dev.to/googleai/the-no-longer-missing-multi-agent-pattern-triggering-dynamic-workflows-from-an-agent-ef3)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3dqexj0avjro3ffpjyder4](https://aihot.virxact.com/items/cms3dqexj0avjro3ffpjyder4)
+- **AIHOT 链接**: [https://aihot.news/items/cms3dqexj0avjro3ffpjyder4](https://aihot.news/items/cms3dqexj0avjro3ffpjyder4)

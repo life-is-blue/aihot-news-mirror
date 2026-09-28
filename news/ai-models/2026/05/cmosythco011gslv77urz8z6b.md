@@ -6,19 +6,19 @@
 "discovered_at": "2026-05-05T18:31:51.613Z"
 "source_name": "X：Testing Catalog (@testingcatalog)"
 "original_url": "https://x.com/testingcatalog/status/2051724235555434503"
-"canonical_url": "https://aihot.virxact.com/items/cmosythco011gslv77urz8z6b"
+"canonical_url": "https://aihot.news/items/cmosythco011gslv77urz8z6b"
 "score": 77
 "content_kind": "news"
 ---
 
 # GPT-5.5即时版全面推送 更简洁智能
 
-OPENAI 🚨： GPT-5.5 Instant 正在向所有 ChatGPT 用户推出！"gpt-5.5-chat-latest" 也将进入 API。
+OPENAI 🚨: GPT-5.5 Instant 正在向所有 ChatGPT 用户推出！"gpt-5.5-chat-latest" 也将进入 API。
 
-&gt； 更加简洁。更好的记忆。更个性化。
+&gt; 更加简洁。更好的记忆。更个性化。
 
 即时测试时间 👀
 
 - **来源**: X：Testing Catalog (@testingcatalog)
 - **原文链接**: [https://x.com/testingcatalog/status/2051724235555434503](https://x.com/testingcatalog/status/2051724235555434503)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmosythco011gslv77urz8z6b](https://aihot.virxact.com/items/cmosythco011gslv77urz8z6b)
+- **AIHOT 链接**: [https://aihot.news/items/cmosythco011gslv77urz8z6b](https://aihot.news/items/cmosythco011gslv77urz8z6b)

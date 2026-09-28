@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/claude-mythos-is-a-wake-up-call-for-eu\
   ropes-ai-safety-apparatus"
-"canonical_url": "https://aihot.virxact.com/items/cmnyosrje006usl0fj8tmtd96"
+"canonical_url": "https://aihot.news/items/cmnyosrje006usl0fj8tmtd96"
 "score": 75
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Anthropic 正限制访问其最新安全模型 Claude Mythos，该系统在发�
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/claude-mythos-is-a-wake-up-call-for-europes-ai-safety-apparatus](https://the-decoder.com/claude-mythos-is-a-wake-up-call-for-europes-ai-safety-apparatus)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnyosrje006usl0fj8tmtd96](https://aihot.virxact.com/items/cmnyosrje006usl0fj8tmtd96)
+- **AIHOT 链接**: [https://aihot.news/items/cmnyosrje006usl0fj8tmtd96](https://aihot.news/items/cmnyosrje006usl0fj8tmtd96)

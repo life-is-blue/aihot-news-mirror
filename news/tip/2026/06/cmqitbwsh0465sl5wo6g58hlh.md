@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-18T01:20:05.083Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/tutorials/claude-code-openrouter"
-"canonical_url": "https://aihot.virxact.com/items/cmqitbwsh0465sl5wo6g58hlh"
+"canonical_url": "https://aihot.news/items/cmqitbwsh0465sl5wo6g58hlh"
 "score": 64
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/tutorials/claude-code-openrouter](https://openrouter.ai/blog/tutorials/claude-code-openrouter)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqitbwsh0465sl5wo6g58hlh](https://aihot.virxact.com/items/cmqitbwsh0465sl5wo6g58hlh)
+- **AIHOT 链接**: [https://aihot.news/items/cmqitbwsh0465sl5wo6g58hlh](https://aihot.news/items/cmqitbwsh0465sl5wo6g58hlh)

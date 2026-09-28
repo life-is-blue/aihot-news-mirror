@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-14T09:32:33.354Z"
 "source_name": "X：Demis Hassabis (@demishassabis)"
 "original_url": "https://x.com/demishassabis/status/2076957440109625718"
-"canonical_url": "https://aihot.virxact.com/items/cmrkgddme01mnbizsugjsv32k"
+"canonical_url": "https://aihot.news/items/cmrkgddme01mnbizsugjsv32k"
 "score": 68
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google DeepMind 联合创始人 Demis Hassabis 发文称，AGI 可能仅需数�
 
 - **来源**: X：Demis Hassabis (@demishassabis)
 - **原文链接**: [https://x.com/demishassabis/status/2076957440109625718](https://x.com/demishassabis/status/2076957440109625718)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrkgddme01mnbizsugjsv32k](https://aihot.virxact.com/items/cmrkgddme01mnbizsugjsv32k)
+- **AIHOT 链接**: [https://aihot.news/items/cmrkgddme01mnbizsugjsv32k](https://aihot.news/items/cmrkgddme01mnbizsugjsv32k)

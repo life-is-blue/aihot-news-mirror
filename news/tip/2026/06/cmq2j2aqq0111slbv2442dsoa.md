@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-06T15:48:22.156Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/build-small-hackathon/job-search-blog"
-"canonical_url": "https://aihot.virxact.com/items/cmq2j2aqq0111slbv2442dsoa"
+"canonical_url": "https://aihot.news/items/cmq2j2aqq0111slbv2442dsoa"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Hugging Face 发布 Job Searcher，一个基于 AI 的求职搜索工具。用�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/build-small-hackathon/job-search-blog](https://huggingface.co/blog/build-small-hackathon/job-search-blog)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq2j2aqq0111slbv2442dsoa](https://aihot.virxact.com/items/cmq2j2aqq0111slbv2442dsoa)
+- **AIHOT 链接**: [https://aihot.news/items/cmq2j2aqq0111slbv2442dsoa](https://aihot.news/items/cmq2j2aqq0111slbv2442dsoa)

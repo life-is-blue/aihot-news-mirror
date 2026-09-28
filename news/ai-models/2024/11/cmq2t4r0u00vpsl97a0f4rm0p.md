@@ -6,7 +6,7 @@
 "discovered_at": "2024-11-20T11:59:17.000Z"
 "source_name": "公众号：DeepSeek（深度求索）"
 "original_url": "https://mp.weixin.qq.com/s/e1YnTxZlzFvjcmrLLTA8fw"
-"canonical_url": "https://aihot.virxact.com/items/cmq2t4r0u00vpsl97a0f4rm0p"
+"canonical_url": "https://aihot.news/items/cmq2t4r0u00vpsl97a0f4rm0p"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ DeepSeek 上线推理模型预览版，其推理性能与 OpenAI 的 o1-preview 
 
 - **来源**: 公众号：DeepSeek（深度求索）
 - **原文链接**: [https://mp.weixin.qq.com/s/e1YnTxZlzFvjcmrLLTA8fw](https://mp.weixin.qq.com/s/e1YnTxZlzFvjcmrLLTA8fw)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq2t4r0u00vpsl97a0f4rm0p](https://aihot.virxact.com/items/cmq2t4r0u00vpsl97a0f4rm0p)
+- **AIHOT 链接**: [https://aihot.news/items/cmq2t4r0u00vpsl97a0f4rm0p](https://aihot.news/items/cmq2t4r0u00vpsl97a0f4rm0p)

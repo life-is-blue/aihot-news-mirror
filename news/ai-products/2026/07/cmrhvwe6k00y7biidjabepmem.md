@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-12T14:23:55.656Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://github.com/cosmtrek/mindwalk"
-"canonical_url": "https://aihot.virxact.com/items/cmrhvwe6k00y7biidjabepmem"
+"canonical_url": "https://aihot.news/items/cmrhvwe6k00y7biidjabepmem"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Mindwalk 是一款可视化工具，可将 Claude Code 和 Codex 的会话日志
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://github.com/cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrhvwe6k00y7biidjabepmem](https://aihot.virxact.com/items/cmrhvwe6k00y7biidjabepmem)
+- **AIHOT 链接**: [https://aihot.news/items/cmrhvwe6k00y7biidjabepmem](https://aihot.news/items/cmrhvwe6k00y7biidjabepmem)

@@ -8,7 +8,7 @@
 "original_url": "https://www.marktechpost.com/2026/08/04/building-an-advanced-a\
   i-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-ru\
   les-sarif-and-ci-policy-gates"
-"canonical_url": "https://aihot.virxact.com/items/cmseekz5g0oncro2ehfyz40ps"
+"canonical_url": "https://aihot.news/items/cmseekz5g0oncro2ehfyz40ps"
 "score": 74
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates](https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmseekz5g0oncro2ehfyz40ps](https://aihot.virxact.com/items/cmseekz5g0oncro2ehfyz40ps)
+- **AIHOT 链接**: [https://aihot.news/items/cmseekz5g0oncro2ehfyz40ps](https://aihot.news/items/cmseekz5g0oncro2ehfyz40ps)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-07T14:59:21.872Z"
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/alphaevolve-impact"
-"canonical_url": "https://aihot.virxact.com/items/cmovm3y0r00s2sldde7ygdtah"
+"canonical_url": "https://aihot.news/items/cmovm3y0r00s2sldde7ygdtah"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ AlphaEvolve推出了基于Gemini大模型的编程智能体，其算法正驱动
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/alphaevolve-impact](https://deepmind.google/blog/alphaevolve-impact)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmovm3y0r00s2sldde7ygdtah](https://aihot.virxact.com/items/cmovm3y0r00s2sldde7ygdtah)
+- **AIHOT 链接**: [https://aihot.news/items/cmovm3y0r00s2sldde7ygdtah](https://aihot.news/items/cmovm3y0r00s2sldde7ygdtah)

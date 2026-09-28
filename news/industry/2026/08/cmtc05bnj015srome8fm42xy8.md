@@ -7,7 +7,7 @@
 "source_name": "Ars Technica：AI（RSS）"
 "original_url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-use\
   d-child-porn-to-train-grok-models-lawsuit-says"
-"canonical_url": "https://aihot.virxact.com/items/cmtc05bnj015srome8fm42xy8"
+"canonical_url": "https://aihot.news/items/cmtc05bnj015srome8fm42xy8"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Ars Technica：AI（RSS）
 - **原文链接**: [https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says](https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtc05bnj015srome8fm42xy8](https://aihot.virxact.com/items/cmtc05bnj015srome8fm42xy8)
+- **AIHOT 链接**: [https://aihot.news/items/cmtc05bnj015srome8fm42xy8](https://aihot.news/items/cmtc05bnj015srome8fm42xy8)

@@ -6,7 +6,7 @@
 "discovered_at": "2025-05-20T09:45:00.000Z"
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/our-vision-for-building-a-universal-ai-assistant"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsdqam0059slag40h41ri9"
+"canonical_url": "https://aihot.news/items/cmnwsdqam0059slag40h41ri9"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google 计划将 Gemini 扩展为世界模型，使其能够通过模拟世界�
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/our-vision-for-building-a-universal-ai-assistant](https://deepmind.google/blog/our-vision-for-building-a-universal-ai-assistant)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsdqam0059slag40h41ri9](https://aihot.virxact.com/items/cmnwsdqam0059slag40h41ri9)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsdqam0059slag40h41ri9](https://aihot.news/items/cmnwsdqam0059slag40h41ri9)

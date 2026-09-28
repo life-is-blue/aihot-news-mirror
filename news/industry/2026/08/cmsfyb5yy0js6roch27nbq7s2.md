@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai\
   -shopping-agent-back-on-amazon"
-"canonical_url": "https://aihot.virxact.com/items/cmsfyb5yy0js6roch27nbq7s2"
+"canonical_url": "https://aihot.news/items/cmsfyb5yy0js6roch27nbq7s2"
 "score": 75
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon](https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsfyb5yy0js6roch27nbq7s2](https://aihot.virxact.com/items/cmsfyb5yy0js6roch27nbq7s2)
+- **AIHOT 链接**: [https://aihot.news/items/cmsfyb5yy0js6roch27nbq7s2](https://aihot.news/items/cmsfyb5yy0js6roch27nbq7s2)

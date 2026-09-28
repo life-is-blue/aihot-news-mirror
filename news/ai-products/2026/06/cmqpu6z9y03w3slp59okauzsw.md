@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-22T23:18:22.492Z"
 "source_name": "Runway：News（网页）"
 "original_url": "https://runwayml.com/news/aleph-2-in-figma-weave"
-"canonical_url": "https://aihot.virxact.com/items/cmqpu6z9y03w3slp59okauzsw"
+"canonical_url": "https://aihot.news/items/cmqpu6z9y03w3slp59okauzsw"
 "score": 59
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Aleph 2.0 是 Runway 的旗舰视频编辑模型，现已在 Figma Weave 中上�
 
 - **来源**: Runway：News（网页）
 - **原文链接**: [https://runwayml.com/news/aleph-2-in-figma-weave](https://runwayml.com/news/aleph-2-in-figma-weave)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqpu6z9y03w3slp59okauzsw](https://aihot.virxact.com/items/cmqpu6z9y03w3slp59okauzsw)
+- **AIHOT 链接**: [https://aihot.news/items/cmqpu6z9y03w3slp59okauzsw](https://aihot.news/items/cmqpu6z9y03w3slp59okauzsw)

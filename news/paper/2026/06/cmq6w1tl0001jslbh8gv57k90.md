@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-04T16:00:00.000Z"
 "source_name": "LMSYS：Blog（Chatbot Arena 团队）"
 "original_url": "https://www.lmsys.org/blog/2026-05-13-no-token-left-behind"
-"canonical_url": "https://aihot.virxact.com/items/cmq6w1tl0001jslbh8gv57k90"
+"canonical_url": "https://aihot.news/items/cmq6w1tl0001jslbh8gv57k90"
 "score": 62
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Miles框架提出Token-In-Token-Out（TITO）原则，解决智能体强化学�
 
 - **来源**: LMSYS：Blog（Chatbot Arena 团队）
 - **原文链接**: [https://www.lmsys.org/blog/2026-05-13-no-token-left-behind](https://www.lmsys.org/blog/2026-05-13-no-token-left-behind)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq6w1tl0001jslbh8gv57k90](https://aihot.virxact.com/items/cmq6w1tl0001jslbh8gv57k90)
+- **AIHOT 链接**: [https://aihot.news/items/cmq6w1tl0001jslbh8gv57k90](https://aihot.news/items/cmq6w1tl0001jslbh8gv57k90)

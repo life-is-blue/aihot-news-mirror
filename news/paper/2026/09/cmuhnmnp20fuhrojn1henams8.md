@@ -13,7 +13,7 @@
 
 # 独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节
 
-一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。
+一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80,000 个重组攻击 payload 数据集。
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://swarmtraces.org/](https://swarmtraces.org/)

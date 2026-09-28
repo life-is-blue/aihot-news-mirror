@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-16T17:26:03.448Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/codex-for-almost-everything"
-"canonical_url": "https://aihot.virxact.com/items/cmo1r3mqm01muslrr5dhqpg81"
+"canonical_url": "https://aihot.news/items/cmo1r3mqm01muslrr5dhqpg81"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Codex 应用推出重大更新，正式支持 macOS 和 Windows 双平台。新�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/codex-for-almost-everything](https://openai.com/index/codex-for-almost-everything)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmo1r3mqm01muslrr5dhqpg81](https://aihot.virxact.com/items/cmo1r3mqm01muslrr5dhqpg81)
+- **AIHOT 链接**: [https://aihot.news/items/cmo1r3mqm01muslrr5dhqpg81](https://aihot.news/items/cmo1r3mqm01muslrr5dhqpg81)

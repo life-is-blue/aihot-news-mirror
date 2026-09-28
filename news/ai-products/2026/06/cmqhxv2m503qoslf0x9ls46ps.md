@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-17T10:39:11.569Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware"
-"canonical_url": "https://aihot.virxact.com/items/cmqhxv2m503qoslf0x9ls46ps"
+"canonical_url": "https://aihot.news/items/cmqhxv2m503qoslf0x9ls46ps"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ AWS（Apache 2.0）开源的 Strands Robots SDK 将 LeRobot 栈封装为 AgentTo
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware](https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqhxv2m503qoslf0x9ls46ps](https://aihot.virxact.com/items/cmqhxv2m503qoslf0x9ls46ps)
+- **AIHOT 链接**: [https://aihot.news/items/cmqhxv2m503qoslf0x9ls46ps](https://aihot.news/items/cmqhxv2m503qoslf0x9ls46ps)

@@ -7,7 +7,7 @@
 "source_name": "Apple Machine Learning Research（RSS）"
 "original_url": "https://machinelearning.apple.com/research/reinforced-agent-in\
   ference-feedback"
-"canonical_url": "https://aihot.virxact.com/items/cmor004mg009pslixj4w10r3i"
+"canonical_url": "https://aihot.news/items/cmor004mg009pslixj4w10r3i"
 "score": 64
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Apple Machine Learning Research（RSS）
 - **原文链接**: [https://machinelearning.apple.com/research/reinforced-agent-inference-feedback](https://machinelearning.apple.com/research/reinforced-agent-inference-feedback)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmor004mg009pslixj4w10r3i](https://aihot.virxact.com/items/cmor004mg009pslixj4w10r3i)
+- **AIHOT 链接**: [https://aihot.news/items/cmor004mg009pslixj4w10r3i](https://aihot.news/items/cmor004mg009pslixj4w10r3i)

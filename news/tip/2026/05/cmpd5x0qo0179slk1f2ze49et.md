@@ -7,7 +7,7 @@
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/using-claude-code-the-unreasonable-eff\
   ectiveness-of-html"
-"canonical_url": "https://aihot.virxact.com/items/cmpd5x0qo0179slk1f2ze49et"
+"canonical_url": "https://aihot.news/items/cmpd5x0qo0179slk1f2ze49et"
 "score": 73
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Claude Code团队正从Markdown转向HTML作为主要输出格式。Markdown虽�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html](https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpd5x0qo0179slk1f2ze49et](https://aihot.virxact.com/items/cmpd5x0qo0179slk1f2ze49et)
+- **AIHOT 链接**: [https://aihot.news/items/cmpd5x0qo0179slk1f2ze49et](https://aihot.news/items/cmpd5x0qo0179slk1f2ze49et)

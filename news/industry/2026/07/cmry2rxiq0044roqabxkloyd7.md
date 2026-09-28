@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-10T16:40:00.000Z"
 "source_name": "X：Mira Murati（@miramurati）"
 "original_url": "https://x.com/miramurati/status/2075621070133223455"
-"canonical_url": "https://aihot.virxact.com/items/cmry2rxiq0044roqabxkloyd7"
+"canonical_url": "https://aihot.news/items/cmry2rxiq0044roqabxkloyd7"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Mira Murati 创立的 Thinking Machines Lab 宣布获得 20 亿美元融资，�
 
 - **来源**: X：Mira Murati（@miramurati）
 - **原文链接**: [https://x.com/miramurati/status/2075621070133223455](https://x.com/miramurati/status/2075621070133223455)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmry2rxiq0044roqabxkloyd7](https://aihot.virxact.com/items/cmry2rxiq0044roqabxkloyd7)
+- **AIHOT 链接**: [https://aihot.news/items/cmry2rxiq0044roqabxkloyd7](https://aihot.news/items/cmry2rxiq0044roqabxkloyd7)

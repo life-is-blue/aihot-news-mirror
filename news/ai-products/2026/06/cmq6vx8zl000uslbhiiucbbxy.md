@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-09T16:59:25.781Z"
 "source_name": "X：Luma AI (@LumaLabsAI)"
 "original_url": "https://x.com/LumaLabsAI/status/2064389582997897216"
-"canonical_url": "https://aihot.virxact.com/items/cmq6vx8zl000uslbhiiucbbxy"
+"canonical_url": "https://aihot.news/items/cmq6vx8zl000uslbhiiucbbxy"
 "score": 78
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Ray3.2 API 可大规模运行电影级渲染，并集成到您正在构建的产
 
 - **来源**: X：Luma AI (@LumaLabsAI)
 - **原文链接**: [https://x.com/LumaLabsAI/status/2064389582997897216](https://x.com/LumaLabsAI/status/2064389582997897216)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq6vx8zl000uslbhiiucbbxy](https://aihot.virxact.com/items/cmq6vx8zl000uslbhiiucbbxy)
+- **AIHOT 链接**: [https://aihot.news/items/cmq6vx8zl000uslbhiiucbbxy](https://aihot.news/items/cmq6vx8zl000uslbhiiucbbxy)

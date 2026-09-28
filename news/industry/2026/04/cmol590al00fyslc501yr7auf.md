@@ -7,7 +7,7 @@
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://www.tomtunguz.com/2026-04-29-the-112-billion-quarter-h\
   yperscalers-bet-the-farm-on-ai"
-"canonical_url": "https://aihot.virxact.com/items/cmol590al00fyslc501yr7auf"
+"canonical_url": "https://aihot.news/items/cmol590al00fyslc501yr7auf"
 "score": 67
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://www.tomtunguz.com/2026-04-29-the-112-billion-quarter-hyperscalers-bet-the-farm-on-ai](https://www.tomtunguz.com/2026-04-29-the-112-billion-quarter-hyperscalers-bet-the-farm-on-ai)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmol590al00fyslc501yr7auf](https://aihot.virxact.com/items/cmol590al00fyslc501yr7auf)
+- **AIHOT 链接**: [https://aihot.news/items/cmol590al00fyslc501yr7auf](https://aihot.news/items/cmol590al00fyslc501yr7auf)

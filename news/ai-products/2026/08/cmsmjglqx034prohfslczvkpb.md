@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-10T01:14:17.226Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://openchamber.dev/"
-"canonical_url": "https://aihot.virxact.com/items/cmsmjglqx034prohfslczvkpb"
+"canonical_url": "https://aihot.news/items/cmsmjglqx034prohfslczvkpb"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenChamber 是一个基于代理的开发环境，可跨桌面、浏览器、�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://openchamber.dev/](https://openchamber.dev/)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsmjglqx034prohfslczvkpb](https://aihot.virxact.com/items/cmsmjglqx034prohfslczvkpb)
+- **AIHOT 链接**: [https://aihot.news/items/cmsmjglqx034prohfslczvkpb](https://aihot.news/items/cmsmjglqx034prohfslczvkpb)

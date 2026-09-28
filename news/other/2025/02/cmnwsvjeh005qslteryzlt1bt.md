@@ -6,7 +6,7 @@
 "discovered_at": "2025-07-08T16:00:00.000Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-3"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsvjeh005qslteryzlt1bt"
+"canonical_url": "https://aihot.news/items/cmnwsvjeh005qslteryzlt1bt"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Grok 3 Beta 正式发布，开启"推理智能体"时代。新版本强化深度
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-3](https://x.ai/news/grok-3)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsvjeh005qslteryzlt1bt](https://aihot.virxact.com/items/cmnwsvjeh005qslteryzlt1bt)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsvjeh005qslteryzlt1bt](https://aihot.news/items/cmnwsvjeh005qslteryzlt1bt)

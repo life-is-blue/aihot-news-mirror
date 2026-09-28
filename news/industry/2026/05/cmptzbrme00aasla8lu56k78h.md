@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-31T16:13:41.492Z"
 "source_name": "X：Sam Altman (@sama)"
 "original_url": "https://x.com/sama/status/2061117302528188712"
-"canonical_url": "https://aihot.virxact.com/items/cmptzbrme00aasla8lu56k78h"
+"canonical_url": "https://aihot.news/items/cmptzbrme00aasla8lu56k78h"
 "score": 83
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI宣布成立OpenAI Robotics团队，并开始招聘全栈硬件、系统�
 
 - **来源**: X：Sam Altman (@sama)
 - **原文链接**: [https://x.com/sama/status/2061117302528188712](https://x.com/sama/status/2061117302528188712)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmptzbrme00aasla8lu56k78h](https://aihot.virxact.com/items/cmptzbrme00aasla8lu56k78h)
+- **AIHOT 链接**: [https://aihot.news/items/cmptzbrme00aasla8lu56k78h](https://aihot.news/items/cmptzbrme00aasla8lu56k78h)

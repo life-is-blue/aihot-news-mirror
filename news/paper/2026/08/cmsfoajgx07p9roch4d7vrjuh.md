@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-05T05:55:09.022Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2608.03979"
-"canonical_url": "https://aihot.virxact.com/items/cmsfoajgx07p9roch4d7vrjuh"
+"canonical_url": "https://aihot.news/items/cmsfoajgx07p9roch4d7vrjuh"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Video-DeepResearch（Video-DR）将多模态智能体从静态图像扩展到连
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2608.03979](https://arxiv.org/abs/2608.03979)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsfoajgx07p9roch4d7vrjuh](https://aihot.virxact.com/items/cmsfoajgx07p9roch4d7vrjuh)
+- **AIHOT 链接**: [https://aihot.news/items/cmsfoajgx07p9roch4d7vrjuh](https://aihot.news/items/cmsfoajgx07p9roch4d7vrjuh)

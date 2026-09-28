@@ -6,7 +6,7 @@
 "discovered_at": "2025-12-04T00:00:00.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/hf-skills-training"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhak00a8slxxe0pmksdd"
+"canonical_url": "https://aihot.news/items/cmoegbhak00a8slxxe0pmksdd"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic的研究人员探索了一种新方法：使用其强大的闭源AI助
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/hf-skills-training](https://huggingface.co/blog/hf-skills-training)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhak00a8slxxe0pmksdd](https://aihot.virxact.com/items/cmoegbhak00a8slxxe0pmksdd)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhak00a8slxxe0pmksdd](https://aihot.news/items/cmoegbhak00a8slxxe0pmksdd)

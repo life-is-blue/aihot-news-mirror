@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-06T01:19:10.294Z"
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/0/972/896.htm"
-"canonical_url": "https://aihot.virxact.com/items/cmr8j82w402k0sl0ddfe6f7zv"
+"canonical_url": "https://aihot.news/items/cmr8j82w402k0sl0ddfe6f7zv"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ SK 海力士于本周一启动规模约 280 亿美元的美股上市计划，将
 
 - **来源**: IT之家（RSS）
 - **原文链接**: [https://www.ithome.com/0/972/896.htm](https://www.ithome.com/0/972/896.htm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr8j82w402k0sl0ddfe6f7zv](https://aihot.virxact.com/items/cmr8j82w402k0sl0ddfe6f7zv)
+- **AIHOT 链接**: [https://aihot.news/items/cmr8j82w402k0sl0ddfe6f7zv](https://aihot.news/items/cmr8j82w402k0sl0ddfe6f7zv)

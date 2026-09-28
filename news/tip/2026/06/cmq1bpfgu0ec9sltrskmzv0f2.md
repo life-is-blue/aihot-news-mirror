@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-05T19:34:22.568Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/the-claude-cowork-product-guide"
-"canonical_url": "https://aihot.virxact.com/items/cmq1bpfgu0ec9sltrskmzv0f2"
+"canonical_url": "https://aihot.news/items/cmq1bpfgu0ec9sltrskmzv0f2"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 发布 Claude Cowork，一款运行在 Claude 桌面应用中的知识
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/the-claude-cowork-product-guide](https://claude.com/blog/the-claude-cowork-product-guide)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq1bpfgu0ec9sltrskmzv0f2](https://aihot.virxact.com/items/cmq1bpfgu0ec9sltrskmzv0f2)
+- **AIHOT 链接**: [https://aihot.news/items/cmq1bpfgu0ec9sltrskmzv0f2](https://aihot.news/items/cmq1bpfgu0ec9sltrskmzv0f2)

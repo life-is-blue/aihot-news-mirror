@@ -7,7 +7,7 @@
 "source_name": "公众号：DeepSeek（深度求索）"
 "original_url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247\
   485658&idx=1&sn=f615a233b0293782dee10d6db2311e23"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu3h2e015hrofz5cvhu9pw"
+"canonical_url": "https://aihot.news/items/cmsdu3h2e015hrofz5cvhu9pw"
 "score": 60
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ DeepSeek-V3.1 已更新至 DeepSeek-V3.1-Terminus 版本，在保持原有能力
 
 - **来源**: 公众号：DeepSeek（深度求索）
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485658&idx=1&sn=f615a233b0293782dee10d6db2311e23](https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485658&idx=1&sn=f615a233b0293782dee10d6db2311e23)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu3h2e015hrofz5cvhu9pw](https://aihot.virxact.com/items/cmsdu3h2e015hrofz5cvhu9pw)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu3h2e015hrofz5cvhu9pw](https://aihot.news/items/cmsdu3h2e015hrofz5cvhu9pw)

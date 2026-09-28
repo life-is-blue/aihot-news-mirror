@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-28T05:25:52.937Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://usefeyn.com/blog/feynobg"
-"canonical_url": "https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf"
+"canonical_url": "https://aihot.news/items/cms47q4jj00mxroep0x4at5sf"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Feyn Labs 推出 FeyNoBg，一个用于自动背景去除的 SOTA 模型。它�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://usefeyn.com/blog/feynobg](https://usefeyn.com/blog/feynobg)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf](https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf)
+- **AIHOT 链接**: [https://aihot.news/items/cms47q4jj00mxroep0x4at5sf](https://aihot.news/items/cms47q4jj00mxroep0x4at5sf)

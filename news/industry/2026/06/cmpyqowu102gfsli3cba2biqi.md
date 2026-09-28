@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-04T00:10:49.290Z"
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/0/959/592.htm"
-"canonical_url": "https://aihot.virxact.com/items/cmpyqowu102gfsli3cba2biqi"
+"canonical_url": "https://aihot.news/items/cmpyqowu102gfsli3cba2biqi"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ AI 音乐生成企业 Suno 完成 4 亿美元 D 轮融资，投后估值 54 亿�
 
 - **来源**: IT之家（RSS）
 - **原文链接**: [https://www.ithome.com/0/959/592.htm](https://www.ithome.com/0/959/592.htm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpyqowu102gfsli3cba2biqi](https://aihot.virxact.com/items/cmpyqowu102gfsli3cba2biqi)
+- **AIHOT 链接**: [https://aihot.news/items/cmpyqowu102gfsli3cba2biqi](https://aihot.news/items/cmpyqowu102gfsli3cba2biqi)

@@ -7,7 +7,7 @@
 "source_name": "Anthropic：Research（发表成果 · 网页）"
 "original_url": "https://www.anthropic.com/research/automated-researchers-mitig\
   ate-alignment-failures"
-"canonical_url": "https://aihot.virxact.com/items/cmtd83hb4018fro667i1tbc34"
+"canonical_url": "https://aihot.news/items/cmtd83hb4018fro667i1tbc34"
 "score": 78
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Anthropic 让 Claude 自主训练模型，缓解欺骗、谄媚等 10 类对齐�
 
 - **来源**: Anthropic：Research（发表成果 · 网页）
 - **原文链接**: [https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures](https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtd83hb4018fro667i1tbc34](https://aihot.virxact.com/items/cmtd83hb4018fro667i1tbc34)
+- **AIHOT 链接**: [https://aihot.news/items/cmtd83hb4018fro667i1tbc34](https://aihot.news/items/cmtd83hb4018fro667i1tbc34)

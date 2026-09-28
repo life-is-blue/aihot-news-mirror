@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-t\
   o-stop-sharing-revenue-with-main-ai-partner-openai"
-"canonical_url": "https://aihot.virxact.com/items/cmohdrgr7008gsle9efddzw22"
+"canonical_url": "https://aihot.news/items/cmohdrgr7008gsle9efddzw22"
 "score": 86
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmohdrgr7008gsle9efddzw22](https://aihot.virxact.com/items/cmohdrgr7008gsle9efddzw22)
+- **AIHOT 链接**: [https://aihot.news/items/cmohdrgr7008gsle9efddzw22](https://aihot.news/items/cmohdrgr7008gsle9efddzw22)

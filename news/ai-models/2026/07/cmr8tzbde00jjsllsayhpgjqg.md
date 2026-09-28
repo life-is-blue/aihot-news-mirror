@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-06T06:20:18.224Z"
 "source_name": "公众号：通义实验室（千问）"
 "original_url": "https://mp.weixin.qq.com/s/ntw0SliBi4f8LROnFY26kA"
-"canonical_url": "https://aihot.virxact.com/items/cmr8tzbde00jjsllsayhpgjqg"
+"canonical_url": "https://aihot.news/items/cmr8tzbde00jjsllsayhpgjqg"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: 公众号：通义实验室（千问）
 - **原文链接**: [https://mp.weixin.qq.com/s/ntw0SliBi4f8LROnFY26kA](https://mp.weixin.qq.com/s/ntw0SliBi4f8LROnFY26kA)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr8tzbde00jjsllsayhpgjqg](https://aihot.virxact.com/items/cmr8tzbde00jjsllsayhpgjqg)
+- **AIHOT 链接**: [https://aihot.news/items/cmr8tzbde00jjsllsayhpgjqg](https://aihot.news/items/cmr8tzbde00jjsllsayhpgjqg)

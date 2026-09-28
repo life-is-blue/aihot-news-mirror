@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-06T18:09:55.078Z"
 "source_name": "X：OpenClaw (@openclaw)"
 "original_url": "https://x.com/openclaw/status/2074187998602871212"
-"canonical_url": "https://aihot.virxact.com/items/cmr9jbw7a0085ihe85luucw73"
+"canonical_url": "https://aihot.news/items/cmr9jbw7a0085ihe85luucw73"
 "score": 65
 "content_kind": "news"
 ---
@@ -23,4 +23,4 @@ OpenClaw 登陆 @huggingface 本地应用 🦞🤝🤗
 
 - **来源**: X：OpenClaw (@openclaw)
 - **原文链接**: [https://x.com/openclaw/status/2074187998602871212](https://x.com/openclaw/status/2074187998602871212)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr9jbw7a0085ihe85luucw73](https://aihot.virxact.com/items/cmr9jbw7a0085ihe85luucw73)
+- **AIHOT 链接**: [https://aihot.news/items/cmr9jbw7a0085ihe85luucw73](https://aihot.news/items/cmr9jbw7a0085ihe85luucw73)

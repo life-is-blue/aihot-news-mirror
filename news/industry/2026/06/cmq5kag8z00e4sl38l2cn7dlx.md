@@ -7,7 +7,7 @@
 "source_name": "Ars Technica：AI（RSS）"
 "original_url": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-w\
   eeks-microsoft-packages-laced-with-credential-stealer"
-"canonical_url": "https://aihot.virxact.com/items/cmq5kag8z00e4sl38l2cn7dlx"
+"canonical_url": "https://aihot.news/items/cmq5kag8z00e4sl38l2cn7dlx"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Ars Technica：AI（RSS）
 - **原文链接**: [https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer](https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq5kag8z00e4sl38l2cn7dlx](https://aihot.virxact.com/items/cmq5kag8z00e4sl38l2cn7dlx)
+- **AIHOT 链接**: [https://aihot.news/items/cmq5kag8z00e4sl38l2cn7dlx](https://aihot.news/items/cmq5kag8z00e4sl38l2cn7dlx)

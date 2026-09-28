@@ -8,7 +8,7 @@
 "original_url": "https://www.marktechpost.com/2026/06/09/nvidia-cutile-python-t\
   utorial-building-tiled-gpu-kernels-for-vector-addition-matrix-addition-and-ma\
   trix-multiplication-in-colab"
-"canonical_url": "https://aihot.virxact.com/items/cmq6e6gmb07n9sl5i3gujrjpe"
+"canonical_url": "https://aihot.news/items/cmq6e6gmb07n9sl5i3gujrjpe"
 "score": 70
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/06/09/nvidia-cutile-python-tutorial-building-tiled-gpu-kernels-for-vector-addition-matrix-addition-and-matrix-multiplication-in-colab](https://www.marktechpost.com/2026/06/09/nvidia-cutile-python-tutorial-building-tiled-gpu-kernels-for-vector-addition-matrix-addition-and-matrix-multiplication-in-colab)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq6e6gmb07n9sl5i3gujrjpe](https://aihot.virxact.com/items/cmq6e6gmb07n9sl5i3gujrjpe)
+- **AIHOT 链接**: [https://aihot.news/items/cmq6e6gmb07n9sl5i3gujrjpe](https://aihot.news/items/cmq6e6gmb07n9sl5i3gujrjpe)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-05T16:38:33.220Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://www.tomtunguz.com/using-local-ai-to-work-faster"
-"canonical_url": "https://aihot.virxact.com/items/cmq15ezdt0cn9sltrl1ad2e8n"
+"canonical_url": "https://aihot.news/items/cmq15ezdt0cn9sltrl1ad2e8n"
 "score": 68
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://www.tomtunguz.com/using-local-ai-to-work-faster](https://www.tomtunguz.com/using-local-ai-to-work-faster)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq15ezdt0cn9sltrl1ad2e8n](https://aihot.virxact.com/items/cmq15ezdt0cn9sltrl1ad2e8n)
+- **AIHOT 链接**: [https://aihot.news/items/cmq15ezdt0cn9sltrl1ad2e8n](https://aihot.news/items/cmq15ezdt0cn9sltrl1ad2e8n)

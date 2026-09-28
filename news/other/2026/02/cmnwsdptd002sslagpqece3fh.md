@@ -6,7 +6,7 @@
 "discovered_at": "2026-02-08T16:00:00.000Z"
 "source_name": "Moonshot AI：Kimi Blog"
 "original_url": "https://www.kimi.com/blog/agent-swarm"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsdptd002sslagpqece3fh"
+"canonical_url": "https://aihot.news/items/cmnwsdptd002sslagpqece3fh"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Kimi推出Agent Swarm系统，支持100个子代理并行工作，可执行超15
 
 - **来源**: Moonshot AI：Kimi Blog
 - **原文链接**: [https://www.kimi.com/blog/agent-swarm](https://www.kimi.com/blog/agent-swarm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsdptd002sslagpqece3fh](https://aihot.virxact.com/items/cmnwsdptd002sslagpqece3fh)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsdptd002sslagpqece3fh](https://aihot.news/items/cmnwsdptd002sslagpqece3fh)

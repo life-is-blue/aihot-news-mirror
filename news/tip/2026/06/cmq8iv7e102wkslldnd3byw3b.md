@@ -7,7 +7,7 @@
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/gemini-25-flash-api-pricing-quickst\
   art-provider-comparison"
-"canonical_url": "https://aihot.virxact.com/items/cmq8iv7e102wkslldnd3byw3b"
+"canonical_url": "https://aihot.news/items/cmq8iv7e102wkslldnd3byw3b"
 "score": 64
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Gemini 2.5 Flash API 支持配置思考预算（thinking budgets），用户可�
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/gemini-25-flash-api-pricing-quickstart-provider-comparison](https://openrouter.ai/blog/gemini-25-flash-api-pricing-quickstart-provider-comparison)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq8iv7e102wkslldnd3byw3b](https://aihot.virxact.com/items/cmq8iv7e102wkslldnd3byw3b)
+- **AIHOT 链接**: [https://aihot.news/items/cmq8iv7e102wkslldnd3byw3b](https://aihot.news/items/cmq8iv7e102wkslldnd3byw3b)

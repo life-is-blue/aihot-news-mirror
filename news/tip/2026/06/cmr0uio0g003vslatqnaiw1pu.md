@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-30T16:13:11.203Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
-"canonical_url": "https://aihot.virxact.com/items/cmr0uio0g003vslatqnaiw1pu"
+"canonical_url": "https://aihot.news/items/cmr0uio0g003vslatqnaiw1pu"
 "score": 62
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI Signals 数据显示，用户注册六个月后日均消息量增加50%�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/how-chatgpt-adoption-has-expanded](https://openai.com/index/how-chatgpt-adoption-has-expanded)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr0uio0g003vslatqnaiw1pu](https://aihot.virxact.com/items/cmr0uio0g003vslatqnaiw1pu)
+- **AIHOT 链接**: [https://aihot.news/items/cmr0uio0g003vslatqnaiw1pu](https://aihot.news/items/cmr0uio0g003vslatqnaiw1pu)

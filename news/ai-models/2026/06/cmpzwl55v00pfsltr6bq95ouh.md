@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-04T19:43:37.812Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety"
-"canonical_url": "https://aihot.virxact.com/items/cmpzwl55v00pfsltr6bq95ouh"
+"canonical_url": "https://aihot.news/items/cmpzwl55v00pfsltr6bq95ouh"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Nemotron 3.5 Content Safety基于Gemma 3 4B IT，提供128K上下文窗口，支
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety](https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpzwl55v00pfsltr6bq95ouh](https://aihot.virxact.com/items/cmpzwl55v00pfsltr6bq95ouh)
+- **AIHOT 链接**: [https://aihot.news/items/cmpzwl55v00pfsltr6bq95ouh](https://aihot.news/items/cmpzwl55v00pfsltr6bq95ouh)

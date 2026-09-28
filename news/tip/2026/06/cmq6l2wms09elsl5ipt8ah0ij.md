@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-09T11:55:54.469Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/mishig/spaces-agents-md"
-"canonical_url": "https://aihot.virxact.com/items/cmq6l2wms09elsl5ipt8ah0ij"
+"canonical_url": "https://aihot.news/items/cmq6l2wms09elsl5ipt8ah0ij"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/mishig/spaces-agents-md](https://huggingface.co/blog/mishig/spaces-agents-md)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq6l2wms09elsl5ipt8ah0ij](https://aihot.virxact.com/items/cmq6l2wms09elsl5ipt8ah0ij)
+- **AIHOT 链接**: [https://aihot.news/items/cmq6l2wms09elsl5ipt8ah0ij](https://aihot.news/items/cmq6l2wms09elsl5ipt8ah0ij)

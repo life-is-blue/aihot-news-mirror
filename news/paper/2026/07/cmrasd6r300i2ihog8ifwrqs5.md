@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-07T15:10:38.641Z"
 "source_name": "Apple Machine Learning Research（RSS）"
 "original_url": "https://machinelearning.apple.com/research/single-neuron-safety-alignment"
-"canonical_url": "https://aihot.virxact.com/items/cmrasd6r300i2ihog8ifwrqs5"
+"canonical_url": "https://aihot.news/items/cmrasd6r300i2ihog8ifwrqs5"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Apple Machine Learning Research（RSS）
 - **原文链接**: [https://machinelearning.apple.com/research/single-neuron-safety-alignment](https://machinelearning.apple.com/research/single-neuron-safety-alignment)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrasd6r300i2ihog8ifwrqs5](https://aihot.virxact.com/items/cmrasd6r300i2ihog8ifwrqs5)
+- **AIHOT 链接**: [https://aihot.news/items/cmrasd6r300i2ihog8ifwrqs5](https://aihot.news/items/cmrasd6r300i2ihog8ifwrqs5)

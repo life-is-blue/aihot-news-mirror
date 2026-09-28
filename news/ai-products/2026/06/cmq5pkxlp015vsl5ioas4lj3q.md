@@ -7,7 +7,7 @@
 "source_name": "Apple：Newsroom（RSS）"
 "original_url": "https://www.apple.com/newsroom/2026/06/apple-aids-app-developm\
   ent-with-new-intelligence-frameworks-and-advanced-tools"
-"canonical_url": "https://aihot.virxact.com/items/cmq5pkxlp015vsl5ioas4lj3q"
+"canonical_url": "https://aihot.news/items/cmq5pkxlp015vsl5ioas4lj3q"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Apple 今天推出了新的智能能力、Xcode 中扩展的生产力功能以�
 
 - **来源**: Apple：Newsroom（RSS）
 - **原文链接**: [https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools](https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq5pkxlp015vsl5ioas4lj3q](https://aihot.virxact.com/items/cmq5pkxlp015vsl5ioas4lj3q)
+- **AIHOT 链接**: [https://aihot.news/items/cmq5pkxlp015vsl5ioas4lj3q](https://aihot.news/items/cmq5pkxlp015vsl5ioas4lj3q)

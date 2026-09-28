@@ -7,7 +7,7 @@
 "source_name": "vLLM 官方博客（RSS）"
 "original_url": "https://vllm.ai/blog/2026-06-12-minimax-m3-vllm"
 "canonical_url": "https://aihot.news/items/cmtynzylm033jrog0wvcsdr6j"
-"score": 69
+"score": 70
 "content_kind": "news"
 ---
 

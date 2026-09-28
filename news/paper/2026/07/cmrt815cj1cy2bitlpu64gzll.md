@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-08T00:00:00.000Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2607.07690"
-"canonical_url": "https://aihot.virxact.com/items/cmrt815cj1cy2bitlpu64gzll"
+"canonical_url": "https://aihot.news/items/cmrt815cj1cy2bitlpu64gzll"
 "score": 88
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Agon 让两个模型互为评分者，通过竞争性强化学习提升推理能
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2607.07690](https://arxiv.org/abs/2607.07690)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrt815cj1cy2bitlpu64gzll](https://aihot.virxact.com/items/cmrt815cj1cy2bitlpu64gzll)
+- **AIHOT 链接**: [https://aihot.news/items/cmrt815cj1cy2bitlpu64gzll](https://aihot.news/items/cmrt815cj1cy2bitlpu64gzll)

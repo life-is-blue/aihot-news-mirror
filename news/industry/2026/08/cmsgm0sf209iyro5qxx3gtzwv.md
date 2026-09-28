@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-gen\
   erated-child-sexual-abuse-imagery"
-"canonical_url": "https://aihot.virxact.com/items/cmsgm0sf209iyro5qxx3gtzwv"
+"canonical_url": "https://aihot.news/items/cmsgm0sf209iyro5qxx3gtzwv"
 "score": 79
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Meta 的广告库数据显示，超过 50 条违规图片和视频广告发布�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsgm0sf209iyro5qxx3gtzwv](https://aihot.virxact.com/items/cmsgm0sf209iyro5qxx3gtzwv)
+- **AIHOT 链接**: [https://aihot.news/items/cmsgm0sf209iyro5qxx3gtzwv](https://aihot.news/items/cmsgm0sf209iyro5qxx3gtzwv)

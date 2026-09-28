@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-10T17:40:17.185Z"
 "source_name": "X：Claude Devs (@ClaudeDevs)"
 "original_url": "https://x.com/ClaudeDevs/status/2075635283211772279"
-"canonical_url": "https://aihot.virxact.com/items/cmrf8177m007bihprf4zml1hn"
+"canonical_url": "https://aihot.news/items/cmrf8177m007bihprf4zml1hn"
 "score": 70
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ Claude 可以调出文档、设计稿或任何其他网站。它可以像操作�
 
 - **来源**: X：Claude Devs (@ClaudeDevs)
 - **原文链接**: [https://x.com/ClaudeDevs/status/2075635283211772279](https://x.com/ClaudeDevs/status/2075635283211772279)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrf8177m007bihprf4zml1hn](https://aihot.virxact.com/items/cmrf8177m007bihprf4zml1hn)
+- **AIHOT 链接**: [https://aihot.news/items/cmrf8177m007bihprf4zml1hn](https://aihot.news/items/cmrf8177m007bihprf4zml1hn)

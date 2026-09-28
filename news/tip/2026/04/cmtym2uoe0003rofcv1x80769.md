@@ -8,7 +8,7 @@
 "original_url": "https://www.tensorzero.com/blog/stop-comparing-price-per-milli\
   on-tokens-the-hidden-llm-api-costs"
 "canonical_url": "https://aihot.news/items/cmtym2uoe0003rofcv1x80769"
-"score": 66
+"score": 67
 "content_kind": "news"
 ---
 

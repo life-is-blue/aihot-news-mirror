@@ -6,7 +6,7 @@
 "discovered_at": "2026-01-20T03:20:57.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/microsoft/diff-attn-v2"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhak009uslxxazhwpcva"
+"canonical_url": "https://aihot.news/items/cmoegbhak009uslxxazhwpcva"
 "score": 83
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/microsoft/diff-attn-v2](https://huggingface.co/blog/microsoft/diff-attn-v2)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhak009uslxxazhwpcva](https://aihot.virxact.com/items/cmoegbhak009uslxxazhwpcva)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhak009uslxxazhwpcva](https://aihot.news/items/cmoegbhak009uslxxazhwpcva)

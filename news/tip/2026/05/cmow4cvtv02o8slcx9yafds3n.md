@@ -7,7 +7,7 @@
 "source_name": "GitHub Blog"
 "original_url": "https://github.blog/ai-and-ml/github-copilot/improving-token-e\
   fficiency-in-github-agentic-workflows"
-"canonical_url": "https://aihot.virxact.com/items/cmow4cvtv02o8slcx9yafds3n"
+"canonical_url": "https://aihot.news/items/cmow4cvtv02o8slcx9yafds3n"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ GitHub 发现运行于每个拉取请求的智能体工作流会累积高昂的 
 
 - **来源**: GitHub Blog
 - **原文链接**: [https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows](https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmow4cvtv02o8slcx9yafds3n](https://aihot.virxact.com/items/cmow4cvtv02o8slcx9yafds3n)
+- **AIHOT 链接**: [https://aihot.news/items/cmow4cvtv02o8slcx9yafds3n](https://aihot.news/items/cmow4cvtv02o8slcx9yafds3n)

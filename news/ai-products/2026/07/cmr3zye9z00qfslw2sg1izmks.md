@@ -8,7 +8,7 @@
 "original_url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-age\
   nt-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-l\
   anguage-through-the-dom"
-"canonical_url": "https://aihot.virxact.com/items/cmr3zye9z00qfslw2sg1izmks"
+"canonical_url": "https://aihot.news/items/cmr3zye9z00qfslw2sg1izmks"
 "score": 70
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom](https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr3zye9z00qfslw2sg1izmks](https://aihot.virxact.com/items/cmr3zye9z00qfslw2sg1izmks)
+- **AIHOT 链接**: [https://aihot.news/items/cmr3zye9z00qfslw2sg1izmks](https://aihot.news/items/cmr3zye9z00qfslw2sg1izmks)

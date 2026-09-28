@@ -6,8 +6,8 @@
 "discovered_at": "2026-09-02T18:25:53.655Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/self-hosted-machines"
-"canonical_url": "https://aihot.virxact.com/items/cmtkffuf503cbrobqkwhimxmp"
-"score": 67
+"canonical_url": "https://aihot.news/items/cmtkffuf503cbrobqkwhimxmp"
+"score": 68
 "content_kind": "news"
 ---
 
@@ -17,4 +17,4 @@ Cursor 发布 Self-Hosted Machines，让云智能体的工具执行迁移到企�
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/self-hosted-machines](https://cursor.com/blog/self-hosted-machines)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtkffuf503cbrobqkwhimxmp](https://aihot.virxact.com/items/cmtkffuf503cbrobqkwhimxmp)
+- **AIHOT 链接**: [https://aihot.news/items/cmtkffuf503cbrobqkwhimxmp](https://aihot.news/items/cmtkffuf503cbrobqkwhimxmp)

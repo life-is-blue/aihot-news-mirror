@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-13T01:14:49.346Z"
 "source_name": "X：Anthropic (@AnthropicAI)"
 "original_url": "https://x.com/AnthropicAI/status/2065597531644743999"
-"canonical_url": "https://aihot.virxact.com/items/cmqbnxvnk038jslam2owb5ngb"
+"canonical_url": "https://aihot.news/items/cmqbnxvnk038jslam2owb5ngb"
 "score": 88
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic宣布，美国政府根据国家安全指令，暂停所有外国国�
 
 - **来源**: X：Anthropic (@AnthropicAI)
 - **原文链接**: [https://x.com/AnthropicAI/status/2065597531644743999](https://x.com/AnthropicAI/status/2065597531644743999)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqbnxvnk038jslam2owb5ngb](https://aihot.virxact.com/items/cmqbnxvnk038jslam2owb5ngb)
+- **AIHOT 链接**: [https://aihot.news/items/cmqbnxvnk038jslam2owb5ngb](https://aihot.news/items/cmqbnxvnk038jslam2owb5ngb)

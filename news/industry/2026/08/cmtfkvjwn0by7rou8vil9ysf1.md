@@ -8,8 +8,8 @@
 "original_url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one\
   -of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-h\
   istory"
-"canonical_url": "https://aihot.virxact.com/items/cmtfkvjwn0by7rou8vil9ysf1"
-"score": 76
+"canonical_url": "https://aihot.news/items/cmtfkvjwn0by7rou8vil9ysf1"
+"score": 77
 "content_kind": "news"
 ---
 
@@ -19,4 +19,4 @@
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history](https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtfkvjwn0by7rou8vil9ysf1](https://aihot.virxact.com/items/cmtfkvjwn0by7rou8vil9ysf1)
+- **AIHOT 链接**: [https://aihot.news/items/cmtfkvjwn0by7rou8vil9ysf1](https://aihot.news/items/cmtfkvjwn0by7rou8vil9ysf1)

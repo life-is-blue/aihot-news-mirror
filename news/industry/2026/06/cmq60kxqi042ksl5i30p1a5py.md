@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-09T02:22:02.501Z"
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/0/961/792.htm"
-"canonical_url": "https://aihot.virxact.com/items/cmq60kxqi042ksl5i30p1a5py"
+"canonical_url": "https://aihot.news/items/cmq60kxqi042ksl5i30p1a5py"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 近日秘密提交 IPO 申请。其 CEO 山姆·奥特曼旗下的 Tools 
 
 - **来源**: IT之家（RSS）
 - **原文链接**: [https://www.ithome.com/0/961/792.htm](https://www.ithome.com/0/961/792.htm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq60kxqi042ksl5i30p1a5py](https://aihot.virxact.com/items/cmq60kxqi042ksl5i30p1a5py)
+- **AIHOT 链接**: [https://aihot.news/items/cmq60kxqi042ksl5i30p1a5py](https://aihot.news/items/cmq60kxqi042ksl5i30p1a5py)

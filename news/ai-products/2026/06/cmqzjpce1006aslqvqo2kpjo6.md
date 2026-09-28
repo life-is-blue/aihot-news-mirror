@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-29T18:22:20.720Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/claude-in-microsoft-foundry"
-"canonical_url": "https://aihot.virxact.com/items/cmqzjpce1006aslqvqo2kpjo6"
+"canonical_url": "https://aihot.news/items/cmqzjpce1006aslqvqo2kpjo6"
 "score": 64
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/claude-in-microsoft-foundry](https://claude.com/blog/claude-in-microsoft-foundry)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqzjpce1006aslqvqo2kpjo6](https://aihot.virxact.com/items/cmqzjpce1006aslqvqo2kpjo6)
+- **AIHOT 链接**: [https://aihot.news/items/cmqzjpce1006aslqvqo2kpjo6](https://aihot.news/items/cmqzjpce1006aslqvqo2kpjo6)

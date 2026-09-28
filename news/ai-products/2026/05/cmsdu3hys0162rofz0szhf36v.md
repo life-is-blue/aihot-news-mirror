@@ -7,7 +7,7 @@
 "source_name": "公众号：MiniMax（稀宇科技）"
 "original_url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247\
   488475&idx=1&sn=cf5a0fa22b0ad0a665f2cb92e7e337d0"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu3hys0162rofz0szhf36v"
+"canonical_url": "https://aihot.news/items/cmsdu3hys0162rofz0szhf36v"
 "score": 68
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ MiniMax 将升级后的 Agent 命名为 Mavis，并上线 Agent Teams，支持�
 
 - **来源**: 公众号：MiniMax（稀宇科技）
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247488475&idx=1&sn=cf5a0fa22b0ad0a665f2cb92e7e337d0](https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247488475&idx=1&sn=cf5a0fa22b0ad0a665f2cb92e7e337d0)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu3hys0162rofz0szhf36v](https://aihot.virxact.com/items/cmsdu3hys0162rofz0szhf36v)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu3hys0162rofz0szhf36v](https://aihot.news/items/cmsdu3hys0162rofz0szhf36v)

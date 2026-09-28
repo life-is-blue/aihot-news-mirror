@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-14T00:00:00.000Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2607.13125"
-"canonical_url": "https://aihot.virxact.com/items/cmrn2lfgm05nqbijez4jazf3n"
+"canonical_url": "https://aihot.news/items/cmrn2lfgm05nqbijez4jazf3n"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Boogu-Image-0.1 系列开源统一多模态理解与生成模型发布，包含 
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2607.13125](https://arxiv.org/abs/2607.13125)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrn2lfgm05nqbijez4jazf3n](https://aihot.virxact.com/items/cmrn2lfgm05nqbijez4jazf3n)
+- **AIHOT 链接**: [https://aihot.news/items/cmrn2lfgm05nqbijez4jazf3n](https://aihot.news/items/cmrn2lfgm05nqbijez4jazf3n)

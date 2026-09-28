@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-29T18:35:49.724Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://quesma.com/blog/qwen-36-is-awesome"
-"canonical_url": "https://aihot.virxact.com/items/cmqzk693n002zslksfkrr5w2w"
+"canonical_url": "https://aihot.news/items/cmqzk693n002zslksfkrr5w2w"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Qwen 3.6 27B 是一款密集参数本地大语言模型，原生支持 256k 上�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://quesma.com/blog/qwen-36-is-awesome](https://quesma.com/blog/qwen-36-is-awesome)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqzk693n002zslksfkrr5w2w](https://aihot.virxact.com/items/cmqzk693n002zslksfkrr5w2w)
+- **AIHOT 链接**: [https://aihot.news/items/cmqzk693n002zslksfkrr5w2w](https://aihot.news/items/cmqzk693n002zslksfkrr5w2w)

@@ -7,7 +7,7 @@
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/intelligent-transcription-with-ge\
   mini-3-5-transcribe"
-"canonical_url": "https://aihot.virxact.com/items/cmtacq8vz0aedroj24bcix9go"
+"canonical_url": "https://aihot.news/items/cmtacq8vz0aedroj24bcix9go"
 "score": 68
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google DeepMind 推出 Gemini 3.5 Transcribe 语音转文本模型，支持流�
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe](https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtacq8vz0aedroj24bcix9go](https://aihot.virxact.com/items/cmtacq8vz0aedroj24bcix9go)
+- **AIHOT 链接**: [https://aihot.news/items/cmtacq8vz0aedroj24bcix9go](https://aihot.news/items/cmtacq8vz0aedroj24bcix9go)

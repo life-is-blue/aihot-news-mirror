@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.theatlantic.com/technology/2026/07/generative-ai-e\
   ngineering-disaster/687901"
-"canonical_url": "https://aihot.virxact.com/items/cmro8l78w00j5bitou01qowy4"
+"canonical_url": "https://aihot.news/items/cmro8l78w00j5bitou01qowy4"
 "score": 71
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ AI公司为维持大语言模型（如ChatGPT、Claude）运行，可能已购�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901](https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmro8l78w00j5bitou01qowy4](https://aihot.virxact.com/items/cmro8l78w00j5bitou01qowy4)
+- **AIHOT 链接**: [https://aihot.news/items/cmro8l78w00j5bitou01qowy4](https://aihot.news/items/cmro8l78w00j5bitou01qowy4)

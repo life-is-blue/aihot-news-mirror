@@ -6,7 +6,7 @@
 "discovered_at": "2026-01-27T16:55:55.000Z"
 "source_name": "Ethan Mollick：One Useful Thing（RSS）"
 "original_url": "https://www.oneusefulthing.org/p/management-as-ai-superpower"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsvcte0039sltex44yu762"
+"canonical_url": "https://aihot.news/items/cmnwsvcte0039sltex44yu762"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Ethan Mollick：One Useful Thing（RSS）
 - **原文链接**: [https://www.oneusefulthing.org/p/management-as-ai-superpower](https://www.oneusefulthing.org/p/management-as-ai-superpower)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsvcte0039sltex44yu762](https://aihot.virxact.com/items/cmnwsvcte0039sltex44yu762)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsvcte0039sltex44yu762](https://aihot.news/items/cmnwsvcte0039sltex44yu762)

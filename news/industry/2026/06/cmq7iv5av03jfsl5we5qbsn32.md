@@ -14,7 +14,7 @@
 
 # 德国法院裁定谷歌应对AI概览中的错误答案承担责任
 
-德国法院裁定谷歌需为其AI Overviews（AI概览）功能生成的错误答案承担法律责任。该裁定认定，AI概览中出现的虚假信息视为谷歌自身发布的内容，公司无法通过声称"AI自动生成"来推卸责任。这一判决对AI生成内容的责任界定产生重要影响。
+德国法院裁定谷歌需为其AI Overviews（AI概览）功能生成的错误答案承担法律责任。该裁定认定，AI概览中出现的虚假信息视为谷歌自身发布的内容，公司无法通过声称“AI自动生成”来推卸责任。这一判决对AI生成内容的责任界定产生重要影响。
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers)

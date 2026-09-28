@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-16T00:00:00.000Z"
 "source_name": "Claude Platform：开发者版本说明（RSS）"
 "original_url": "https://platform.claude.com/docs/en/release-notes/overview#april-16-2026"
-"canonical_url": "https://aihot.virxact.com/items/cms3gt4xx01zcrondq0jif5n0"
+"canonical_url": "https://aihot.news/items/cms3gt4xx01zcrondq0jif5n0"
 "score": 82
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 发布 Claude Opus 4.7，定位为最强大的通用模型，擅长复
 
 - **来源**: Claude Platform：开发者版本说明（RSS）
 - **原文链接**: [https://platform.claude.com/docs/en/release-notes/overview#april-16-2026](https://platform.claude.com/docs/en/release-notes/overview#april-16-2026)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3gt4xx01zcrondq0jif5n0](https://aihot.virxact.com/items/cms3gt4xx01zcrondq0jif5n0)
+- **AIHOT 链接**: [https://aihot.news/items/cms3gt4xx01zcrondq0jif5n0](https://aihot.news/items/cms3gt4xx01zcrondq0jif5n0)

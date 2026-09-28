@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-08T17:55:00.455Z"
 "source_name": "X：Gemini (@GeminiApp)"
 "original_url": "https://x.com/GeminiApp/status/2052805372050604187"
-"canonical_url": "https://aihot.virxact.com/items/cmox7tika00dislfonur1c7h6"
+"canonical_url": "https://aihot.news/items/cmox7tika00dislfonur1c7h6"
 "score": 73
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Gemini中的笔记本功能为复杂任务带来条理性。
 
 - **来源**: X：Gemini (@GeminiApp)
 - **原文链接**: [https://x.com/GeminiApp/status/2052805372050604187](https://x.com/GeminiApp/status/2052805372050604187)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmox7tika00dislfonur1c7h6](https://aihot.virxact.com/items/cmox7tika00dislfonur1c7h6)
+- **AIHOT 链接**: [https://aihot.news/items/cmox7tika00dislfonur1c7h6](https://aihot.news/items/cmox7tika00dislfonur1c7h6)

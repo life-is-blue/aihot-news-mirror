@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-05T19:28:17.097Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/deploying-claude-across-financial-services"
-"canonical_url": "https://aihot.virxact.com/items/cmot0u5zc01gaslv79q25qha8"
+"canonical_url": "https://aihot.news/items/cmot0u5zc01gaslv79q25qha8"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic发布金融服务行业Claude部署指南，详细介绍了Claude系�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/deploying-claude-across-financial-services](https://claude.com/blog/deploying-claude-across-financial-services)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmot0u5zc01gaslv79q25qha8](https://aihot.virxact.com/items/cmot0u5zc01gaslv79q25qha8)
+- **AIHOT 链接**: [https://aihot.news/items/cmot0u5zc01gaslv79q25qha8](https://aihot.news/items/cmot0u5zc01gaslv79q25qha8)

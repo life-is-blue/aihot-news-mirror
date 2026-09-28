@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/anthropic-is-about-to-become-the-first\
   -profitable-ai-lab"
-"canonical_url": "https://aihot.virxact.com/items/cmpfn8l6q07wdsljw3jydlv9i"
+"canonical_url": "https://aihot.news/items/cmpfn8l6q07wdsljw3jydlv9i"
 "score": 73
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/anthropic-is-about-to-become-the-first-profitable-ai-lab](https://the-decoder.com/anthropic-is-about-to-become-the-first-profitable-ai-lab)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpfn8l6q07wdsljw3jydlv9i](https://aihot.virxact.com/items/cmpfn8l6q07wdsljw3jydlv9i)
+- **AIHOT 链接**: [https://aihot.news/items/cmpfn8l6q07wdsljw3jydlv9i](https://aihot.news/items/cmpfn8l6q07wdsljw3jydlv9i)

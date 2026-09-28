@@ -7,7 +7,7 @@
 "source_name": "METR：Research（网页）"
 "original_url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation"
 "canonical_url": "https://aihot.news/items/cmtym8wed0002rohcibzhvv3l"
-"score": 85
+"score": 86
 "content_kind": "news"
 ---
 

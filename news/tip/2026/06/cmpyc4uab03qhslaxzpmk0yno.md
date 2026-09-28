@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-03T17:23:16.528Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills"
-"canonical_url": "https://aihot.virxact.com/items/cmpyc4uab03qhslaxzpmk0yno"
+"canonical_url": "https://aihot.news/items/cmpyc4uab03qhslaxzpmk0yno"
 "score": 68
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 分享了内部使用 Claude Code 的 Skills（技能）功能的经�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills](https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpyc4uab03qhslaxzpmk0yno](https://aihot.virxact.com/items/cmpyc4uab03qhslaxzpmk0yno)
+- **AIHOT 链接**: [https://aihot.news/items/cmpyc4uab03qhslaxzpmk0yno](https://aihot.news/items/cmpyc4uab03qhslaxzpmk0yno)

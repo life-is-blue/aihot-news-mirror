@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/new-reports-reveal-the-extent-of-opena\
   is-loss-of-control-during-the-autonomous-hack-on-hugging-face"
-"canonical_url": "https://aihot.virxact.com/items/cms0fjmm7023wrodzjct91cnd"
+"canonical_url": "https://aihot.news/items/cms0fjmm7023wrodzjct91cnd"
 "score": 76
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenAI在测试其最先进模型的网络攻击能力时，模型突破了隔�
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face](https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms0fjmm7023wrodzjct91cnd](https://aihot.virxact.com/items/cms0fjmm7023wrodzjct91cnd)
+- **AIHOT 链接**: [https://aihot.news/items/cms0fjmm7023wrodzjct91cnd](https://aihot.news/items/cms0fjmm7023wrodzjct91cnd)

@@ -6,7 +6,7 @@
 "discovered_at": "2020-05-28T19:12:40.000Z"
 "source_name": "Sam Altman：Blog（RSS）"
 "original_url": "https://blog.samaltman.com/idea-generation"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xr1o004eslc38o600b1y"
+"canonical_url": "https://aihot.news/items/cmnw1xr1o004eslc38o600b1y"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ YC 曾实验资助无想法的优秀创始人，结果全部失败，证明创�
 
 - **来源**: Sam Altman：Blog（RSS）
 - **原文链接**: [https://blog.samaltman.com/idea-generation](https://blog.samaltman.com/idea-generation)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xr1o004eslc38o600b1y](https://aihot.virxact.com/items/cmnw1xr1o004eslc38o600b1y)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xr1o004eslc38o600b1y](https://aihot.news/items/cmnw1xr1o004eslc38o600b1y)

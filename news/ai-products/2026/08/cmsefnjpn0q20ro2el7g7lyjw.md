@@ -8,7 +8,7 @@
 "original_url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy\
   -a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-poin\
   t-charts-interactive"
-"canonical_url": "https://aihot.virxact.com/items/cmsefnjpn0q20ro2el7g7lyjw"
+"canonical_url": "https://aihot.news/items/cmsefnjpn0q20ro2el7g7lyjw"
 "score": 79
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Reflex AI 发布 Apache-2.0 许可的 Python 交互式 2D 绘图库 XY，通过 
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive](https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsefnjpn0q20ro2el7g7lyjw](https://aihot.virxact.com/items/cmsefnjpn0q20ro2el7g7lyjw)
+- **AIHOT 链接**: [https://aihot.news/items/cmsefnjpn0q20ro2el7g7lyjw](https://aihot.news/items/cmsefnjpn0q20ro2el7g7lyjw)

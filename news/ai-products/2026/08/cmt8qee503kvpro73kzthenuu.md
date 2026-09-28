@@ -7,7 +7,7 @@
 "source_name": "Apple：Newsroom（RSS）"
 "original_url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and\
   -m5-ultra-for-a-big-leap-in-performance-and-ai-compute"
-"canonical_url": "https://aihot.virxact.com/items/cmt8qee503kvpro73kzthenuu"
+"canonical_url": "https://aihot.news/items/cmt8qee503kvpro73kzthenuu"
 "score": 55
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Apple 推出首款 2nm 芯片 M6，搭载 12 核 CPU、12 核 GPU 及双 16 核�
 
 - **来源**: Apple：Newsroom（RSS）
 - **原文链接**: [https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt8qee503kvpro73kzthenuu](https://aihot.virxact.com/items/cmt8qee503kvpro73kzthenuu)
+- **AIHOT 链接**: [https://aihot.news/items/cmt8qee503kvpro73kzthenuu](https://aihot.news/items/cmt8qee503kvpro73kzthenuu)

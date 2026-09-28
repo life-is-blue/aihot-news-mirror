@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-19T16:21:09.067Z"
 "source_name": "X：Demis Hassabis (@demishassabis)"
 "original_url": "https://x.com/demishassabis/status/2068002732250640603"
-"canonical_url": "https://aihot.virxact.com/items/cmql4yj5e014zsllucl69g3l6"
+"canonical_url": "https://aihot.news/items/cmql4yj5e014zsllucl69g3l6"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ AlphaFold 团队负责人 John Jumper 宣布，在 Google DeepMind 工作近 9 �
 
 - **来源**: X：Demis Hassabis (@demishassabis)
 - **原文链接**: [https://x.com/demishassabis/status/2068002732250640603](https://x.com/demishassabis/status/2068002732250640603)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmql4yj5e014zsllucl69g3l6](https://aihot.virxact.com/items/cmql4yj5e014zsllucl69g3l6)
+- **AIHOT 链接**: [https://aihot.news/items/cmql4yj5e014zsllucl69g3l6](https://aihot.news/items/cmql4yj5e014zsllucl69g3l6)

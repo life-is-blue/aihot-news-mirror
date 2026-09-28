@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-08T18:00:40.000Z"
 "source_name": "X：Andrej Karpathy (@karpathy)"
 "original_url": "https://x.com/karpathy/status/2030705271627284816"
-"canonical_url": "https://aihot.virxact.com/items/cmnzct54l02zrsl0f9otqywpn"
+"canonical_url": "https://aihot.news/items/cmnzct54l02zrsl0f9otqywpn"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ autoresearch的演进方向应是异步大规模协作，类似SETI@home模式�
 
 - **来源**: X：Andrej Karpathy (@karpathy)
 - **原文链接**: [https://x.com/karpathy/status/2030705271627284816](https://x.com/karpathy/status/2030705271627284816)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnzct54l02zrsl0f9otqywpn](https://aihot.virxact.com/items/cmnzct54l02zrsl0f9otqywpn)
+- **AIHOT 链接**: [https://aihot.news/items/cmnzct54l02zrsl0f9otqywpn](https://aihot.news/items/cmnzct54l02zrsl0f9otqywpn)

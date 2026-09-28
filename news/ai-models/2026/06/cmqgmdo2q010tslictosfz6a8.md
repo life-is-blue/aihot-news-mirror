@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-13T00:00:00.000Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2606.15079"
-"canonical_url": "https://aihot.virxact.com/items/cmqgmdo2q010tslictosfz6a8"
+"canonical_url": "https://aihot.news/items/cmqgmdo2q010tslictosfz6a8"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Ling-2.6优化即时响应与输出token能力，Ring-2.6针对深度推理和�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2606.15079](https://arxiv.org/abs/2606.15079)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqgmdo2q010tslictosfz6a8](https://aihot.virxact.com/items/cmqgmdo2q010tslictosfz6a8)
+- **AIHOT 链接**: [https://aihot.news/items/cmqgmdo2q010tslictosfz6a8](https://aihot.news/items/cmqgmdo2q010tslictosfz6a8)

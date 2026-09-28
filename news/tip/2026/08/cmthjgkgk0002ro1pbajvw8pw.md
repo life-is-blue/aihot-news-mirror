@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-31T17:55:06.644Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://tomtunguz.com/the-great-segmentation"
-"canonical_url": "https://aihot.virxact.com/items/cmthjgkgk0002ro1pbajvw8pw"
+"canonical_url": "https://aihot.news/items/cmthjgkgk0002ro1pbajvw8pw"
 "score": 63
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Tom Tunguz 撰文分析前沿 AI 市场正在分化为封闭阵营，访问权�
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://tomtunguz.com/the-great-segmentation](https://tomtunguz.com/the-great-segmentation)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmthjgkgk0002ro1pbajvw8pw](https://aihot.virxact.com/items/cmthjgkgk0002ro1pbajvw8pw)
+- **AIHOT 链接**: [https://aihot.news/items/cmthjgkgk0002ro1pbajvw8pw](https://aihot.news/items/cmthjgkgk0002ro1pbajvw8pw)

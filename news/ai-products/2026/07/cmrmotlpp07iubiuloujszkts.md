@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-15T23:04:39.698Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://github.com/vshulcz/deja-vu"
-"canonical_url": "https://aihot.virxact.com/items/cmrmotlpp07iubiuloujszkts"
+"canonical_url": "https://aihot.news/items/cmrmotlpp07iubiuloujszkts"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://github.com/vshulcz/deja-vu](https://github.com/vshulcz/deja-vu)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrmotlpp07iubiuloujszkts](https://aihot.virxact.com/items/cmrmotlpp07iubiuloujszkts)
+- **AIHOT 链接**: [https://aihot.news/items/cmrmotlpp07iubiuloujszkts](https://aihot.news/items/cmrmotlpp07iubiuloujszkts)

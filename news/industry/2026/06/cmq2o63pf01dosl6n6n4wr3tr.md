@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-06T18:11:18.685Z"
 "source_name": "公众号：阶跃星辰（Step）"
 "original_url": "https://mp.weixin.qq.com/s/ZVgqdH_fE42jO4kcI-lF3g"
-"canonical_url": "https://aihot.virxact.com/items/cmq2o63pf01dosl6n6n4wr3tr"
+"canonical_url": "https://aihot.news/items/cmq2o63pf01dosl6n6n4wr3tr"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ CVPR 2026 将 Longuet-Higgins Prize「时间检验奖」授予 2015 年发表的
 
 - **来源**: 公众号：阶跃星辰（Step）
 - **原文链接**: [https://mp.weixin.qq.com/s/ZVgqdH_fE42jO4kcI-lF3g](https://mp.weixin.qq.com/s/ZVgqdH_fE42jO4kcI-lF3g)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq2o63pf01dosl6n6n4wr3tr](https://aihot.virxact.com/items/cmq2o63pf01dosl6n6n4wr3tr)
+- **AIHOT 链接**: [https://aihot.news/items/cmq2o63pf01dosl6n6n4wr3tr](https://aihot.news/items/cmq2o63pf01dosl6n6n4wr3tr)

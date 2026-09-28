@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-15T17:09:38.798Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/unlocking-self-improvement-gpt-red"
-"canonical_url": "https://aihot.virxact.com/items/cmrmc527c0088bivcfrd3s2uz"
+"canonical_url": "https://aihot.news/items/cmrmc527c0088bivcfrd3s2uz"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 训练了自动化红队模型 GPT-Red，用于在部署前发现漏洞�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/unlocking-self-improvement-gpt-red](https://openai.com/index/unlocking-self-improvement-gpt-red)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrmc527c0088bivcfrd3s2uz](https://aihot.virxact.com/items/cmrmc527c0088bivcfrd3s2uz)
+- **AIHOT 链接**: [https://aihot.news/items/cmrmc527c0088bivcfrd3s2uz](https://aihot.news/items/cmrmc527c0088bivcfrd3s2uz)

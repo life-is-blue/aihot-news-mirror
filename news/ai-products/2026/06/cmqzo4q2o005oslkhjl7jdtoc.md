@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-29T20:26:36.817Z"
 "source_name": "X：OpenClaw (@openclaw)"
 "original_url": "https://x.com/openclaw/status/2071688039114342592"
-"canonical_url": "https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc"
+"canonical_url": "https://aihot.news/items/cmqzo4q2o005oslkhjl7jdtoc"
 "score": 71
 "content_kind": "news"
 ---
@@ -21,9 +21,9 @@ OpenClaw 现已登陆 iOS 和 Android 🦞
 
 用你的大拇指，在任何地方运行智能体。
 
-iOS： https://apps.apple.com/us/app/openclaw-ai-that-does-things/id6780396132
-Android： https://play.google.com/store/apps/details?id=ai.openclaw.app
+iOS: https://apps.apple.com/us/app/openclaw-ai-that-does-things/id6780396132  
+Android: https://play.google.com/store/apps/details?id=ai.openclaw.app
 
 - **来源**: X：OpenClaw (@openclaw)
 - **原文链接**: [https://x.com/openclaw/status/2071688039114342592](https://x.com/openclaw/status/2071688039114342592)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc](https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc)
+- **AIHOT 链接**: [https://aihot.news/items/cmqzo4q2o005oslkhjl7jdtoc](https://aihot.news/items/cmqzo4q2o005oslkhjl7jdtoc)

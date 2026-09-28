@@ -7,7 +7,7 @@
 "source_name": "公众号：卡尔的AI沃茨"
 "original_url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247\
   508934&idx=1&sn=d3082c762fb58884c933a370e10bc42d"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu4z39018trofznzdbbtz6"
+"canonical_url": "https://aihot.news/items/cmsdu4z39018trofznzdbbtz6"
 "score": 71
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: 公众号：卡尔的AI沃茨
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508934&idx=1&sn=d3082c762fb58884c933a370e10bc42d](https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508934&idx=1&sn=d3082c762fb58884c933a370e10bc42d)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu4z39018trofznzdbbtz6](https://aihot.virxact.com/items/cmsdu4z39018trofznzdbbtz6)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu4z39018trofznzdbbtz6](https://aihot.news/items/cmsdu4z39018trofznzdbbtz6)

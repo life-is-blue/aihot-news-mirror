@@ -6,7 +6,7 @@
 "discovered_at": "2025-11-17T00:00:00.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/build-rocm-kernels"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhak00aislxxixtvdmui"
+"canonical_url": "https://aihot.news/items/cmoegbhak00aislxxixtvdmui"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Hugging Face的kernels库简化了高性能深度学习内核的构建与共享�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/build-rocm-kernels](https://huggingface.co/blog/build-rocm-kernels)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhak00aislxxixtvdmui](https://aihot.virxact.com/items/cmoegbhak00aislxxixtvdmui)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhak00aislxxixtvdmui](https://aihot.news/items/cmoegbhak00aislxxixtvdmui)

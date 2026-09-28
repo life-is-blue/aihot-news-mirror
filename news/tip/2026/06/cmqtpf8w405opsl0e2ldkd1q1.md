@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-25T16:16:10.675Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/allenai/hybrid-token-prediction"
-"canonical_url": "https://aihot.virxact.com/items/cmqtpf8w405opsl0e2ldkd1q1"
+"canonical_url": "https://aihot.news/items/cmqtpf8w405opsl0e2ldkd1q1"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/allenai/hybrid-token-prediction](https://huggingface.co/blog/allenai/hybrid-token-prediction)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqtpf8w405opsl0e2ldkd1q1](https://aihot.virxact.com/items/cmqtpf8w405opsl0e2ldkd1q1)
+- **AIHOT 链接**: [https://aihot.news/items/cmqtpf8w405opsl0e2ldkd1q1](https://aihot.news/items/cmqtpf8w405opsl0e2ldkd1q1)

@@ -6,8 +6,8 @@
 "discovered_at": "2026-09-01T17:30:33.159Z"
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini"
-"canonical_url": "https://aihot.virxact.com/items/cmtiy0v6k01dproel63pg10os"
-"score": 71
+"canonical_url": "https://aihot.news/items/cmtiy0v6k01dproel63pg10os"
+"score": 72
 "content_kind": "news"
 ---
 
@@ -17,4 +17,4 @@ Google DeepMind 为 Gemini 3.7 Flash、3.6 Flash 和 3.5 Flash-Lite 推出 agent
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/introducing-agentic-video-in-gemini](https://deepmind.google/blog/introducing-agentic-video-in-gemini)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtiy0v6k01dproel63pg10os](https://aihot.virxact.com/items/cmtiy0v6k01dproel63pg10os)
+- **AIHOT 链接**: [https://aihot.news/items/cmtiy0v6k01dproel63pg10os](https://aihot.news/items/cmtiy0v6k01dproel63pg10os)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-13T16:17:46.778Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/announcements/fusion-beats-frontier"
-"canonical_url": "https://aihot.virxact.com/items/cmqck73e2001gslzwhu2x5dcg"
+"canonical_url": "https://aihot.news/items/cmqck73e2001gslzwhu2x5dcg"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/announcements/fusion-beats-frontier](https://openrouter.ai/blog/announcements/fusion-beats-frontier)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqck73e2001gslzwhu2x5dcg](https://aihot.virxact.com/items/cmqck73e2001gslzwhu2x5dcg)
+- **AIHOT 链接**: [https://aihot.news/items/cmqck73e2001gslzwhu2x5dcg](https://aihot.news/items/cmqck73e2001gslzwhu2x5dcg)

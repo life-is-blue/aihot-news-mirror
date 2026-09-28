@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-12T00:26:52.634Z"
 "source_name": "Simon Willison 博客"
 "original_url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive"
-"canonical_url": "https://aihot.virxact.com/items/cmqa6scyc0incslldmmaddv6d"
+"canonical_url": "https://aihot.news/items/cmqa6scyc0incslldmmaddv6d"
 "score": 79
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Simon Willison 博客
 - **原文链接**: [https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqa6scyc0incslldmmaddv6d](https://aihot.virxact.com/items/cmqa6scyc0incslldmmaddv6d)
+- **AIHOT 链接**: [https://aihot.news/items/cmqa6scyc0incslldmmaddv6d](https://aihot.news/items/cmqa6scyc0incslldmmaddv6d)

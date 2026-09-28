@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-28T10:47:08.820Z"
 "source_name": "Mistral AI：News（网页）"
 "original_url": "https://mistral.ai/news/physics-ai-research"
-"canonical_url": "https://aihot.virxact.com/items/cmppdcr7d0e32slv4rwk67i43"
+"canonical_url": "https://aihot.news/items/cmppdcr7d0e32slv4rwk67i43"
 "score": 55
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Mistral AI通过收购Emmi AI，强化其在推动AI研究前沿与工业工程�
 
 - **来源**: Mistral AI：News（网页）
 - **原文链接**: [https://mistral.ai/news/physics-ai-research](https://mistral.ai/news/physics-ai-research)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmppdcr7d0e32slv4rwk67i43](https://aihot.virxact.com/items/cmppdcr7d0e32slv4rwk67i43)
+- **AIHOT 链接**: [https://aihot.news/items/cmppdcr7d0e32slv4rwk67i43](https://aihot.news/items/cmppdcr7d0e32slv4rwk67i43)

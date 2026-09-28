@@ -13,7 +13,7 @@
 
 # Zyphra 发布 ZAYA1-8B：全 AMD 集群训练的 MoE 模型
 
-Zyphra 发布 ZAYA1-8B，一个活跃参数不足 10 亿的 MoE 模型，是首个完全在 AMD Instinct MI300 集群（1，024 个节点，与 IBM 合作构建）上完成预训练、中期训练和监督微调的模型。
+Zyphra 发布 ZAYA1-8B，一个活跃参数不足 10 亿的 MoE 模型，是首个完全在 AMD Instinct MI300 集群（1,024 个节点，与 IBM 合作构建）上完成预训练、中期训练和监督微调的模型。
 
 - **来源**: Zyphra Research（网页）
 - **原文链接**: [https://www.zyphra.com/our-work/zaya1-8b](https://www.zyphra.com/our-work/zaya1-8b)

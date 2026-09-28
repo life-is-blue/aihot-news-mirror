@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-29T14:32:36.000Z"
 "source_name": "Gary Marcus：The Road to AI We Can Trust（RSS）"
 "original_url": "https://garymarcus.substack.com/p/the-mirage-of-visual-understanding"
-"canonical_url": "https://aihot.virxact.com/items/cmnxjn4xh003ssl9of059x3ap"
+"canonical_url": "https://aihot.news/items/cmnxjn4xh003ssl9of059x3ap"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Gary Marcus：The Road to AI We Can Trust（RSS）
 - **原文链接**: [https://garymarcus.substack.com/p/the-mirage-of-visual-understanding](https://garymarcus.substack.com/p/the-mirage-of-visual-understanding)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnxjn4xh003ssl9of059x3ap](https://aihot.virxact.com/items/cmnxjn4xh003ssl9of059x3ap)
+- **AIHOT 链接**: [https://aihot.news/items/cmnxjn4xh003ssl9of059x3ap](https://aihot.news/items/cmnxjn4xh003ssl9of059x3ap)

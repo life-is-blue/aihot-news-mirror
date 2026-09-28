@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-20T15:00:00.000Z"
 "source_name": "Sakana AI：Blog（网页）"
 "original_url": "https://sakana.ai/fugu-cyber-release"
-"canonical_url": "https://aihot.virxact.com/items/cms3dxdsa0bdbro3fjt317bwf"
+"canonical_url": "https://aihot.news/items/cms3dxdsa0bdbro3fjt317bwf"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Sakana AI 发布 Fugu-Cyber，一款面向现代网络防御的编排模型，�
 
 - **来源**: Sakana AI：Blog（网页）
 - **原文链接**: [https://sakana.ai/fugu-cyber-release](https://sakana.ai/fugu-cyber-release)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3dxdsa0bdbro3fjt317bwf](https://aihot.virxact.com/items/cms3dxdsa0bdbro3fjt317bwf)
+- **AIHOT 链接**: [https://aihot.news/items/cms3dxdsa0bdbro3fjt317bwf](https://aihot.news/items/cms3dxdsa0bdbro3fjt317bwf)

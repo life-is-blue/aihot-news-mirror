@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-20T16:02:07.300Z"
 "source_name": "Mistral AI：News（网页）"
 "original_url": "https://mistral.ai/news/agentic-search"
-"canonical_url": "https://aihot.virxact.com/items/cmt1pkwbj04bxroovzkfca5c7"
+"canonical_url": "https://aihot.news/items/cmt1pkwbj04bxroovzkfca5c7"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Mistral 发布 Agentic Search，通过 search、open、navigate、read、grep �
 
 - **来源**: Mistral AI：News（网页）
 - **原文链接**: [https://mistral.ai/news/agentic-search](https://mistral.ai/news/agentic-search)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt1pkwbj04bxroovzkfca5c7](https://aihot.virxact.com/items/cmt1pkwbj04bxroovzkfca5c7)
+- **AIHOT 链接**: [https://aihot.news/items/cmt1pkwbj04bxroovzkfca5c7](https://aihot.news/items/cmt1pkwbj04bxroovzkfca5c7)

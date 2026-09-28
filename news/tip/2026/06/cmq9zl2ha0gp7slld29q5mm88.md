@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-04T12:00:00.000Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/insights/royale-last-agent-standing"
-"canonical_url": "https://aihot.virxact.com/items/cmq9zl2ha0gp7slld29q5mm88"
+"canonical_url": "https://aihot.news/items/cmq9zl2ha0gp7slld29q5mm88"
 "score": 58
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter 在 30 场机器人冲刺对决中测试了 11 款大语言模型，�
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/insights/royale-last-agent-standing](https://openrouter.ai/blog/insights/royale-last-agent-standing)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq9zl2ha0gp7slld29q5mm88](https://aihot.virxact.com/items/cmq9zl2ha0gp7slld29q5mm88)
+- **AIHOT 链接**: [https://aihot.news/items/cmq9zl2ha0gp7slld29q5mm88](https://aihot.news/items/cmq9zl2ha0gp7slld29q5mm88)

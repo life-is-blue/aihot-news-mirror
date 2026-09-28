@@ -7,7 +7,7 @@
 "source_name": "LangChain：Blog（RSS）"
 "original_url": "https://www.langchain.com/blog/making-data-ingestion-productio\
   n-ready-a-langchain-powered-airbyte-destination"
-"canonical_url": "https://aihot.virxact.com/items/cmt96t9tm0augrolyx2c3vi84"
+"canonical_url": "https://aihot.news/items/cmt96t9tm0augrolyx2c3vi84"
 "score": 61
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ LangChain 与 Airbyte 的集成方案旨在将检索应用扩展至生产环境�
 
 - **来源**: LangChain：Blog（RSS）
 - **原文链接**: [https://www.langchain.com/blog/making-data-ingestion-production-ready-a-langchain-powered-airbyte-destination](https://www.langchain.com/blog/making-data-ingestion-production-ready-a-langchain-powered-airbyte-destination)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt96t9tm0augrolyx2c3vi84](https://aihot.virxact.com/items/cmt96t9tm0augrolyx2c3vi84)
+- **AIHOT 链接**: [https://aihot.news/items/cmt96t9tm0augrolyx2c3vi84](https://aihot.news/items/cmt96t9tm0augrolyx2c3vi84)

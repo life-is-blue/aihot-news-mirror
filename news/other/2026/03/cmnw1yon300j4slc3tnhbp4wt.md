@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-14T20:52:29.000Z"
 "source_name": "X：Boris Cherny (@bcherny)"
 "original_url": "https://x.com/bcherny/status/2032922838751928407"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yon300j4slc3tnhbp4wt"
+"canonical_url": "https://aihot.news/items/cmnw1yon300j4slc3tnhbp4wt"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude 宣布未来两周内，周末及工作日太平洋时间（PT）5-11 点
 
 - **来源**: X：Boris Cherny (@bcherny)
 - **原文链接**: [https://x.com/bcherny/status/2032922838751928407](https://x.com/bcherny/status/2032922838751928407)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yon300j4slc3tnhbp4wt](https://aihot.virxact.com/items/cmnw1yon300j4slc3tnhbp4wt)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yon300j4slc3tnhbp4wt](https://aihot.news/items/cmnw1yon300j4slc3tnhbp4wt)

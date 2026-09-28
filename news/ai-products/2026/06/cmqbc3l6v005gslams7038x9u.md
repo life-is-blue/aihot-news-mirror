@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-12T19:43:20.664Z"
 "source_name": "X：Greg Brockman (@gdb)"
 "original_url": "https://x.com/gdb/status/2065514424278901018"
-"canonical_url": "https://aihot.virxact.com/items/cmqbc3l6v005gslams7038x9u"
+"canonical_url": "https://aihot.news/items/cmqbc3l6v005gslams7038x9u"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 在开发者文档网站上线了新的文档智能体，可帮助查找�
 
 - **来源**: X：Greg Brockman (@gdb)
 - **原文链接**: [https://x.com/gdb/status/2065514424278901018](https://x.com/gdb/status/2065514424278901018)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqbc3l6v005gslams7038x9u](https://aihot.virxact.com/items/cmqbc3l6v005gslams7038x9u)
+- **AIHOT 链接**: [https://aihot.news/items/cmqbc3l6v005gslams7038x9u](https://aihot.news/items/cmqbc3l6v005gslams7038x9u)

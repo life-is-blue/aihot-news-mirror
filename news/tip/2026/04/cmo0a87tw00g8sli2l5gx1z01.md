@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-15T16:46:03.864Z"
 "source_name": "Dwarkesh Patel：Podcast & Blog（RSS）"
 "original_url": "https://www.dwarkesh.com/p/jensen-huang"
-"canonical_url": "https://aihot.virxact.com/items/cmo0a87tw00g8sli2l5gx1z01"
+"canonical_url": "https://aihot.news/items/cmo0a87tw00g8sli2l5gx1z01"
 "score": 79
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Dwarkesh Patel：Podcast & Blog（RSS）
 - **原文链接**: [https://www.dwarkesh.com/p/jensen-huang](https://www.dwarkesh.com/p/jensen-huang)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmo0a87tw00g8sli2l5gx1z01](https://aihot.virxact.com/items/cmo0a87tw00g8sli2l5gx1z01)
+- **AIHOT 链接**: [https://aihot.news/items/cmo0a87tw00g8sli2l5gx1z01](https://aihot.news/items/cmo0a87tw00g8sli2l5gx1z01)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-28T00:00:00.000Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2607.26115"
-"canonical_url": "https://aihot.virxact.com/items/cms6x4iu90276rouqaq8hzfw7"
+"canonical_url": "https://aihot.news/items/cms6x4iu90276rouqaq8hzfw7"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 推出 GPT-Red，一个通过自对弈算法训练的自动化红队智�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2607.26115](https://arxiv.org/abs/2607.26115)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms6x4iu90276rouqaq8hzfw7](https://aihot.virxact.com/items/cms6x4iu90276rouqaq8hzfw7)
+- **AIHOT 链接**: [https://aihot.news/items/cms6x4iu90276rouqaq8hzfw7](https://aihot.news/items/cms6x4iu90276rouqaq8hzfw7)

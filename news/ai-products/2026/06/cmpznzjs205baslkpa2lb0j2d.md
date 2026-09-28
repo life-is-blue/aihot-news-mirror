@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-04T15:42:53.409Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/hf-cli-for-agents"
-"canonical_url": "https://aihot.virxact.com/items/cmpznzjs205baslkpa2lb0j2d"
+"canonical_url": "https://aihot.news/items/cmpznzjs205baslkpa2lb0j2d"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Hugging Face 重新设计 hf CLI，使其同时服务人类用户和编码智能
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/hf-cli-for-agents](https://huggingface.co/blog/hf-cli-for-agents)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpznzjs205baslkpa2lb0j2d](https://aihot.virxact.com/items/cmpznzjs205baslkpa2lb0j2d)
+- **AIHOT 链接**: [https://aihot.news/items/cmpznzjs205baslkpa2lb0j2d](https://aihot.news/items/cmpznzjs205baslkpa2lb0j2d)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-14T15:29:57.112Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/gates-foundation-partnership"
-"canonical_url": "https://aihot.virxact.com/items/cmp5na7ui0fmksljxalq3tlll"
+"canonical_url": "https://aihot.news/items/cmp5na7ui0fmksljxalq3tlll"
 "score": 82
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic与盖茨基金会建立为期四年、总额2亿美元的合作，通�
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/gates-foundation-partnership](https://www.anthropic.com/news/gates-foundation-partnership)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp5na7ui0fmksljxalq3tlll](https://aihot.virxact.com/items/cmp5na7ui0fmksljxalq3tlll)
+- **AIHOT 链接**: [https://aihot.news/items/cmp5na7ui0fmksljxalq3tlll](https://aihot.news/items/cmp5na7ui0fmksljxalq3tlll)

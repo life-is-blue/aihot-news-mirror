@@ -7,7 +7,7 @@
 "source_name": "GitHub Blog"
 "original_url": "https://github.blog/news-insights/company-news/github-copilot-\
   is-moving-to-usage-based-billing"
-"canonical_url": "https://aihot.virxact.com/items/cmoi4sccg00a4sle9uj6cwds1"
+"canonical_url": "https://aihot.news/items/cmoi4sccg00a4sle9uj6cwds1"
 "score": 79
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: GitHub Blog
 - **原文链接**: [https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing](https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoi4sccg00a4sle9uj6cwds1](https://aihot.virxact.com/items/cmoi4sccg00a4sle9uj6cwds1)
+- **AIHOT 链接**: [https://aihot.news/items/cmoi4sccg00a4sle9uj6cwds1](https://aihot.news/items/cmoi4sccg00a4sle9uj6cwds1)

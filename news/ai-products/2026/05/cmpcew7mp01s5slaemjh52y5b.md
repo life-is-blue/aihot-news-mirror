@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-19T09:09:26.458Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/claude-managed-agents-updates"
-"canonical_url": "https://aihot.virxact.com/items/cmpcew7mp01s5slaemjh52y5b"
+"canonical_url": "https://aihot.news/items/cmpcew7mp01s5slaemjh52y5b"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic为其Claude智能体托管平台推出两项更新：自托管沙箱�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/claude-managed-agents-updates](https://claude.com/blog/claude-managed-agents-updates)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpcew7mp01s5slaemjh52y5b](https://aihot.virxact.com/items/cmpcew7mp01s5slaemjh52y5b)
+- **AIHOT 链接**: [https://aihot.news/items/cmpcew7mp01s5slaemjh52y5b](https://aihot.news/items/cmpcew7mp01s5slaemjh52y5b)

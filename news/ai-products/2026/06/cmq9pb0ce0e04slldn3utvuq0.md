@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-11T16:17:29.403Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://mimo.xiaomi.com/mimocode"
-"canonical_url": "https://aihot.virxact.com/items/cmq9pb0ce0e04slldn3utvuq0"
+"canonical_url": "https://aihot.news/items/cmq9pb0ce0e04slldn3utvuq0"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://mimo.xiaomi.com/mimocode](https://mimo.xiaomi.com/mimocode)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq9pb0ce0e04slldn3utvuq0](https://aihot.virxact.com/items/cmq9pb0ce0e04slldn3utvuq0)
+- **AIHOT 链接**: [https://aihot.news/items/cmq9pb0ce0e04slldn3utvuq0](https://aihot.news/items/cmq9pb0ce0e04slldn3utvuq0)

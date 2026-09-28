@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-25T19:12:49.651Z"
 "source_name": "X：Midjourney (@midjourney)"
 "original_url": "https://x.com/midjourney/status/2070223272072065228"
-"canonical_url": "https://aihot.virxact.com/items/cmqtvqfrt07aksl0et0cawoue"
+"canonical_url": "https://aihot.news/items/cmqtvqfrt07aksl0et0cawoue"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Midjourney 带来两项更新。一是加入 `--preview` 参数可提前体验 V
 
 - **来源**: X：Midjourney (@midjourney)
 - **原文链接**: [https://x.com/midjourney/status/2070223272072065228](https://x.com/midjourney/status/2070223272072065228)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqtvqfrt07aksl0et0cawoue](https://aihot.virxact.com/items/cmqtvqfrt07aksl0et0cawoue)
+- **AIHOT 链接**: [https://aihot.news/items/cmqtvqfrt07aksl0et0cawoue](https://aihot.news/items/cmqtvqfrt07aksl0et0cawoue)

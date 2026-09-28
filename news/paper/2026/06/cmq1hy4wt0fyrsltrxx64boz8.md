@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-05T22:29:21.659Z"
 "source_name": "X：Rohan Paul (@rohanpaul_ai)"
 "original_url": "https://x.com/rohanpaul_ai/status/2063018358795300982"
-"canonical_url": "https://aihot.virxact.com/items/cmq1hy4wt0fyrsltrxx64boz8"
+"canonical_url": "https://aihot.news/items/cmq1hy4wt0fyrsltrxx64boz8"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Arena 推出基于真实用户任务的智能体排行榜，评估模型在代�
 
 - **来源**: X：Rohan Paul (@rohanpaul_ai)
 - **原文链接**: [https://x.com/rohanpaul_ai/status/2063018358795300982](https://x.com/rohanpaul_ai/status/2063018358795300982)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq1hy4wt0fyrsltrxx64boz8](https://aihot.virxact.com/items/cmq1hy4wt0fyrsltrxx64boz8)
+- **AIHOT 链接**: [https://aihot.news/items/cmq1hy4wt0fyrsltrxx64boz8](https://aihot.news/items/cmq1hy4wt0fyrsltrxx64boz8)

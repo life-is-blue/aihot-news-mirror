@@ -6,7 +6,7 @@
 "discovered_at": "2026-02-26T16:00:00.000Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/statement-comments-secretary-war"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xugc00eoslc3u8p6mrcp"
+"canonical_url": "https://aihot.news/items/cmnw1xugc00eoslc3u8p6mrcp"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/statement-comments-secretary-war](https://www.anthropic.com/news/statement-comments-secretary-war)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xugc00eoslc3u8p6mrcp](https://aihot.virxact.com/items/cmnw1xugc00eoslc3u8p6mrcp)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xugc00eoslc3u8p6mrcp](https://aihot.news/items/cmnw1xugc00eoslc3u8p6mrcp)

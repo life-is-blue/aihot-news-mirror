@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-09T18:05:41.623Z"
 "source_name": "X：Eric Zakariasson (@ericzakariasson)"
 "original_url": "https://x.com/ericzakariasson/status/2064404502053294565"
-"canonical_url": "https://aihot.virxact.com/items/cmq6yahue00p0slbh0r0bgk9q"
+"canonical_url": "https://aihot.news/items/cmq6yahue00p0slbh0r0bgk9q"
 "score": 75
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@
 
 - **来源**: X：Eric Zakariasson (@ericzakariasson)
 - **原文链接**: [https://x.com/ericzakariasson/status/2064404502053294565](https://x.com/ericzakariasson/status/2064404502053294565)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq6yahue00p0slbh0r0bgk9q](https://aihot.virxact.com/items/cmq6yahue00p0slbh0r0bgk9q)
+- **AIHOT 链接**: [https://aihot.news/items/cmq6yahue00p0slbh0r0bgk9q](https://aihot.news/items/cmq6yahue00p0slbh0r0bgk9q)

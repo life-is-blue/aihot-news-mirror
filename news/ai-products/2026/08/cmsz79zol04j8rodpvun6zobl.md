@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-18T21:54:13.934Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.modular.com/blog/mojo-open-source"
-"canonical_url": "https://aihot.virxact.com/items/cmsz79zol04j8rodpvun6zobl"
+"canonical_url": "https://aihot.news/items/cmsz79zol04j8rodpvun6zobl"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Mojo🔥 语言现已正式开源，采用 Apache 2.0 许可证（含 LLVM 例�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.modular.com/blog/mojo-open-source](https://www.modular.com/blog/mojo-open-source)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsz79zol04j8rodpvun6zobl](https://aihot.virxact.com/items/cmsz79zol04j8rodpvun6zobl)
+- **AIHOT 链接**: [https://aihot.news/items/cmsz79zol04j8rodpvun6zobl](https://aihot.news/items/cmsz79zol04j8rodpvun6zobl)

@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/openais-gpt-5-6-launches-thursday-afte\
   r-a-delay-forced-by-the-u-s-government"
-"canonical_url": "https://aihot.virxact.com/items/cmrbspnw906wlihl1bo8bu63i"
+"canonical_url": "https://aihot.news/items/cmrbspnw906wlihl1bo8bu63i"
 "score": 74
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenAI GPT-5.6 模型于周四发布。该模型6月底亮相，最初因美国�
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/openais-gpt-5-6-launches-thursday-after-a-delay-forced-by-the-u-s-government](https://the-decoder.com/openais-gpt-5-6-launches-thursday-after-a-delay-forced-by-the-u-s-government)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrbspnw906wlihl1bo8bu63i](https://aihot.virxact.com/items/cmrbspnw906wlihl1bo8bu63i)
+- **AIHOT 链接**: [https://aihot.news/items/cmrbspnw906wlihl1bo8bu63i](https://aihot.news/items/cmrbspnw906wlihl1bo8bu63i)

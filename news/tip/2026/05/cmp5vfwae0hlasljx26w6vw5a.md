@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-14T19:18:28.395Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://www.tomtunguz.com/cost-of-ai-email"
-"canonical_url": "https://aihot.virxact.com/items/cmp5vfwae0hlasljx26w6vw5a"
+"canonical_url": "https://aihot.news/items/cmp5vfwae0hlasljx26w6vw5a"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://www.tomtunguz.com/cost-of-ai-email](https://www.tomtunguz.com/cost-of-ai-email)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp5vfwae0hlasljx26w6vw5a](https://aihot.virxact.com/items/cmp5vfwae0hlasljx26w6vw5a)
+- **AIHOT 链接**: [https://aihot.news/items/cmp5vfwae0hlasljx26w6vw5a](https://aihot.news/items/cmp5vfwae0hlasljx26w6vw5a)

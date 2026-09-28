@@ -7,7 +7,7 @@
 "source_name": "Sarvam AI（网页）"
 "original_url": "https://www.sarvam.ai/blogs/indias-sovereign-llm"
 "canonical_url": "https://aihot.news/items/cmtyo658c03q9rog0c3kfq611"
-"score": 60
+"score": 61
 "content_kind": "news"
 ---
 

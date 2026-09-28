@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-14T15:33:49.376Z"
 "source_name": "X：Claude (@claudeai)"
 "original_url": "https://x.com/claudeai/status/2077047278078931243"
-"canonical_url": "https://aihot.virxact.com/items/cmrkt9zq7011abi5qzyxc3kxb"
+"canonical_url": "https://aihot.news/items/cmrkt9zq7011abi5qzyxc3kxb"
 "score": 67
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ https://claude.com/solutions/teachers
 
 - **来源**: X：Claude (@claudeai)
 - **原文链接**: [https://x.com/claudeai/status/2077047278078931243](https://x.com/claudeai/status/2077047278078931243)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrkt9zq7011abi5qzyxc3kxb](https://aihot.virxact.com/items/cmrkt9zq7011abi5qzyxc3kxb)
+- **AIHOT 链接**: [https://aihot.news/items/cmrkt9zq7011abi5qzyxc3kxb](https://aihot.news/items/cmrkt9zq7011abi5qzyxc3kxb)

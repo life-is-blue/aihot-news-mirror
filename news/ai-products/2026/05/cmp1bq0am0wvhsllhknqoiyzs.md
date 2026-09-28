@@ -7,7 +7,7 @@
 "source_name": "Runway：News（网页）"
 "original_url": "https://runwayml.com/news/stop-writing-yaml-configuring-ml-sys\
   tems-with-confingy"
-"canonical_url": "https://aihot.virxact.com/items/cmp1bq0am0wvhsllhknqoiyzs"
+"canonical_url": "https://aihot.news/items/cmp1bq0am0wvhsllhknqoiyzs"
 "score": 68
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Runway开源了Python库confingy，旨在解决机器学习系统配置的长期
 
 - **来源**: Runway：News（网页）
 - **原文链接**: [https://runwayml.com/news/stop-writing-yaml-configuring-ml-systems-with-confingy](https://runwayml.com/news/stop-writing-yaml-configuring-ml-systems-with-confingy)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp1bq0am0wvhsllhknqoiyzs](https://aihot.virxact.com/items/cmp1bq0am0wvhsllhknqoiyzs)
+- **AIHOT 链接**: [https://aihot.news/items/cmp1bq0am0wvhsllhknqoiyzs](https://aihot.news/items/cmp1bq0am0wvhsllhknqoiyzs)

@@ -8,7 +8,7 @@
 "original_url": "https://cognition.com/blog/funding-growth-and-the-next-frontie\
   r-of-ai-coding-agents"
 "canonical_url": "https://aihot.news/items/cmtyo2iho03dlrog0b341mfso"
-"score": 69
+"score": 70
 "content_kind": "news"
 ---
 

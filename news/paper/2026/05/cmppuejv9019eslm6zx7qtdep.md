@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-28T18:44:47.184Z"
 "source_name": "X：Rohan Paul (@rohanpaul_ai)"
 "original_url": "https://x.com/rohanpaul_ai/status/2060063592448446778"
-"canonical_url": "https://aihot.virxact.com/items/cmppuejv9019eslm6zx7qtdep"
+"canonical_url": "https://aihot.news/items/cmppuejv9019eslm6zx7qtdep"
 "score": 81
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ hexoai开源了SIA（自我改进AI）框架。该框架展示了AI智能体不�
 
 - **来源**: X：Rohan Paul (@rohanpaul_ai)
 - **原文链接**: [https://x.com/rohanpaul_ai/status/2060063592448446778](https://x.com/rohanpaul_ai/status/2060063592448446778)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmppuejv9019eslm6zx7qtdep](https://aihot.virxact.com/items/cmppuejv9019eslm6zx7qtdep)
+- **AIHOT 链接**: [https://aihot.news/items/cmppuejv9019eslm6zx7qtdep](https://aihot.news/items/cmppuejv9019eslm6zx7qtdep)

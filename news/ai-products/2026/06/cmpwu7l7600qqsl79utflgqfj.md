@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-02T16:13:47.225Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/codex-for-every-role-tool-workflow"
-"canonical_url": "https://aihot.virxact.com/items/cmpwu7l7600qqsl79utflgqfj"
+"canonical_url": "https://aihot.news/items/cmpwu7l7600qqsl79utflgqfj"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 的 Codex 新增了插件、站点和注释等功能。这些新功能旨
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/codex-for-every-role-tool-workflow](https://openai.com/index/codex-for-every-role-tool-workflow)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpwu7l7600qqsl79utflgqfj](https://aihot.virxact.com/items/cmpwu7l7600qqsl79utflgqfj)
+- **AIHOT 链接**: [https://aihot.news/items/cmpwu7l7600qqsl79utflgqfj](https://aihot.news/items/cmpwu7l7600qqsl79utflgqfj)

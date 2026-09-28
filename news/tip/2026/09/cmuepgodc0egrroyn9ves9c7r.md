@@ -7,7 +7,7 @@
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/improved-token-efficiency"
 "canonical_url": "https://aihot.news/items/cmuepgodc0egrroyn9ves9c7r"
-"score": 60
+"score": 61
 "content_kind": "news"
 ---
 

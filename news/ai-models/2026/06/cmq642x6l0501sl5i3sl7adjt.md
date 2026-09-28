@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-05T05:27:22.000Z"
 "source_name": "公众号：京东JoyAI"
 "original_url": "https://mp.weixin.qq.com/s/6ZKUwaMufy1cpUFFijokTQ"
-"canonical_url": "https://aihot.virxact.com/items/cmq642x6l0501sl5i3sl7adjt"
+"canonical_url": "https://aihot.news/items/cmq642x6l0501sl5i3sl7adjt"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: 公众号：京东JoyAI
 - **原文链接**: [https://mp.weixin.qq.com/s/6ZKUwaMufy1cpUFFijokTQ](https://mp.weixin.qq.com/s/6ZKUwaMufy1cpUFFijokTQ)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq642x6l0501sl5i3sl7adjt](https://aihot.virxact.com/items/cmq642x6l0501sl5i3sl7adjt)
+- **AIHOT 链接**: [https://aihot.news/items/cmq642x6l0501sl5i3sl7adjt](https://aihot.news/items/cmq642x6l0501sl5i3sl7adjt)

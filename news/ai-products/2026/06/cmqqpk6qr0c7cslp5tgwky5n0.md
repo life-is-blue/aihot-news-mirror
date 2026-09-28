@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-23T13:56:41.596Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://github.com/baidu/Unlimited-OCR"
-"canonical_url": "https://aihot.virxact.com/items/cmqqpk6qr0c7cslp5tgwky5n0"
+"canonical_url": "https://aihot.news/items/cmqqpk6qr0c7cslp5tgwky5n0"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Unlimited OCR 是一个托管在 GitHub 的项目，实现单次长时域解析�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://github.com/baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqqpk6qr0c7cslp5tgwky5n0](https://aihot.virxact.com/items/cmqqpk6qr0c7cslp5tgwky5n0)
+- **AIHOT 链接**: [https://aihot.news/items/cmqqpk6qr0c7cslp5tgwky5n0](https://aihot.news/items/cmqqpk6qr0c7cslp5tgwky5n0)

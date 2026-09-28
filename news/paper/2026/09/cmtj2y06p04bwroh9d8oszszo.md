@@ -6,8 +6,8 @@
 "discovered_at": "2026-09-01T19:48:18.025Z"
 "source_name": "X：Rohan Paul (@rohanpaul_ai)"
 "original_url": "https://x.com/rohanpaul_ai/status/2094873718237565197"
-"canonical_url": "https://aihot.virxact.com/items/cmtj2y06p04bwroh9d8oszszo"
-"score": 79
+"canonical_url": "https://aihot.news/items/cmtj2y06p04bwroh9d8oszszo"
+"score": 80
 "content_kind": "news"
 ---
 
@@ -17,4 +17,4 @@ Rohan Paul 梳理了 Fable 5.1 系统卡中的安全发现：Anthropic 称该模
 
 - **来源**: X：Rohan Paul (@rohanpaul_ai)
 - **原文链接**: [https://x.com/rohanpaul_ai/status/2094873718237565197](https://x.com/rohanpaul_ai/status/2094873718237565197)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtj2y06p04bwroh9d8oszszo](https://aihot.virxact.com/items/cmtj2y06p04bwroh9d8oszszo)
+- **AIHOT 链接**: [https://aihot.news/items/cmtj2y06p04bwroh9d8oszszo](https://aihot.news/items/cmtj2y06p04bwroh9d8oszszo)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-24T17:07:34.309Z"
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash"
-"canonical_url": "https://aihot.virxact.com/items/cmqsbthp601p3slfuajayc4gr"
+"canonical_url": "https://aihot.news/items/cmqsbthp601p3slfuajayc4gr"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google DeepMind 宣布，computer use 现作为内置工具集成于 Gemini 3.5 
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash](https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqsbthp601p3slfuajayc4gr](https://aihot.virxact.com/items/cmqsbthp601p3slfuajayc4gr)
+- **AIHOT 链接**: [https://aihot.news/items/cmqsbthp601p3slfuajayc4gr](https://aihot.news/items/cmqsbthp601p3slfuajayc4gr)

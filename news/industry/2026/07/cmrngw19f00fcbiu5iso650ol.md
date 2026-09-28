@@ -7,7 +7,7 @@
 "source_name": "The Verge：AI（RSS）"
 "original_url": "https://www.theverge.com/policy/966438/eu-google-android-ai-in\
   teroperability-search-data-dma"
-"canonical_url": "https://aihot.virxact.com/items/cmrngw19f00fcbiu5iso650ol"
+"canonical_url": "https://aihot.news/items/cmrngw19f00fcbiu5iso650ol"
 "score": 78
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: The Verge：AI（RSS）
 - **原文链接**: [https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma](https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrngw19f00fcbiu5iso650ol](https://aihot.virxact.com/items/cmrngw19f00fcbiu5iso650ol)
+- **AIHOT 链接**: [https://aihot.news/items/cmrngw19f00fcbiu5iso650ol](https://aihot.news/items/cmrngw19f00fcbiu5iso650ol)

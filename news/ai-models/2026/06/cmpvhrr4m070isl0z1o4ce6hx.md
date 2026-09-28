@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-01T17:37:46.564Z"
 "source_name": "Qwen：Blog Retrieval（API）"
 "original_url": "https://qwen.ai/blog?id=qwen3.7-plus"
-"canonical_url": "https://aihot.virxact.com/items/cmpvhrr4m070isl0z1o4ce6hx"
+"canonical_url": "https://aihot.news/items/cmpvhrr4m070isl0z1o4ce6hx"
 "score": 81
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Qwen：Blog Retrieval（API）
 - **原文链接**: [https://qwen.ai/blog?id=qwen3.7-plus](https://qwen.ai/blog?id=qwen3.7-plus)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpvhrr4m070isl0z1o4ce6hx](https://aihot.virxact.com/items/cmpvhrr4m070isl0z1o4ce6hx)
+- **AIHOT 链接**: [https://aihot.news/items/cmpvhrr4m070isl0z1o4ce6hx](https://aihot.news/items/cmpvhrr4m070isl0z1o4ce6hx)

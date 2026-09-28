@@ -6,7 +6,7 @@
 "discovered_at": "2026-09-04T18:58:28.869Z"
 "source_name": "X：Anthropic (@AnthropicAI)"
 "original_url": "https://x.com/AnthropicAI/status/2095947707605266436"
-"canonical_url": "https://aihot.virxact.com/items/cmtnbhhu902perog1dmrla299"
+"canonical_url": "https://aihot.news/items/cmtnbhhu902perog1dmrla299"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 宣布 Claude 上月完成了 Fermat 大定理的首个形式化证明
 
 - **来源**: X：Anthropic (@AnthropicAI)
 - **原文链接**: [https://x.com/AnthropicAI/status/2095947707605266436](https://x.com/AnthropicAI/status/2095947707605266436)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtnbhhu902perog1dmrla299](https://aihot.virxact.com/items/cmtnbhhu902perog1dmrla299)
+- **AIHOT 链接**: [https://aihot.news/items/cmtnbhhu902perog1dmrla299](https://aihot.news/items/cmtnbhhu902perog1dmrla299)

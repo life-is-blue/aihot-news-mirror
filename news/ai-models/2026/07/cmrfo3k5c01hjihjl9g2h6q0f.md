@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-11T01:10:01.282Z"
 "source_name": "X：Greg Brockman (@gdb)"
 "original_url": "https://x.com/gdb/status/2075741989228945908"
-"canonical_url": "https://aihot.virxact.com/items/cmrfo3k5c01hjihjl9g2h6q0f"
+"canonical_url": "https://aihot.news/items/cmrfo3k5c01hjihjl9g2h6q0f"
 "score": 71
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ GPT-5.6 用于健康智能，团队一直专注于这方面的改进：
 
 - **来源**: X：Greg Brockman (@gdb)
 - **原文链接**: [https://x.com/gdb/status/2075741989228945908](https://x.com/gdb/status/2075741989228945908)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrfo3k5c01hjihjl9g2h6q0f](https://aihot.virxact.com/items/cmrfo3k5c01hjihjl9g2h6q0f)
+- **AIHOT 链接**: [https://aihot.news/items/cmrfo3k5c01hjihjl9g2h6q0f](https://aihot.news/items/cmrfo3k5c01hjihjl9g2h6q0f)

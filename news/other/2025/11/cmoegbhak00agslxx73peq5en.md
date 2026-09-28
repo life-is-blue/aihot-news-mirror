@@ -6,7 +6,7 @@
 "discovered_at": "2025-11-20T00:00:00.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/anylanguagemodel"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhak00agslxx73peq5en"
+"canonical_url": "https://aihot.news/items/cmoegbhak00agslxx73peq5en"
 "score": 83
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ AnyLanguageModel 是一个 Swift 包，旨在为苹果平台上的大语言模�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/anylanguagemodel](https://huggingface.co/blog/anylanguagemodel)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhak00agslxx73peq5en](https://aihot.virxact.com/items/cmoegbhak00agslxx73peq5en)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhak00agslxx73peq5en](https://aihot.news/items/cmoegbhak00agslxx73peq5en)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-20T16:49:51.406Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/nvidia/cosmos3edge"
-"canonical_url": "https://aihot.virxact.com/items/cmrtgmuyf3366bitl3gnpc8eo"
+"canonical_url": "https://aihot.news/items/cmrtgmuyf3366bitl3gnpc8eo"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ NVIDIA 在 Hugging Face 上开源了 Cosmos 3 Edge，一个 40 亿参数的世�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/nvidia/cosmos3edge](https://huggingface.co/blog/nvidia/cosmos3edge)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrtgmuyf3366bitl3gnpc8eo](https://aihot.virxact.com/items/cmrtgmuyf3366bitl3gnpc8eo)
+- **AIHOT 链接**: [https://aihot.news/items/cmrtgmuyf3366bitl3gnpc8eo](https://aihot.news/items/cmrtgmuyf3366bitl3gnpc8eo)

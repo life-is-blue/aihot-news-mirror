@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-29T13:49:30.146Z"
 "source_name": "X：小米 MiMo (@XiaomiMiMo)"
 "original_url": "https://x.com/XiaomiMiMo/status/2049483701906776514"
-"canonical_url": "https://aihot.virxact.com/items/cmok433md01zqslz341gd414x"
+"canonical_url": "https://aihot.news/items/cmok433md01zqslz341gd414x"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：小米 MiMo (@XiaomiMiMo)
 - **原文链接**: [https://x.com/XiaomiMiMo/status/2049483701906776514](https://x.com/XiaomiMiMo/status/2049483701906776514)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmok433md01zqslz341gd414x](https://aihot.virxact.com/items/cmok433md01zqslz341gd414x)
+- **AIHOT 链接**: [https://aihot.news/items/cmok433md01zqslz341gd414x](https://aihot.news/items/cmok433md01zqslz341gd414x)

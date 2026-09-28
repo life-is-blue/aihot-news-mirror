@@ -7,7 +7,7 @@
 "source_name": "Google AI：DEV 作者专属（RSS）"
 "original_url": "https://dev.to/googleai/google-cloud-skills-tutorial-the-compl\
   ete-guide-to-ai-powered-cloud-operations-13d9"
-"canonical_url": "https://aihot.virxact.com/items/cms3dqexi0avcro3fkdase1p5"
+"canonical_url": "https://aihot.news/items/cms3dqexi0avcro3fkdase1p5"
 "score": 61
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google Cloud 推出官方 Agent Skills 开源指令集，旨在让 AI 编码智�
 
 - **来源**: Google AI：DEV 作者专属（RSS）
 - **原文链接**: [https://dev.to/googleai/google-cloud-skills-tutorial-the-complete-guide-to-ai-powered-cloud-operations-13d9](https://dev.to/googleai/google-cloud-skills-tutorial-the-complete-guide-to-ai-powered-cloud-operations-13d9)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3dqexi0avcro3fkdase1p5](https://aihot.virxact.com/items/cms3dqexi0avcro3fkdase1p5)
+- **AIHOT 链接**: [https://aihot.news/items/cms3dqexi0avcro3fkdase1p5](https://aihot.news/items/cms3dqexi0avcro3fkdase1p5)

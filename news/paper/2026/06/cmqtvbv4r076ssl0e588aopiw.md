@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-su\
   b-1-nanometer-chip-technology"
-"canonical_url": "https://aihot.virxact.com/items/cmqtvbv4r076ssl0e588aopiw"
+"canonical_url": "https://aihot.news/items/cmqtvbv4r076ssl0e588aopiw"
 "score": 78
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ IBM 于 2026 年 6 月 25 日发布全球首款亚纳米级芯片技术，采用
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology](https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqtvbv4r076ssl0e588aopiw](https://aihot.virxact.com/items/cmqtvbv4r076ssl0e588aopiw)
+- **AIHOT 链接**: [https://aihot.news/items/cmqtvbv4r076ssl0e588aopiw](https://aihot.news/items/cmqtvbv4r076ssl0e588aopiw)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-31T21:59:08.343Z"
 "source_name": "X：Artificial Analysis (@ArtificialAnlys)"
 "original_url": "https://x.com/ArtificialAnlys/status/2083306229074739285"
-"canonical_url": "https://aihot.virxact.com/items/cms9hiyz80fdvro9kepvm1qvk"
+"canonical_url": "https://aihot.news/items/cms9hiyz80fdvro9kepvm1qvk"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ DeepSeek 发布开源模型 DeepSeek V4 Flash 0731，在 Artificial Analysis 智
 
 - **来源**: X：Artificial Analysis (@ArtificialAnlys)
 - **原文链接**: [https://x.com/ArtificialAnlys/status/2083306229074739285](https://x.com/ArtificialAnlys/status/2083306229074739285)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms9hiyz80fdvro9kepvm1qvk](https://aihot.virxact.com/items/cms9hiyz80fdvro9kepvm1qvk)
+- **AIHOT 链接**: [https://aihot.news/items/cms9hiyz80fdvro9kepvm1qvk](https://aihot.news/items/cms9hiyz80fdvro9kepvm1qvk)

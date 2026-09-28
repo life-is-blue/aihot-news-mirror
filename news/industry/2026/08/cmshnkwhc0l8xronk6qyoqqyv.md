@@ -7,7 +7,7 @@
 "source_name": "TechCrunch：AI（RSS）"
 "original_url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-secur\
   ity-practices-undermine-its-trade-secrets-case"
-"canonical_url": "https://aihot.virxact.com/items/cmshnkwhc0l8xronk6qyoqqyv"
+"canonical_url": "https://aihot.news/items/cmshnkwhc0l8xronk6qyoqqyv"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenAI 在驳回苹果商业机密诉讼的动议中辩称，苹果允许员工�
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case](https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmshnkwhc0l8xronk6qyoqqyv](https://aihot.virxact.com/items/cmshnkwhc0l8xronk6qyoqqyv)
+- **AIHOT 链接**: [https://aihot.news/items/cmshnkwhc0l8xronk6qyoqqyv](https://aihot.news/items/cmshnkwhc0l8xronk6qyoqqyv)

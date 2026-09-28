@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-26T20:27:15.025Z"
 "source_name": "Ethan Mollick：One Useful Thing（RSS）"
 "original_url": "https://www.oneusefulthing.org/p/choosing-to-stay-human"
-"canonical_url": "https://aihot.virxact.com/items/cmpn36lbm0u1jsl01z7qrudt2"
+"canonical_url": "https://aihot.news/items/cmpn36lbm0u1jsl01z7qrudt2"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Ethan Mollick：One Useful Thing（RSS）
 - **原文链接**: [https://www.oneusefulthing.org/p/choosing-to-stay-human](https://www.oneusefulthing.org/p/choosing-to-stay-human)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpn36lbm0u1jsl01z7qrudt2](https://aihot.virxact.com/items/cmpn36lbm0u1jsl01z7qrudt2)
+- **AIHOT 链接**: [https://aihot.news/items/cmpn36lbm0u1jsl01z7qrudt2](https://aihot.news/items/cmpn36lbm0u1jsl01z7qrudt2)

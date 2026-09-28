@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-30T17:03:41.302Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/introducing-genebench-pro"
-"canonical_url": "https://aihot.virxact.com/items/cmr0wblyn0050sl40bngva2bq"
+"canonical_url": "https://aihot.news/items/cmr0wblyn0050sl40bngva2bq"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 发布 GeneBench-Pro，用于评估 AI 智能体在计算生物学中处�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/introducing-genebench-pro](https://openai.com/index/introducing-genebench-pro)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr0wblyn0050sl40bngva2bq](https://aihot.virxact.com/items/cmr0wblyn0050sl40bngva2bq)
+- **AIHOT 链接**: [https://aihot.news/items/cmr0wblyn0050sl40bngva2bq](https://aihot.news/items/cmr0wblyn0050sl40bngva2bq)

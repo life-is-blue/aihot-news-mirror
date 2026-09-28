@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-30T00:00:00.000Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2607.28609"
-"canonical_url": "https://aihot.virxact.com/items/cmsij73nw1gobronkqj5jw9mj"
+"canonical_url": "https://aihot.news/items/cmsij73nw1gobronkqj5jw9mj"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OSReward 是一个用于评估视觉语言模型（VLM）作为计算机操作�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2607.28609](https://arxiv.org/abs/2607.28609)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsij73nw1gobronkqj5jw9mj](https://aihot.virxact.com/items/cmsij73nw1gobronkqj5jw9mj)
+- **AIHOT 链接**: [https://aihot.news/items/cmsij73nw1gobronkqj5jw9mj](https://aihot.news/items/cmsij73nw1gobronkqj5jw9mj)

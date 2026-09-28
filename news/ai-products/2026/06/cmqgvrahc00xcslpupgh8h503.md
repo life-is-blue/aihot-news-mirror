@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-16T16:52:30.081Z"
 "source_name": "X：Jim Fan (@DrJimFan)"
 "original_url": "https://x.com/DrJimFan/status/2066921736369766762"
-"canonical_url": "https://aihot.virxact.com/items/cmqgvrahc00xcslpupgh8h503"
+"canonical_url": "https://aihot.news/items/cmqgvrahc00xcslpupgh8h503"
 "score": 64
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ NVIDIA GEAR 实验室首次在物理世界启用 AutoResearch，推出 ENPIRE �
 
 - **来源**: X：Jim Fan (@DrJimFan)
 - **原文链接**: [https://x.com/DrJimFan/status/2066921736369766762](https://x.com/DrJimFan/status/2066921736369766762)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqgvrahc00xcslpupgh8h503](https://aihot.virxact.com/items/cmqgvrahc00xcslpupgh8h503)
+- **AIHOT 链接**: [https://aihot.news/items/cmqgvrahc00xcslpupgh8h503](https://aihot.news/items/cmqgvrahc00xcslpupgh8h503)

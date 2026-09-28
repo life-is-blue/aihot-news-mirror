@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-09T00:00:00.000Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2606.11324"
-"canonical_url": "https://aihot.virxact.com/items/cmq8ws2lj06iislldscf42bb5"
+"canonical_url": "https://aihot.news/items/cmq8ws2lj06iislldscf42bb5"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Embodied-R1.5是一个统一具身基础模型，将具身认知、任务规划�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2606.11324](https://arxiv.org/abs/2606.11324)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq8ws2lj06iislldscf42bb5](https://aihot.virxact.com/items/cmq8ws2lj06iislldscf42bb5)
+- **AIHOT 链接**: [https://aihot.news/items/cmq8ws2lj06iislldscf42bb5](https://aihot.news/items/cmq8ws2lj06iislldscf42bb5)

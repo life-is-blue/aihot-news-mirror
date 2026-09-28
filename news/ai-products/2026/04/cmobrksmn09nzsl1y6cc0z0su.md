@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-23T17:37:11.674Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/connectors-for-everyday-life"
-"canonical_url": "https://aihot.virxact.com/items/cmobrksmn09nzsl1y6cc0z0su"
+"canonical_url": "https://aihot.news/items/cmobrksmn09nzsl1y6cc0z0su"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/connectors-for-everyday-life](https://claude.com/blog/connectors-for-everyday-life)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmobrksmn09nzsl1y6cc0z0su](https://aihot.virxact.com/items/cmobrksmn09nzsl1y6cc0z0su)
+- **AIHOT 链接**: [https://aihot.news/items/cmobrksmn09nzsl1y6cc0z0su](https://aihot.news/items/cmobrksmn09nzsl1y6cc0z0su)

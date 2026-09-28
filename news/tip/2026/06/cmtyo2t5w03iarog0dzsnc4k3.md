@@ -7,7 +7,7 @@
 "source_name": "Epoch AI：研究、数据与评测"
 "original_url": "https://epoch.ai/gradient-updates/are-mythos-cyber-capabilities-overhyped"
 "canonical_url": "https://aihot.news/items/cmtyo2t5w03iarog0dzsnc4k3"
-"score": 64
+"score": 65
 "content_kind": "news"
 ---
 

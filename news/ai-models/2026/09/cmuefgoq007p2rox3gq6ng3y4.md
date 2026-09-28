@@ -7,7 +7,7 @@
 "source_name": "Claude Platform：开发者版本说明（RSS）"
 "original_url": "https://platform.claude.com/docs/en/release-notes/overview#september-22-2026"
 "canonical_url": "https://aihot.news/items/cmuefgoq007p2rox3gq6ng3y4"
-"score": 83
+"score": 84
 "content_kind": "news"
 ---
 

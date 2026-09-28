@@ -6,7 +6,7 @@
 "discovered_at": "2026-02-27T05:30:00.000Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/scaling-ai-for-everyone"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xr51007vslc3ac2yzhvy"
+"canonical_url": "https://aihot.news/items/cmnw1xr51007vslc3ac2yzhvy"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/scaling-ai-for-everyone](https://openai.com/index/scaling-ai-for-everyone)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xr51007vslc3ac2yzhvy](https://aihot.virxact.com/items/cmnw1xr51007vslc3ac2yzhvy)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xr51007vslc3ac2yzhvy](https://aihot.news/items/cmnw1xr51007vslc3ac2yzhvy)

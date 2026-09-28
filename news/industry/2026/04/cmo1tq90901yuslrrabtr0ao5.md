@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-16T18:39:45.598Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://andonlabs.com/blog/andon-market-launch"
-"canonical_url": "https://aihot.virxact.com/items/cmo1tq90901yuslrrabtr0ao5"
+"canonical_url": "https://aihot.news/items/cmo1tq90901yuslrrabtr0ao5"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Andon Labs 启动一项为期三年的实体零售实验，为人工智能系统
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://andonlabs.com/blog/andon-market-launch](https://andonlabs.com/blog/andon-market-launch)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmo1tq90901yuslrrabtr0ao5](https://aihot.virxact.com/items/cmo1tq90901yuslrrabtr0ao5)
+- **AIHOT 链接**: [https://aihot.news/items/cmo1tq90901yuslrrabtr0ao5](https://aihot.news/items/cmo1tq90901yuslrrabtr0ao5)

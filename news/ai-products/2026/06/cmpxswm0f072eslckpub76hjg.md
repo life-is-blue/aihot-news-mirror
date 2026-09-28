@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-03T08:25:01.426Z"
 "source_name": "X：Greg Brockman (@gdb)"
 "original_url": "https://x.com/gdb/status/2062080673632895138"
-"canonical_url": "https://aihot.virxact.com/items/cmpxswm0f072eslckpub76hjg"
+"canonical_url": "https://aihot.news/items/cmpxswm0f072eslckpub76hjg"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Codex 的计算机工作应用增长非常快。
 
 - **来源**: X：Greg Brockman (@gdb)
 - **原文链接**: [https://x.com/gdb/status/2062080673632895138](https://x.com/gdb/status/2062080673632895138)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpxswm0f072eslckpub76hjg](https://aihot.virxact.com/items/cmpxswm0f072eslckpub76hjg)
+- **AIHOT 链接**: [https://aihot.news/items/cmpxswm0f072eslckpub76hjg](https://aihot.news/items/cmpxswm0f072eslckpub76hjg)

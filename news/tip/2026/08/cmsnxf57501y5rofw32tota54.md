@@ -7,7 +7,7 @@
 "source_name": "Databricks：Blog（RSS）"
 "original_url": "https://www.databricks.com/blog/how-ground-genie-agents-both-s\
   tructured-data-and-documents-without-losing-governance"
-"canonical_url": "https://aihot.virxact.com/items/cmsnxf57501y5rofw32tota54"
+"canonical_url": "https://aihot.news/items/cmsnxf57501y5rofw32tota54"
 "score": 65
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Databricks 介绍如何让 Genie Agents 同时基于结构化数据与文档运�
 
 - **来源**: Databricks：Blog（RSS）
 - **原文链接**: [https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance](https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsnxf57501y5rofw32tota54](https://aihot.virxact.com/items/cmsnxf57501y5rofw32tota54)
+- **AIHOT 链接**: [https://aihot.news/items/cmsnxf57501y5rofw32tota54](https://aihot.news/items/cmsnxf57501y5rofw32tota54)

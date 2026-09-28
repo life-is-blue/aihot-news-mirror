@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-20T15:56:46.868Z"
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/0/953/086.htm"
-"canonical_url": "https://aihot.virxact.com/items/cmpe8vto10ah2slk1zwrd61c2"
+"canonical_url": "https://aihot.news/items/cmpe8vto10ah2slk1zwrd61c2"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Stability AI 推出 Stability Audio 3.0 音频生成模型家族，包含四款�
 
 - **来源**: IT之家（RSS）
 - **原文链接**: [https://www.ithome.com/0/953/086.htm](https://www.ithome.com/0/953/086.htm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpe8vto10ah2slk1zwrd61c2](https://aihot.virxact.com/items/cmpe8vto10ah2slk1zwrd61c2)
+- **AIHOT 链接**: [https://aihot.news/items/cmpe8vto10ah2slk1zwrd61c2](https://aihot.news/items/cmpe8vto10ah2slk1zwrd61c2)

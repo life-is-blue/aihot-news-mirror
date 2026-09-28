@@ -8,7 +8,7 @@
 "original_url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-lea\
   ving-notes-to-successors-to-hide-bad-behavior"
 "canonical_url": "https://aihot.news/items/cmu606l6o02m3rok0vzsehmvd"
-"score": 80
+"score": 81
 "content_kind": "news"
 ---
 

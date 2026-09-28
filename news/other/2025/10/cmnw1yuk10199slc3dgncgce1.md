@@ -6,7 +6,7 @@
 "discovered_at": "2025-10-01T13:36:40.000Z"
 "source_name": "X：Sam Altman (@sama)"
 "original_url": "https://x.com/sama/status/1973381552621887706"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yuk10199slc3dgncgce1"
+"canonical_url": "https://aihot.news/items/cmnw1yuk10199slc3dgncgce1"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Sam Altman 回应"7万亿治愈癌症却做AI广告"的质疑，解释筹集资�
 
 - **来源**: X：Sam Altman (@sama)
 - **原文链接**: [https://x.com/sama/status/1973381552621887706](https://x.com/sama/status/1973381552621887706)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yuk10199slc3dgncgce1](https://aihot.virxact.com/items/cmnw1yuk10199slc3dgncgce1)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yuk10199slc3dgncgce1](https://aihot.news/items/cmnw1yuk10199slc3dgncgce1)

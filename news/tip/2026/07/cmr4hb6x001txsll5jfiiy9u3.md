@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-03T05:14:32.436Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video"
-"canonical_url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3"
+"canonical_url": "https://aihot.news/items/cmr4hb6x001txsll5jfiiy9u3"
 "score": 81
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ claude-real-video 是一个开源工具，让大语言模型基于视频画面�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://github.com/HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3](https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3)
+- **AIHOT 链接**: [https://aihot.news/items/cmr4hb6x001txsll5jfiiy9u3](https://aihot.news/items/cmr4hb6x001txsll5jfiiy9u3)

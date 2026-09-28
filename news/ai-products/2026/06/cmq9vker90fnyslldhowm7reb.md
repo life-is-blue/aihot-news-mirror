@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-11T19:12:45.176Z"
 "source_name": "X：Replit (@Replit)"
 "original_url": "https://x.com/Replit/status/2065146579326271883"
-"canonical_url": "https://aihot.virxact.com/items/cmq9vker90fnyslldhowm7reb"
+"canonical_url": "https://aihot.news/items/cmq9vker90fnyslldhowm7reb"
 "score": 65
 "content_kind": "news"
 ---
@@ -15,7 +15,7 @@
 
 AI 智能体很强大，但它们不记得你的偏好。
 
-所以你总是重复指令--如何组织项目、你的品牌指南。
+所以你总是重复指令——如何组织项目、你的品牌指南。
 
 现在你可以通过自定义指令和技能让 Replit Agent 学会你的惯例。
 
@@ -23,4 +23,4 @@ AI 智能体很强大，但它们不记得你的偏好。
 
 - **来源**: X：Replit (@Replit)
 - **原文链接**: [https://x.com/Replit/status/2065146579326271883](https://x.com/Replit/status/2065146579326271883)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq9vker90fnyslldhowm7reb](https://aihot.virxact.com/items/cmq9vker90fnyslldhowm7reb)
+- **AIHOT 链接**: [https://aihot.news/items/cmq9vker90fnyslldhowm7reb](https://aihot.news/items/cmq9vker90fnyslldhowm7reb)

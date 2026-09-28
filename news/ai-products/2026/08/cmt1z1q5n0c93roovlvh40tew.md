@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-20T20:27:01.660Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/computer-use-skills-api-files-api"
-"canonical_url": "https://aihot.virxact.com/items/cmt1z1q5n0c93roovlvh40tew"
+"canonical_url": "https://aihot.news/items/cmt1z1q5n0c93roovlvh40tew"
 "score": 63
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 宣布 Computer Use、Skills API 与 Files API 在 Claude Platform 全
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/computer-use-skills-api-files-api](https://claude.com/blog/computer-use-skills-api-files-api)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt1z1q5n0c93roovlvh40tew](https://aihot.virxact.com/items/cmt1z1q5n0c93roovlvh40tew)
+- **AIHOT 链接**: [https://aihot.news/items/cmt1z1q5n0c93roovlvh40tew](https://aihot.news/items/cmt1z1q5n0c93roovlvh40tew)

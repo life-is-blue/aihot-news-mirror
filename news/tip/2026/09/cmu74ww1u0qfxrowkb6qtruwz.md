@@ -7,7 +7,7 @@
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/insights/image-generation-models-compared"
 "canonical_url": "https://aihot.news/items/cmu74ww1u0qfxrowkb6qtruwz"
-"score": 70
+"score": 71
 "content_kind": "news"
 ---
 

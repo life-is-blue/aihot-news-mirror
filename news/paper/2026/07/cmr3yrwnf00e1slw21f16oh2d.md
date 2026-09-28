@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-02T20:35:39.475Z"
 "source_name": "X：Ethan Mollick (@emollick)"
 "original_url": "https://x.com/emollick/status/2072778376494895139"
-"canonical_url": "https://aihot.virxact.com/items/cmr3yrwnf00e1slw21f16oh2d"
+"canonical_url": "https://aihot.news/items/cmr3yrwnf00e1slw21f16oh2d"
 "score": 77
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: X：Ethan Mollick (@emollick)
 - **原文链接**: [https://x.com/emollick/status/2072778376494895139](https://x.com/emollick/status/2072778376494895139)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr3yrwnf00e1slw21f16oh2d](https://aihot.virxact.com/items/cmr3yrwnf00e1slw21f16oh2d)
+- **AIHOT 链接**: [https://aihot.news/items/cmr3yrwnf00e1slw21f16oh2d](https://aihot.news/items/cmr3yrwnf00e1slw21f16oh2d)

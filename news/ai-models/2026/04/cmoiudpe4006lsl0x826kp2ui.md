@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-27T19:45:31.000Z"
 "source_name": "X：罗福莉 (@_LuoFuli)"
 "original_url": "https://x.com/_LuoFuli/status/2048851054662762618"
-"canonical_url": "https://aihot.virxact.com/items/cmoiudpe4006lsl0x826kp2ui"
+"canonical_url": "https://aihot.news/items/cmoiudpe4006lsl0x826kp2ui"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：罗福莉 (@_LuoFuli)
 - **原文链接**: [https://x.com/_LuoFuli/status/2048851054662762618](https://x.com/_LuoFuli/status/2048851054662762618)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoiudpe4006lsl0x826kp2ui](https://aihot.virxact.com/items/cmoiudpe4006lsl0x826kp2ui)
+- **AIHOT 链接**: [https://aihot.news/items/cmoiudpe4006lsl0x826kp2ui](https://aihot.news/items/cmoiudpe4006lsl0x826kp2ui)

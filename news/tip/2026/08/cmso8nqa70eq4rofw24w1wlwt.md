@@ -7,7 +7,7 @@
 "source_name": "MarkTechPost（RSS）"
 "original_url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax\
   -h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis"
-"canonical_url": "https://aihot.virxact.com/items/cmso8nqa70eq4rofw24w1wlwt"
+"canonical_url": "https://aihot.news/items/cmso8nqa70eq4rofw24w1wlwt"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis](https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmso8nqa70eq4rofw24w1wlwt](https://aihot.virxact.com/items/cmso8nqa70eq4rofw24w1wlwt)
+- **AIHOT 链接**: [https://aihot.news/items/cmso8nqa70eq4rofw24w1wlwt](https://aihot.news/items/cmso8nqa70eq4rofw24w1wlwt)

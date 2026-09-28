@@ -8,7 +8,7 @@
 "original_url": "https://www.together.ai/blog/deepseek-v4-pro-0813-vs-claude-fa\
   ble-5-on-deepswe-cost-coding-and-routing"
 "canonical_url": "https://aihot.news/items/cmtym21vv000aro2b2da91qck"
-"score": 69
+"score": 70
 "content_kind": "news"
 ---
 

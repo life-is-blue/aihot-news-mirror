@@ -6,7 +6,7 @@
 "discovered_at": "2019-09-05T00:00:00.000Z"
 "source_name": "Lilian Weng：Lil'Log（RSS）"
 "original_url": "https://lilianweng.github.io/posts/2019-09-05-evolution-strategies"
-"canonical_url": "https://aihot.virxact.com/items/cmpc7e3b9007pslmqsggha3v6"
+"canonical_url": "https://aihot.news/items/cmpc7e3b9007pslmqsggha3v6"
 "score": 57
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Lilian Weng：Lil'Log（RSS）
 - **原文链接**: [https://lilianweng.github.io/posts/2019-09-05-evolution-strategies](https://lilianweng.github.io/posts/2019-09-05-evolution-strategies)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpc7e3b9007pslmqsggha3v6](https://aihot.virxact.com/items/cmpc7e3b9007pslmqsggha3v6)
+- **AIHOT 链接**: [https://aihot.news/items/cmpc7e3b9007pslmqsggha3v6](https://aihot.news/items/cmpc7e3b9007pslmqsggha3v6)

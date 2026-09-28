@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-09T07:16:51.913Z"
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/0/974/511.htm"
-"canonical_url": "https://aihot.virxact.com/items/cmrd6bmv300xuih4b1pvracmx"
+"canonical_url": "https://aihot.news/items/cmrd6bmv300xuih4b1pvracmx"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic官方建议将Claude Fable 5用作规划层、Sonnet 5执行任务以�
 
 - **来源**: IT之家（RSS）
 - **原文链接**: [https://www.ithome.com/0/974/511.htm](https://www.ithome.com/0/974/511.htm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrd6bmv300xuih4b1pvracmx](https://aihot.virxact.com/items/cmrd6bmv300xuih4b1pvracmx)
+- **AIHOT 链接**: [https://aihot.news/items/cmrd6bmv300xuih4b1pvracmx](https://aihot.news/items/cmrd6bmv300xuih4b1pvracmx)

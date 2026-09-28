@@ -7,7 +7,7 @@
 "discovered_at": "2025-09-28T05:11:51.000Z"
 "source_name": "X：Noam Brown (@polynoamial)"
 "original_url": "https://x.com/polynoamial/status/1972167347088904371"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yur701cdslc3fmdrmqta"
+"canonical_url": "https://aihot.news/items/cmnw1yur701cdslc3fmdrmqta"
 "score": null
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ AlphaGo、AlphaZero 和 MuZero 共同一作 Julian Schrittwieser 指出，公众
 
 - **来源**: X：Noam Brown (@polynoamial)
 - **原文链接**: [https://x.com/polynoamial/status/1972167347088904371](https://x.com/polynoamial/status/1972167347088904371)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yur701cdslc3fmdrmqta](https://aihot.virxact.com/items/cmnw1yur701cdslc3fmdrmqta)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yur701cdslc3fmdrmqta](https://aihot.news/items/cmnw1yur701cdslc3fmdrmqta)

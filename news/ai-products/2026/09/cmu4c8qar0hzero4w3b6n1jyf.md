@@ -7,7 +7,7 @@
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/cowork-is-now-claude"
 "canonical_url": "https://aihot.news/items/cmu4c8qar0hzero4w3b6n1jyf"
-"score": 77
+"score": 78
 "content_kind": "news"
 ---
 

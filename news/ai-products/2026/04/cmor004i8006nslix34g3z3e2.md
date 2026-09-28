@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-30T18:00:00.000Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/announcements/response-caching"
-"canonical_url": "https://aihot.virxact.com/items/cmor004i8006nslix34g3z3e2"
+"canonical_url": "https://aihot.news/items/cmor004i8006nslix34g3z3e2"
 "score": 59
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/announcements/response-caching](https://openrouter.ai/announcements/response-caching)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmor004i8006nslix34g3z3e2](https://aihot.virxact.com/items/cmor004i8006nslix34g3z3e2)
+- **AIHOT 链接**: [https://aihot.news/items/cmor004i8006nslix34g3z3e2](https://aihot.news/items/cmor004i8006nslix34g3z3e2)

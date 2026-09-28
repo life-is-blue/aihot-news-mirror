@@ -6,7 +6,7 @@
 "discovered_at": "2024-10-11T20:00:18.000Z"
 "source_name": "X：Dario Amodei (@DarioAmodei)"
 "original_url": "https://x.com/DarioAmodei/status/1844830404064288934"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yogb00gqslc386zpvifh"
+"canonical_url": "https://aihot.news/items/cmnw1yogb00gqslc386zpvifh"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Dario Amodei 发布文章《Machines of Loving Grace》，论述 AI 如何在医
 
 - **来源**: X：Dario Amodei (@DarioAmodei)
 - **原文链接**: [https://x.com/DarioAmodei/status/1844830404064288934](https://x.com/DarioAmodei/status/1844830404064288934)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yogb00gqslc386zpvifh](https://aihot.virxact.com/items/cmnw1yogb00gqslc386zpvifh)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yogb00gqslc386zpvifh](https://aihot.news/items/cmnw1yogb00gqslc386zpvifh)

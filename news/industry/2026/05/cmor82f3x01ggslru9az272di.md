@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-04T13:15:15.471Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/enterprise-ai-services-company"
-"canonical_url": "https://aihot.virxact.com/items/cmor82f3x01ggslru9az272di"
+"canonical_url": "https://aihot.news/items/cmor82f3x01ggslru9az272di"
 "score": 68
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic联合黑石、Hellman & Friedman和高盛等顶级投资机构，共�
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/enterprise-ai-services-company](https://www.anthropic.com/news/enterprise-ai-services-company)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmor82f3x01ggslru9az272di](https://aihot.virxact.com/items/cmor82f3x01ggslru9az272di)
+- **AIHOT 链接**: [https://aihot.news/items/cmor82f3x01ggslru9az272di](https://aihot.news/items/cmor82f3x01ggslru9az272di)

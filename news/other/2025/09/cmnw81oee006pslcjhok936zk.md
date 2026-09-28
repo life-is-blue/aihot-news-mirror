@@ -6,7 +6,7 @@
 "discovered_at": "2025-09-17T17:35:08.000Z"
 "source_name": "X：OpenAI (@OpenAI)"
 "original_url": "https://x.com/OpenAI/status/1968368133024231902"
-"canonical_url": "https://aihot.virxact.com/items/cmnw81oee006pslcjhok936zk"
+"canonical_url": "https://aihot.news/items/cmnw81oee006pslcjhok936zk"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 推理系统在 2025 ICPC 世界总决赛中解出全部 12 道算法题�
 
 - **来源**: X：OpenAI (@OpenAI)
 - **原文链接**: [https://x.com/OpenAI/status/1968368133024231902](https://x.com/OpenAI/status/1968368133024231902)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw81oee006pslcjhok936zk](https://aihot.virxact.com/items/cmnw81oee006pslcjhok936zk)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw81oee006pslcjhok936zk](https://aihot.news/items/cmnw81oee006pslcjhok936zk)

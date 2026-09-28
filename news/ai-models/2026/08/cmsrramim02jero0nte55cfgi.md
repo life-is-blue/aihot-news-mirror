@@ -7,7 +7,7 @@
 "source_name": "MiniMax：Blog（网页）"
 "original_url": "https://www.minimax.io/blog/minimax-music-3-0-next-generation-\
   open-weights-production-ready-versatile-music-model"
-"canonical_url": "https://aihot.virxact.com/items/cmsrramim02jero0nte55cfgi"
+"canonical_url": "https://aihot.news/items/cmsrramim02jero0nte55cfgi"
 "score": 63
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ MiniMax 推出 Music 3.0，新一代音乐生成模型，可根据创意概念�
 
 - **来源**: MiniMax：Blog（网页）
 - **原文链接**: [https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model](https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsrramim02jero0nte55cfgi](https://aihot.virxact.com/items/cmsrramim02jero0nte55cfgi)
+- **AIHOT 链接**: [https://aihot.news/items/cmsrramim02jero0nte55cfgi](https://aihot.news/items/cmsrramim02jero0nte55cfgi)

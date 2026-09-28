@@ -7,7 +7,7 @@
 "source_name": "Google Developers Blog（RSS）"
 "original_url": "https://developers.googleblog.com/supercharge-your-integration\
   -workflow-with-the-google-pay-wallet-developer-mcp-server"
-"canonical_url": "https://aihot.virxact.com/items/cmppua8gx0183slm67cnmtqp8"
+"canonical_url": "https://aihot.news/items/cmppua8gx0183slm67cnmtqp8"
 "score": 73
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google 推出 Google Pay & Wallet Developer MCP server，这是一款开放标�
 
 - **来源**: Google Developers Blog（RSS）
 - **原文链接**: [https://developers.googleblog.com/supercharge-your-integration-workflow-with-the-google-pay-wallet-developer-mcp-server](https://developers.googleblog.com/supercharge-your-integration-workflow-with-the-google-pay-wallet-developer-mcp-server)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmppua8gx0183slm67cnmtqp8](https://aihot.virxact.com/items/cmppua8gx0183slm67cnmtqp8)
+- **AIHOT 链接**: [https://aihot.news/items/cmppua8gx0183slm67cnmtqp8](https://aihot.news/items/cmppua8gx0183slm67cnmtqp8)

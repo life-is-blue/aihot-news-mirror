@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-04T11:42:52.150Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/nvidia/task-seeded-sdg"
-"canonical_url": "https://aihot.virxact.com/items/cmpzfevp50305slkpy89xsy0v"
+"canonical_url": "https://aihot.news/items/cmpzfevp50305slkpy89xsy0v"
 "score": 68
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/nvidia/task-seeded-sdg](https://huggingface.co/blog/nvidia/task-seeded-sdg)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpzfevp50305slkpy89xsy0v](https://aihot.virxact.com/items/cmpzfevp50305slkpy89xsy0v)
+- **AIHOT 链接**: [https://aihot.news/items/cmpzfevp50305slkpy89xsy0v](https://aihot.news/items/cmpzfevp50305slkpy89xsy0v)

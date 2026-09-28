@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-02T00:00:00.000Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2606.03965"
-"canonical_url": "https://aihot.virxact.com/items/cmq00w2q101udsltr19txiwkj"
+"canonical_url": "https://aihot.news/items/cmq00w2q101udsltr19txiwkj"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ ACTS将推理引导建模为马尔可夫决策过程，控制器智能体在推�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2606.03965](https://arxiv.org/abs/2606.03965)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq00w2q101udsltr19txiwkj](https://aihot.virxact.com/items/cmq00w2q101udsltr19txiwkj)
+- **AIHOT 链接**: [https://aihot.news/items/cmq00w2q101udsltr19txiwkj](https://aihot.news/items/cmq00w2q101udsltr19txiwkj)

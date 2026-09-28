@@ -7,7 +7,7 @@
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defen\
   se-window-narrows"
-"canonical_url": "https://aihot.virxact.com/items/cmsnkpjin0c2nrohfczauf2t2"
+"canonical_url": "https://aihot.news/items/cmsnkpjin0c2nrohfczauf2t2"
 "score": 55
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenAI 发布网络安全专用模型 GPT-5.6-Cyber，可通过 Daybreak Red 获
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows](https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsnkpjin0c2nrohfczauf2t2](https://aihot.virxact.com/items/cmsnkpjin0c2nrohfczauf2t2)
+- **AIHOT 链接**: [https://aihot.news/items/cmsnkpjin0c2nrohfczauf2t2](https://aihot.news/items/cmsnkpjin0c2nrohfczauf2t2)

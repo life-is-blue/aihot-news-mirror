@@ -7,7 +7,7 @@
 "source_name": "Ars Technica：AI（RSS）"
 "original_url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittin\
   gly-contributed-to-tech-with-military-drone-uses"
-"canonical_url": "https://aihot.virxact.com/items/cmqaumbha0oz5slldur6mcs8h"
+"canonical_url": "https://aihot.news/items/cmqaumbha0oz5slldur6mcs8h"
 "score": 77
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Pokémon Go玩家在游戏中收集的数据被重新用于AI训练，支持军�
 
 - **来源**: Ars Technica：AI（RSS）
 - **原文链接**: [https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses](https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqaumbha0oz5slldur6mcs8h](https://aihot.virxact.com/items/cmqaumbha0oz5slldur6mcs8h)
+- **AIHOT 链接**: [https://aihot.news/items/cmqaumbha0oz5slldur6mcs8h](https://aihot.news/items/cmqaumbha0oz5slldur6mcs8h)

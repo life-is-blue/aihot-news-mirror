@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-07T16:00:00.000Z"
 "source_name": "Berkeley RDI：Blog（AI 安全与评测）"
 "original_url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont"
-"canonical_url": "https://aihot.virxact.com/items/cmnxbjlqu00apsln09alcqies"
+"canonical_url": "https://aihot.news/items/cmnxbjlqu00apsln09alcqies"
 "score": 87
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Berkeley RDI：Blog（AI 安全与评测）
 - **原文链接**: [https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnxbjlqu00apsln09alcqies](https://aihot.virxact.com/items/cmnxbjlqu00apsln09alcqies)
+- **AIHOT 链接**: [https://aihot.news/items/cmnxbjlqu00apsln09alcqies](https://aihot.news/items/cmnxbjlqu00apsln09alcqies)

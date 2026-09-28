@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-07T19:45:48.394Z"
 "source_name": "X：Greg Brockman (@gdb)"
 "original_url": "https://x.com/gdb/status/2063705280270021087"
-"canonical_url": "https://aihot.virxact.com/items/cmq4700x1011jslz51nr7xjd0"
+"canonical_url": "https://aihot.news/items/cmq4700x1011jslz51nr7xjd0"
 "score": 68
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 公布了数十个 Codex 实际工作流程，展示团队如何用其自
 
 - **来源**: X：Greg Brockman (@gdb)
 - **原文链接**: [https://x.com/gdb/status/2063705280270021087](https://x.com/gdb/status/2063705280270021087)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq4700x1011jslz51nr7xjd0](https://aihot.virxact.com/items/cmq4700x1011jslz51nr7xjd0)
+- **AIHOT 链接**: [https://aihot.news/items/cmq4700x1011jslz51nr7xjd0](https://aihot.news/items/cmq4700x1011jslz51nr7xjd0)

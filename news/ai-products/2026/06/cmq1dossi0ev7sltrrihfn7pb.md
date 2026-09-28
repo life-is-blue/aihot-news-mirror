@@ -7,7 +7,7 @@
 "source_name": "Google Research：Blog（网页）"
 "original_url": "https://research.google/blog/unlocking-dependable-responses-wi\
   th-gemini-enterprise-agent-platforms-agentic-rag"
-"canonical_url": "https://aihot.virxact.com/items/cmq1dossi0ev7sltrrihfn7pb"
+"canonical_url": "https://aihot.news/items/cmq1dossi0ev7sltrrihfn7pb"
 "score": 64
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google Research 与 Google Cloud 合作推出跨语料库检索（Cross-Corpus R
 
 - **来源**: Google Research：Blog（网页）
 - **原文链接**: [https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag](https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq1dossi0ev7sltrrihfn7pb](https://aihot.virxact.com/items/cmq1dossi0ev7sltrrihfn7pb)
+- **AIHOT 链接**: [https://aihot.news/items/cmq1dossi0ev7sltrrihfn7pb](https://aihot.news/items/cmq1dossi0ev7sltrrihfn7pb)

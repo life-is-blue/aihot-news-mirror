@@ -7,7 +7,7 @@
 "source_name": "X：Boris Cherny (@bcherny)"
 "original_url": "https://x.com/bcherny/status/2102439069053747549"
 "canonical_url": "https://aihot.news/items/cmucxgajz0sfiroedxx6y9qyw"
-"score": 71
+"score": 72
 "content_kind": "news"
 ---
 

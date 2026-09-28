@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-24T13:59:30.256Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/election-safeguards-update"
-"canonical_url": "https://aihot.virxact.com/items/cmocz8o17004fsl2bchbdcfkl"
+"canonical_url": "https://aihot.news/items/cmocz8o17004fsl2bchbdcfkl"
 "score": 61
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic宣布了针对2024年美国中期选举及全球其他主要选举的C
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/election-safeguards-update](https://www.anthropic.com/news/election-safeguards-update)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmocz8o17004fsl2bchbdcfkl](https://aihot.virxact.com/items/cmocz8o17004fsl2bchbdcfkl)
+- **AIHOT 链接**: [https://aihot.news/items/cmocz8o17004fsl2bchbdcfkl](https://aihot.news/items/cmocz8o17004fsl2bchbdcfkl)

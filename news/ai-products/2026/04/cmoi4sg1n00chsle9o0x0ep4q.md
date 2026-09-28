@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-28T04:33:41.463Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/open-source-codex-orchestration-symphony"
-"canonical_url": "https://aihot.virxact.com/items/cmoi4sg1n00chsle9o0x0ep4q"
+"canonical_url": "https://aihot.news/items/cmoi4sg1n00chsle9o0x0ep4q"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Symphony 是一个用于 Codex 编排的开源规范，能够将问题跟踪器�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/open-source-codex-orchestration-symphony](https://openai.com/index/open-source-codex-orchestration-symphony)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoi4sg1n00chsle9o0x0ep4q](https://aihot.virxact.com/items/cmoi4sg1n00chsle9o0x0ep4q)
+- **AIHOT 链接**: [https://aihot.news/items/cmoi4sg1n00chsle9o0x0ep4q](https://aihot.news/items/cmoi4sg1n00chsle9o0x0ep4q)

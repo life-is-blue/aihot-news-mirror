@@ -7,7 +7,7 @@
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/steering-claude-code-skills-hooks-rule\
   s-subagents-and-more"
-"canonical_url": "https://aihot.virxact.com/items/cmqjsqzm906huslmhlsasckqc"
+"canonical_url": "https://aihot.news/items/cmqjsqzm906huslmhlsasckqc"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Claude Code 提供七种自定义指令方式：CLAUDE.md（根目录始终加�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more](https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqjsqzm906huslmhlsasckqc](https://aihot.virxact.com/items/cmqjsqzm906huslmhlsasckqc)
+- **AIHOT 链接**: [https://aihot.news/items/cmqjsqzm906huslmhlsasckqc](https://aihot.news/items/cmqjsqzm906huslmhlsasckqc)

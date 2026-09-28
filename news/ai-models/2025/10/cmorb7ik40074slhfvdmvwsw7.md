@@ -6,7 +6,7 @@
 "discovered_at": "2025-10-10T02:20:50.000Z"
 "source_name": "蚂蚁 inclusionAI：GitHub 新仓库"
 "original_url": "https://github.com/inclusionAI/Ming-VideoMAR"
-"canonical_url": "https://aihot.virxact.com/items/cmorb7ik40074slhfvdmvwsw7"
+"canonical_url": "https://aihot.news/items/cmorb7ik40074slhfvdmvwsw7"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Ming-VideoMAR 是一款仅解码器的自回归图像到视频生成模型，采
 
 - **来源**: 蚂蚁 inclusionAI：GitHub 新仓库
 - **原文链接**: [https://github.com/inclusionAI/Ming-VideoMAR](https://github.com/inclusionAI/Ming-VideoMAR)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmorb7ik40074slhfvdmvwsw7](https://aihot.virxact.com/items/cmorb7ik40074slhfvdmvwsw7)
+- **AIHOT 链接**: [https://aihot.news/items/cmorb7ik40074slhfvdmvwsw7](https://aihot.news/items/cmorb7ik40074slhfvdmvwsw7)

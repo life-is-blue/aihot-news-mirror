@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-24T15:25:45.300Z"
 "source_name": "Anthropic：Research（发表成果 · 网页）"
 "original_url": "https://www.anthropic.com/research/project-pilot"
-"canonical_url": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on"
+"canonical_url": "https://aihot.news/items/cmrz3eamm01jdroey6e0m62on"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 与 Andon Labs 合作推出 Drone-Bench，用于测试 AI 模型自主
 
 - **来源**: Anthropic：Research（发表成果 · 网页）
 - **原文链接**: [https://www.anthropic.com/research/project-pilot](https://www.anthropic.com/research/project-pilot)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on](https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on)
+- **AIHOT 链接**: [https://aihot.news/items/cmrz3eamm01jdroey6e0m62on](https://aihot.news/items/cmrz3eamm01jdroey6e0m62on)

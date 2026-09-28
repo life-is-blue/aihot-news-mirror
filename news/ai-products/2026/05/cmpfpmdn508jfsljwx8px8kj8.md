@@ -7,7 +7,7 @@
 "source_name": "Google Developers Blog（RSS）"
 "original_url": "https://developers.googleblog.com/empowering-service-providers\
   -and-hardware-partners-with-gemini-for-home"
-"canonical_url": "https://aihot.virxact.com/items/cmpfpmdn508jfsljwx8px8kj8"
+"canonical_url": "https://aihot.news/items/cmpfpmdn508jfsljwx8px8kj8"
 "score": 75
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google 通过推出全栈 Gemini AI 解决方案扩展其智能家居生态系�
 
 - **来源**: Google Developers Blog（RSS）
 - **原文链接**: [https://developers.googleblog.com/empowering-service-providers-and-hardware-partners-with-gemini-for-home](https://developers.googleblog.com/empowering-service-providers-and-hardware-partners-with-gemini-for-home)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpfpmdn508jfsljwx8px8kj8](https://aihot.virxact.com/items/cmpfpmdn508jfsljwx8px8kj8)
+- **AIHOT 链接**: [https://aihot.news/items/cmpfpmdn508jfsljwx8px8kj8](https://aihot.news/items/cmpfpmdn508jfsljwx8px8kj8)

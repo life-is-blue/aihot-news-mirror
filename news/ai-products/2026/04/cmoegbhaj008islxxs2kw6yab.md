@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-21T10:09:58.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhaj008islxxs2kw6yab"
+"canonical_url": "https://aihot.news/items/cmoegbhaj008islxxs2kw6yab"
 "score": 63
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ QIMMA 是一个首创质量验证流程的阿拉伯语大语言模型评估平�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard](https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhaj008islxxs2kw6yab](https://aihot.virxact.com/items/cmoegbhaj008islxxs2kw6yab)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhaj008islxxs2kw6yab](https://aihot.news/items/cmoegbhaj008islxxs2kw6yab)

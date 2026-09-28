@@ -7,7 +7,7 @@
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/a-harness-for-every-task-dynamic-workf\
   lows-in-claude-code"
-"canonical_url": "https://aihot.virxact.com/items/cmpx51hf700otslcksx7ng54n"
+"canonical_url": "https://aihot.news/items/cmpx51hf700otslcksx7ng54n"
 "score": 77
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Claude Code 新增动态工作流功能，允许模型在运行时即兴创建�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code](https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpx51hf700otslcksx7ng54n](https://aihot.virxact.com/items/cmpx51hf700otslcksx7ng54n)
+- **AIHOT 链接**: [https://aihot.news/items/cmpx51hf700otslcksx7ng54n](https://aihot.news/items/cmpx51hf700otslcksx7ng54n)

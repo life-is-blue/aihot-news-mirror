@@ -7,7 +7,7 @@
 "source_name": "Google Developers Blog（RSS）"
 "original_url": "https://developers.googleblog.com/scaling-agentic-rl-high-thro\
   ughput-agentic-training-with-tunix"
-"canonical_url": "https://aihot.virxact.com/items/cmruuc0d80006bii0tzwael16"
+"canonical_url": "https://aihot.news/items/cmruuc0d80006bii0tzwael16"
 "score": 63
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google 发布 Tunix，一个基于 JAX 的原生后训练库，旨在消除多�
 
 - **来源**: Google Developers Blog（RSS）
 - **原文链接**: [https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix](https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmruuc0d80006bii0tzwael16](https://aihot.virxact.com/items/cmruuc0d80006bii0tzwael16)
+- **AIHOT 链接**: [https://aihot.news/items/cmruuc0d80006bii0tzwael16](https://aihot.news/items/cmruuc0d80006bii0tzwael16)

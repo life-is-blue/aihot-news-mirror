@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://stephenfollows.com/p/what-just-happened-to-thenumbersc\
   om-should-worry-us-all"
-"canonical_url": "https://aihot.virxact.com/items/cmrxvduwi02z1roxph1bvkmmu"
+"canonical_url": "https://aihot.news/items/cmrxvduwi02z1roxph1bvkmmu"
 "score": 75
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrxvduwi02z1roxph1bvkmmu](https://aihot.virxact.com/items/cmrxvduwi02z1roxph1bvkmmu)
+- **AIHOT 链接**: [https://aihot.news/items/cmrxvduwi02z1roxph1bvkmmu](https://aihot.news/items/cmrxvduwi02z1roxph1bvkmmu)

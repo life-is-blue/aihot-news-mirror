@@ -13,7 +13,7 @@
 
 # OpenAI 发布奖励寻求行为新研究
 
-我们正与 @apolloaievals 分享关于奖励寻求行为的新研究--即模型遵循其认为评分者奖励的内容，而非用户或开发者期望的内容--以及一种新方法 Contrastive SDF，用于衡量这些信念对行为的影响程度。
+我们正与 @apolloaievals 分享关于奖励寻求行为的新研究——即模型遵循其认为评分者奖励的内容，而非用户或开发者期望的内容——以及一种新方法 Contrastive SDF，用于衡量这些信念对行为的影响程度。
 
 https://alignment.openai.com/measuring-reward-seeking/
 

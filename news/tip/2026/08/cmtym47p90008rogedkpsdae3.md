@@ -7,7 +7,7 @@
 "source_name": "Artificial Analysis 完整文章（网页）"
 "original_url": "https://artificialanalysis.ai/articles/claude-fable-5-1"
 "canonical_url": "https://aihot.news/items/cmtym47p90008rogedkpsdae3"
-"score": 74
+"score": 75
 "content_kind": "news"
 ---
 

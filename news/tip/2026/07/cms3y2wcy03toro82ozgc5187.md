@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-28T00:55:55.197Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/insights/evaluate-llm-provider-performance"
-"canonical_url": "https://aihot.virxact.com/items/cms3y2wcy03toro82ozgc5187"
+"canonical_url": "https://aihot.news/items/cms3y2wcy03toro82ozgc5187"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/insights/evaluate-llm-provider-performance](https://openrouter.ai/blog/insights/evaluate-llm-provider-performance)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3y2wcy03toro82ozgc5187](https://aihot.virxact.com/items/cms3y2wcy03toro82ozgc5187)
+- **AIHOT 链接**: [https://aihot.news/items/cms3y2wcy03toro82ozgc5187](https://aihot.news/items/cms3y2wcy03toro82ozgc5187)

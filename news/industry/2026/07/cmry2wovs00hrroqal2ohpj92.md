@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-22T15:37:55.000Z"
 "source_name": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)"
 "original_url": "https://x.com/Thom_Wolf/status/2079954096950264238"
-"canonical_url": "https://aihot.virxact.com/items/cmry2wovs00hrroqal2ohpj92"
+"canonical_url": "https://aihot.news/items/cmry2wovs00hrroqal2ohpj92"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ HuggingFace 联合创始人 Thomas Wolf 透露，HuggingFace 上周遭复杂入�
 
 - **来源**: X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)
 - **原文链接**: [https://x.com/Thom_Wolf/status/2079954096950264238](https://x.com/Thom_Wolf/status/2079954096950264238)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmry2wovs00hrroqal2ohpj92](https://aihot.virxact.com/items/cmry2wovs00hrroqal2ohpj92)
+- **AIHOT 链接**: [https://aihot.news/items/cmry2wovs00hrroqal2ohpj92](https://aihot.news/items/cmry2wovs00hrroqal2ohpj92)

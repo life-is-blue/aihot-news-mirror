@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-21T17:22:47.564Z"
 "source_name": "X：Andrej Karpathy (@karpathy)"
 "original_url": "https://x.com/karpathy/status/2079610838143623371"
-"canonical_url": "https://aihot.virxact.com/items/cmrux929g005abinv7sbkrf3l"
+"canonical_url": "https://aihot.news/items/cmrux929g005abinv7sbkrf3l"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Andrej Karpathy分享了一种与LLM协作的有效模式：开启语音输入�
 
 - **来源**: X：Andrej Karpathy (@karpathy)
 - **原文链接**: [https://x.com/karpathy/status/2079610838143623371](https://x.com/karpathy/status/2079610838143623371)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrux929g005abinv7sbkrf3l](https://aihot.virxact.com/items/cmrux929g005abinv7sbkrf3l)
+- **AIHOT 链接**: [https://aihot.news/items/cmrux929g005abinv7sbkrf3l](https://aihot.news/items/cmrux929g005abinv7sbkrf3l)

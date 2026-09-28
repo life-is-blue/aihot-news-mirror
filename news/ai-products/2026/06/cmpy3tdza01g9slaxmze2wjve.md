@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-03T13:30:21.674Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/services-track-partner-hub"
-"canonical_url": "https://aihot.virxact.com/items/cmpy3tdza01g9slaxmze2wjve"
+"canonical_url": "https://aihot.news/items/cmpy3tdza01g9slaxmze2wjve"
 "score": 59
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 扩展 Claude Partner Network，推出 Services Track 分级体系和 
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/services-track-partner-hub](https://www.anthropic.com/news/services-track-partner-hub)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpy3tdza01g9slaxmze2wjve](https://aihot.virxact.com/items/cmpy3tdza01g9slaxmze2wjve)
+- **AIHOT 链接**: [https://aihot.news/items/cmpy3tdza01g9slaxmze2wjve](https://aihot.news/items/cmpy3tdza01g9slaxmze2wjve)

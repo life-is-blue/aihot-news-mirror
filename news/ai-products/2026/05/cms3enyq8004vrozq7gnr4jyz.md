@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-19T00:00:00.000Z"
 "source_name": "Claude Platform：开发者版本说明（RSS）"
 "original_url": "https://platform.claude.com/docs/en/release-notes/overview#may-19-2026"
-"canonical_url": "https://aihot.virxact.com/items/cms3enyq8004vrozq7gnr4jyz"
+"canonical_url": "https://aihot.news/items/cms3enyq8004vrozq7gnr4jyz"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Platform 推出 MCP Tunnels 研究预览，支持连接私有网络内的
 
 - **来源**: Claude Platform：开发者版本说明（RSS）
 - **原文链接**: [https://platform.claude.com/docs/en/release-notes/overview#may-19-2026](https://platform.claude.com/docs/en/release-notes/overview#may-19-2026)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3enyq8004vrozq7gnr4jyz](https://aihot.virxact.com/items/cms3enyq8004vrozq7gnr4jyz)
+- **AIHOT 链接**: [https://aihot.news/items/cms3enyq8004vrozq7gnr4jyz](https://aihot.news/items/cms3enyq8004vrozq7gnr4jyz)

@@ -6,7 +6,7 @@
 "discovered_at": "2025-09-15T19:11:38.000Z"
 "source_name": "X：Noam Brown (@polynoamial)"
 "original_url": "https://x.com/polynoamial/status/1967667644905251156"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yur701cfslc3w5n246qq"
+"canonical_url": "https://aihot.news/items/cmnw1yur701cfslc3w5n246qq"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 发布 GPT-5-Codex，针对智能体编程优化的 GPT-5 版本。简单
 
 - **来源**: X：Noam Brown (@polynoamial)
 - **原文链接**: [https://x.com/polynoamial/status/1967667644905251156](https://x.com/polynoamial/status/1967667644905251156)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yur701cfslc3w5n246qq](https://aihot.virxact.com/items/cmnw1yur701cfslc3w5n246qq)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yur701cfslc3w5n246qq](https://aihot.news/items/cmnw1yur701cfslc3w5n246qq)

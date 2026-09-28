@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-17T18:23:03.341Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.librarian.net/notoai"
-"canonical_url": "https://aihot.virxact.com/items/cmsxkakju0300roz0zx6cvdeu"
+"canonical_url": "https://aihot.news/items/cmsxkakju0300roz0zx6cvdeu"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.librarian.net/notoai](https://www.librarian.net/notoai)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsxkakju0300roz0zx6cvdeu](https://aihot.virxact.com/items/cmsxkakju0300roz0zx6cvdeu)
+- **AIHOT 链接**: [https://aihot.news/items/cmsxkakju0300roz0zx6cvdeu](https://aihot.news/items/cmsxkakju0300roz0zx6cvdeu)

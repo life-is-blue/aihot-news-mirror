@@ -7,7 +7,7 @@
 "source_name": "The Verge：AI（RSS）"
 "original_url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-\
   ai-act-transparency-labels-rules-deepfakes"
-"canonical_url": "https://aihot.virxact.com/items/cmsdkgj9m00hnro0ocrleteo0"
+"canonical_url": "https://aihot.news/items/cmsdkgj9m00hnro0ocrleteo0"
 "score": 73
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: The Verge：AI（RSS）
 - **原文链接**: [https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes](https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdkgj9m00hnro0ocrleteo0](https://aihot.virxact.com/items/cmsdkgj9m00hnro0ocrleteo0)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdkgj9m00hnro0ocrleteo0](https://aihot.news/items/cmsdkgj9m00hnro0ocrleteo0)

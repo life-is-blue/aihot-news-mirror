@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-02T19:25:04.885Z"
 "source_name": "X：OpenAI Developers (@OpenAIDevs)"
 "original_url": "https://x.com/OpenAIDevs/status/2061888366791246071"
-"canonical_url": "https://aihot.virxact.com/items/cmpx11l8102mmsl7940fhk41n"
+"canonical_url": "https://aihot.news/items/cmpx11l8102mmsl7940fhk41n"
 "score": 69
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ Codex 中的角色专属插件围绕团队实际工作构建。
 
 - **来源**: X：OpenAI Developers (@OpenAIDevs)
 - **原文链接**: [https://x.com/OpenAIDevs/status/2061888366791246071](https://x.com/OpenAIDevs/status/2061888366791246071)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpx11l8102mmsl7940fhk41n](https://aihot.virxact.com/items/cmpx11l8102mmsl7940fhk41n)
+- **AIHOT 链接**: [https://aihot.news/items/cmpx11l8102mmsl7940fhk41n](https://aihot.news/items/cmpx11l8102mmsl7940fhk41n)

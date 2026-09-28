@@ -8,7 +8,7 @@
 "original_url": "https://github.blog/news-insights/policy-news-and-insights/git\
   hub-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to\
   -protect-open-source"
-"canonical_url": "https://aihot.virxact.com/items/cmqr1y54m0frmslp5b6e6js37"
+"canonical_url": "https://aihot.news/items/cmqr1y54m0frmslp5b6e6js37"
 "score": 56
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ GitHub 联合 Black Forest Labs、Hugging Face 与 Mozilla Corporation 组成开
 
 - **来源**: GitHub Blog
 - **原文链接**: [https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source](https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqr1y54m0frmslp5b6e6js37](https://aihot.virxact.com/items/cmqr1y54m0frmslp5b6e6js37)
+- **AIHOT 链接**: [https://aihot.news/items/cmqr1y54m0frmslp5b6e6js37](https://aihot.news/items/cmqr1y54m0frmslp5b6e6js37)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-02-24T17:34:56.000Z"
 "source_name": "X：Jim Fan (@DrJimFan)"
 "original_url": "https://x.com/DrJimFan/status/2026350142652383587"
-"canonical_url": "https://aihot.virxact.com/items/cmo22oj0y0109slba6wj0c0mk"
+"canonical_url": "https://aihot.news/items/cmo22oj0y0109slba6wj0c0mk"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ SONIC是一个4200万参数的Transformer模型（规模仅半个GPT-1），通�
 
 - **来源**: X：Jim Fan (@DrJimFan)
 - **原文链接**: [https://x.com/DrJimFan/status/2026350142652383587](https://x.com/DrJimFan/status/2026350142652383587)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmo22oj0y0109slba6wj0c0mk](https://aihot.virxact.com/items/cmo22oj0y0109slba6wj0c0mk)
+- **AIHOT 链接**: [https://aihot.news/items/cmo22oj0y0109slba6wj0c0mk](https://aihot.news/items/cmo22oj0y0109slba6wj0c0mk)

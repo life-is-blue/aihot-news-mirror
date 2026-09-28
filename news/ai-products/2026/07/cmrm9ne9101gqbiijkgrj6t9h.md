@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-15T15:59:54.663Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://core.telegram.org/bots/serverless"
-"canonical_url": "https://aihot.virxact.com/items/cmrm9ne9101gqbiijkgrj6t9h"
+"canonical_url": "https://aihot.news/items/cmrm9ne9101gqbiijkgrj6t9h"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Telegram Serverless 允许开发者直接在 Telegram 基础设施上运行 Bot 
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://core.telegram.org/bots/serverless](https://core.telegram.org/bots/serverless)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrm9ne9101gqbiijkgrj6t9h](https://aihot.virxact.com/items/cmrm9ne9101gqbiijkgrj6t9h)
+- **AIHOT 链接**: [https://aihot.news/items/cmrm9ne9101gqbiijkgrj6t9h](https://aihot.news/items/cmrm9ne9101gqbiijkgrj6t9h)

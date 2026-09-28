@@ -8,7 +8,7 @@
 "original_url": "https://www.smh.com.au/politics/federal/openai-breaches-medica\
   re-albanese-reveals-20260924-p6100u.html"
 "canonical_url": "https://aihot.news/items/cmuepgrq30eh3royntmaj59h4"
-"score": 84
+"score": 85
 "content_kind": "news"
 ---
 

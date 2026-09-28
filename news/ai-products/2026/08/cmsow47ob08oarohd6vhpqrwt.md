@@ -7,7 +7,7 @@
 "source_name": "Google Cloud：Databases（RSS）"
 "original_url": "https://cloud.google.com/blog/products/databases/accelerate-po\
   stgresql-migrations-with-gemini-in-dms"
-"canonical_url": "https://aihot.virxact.com/items/cmsow47ob08oarohd6vhpqrwt"
+"canonical_url": "https://aihot.news/items/cmsow47ob08oarohd6vhpqrwt"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google Cloud 在 Database Migration Service（DMS）中推出由 Gemini 驱动�
 
 - **来源**: Google Cloud：Databases（RSS）
 - **原文链接**: [https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms](https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsow47ob08oarohd6vhpqrwt](https://aihot.virxact.com/items/cmsow47ob08oarohd6vhpqrwt)
+- **AIHOT 链接**: [https://aihot.news/items/cmsow47ob08oarohd6vhpqrwt](https://aihot.news/items/cmsow47ob08oarohd6vhpqrwt)

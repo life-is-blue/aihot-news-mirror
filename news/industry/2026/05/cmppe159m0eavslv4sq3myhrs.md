@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-28T11:06:23.080Z"
 "source_name": "X：X.PIN (@thexpin)"
 "original_url": "https://x.com/thexpin/status/2059947998302679059"
-"canonical_url": "https://aihot.virxact.com/items/cmppe159m0eavslv4sq3myhrs"
+"canonical_url": "https://aihot.news/items/cmppe159m0eavslv4sq3myhrs"
 "score": 77
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: X：X.PIN (@thexpin)
 - **原文链接**: [https://x.com/thexpin/status/2059947998302679059](https://x.com/thexpin/status/2059947998302679059)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmppe159m0eavslv4sq3myhrs](https://aihot.virxact.com/items/cmppe159m0eavslv4sq3myhrs)
+- **AIHOT 链接**: [https://aihot.news/items/cmppe159m0eavslv4sq3myhrs](https://aihot.news/items/cmppe159m0eavslv4sq3myhrs)

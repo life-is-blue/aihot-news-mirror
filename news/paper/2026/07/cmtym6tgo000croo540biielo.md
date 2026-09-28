@@ -8,7 +8,7 @@
 "original_url": "https://www.promptarmor.com/resources/skill-accesses-deepseek-\
   despite-copilot-cowork-admin-opt-out"
 "canonical_url": "https://aihot.news/items/cmtym6tgo000croo540biielo"
-"score": 65
+"score": 66
 "content_kind": "news"
 ---
 

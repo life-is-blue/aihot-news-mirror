@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-16T17:13:36.541Z"
 "source_name": "Google Blog：AI（RSS）"
 "original_url": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome"
-"canonical_url": "https://aihot.virxact.com/items/cmo1qngws01m0slrr87yiq58x"
+"canonical_url": "https://aihot.news/items/cmo1qngws01m0slrr87yiq58x"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Chrome 浏览器今日升级 AI Mode 功能，通过人工智能技术深度改�
 
 - **来源**: Google Blog：AI（RSS）
 - **原文链接**: [https://blog.google/products-and-platforms/products/search/ai-mode-chrome](https://blog.google/products-and-platforms/products/search/ai-mode-chrome)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmo1qngws01m0slrr87yiq58x](https://aihot.virxact.com/items/cmo1qngws01m0slrr87yiq58x)
+- **AIHOT 链接**: [https://aihot.news/items/cmo1qngws01m0slrr87yiq58x](https://aihot.news/items/cmo1qngws01m0slrr87yiq58x)

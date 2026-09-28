@@ -7,7 +7,7 @@
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/medgemma-our-most-capable-open-mo\
   dels-for-health-ai-development"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsdqal004aslagyidixbx4"
+"canonical_url": "https://aihot.news/items/cmnwsdqal004aslagyidixbx4"
 "score": null
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development](https://deepmind.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsdqal004aslagyidixbx4](https://aihot.virxact.com/items/cmnwsdqal004aslagyidixbx4)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsdqal004aslagyidixbx4](https://aihot.news/items/cmnwsdqal004aslagyidixbx4)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-07T16:24:13.051Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/insights/image-detail-low-cost"
-"canonical_url": "https://aihot.virxact.com/items/cmrauzt0c01b2ihogk1sosfm5"
+"canonical_url": "https://aihot.news/items/cmrauzt0c01b2ihogk1sosfm5"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/insights/image-detail-low-cost](https://openrouter.ai/blog/insights/image-detail-low-cost)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrauzt0c01b2ihogk1sosfm5](https://aihot.virxact.com/items/cmrauzt0c01b2ihogk1sosfm5)
+- **AIHOT 链接**: [https://aihot.news/items/cmrauzt0c01b2ihogk1sosfm5](https://aihot.news/items/cmrauzt0c01b2ihogk1sosfm5)

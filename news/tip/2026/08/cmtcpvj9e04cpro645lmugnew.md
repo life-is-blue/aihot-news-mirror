@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-28T08:55:50.601Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://github.com/calmrocks/ai-engineer-notebooks"
-"canonical_url": "https://aihot.virxact.com/items/cmtcpvj9e04cpro645lmugnew"
+"canonical_url": "https://aihot.news/items/cmtcpvj9e04cpro645lmugnew"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://github.com/calmrocks/ai-engineer-notebooks](https://github.com/calmrocks/ai-engineer-notebooks)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtcpvj9e04cpro645lmugnew](https://aihot.virxact.com/items/cmtcpvj9e04cpro645lmugnew)
+- **AIHOT 链接**: [https://aihot.news/items/cmtcpvj9e04cpro645lmugnew](https://aihot.news/items/cmtcpvj9e04cpro645lmugnew)

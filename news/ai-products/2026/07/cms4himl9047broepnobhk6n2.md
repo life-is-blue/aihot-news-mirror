@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-28T10:00:00.793Z"
 "source_name": "公众号：火山引擎"
 "original_url": "https://mp.weixin.qq.com/s/1nZqQHYqclsIF6__WLscgA"
-"canonical_url": "https://aihot.virxact.com/items/cms4himl9047broepnobhk6n2"
+"canonical_url": "https://aihot.news/items/cms4himl9047broepnobhk6n2"
 "score": 61
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: 公众号：火山引擎
 - **原文链接**: [https://mp.weixin.qq.com/s/1nZqQHYqclsIF6__WLscgA](https://mp.weixin.qq.com/s/1nZqQHYqclsIF6__WLscgA)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms4himl9047broepnobhk6n2](https://aihot.virxact.com/items/cms4himl9047broepnobhk6n2)
+- **AIHOT 链接**: [https://aihot.news/items/cms4himl9047broepnobhk6n2](https://aihot.news/items/cms4himl9047broepnobhk6n2)

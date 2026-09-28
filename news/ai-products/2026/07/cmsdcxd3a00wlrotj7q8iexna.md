@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-31T00:00:00.000Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/announcements/ori-eval"
-"canonical_url": "https://aihot.virxact.com/items/cmsdcxd3a00wlrotj7q8iexna"
+"canonical_url": "https://aihot.news/items/cmsdcxd3a00wlrotj7q8iexna"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter 发布 Ori Eval，一个能扫描代码库、自动编写 eval 文件
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/announcements/ori-eval](https://openrouter.ai/blog/announcements/ori-eval)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdcxd3a00wlrotj7q8iexna](https://aihot.virxact.com/items/cmsdcxd3a00wlrotj7q8iexna)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdcxd3a00wlrotj7q8iexna](https://aihot.news/items/cmsdcxd3a00wlrotj7q8iexna)

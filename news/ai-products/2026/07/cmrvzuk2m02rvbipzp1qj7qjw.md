@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-11T12:35:48.000Z"
 "source_name": "蚂蚁 inclusionAI：GitHub 新仓库"
 "original_url": "https://github.com/inclusionAI/sandboxd"
-"canonical_url": "https://aihot.virxact.com/items/cmrvzuk2m02rvbipzp1qj7qjw"
+"canonical_url": "https://aihot.news/items/cmrvzuk2m02rvbipzp1qj7qjw"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: 蚂蚁 inclusionAI：GitHub 新仓库
 - **原文链接**: [https://github.com/inclusionAI/sandboxd](https://github.com/inclusionAI/sandboxd)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrvzuk2m02rvbipzp1qj7qjw](https://aihot.virxact.com/items/cmrvzuk2m02rvbipzp1qj7qjw)
+- **AIHOT 链接**: [https://aihot.news/items/cmrvzuk2m02rvbipzp1qj7qjw](https://aihot.news/items/cmrvzuk2m02rvbipzp1qj7qjw)

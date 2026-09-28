@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-04T18:59:23.215Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale"
-"canonical_url": "https://aihot.virxact.com/items/cmorkcv4j00nxsl1y6c4wj5sw"
+"canonical_url": "https://aihot.news/items/cmorkcv4j00nxsl1y6c4wj5sw"
 "score": 58
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 重建了其 WebRTC 技术栈，以支持实时语音 AI 服务。新系�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/delivering-low-latency-voice-ai-at-scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmorkcv4j00nxsl1y6c4wj5sw](https://aihot.virxact.com/items/cmorkcv4j00nxsl1y6c4wj5sw)
+- **AIHOT 链接**: [https://aihot.news/items/cmorkcv4j00nxsl1y6c4wj5sw](https://aihot.news/items/cmorkcv4j00nxsl1y6c4wj5sw)

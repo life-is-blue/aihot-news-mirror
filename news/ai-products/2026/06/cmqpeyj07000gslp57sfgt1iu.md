@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-22T16:11:51.347Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/introducing-goal"
-"canonical_url": "https://aihot.virxact.com/items/cmqpeyj07000gslp57sfgt1iu"
+"canonical_url": "https://aihot.news/items/cmqpeyj07000gslp57sfgt1iu"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI 在 Grok Build 中引入 `/goal` 新模式。用户只需用一行命令设�
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/introducing-goal](https://x.ai/news/introducing-goal)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqpeyj07000gslp57sfgt1iu](https://aihot.virxact.com/items/cmqpeyj07000gslp57sfgt1iu)
+- **AIHOT 链接**: [https://aihot.news/items/cmqpeyj07000gslp57sfgt1iu](https://aihot.news/items/cmqpeyj07000gslp57sfgt1iu)

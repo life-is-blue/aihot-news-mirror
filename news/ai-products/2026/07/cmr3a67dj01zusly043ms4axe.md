@@ -7,7 +7,7 @@
 "source_name": "MarkTechPost（RSS）"
 "original_url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-\
   got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data"
-"canonical_url": "https://aihot.virxact.com/items/cmr3a67dj01zusly043ms4axe"
+"canonical_url": "https://aihot.news/items/cmr3a67dj01zusly043ms4axe"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ ghealth 是一款封装 Google Health API v4 的开源命令行工具，以单�
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data](https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr3a67dj01zusly043ms4axe](https://aihot.virxact.com/items/cmr3a67dj01zusly043ms4axe)
+- **AIHOT 链接**: [https://aihot.news/items/cmr3a67dj01zusly043ms4axe](https://aihot.news/items/cmr3a67dj01zusly043ms4axe)

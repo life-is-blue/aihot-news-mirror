@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-07T00:00:00.000Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/tutorials/team-spend-controls-setup"
-"canonical_url": "https://aihot.virxact.com/items/cmsnrf0sx0hbhrohfa5b88zfp"
+"canonical_url": "https://aihot.news/items/cmsnrf0sx0hbhrohfa5b88zfp"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter 推出五项团队 AI 支出控制功能：组织共享信用池、�
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/tutorials/team-spend-controls-setup](https://openrouter.ai/blog/tutorials/team-spend-controls-setup)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsnrf0sx0hbhrohfa5b88zfp](https://aihot.virxact.com/items/cmsnrf0sx0hbhrohfa5b88zfp)
+- **AIHOT 链接**: [https://aihot.news/items/cmsnrf0sx0hbhrohfa5b88zfp](https://aihot.news/items/cmsnrf0sx0hbhrohfa5b88zfp)

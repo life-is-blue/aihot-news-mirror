@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-01T16:20:13.183Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-voice-agent-builder"
-"canonical_url": "https://aihot.virxact.com/items/cmr2a81sq066ssl8z8vo7so2x"
+"canonical_url": "https://aihot.news/items/cmr2a81sq066ssl8z8vo7so2x"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI 推出 Voice Agent Builder 测试版，这是一个基于 Grok Voice 的无�
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-voice-agent-builder](https://x.ai/news/grok-voice-agent-builder)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr2a81sq066ssl8z8vo7so2x](https://aihot.virxact.com/items/cmr2a81sq066ssl8z8vo7so2x)
+- **AIHOT 链接**: [https://aihot.news/items/cmr2a81sq066ssl8z8vo7so2x](https://aihot.news/items/cmr2a81sq066ssl8z8vo7so2x)

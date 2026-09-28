@@ -6,7 +6,7 @@
 "discovered_at": "2026-01-20T16:00:00.000Z"
 "source_name": "Anthropic：Engineering（事故复盘 + 工程实践 · 网页）"
 "original_url": "https://www.anthropic.com/engineering/AI-resistant-technical-evaluations"
-"canonical_url": "https://aihot.virxact.com/items/cmorb7ml0008dslhf40wkfniz"
+"canonical_url": "https://aihot.news/items/cmorb7ml0008dslhf40wkfniz"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic性能优化团队负责人Tristan Hume分享了设计抗AI技术评估
 
 - **来源**: Anthropic：Engineering（事故复盘 + 工程实践 · 网页）
 - **原文链接**: [https://www.anthropic.com/engineering/AI-resistant-technical-evaluations](https://www.anthropic.com/engineering/AI-resistant-technical-evaluations)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmorb7ml0008dslhf40wkfniz](https://aihot.virxact.com/items/cmorb7ml0008dslhf40wkfniz)
+- **AIHOT 链接**: [https://aihot.news/items/cmorb7ml0008dslhf40wkfniz](https://aihot.news/items/cmorb7ml0008dslhf40wkfniz)

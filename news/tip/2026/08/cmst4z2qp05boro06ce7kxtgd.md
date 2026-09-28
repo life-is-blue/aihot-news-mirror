@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-14T16:03:07.993Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/state-of-open-models-summer-2026"
-"canonical_url": "https://aihot.virxact.com/items/cmst4z2qp05boro06ce7kxtgd"
+"canonical_url": "https://aihot.news/items/cmst4z2qp05boro06ce7kxtgd"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/state-of-open-models-summer-2026](https://huggingface.co/blog/state-of-open-models-summer-2026)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmst4z2qp05boro06ce7kxtgd](https://aihot.virxact.com/items/cmst4z2qp05boro06ce7kxtgd)
+- **AIHOT 链接**: [https://aihot.news/items/cmst4z2qp05boro06ce7kxtgd](https://aihot.news/items/cmst4z2qp05boro06ce7kxtgd)

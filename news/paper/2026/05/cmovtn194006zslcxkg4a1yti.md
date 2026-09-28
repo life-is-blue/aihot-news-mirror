@@ -7,7 +7,7 @@
 "source_name": "Apple Machine Learning Research（RSS）"
 "original_url": "https://machinelearning.apple.com/research/text-conditional-je\
   pa-visual-representations"
-"canonical_url": "https://aihot.virxact.com/items/cmovtn194006zslcxkg4a1yti"
+"canonical_url": "https://aihot.news/items/cmovtn194006zslcxkg4a1yti"
 "score": 69
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Apple Machine Learning Research（RSS）
 - **原文链接**: [https://machinelearning.apple.com/research/text-conditional-jepa-visual-representations](https://machinelearning.apple.com/research/text-conditional-jepa-visual-representations)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmovtn194006zslcxkg4a1yti](https://aihot.virxact.com/items/cmovtn194006zslcxkg4a1yti)
+- **AIHOT 链接**: [https://aihot.news/items/cmovtn194006zslcxkg4a1yti](https://aihot.news/items/cmovtn194006zslcxkg4a1yti)

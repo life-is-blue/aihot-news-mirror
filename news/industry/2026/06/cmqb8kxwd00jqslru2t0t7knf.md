@@ -7,7 +7,7 @@
 "source_name": "Ars Technica：AI（RSS）"
 "original_url": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used\
   -fully-autonomous-drones-to-kill-russian-soldiers"
-"canonical_url": "https://aihot.virxact.com/items/cmqb8kxwd00jqslru2t0t7knf"
+"canonical_url": "https://aihot.news/items/cmqb8kxwd00jqslru2t0t7knf"
 "score": 80
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Ars Technica：AI（RSS）
 - **原文链接**: [https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers](https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqb8kxwd00jqslru2t0t7knf](https://aihot.virxact.com/items/cmqb8kxwd00jqslru2t0t7knf)
+- **AIHOT 链接**: [https://aihot.news/items/cmqb8kxwd00jqslru2t0t7knf](https://aihot.news/items/cmqb8kxwd00jqslru2t0t7knf)

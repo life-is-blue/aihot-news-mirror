@@ -7,7 +7,7 @@
 "source_name": "GitHub Blog"
 "original_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cl\
   i-for-beginners-interactive-v-non-interactive-mode"
-"canonical_url": "https://aihot.virxact.com/items/cmoloo4ja010esll9sl6t8jm7"
+"canonical_url": "https://aihot.news/items/cmoloo4ja010esll9sl6t8jm7"
 "score": 59
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ GitHub Copilot CLI 提供了交互与非交互两种主要使用模式。交互�
 
 - **来源**: GitHub Blog
 - **原文链接**: [https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoloo4ja010esll9sl6t8jm7](https://aihot.virxact.com/items/cmoloo4ja010esll9sl6t8jm7)
+- **AIHOT 链接**: [https://aihot.news/items/cmoloo4ja010esll9sl6t8jm7](https://aihot.news/items/cmoloo4ja010esll9sl6t8jm7)

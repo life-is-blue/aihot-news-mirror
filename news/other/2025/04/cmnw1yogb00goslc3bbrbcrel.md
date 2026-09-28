@@ -6,7 +6,7 @@
 "discovered_at": "2025-04-24T21:16:17.000Z"
 "source_name": "X：Dario Amodei (@DarioAmodei)"
 "original_url": "https://x.com/DarioAmodei/status/1915515160607023391"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yogb00goslc3bbrbcrel"
+"canonical_url": "https://aihot.news/items/cmnw1yogb00goslc3bbrbcrel"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Dario Amodei 发文强调 AI 可解释性研究的紧迫性，指出在通往 AG
 
 - **来源**: X：Dario Amodei (@DarioAmodei)
 - **原文链接**: [https://x.com/DarioAmodei/status/1915515160607023391](https://x.com/DarioAmodei/status/1915515160607023391)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yogb00goslc3bbrbcrel](https://aihot.virxact.com/items/cmnw1yogb00goslc3bbrbcrel)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yogb00goslc3bbrbcrel](https://aihot.news/items/cmnw1yogb00goslc3bbrbcrel)

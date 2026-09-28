@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-16T14:32:22.664Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork"
-"canonical_url": "https://aihot.virxact.com/items/cmrnlyzl3006sbi8v0f80nbaz"
+"canonical_url": "https://aihot.news/items/cmrnlyzl3006sbi8v0f80nbaz"
 "score": 64
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 发布最强通用模型 Claude Fable 5，专为长时间、多步骤�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork](https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrnlyzl3006sbi8v0f80nbaz](https://aihot.virxact.com/items/cmrnlyzl3006sbi8v0f80nbaz)
+- **AIHOT 链接**: [https://aihot.news/items/cmrnlyzl3006sbi8v0f80nbaz](https://aihot.news/items/cmrnlyzl3006sbi8v0f80nbaz)

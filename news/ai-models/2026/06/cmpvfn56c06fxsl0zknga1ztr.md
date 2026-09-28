@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-01T16:38:12.949Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/JetBrains/mellum2-launch"
-"canonical_url": "https://aihot.virxact.com/items/cmpvfn56c06fxsl0zknga1ztr"
+"canonical_url": "https://aihot.news/items/cmpvfn56c06fxsl0zknga1ztr"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Mellum2 是 JetBrains 从头训练的 12B 参数混合专家（MoE）模型，�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/JetBrains/mellum2-launch](https://huggingface.co/blog/JetBrains/mellum2-launch)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpvfn56c06fxsl0zknga1ztr](https://aihot.virxact.com/items/cmpvfn56c06fxsl0zknga1ztr)
+- **AIHOT 链接**: [https://aihot.news/items/cmpvfn56c06fxsl0zknga1ztr](https://aihot.news/items/cmpvfn56c06fxsl0zknga1ztr)

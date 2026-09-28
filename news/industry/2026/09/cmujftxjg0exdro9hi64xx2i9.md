@@ -7,7 +7,7 @@
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/1/007/508.htm"
 "canonical_url": "https://aihot.news/items/cmujftxjg0exdro9hi64xx2i9"
-"score": 76
+"score": 77
 "content_kind": "news"
 ---
 

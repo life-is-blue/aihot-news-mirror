@@ -7,7 +7,7 @@
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/tutorials/human-oversight-eu-ai-act\
   -compliance-agent-sdk"
-"canonical_url": "https://aihot.virxact.com/items/cmq9zl2ha0gp6slldhoei8cbp"
+"canonical_url": "https://aihot.news/items/cmq9zl2ha0gp6slldhoei8cbp"
 "score": 63
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenRouter 的 Agent SDK 新增人类参与循环（HITL）工具，用于 AI �
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/tutorials/human-oversight-eu-ai-act-compliance-agent-sdk](https://openrouter.ai/blog/tutorials/human-oversight-eu-ai-act-compliance-agent-sdk)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq9zl2ha0gp6slldhoei8cbp](https://aihot.virxact.com/items/cmq9zl2ha0gp6slldhoei8cbp)
+- **AIHOT 链接**: [https://aihot.news/items/cmq9zl2ha0gp6slldhoei8cbp](https://aihot.news/items/cmq9zl2ha0gp6slldhoei8cbp)

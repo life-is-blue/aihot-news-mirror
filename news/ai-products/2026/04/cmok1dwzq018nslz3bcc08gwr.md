@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-29T12:33:55.938Z"
 "source_name": "X：通义千问 / Qwen (@Alibaba_Qwen)"
 "original_url": "https://x.com/Alibaba_Qwen/status/2049462666734026923"
-"canonical_url": "https://aihot.virxact.com/items/cmok1dwzq018nslz3bcc08gwr"
+"canonical_url": "https://aihot.news/items/cmok1dwzq018nslz3bcc08gwr"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ FlashQLA是基于TileLang构建的高性能线性注意力内核，专为个人�
 
 - **来源**: X：通义千问 / Qwen (@Alibaba_Qwen)
 - **原文链接**: [https://x.com/Alibaba_Qwen/status/2049462666734026923](https://x.com/Alibaba_Qwen/status/2049462666734026923)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmok1dwzq018nslz3bcc08gwr](https://aihot.virxact.com/items/cmok1dwzq018nslz3bcc08gwr)
+- **AIHOT 链接**: [https://aihot.news/items/cmok1dwzq018nslz3bcc08gwr](https://aihot.news/items/cmok1dwzq018nslz3bcc08gwr)

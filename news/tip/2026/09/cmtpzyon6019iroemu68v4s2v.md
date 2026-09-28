@@ -6,8 +6,8 @@
 "discovered_at": "2026-09-06T15:59:14.286Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/research-acceleration-view-inside-openai"
-"canonical_url": "https://aihot.virxact.com/items/cmtpzyon6019iroemu68v4s2v"
-"score": 81
+"canonical_url": "https://aihot.news/items/cmtpzyon6019iroemu68v4s2v"
+"score": 82
 "content_kind": "news"
 ---
 
@@ -17,4 +17,4 @@ OpenAI 发文披露自动化研究进展，宣布已达成去年秋天设定的�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/research-acceleration-view-inside-openai](https://openai.com/index/research-acceleration-view-inside-openai)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtpzyon6019iroemu68v4s2v](https://aihot.virxact.com/items/cmtpzyon6019iroemu68v4s2v)
+- **AIHOT 链接**: [https://aihot.news/items/cmtpzyon6019iroemu68v4s2v](https://aihot.news/items/cmtpzyon6019iroemu68v4s2v)

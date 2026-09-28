@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-29T15:40:57.627Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/product-development-in-the-agentic-era"
-"canonical_url": "https://aihot.virxact.com/items/cmok82f5f00jmslgc2ao7hh77"
+"canonical_url": "https://aihot.news/items/cmok82f5f00jmslgc2ao7hh77"
 "score": 58
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude产品经理Jess Yan分享了处于测试版的Claude Managed Agents如何
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/product-development-in-the-agentic-era](https://claude.com/blog/product-development-in-the-agentic-era)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmok82f5f00jmslgc2ao7hh77](https://aihot.virxact.com/items/cmok82f5f00jmslgc2ao7hh77)
+- **AIHOT 链接**: [https://aihot.news/items/cmok82f5f00jmslgc2ao7hh77](https://aihot.news/items/cmok82f5f00jmslgc2ao7hh77)

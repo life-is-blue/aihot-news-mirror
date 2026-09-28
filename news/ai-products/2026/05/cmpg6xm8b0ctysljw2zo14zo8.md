@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-22T00:37:41.548Z"
 "source_name": "X：Gemini (@GeminiApp)"
 "original_url": "https://x.com/GeminiApp/status/2057616371748651054"
-"canonical_url": "https://aihot.virxact.com/items/cmpg6xm8b0ctysljw2zo14zo8"
+"canonical_url": "https://aihot.news/items/cmpg6xm8b0ctysljw2zo14zo8"
 "score": 82
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Gemini Omni来了，我们本周看到了许多令人惊叹的创作。以下是
 
 - **来源**: X：Gemini (@GeminiApp)
 - **原文链接**: [https://x.com/GeminiApp/status/2057616371748651054](https://x.com/GeminiApp/status/2057616371748651054)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpg6xm8b0ctysljw2zo14zo8](https://aihot.virxact.com/items/cmpg6xm8b0ctysljw2zo14zo8)
+- **AIHOT 链接**: [https://aihot.news/items/cmpg6xm8b0ctysljw2zo14zo8](https://aihot.news/items/cmpg6xm8b0ctysljw2zo14zo8)

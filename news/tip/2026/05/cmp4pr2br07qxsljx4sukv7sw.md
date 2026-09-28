@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-13T23:51:22.354Z"
 "source_name": "X：洪明 (@hongming731)"
 "original_url": "https://x.com/hongming731/status/2054701978924859865"
-"canonical_url": "https://aihot.virxact.com/items/cmp4pr2br07qxsljx4sukv7sw"
+"canonical_url": "https://aihot.news/items/cmp4pr2br07qxsljx4sukv7sw"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ BestBlogs早报聚焦AI智能体的工程化落地。Anthropic官方指南详解
 
 - **来源**: X：洪明 (@hongming731)
 - **原文链接**: [https://x.com/hongming731/status/2054701978924859865](https://x.com/hongming731/status/2054701978924859865)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp4pr2br07qxsljx4sukv7sw](https://aihot.virxact.com/items/cmp4pr2br07qxsljx4sukv7sw)
+- **AIHOT 链接**: [https://aihot.news/items/cmp4pr2br07qxsljx4sukv7sw](https://aihot.news/items/cmp4pr2br07qxsljx4sukv7sw)

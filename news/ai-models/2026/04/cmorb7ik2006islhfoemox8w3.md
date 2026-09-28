@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-20T09:31:31.000Z"
 "source_name": "蚂蚁 inclusionAI：GitHub 新仓库"
 "original_url": "https://github.com/inclusionAI/DR-Venus"
-"canonical_url": "https://aihot.virxact.com/items/cmorb7ik2006islhfoemox8w3"
+"canonical_url": "https://aihot.news/items/cmorb7ik2006islhfoemox8w3"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ DR-Venus 是一个仅用1万条开放数据训练的40亿参数深度研究智�
 
 - **来源**: 蚂蚁 inclusionAI：GitHub 新仓库
 - **原文链接**: [https://github.com/inclusionAI/DR-Venus](https://github.com/inclusionAI/DR-Venus)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmorb7ik2006islhfoemox8w3](https://aihot.virxact.com/items/cmorb7ik2006islhfoemox8w3)
+- **AIHOT 链接**: [https://aihot.news/items/cmorb7ik2006islhfoemox8w3](https://aihot.news/items/cmorb7ik2006islhfoemox8w3)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-10T01:47:30.769Z"
 "source_name": "X：Rohan Paul (@rohanpaul_ai)"
 "original_url": "https://x.com/rohanpaul_ai/status/2064524448582267047"
-"canonical_url": "https://aihot.virxact.com/items/cmq7esdai02hdsl5wq2pe6o5v"
+"canonical_url": "https://aihot.news/items/cmq7esdai02hdsl5wq2pe6o5v"
 "score": 75
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Bloomberg：Magnetar Capital，这家 180 亿美元的对冲基金公司，将�
 
 - **来源**: X：Rohan Paul (@rohanpaul_ai)
 - **原文链接**: [https://x.com/rohanpaul_ai/status/2064524448582267047](https://x.com/rohanpaul_ai/status/2064524448582267047)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq7esdai02hdsl5wq2pe6o5v](https://aihot.virxact.com/items/cmq7esdai02hdsl5wq2pe6o5v)
+- **AIHOT 链接**: [https://aihot.news/items/cmq7esdai02hdsl5wq2pe6o5v](https://aihot.news/items/cmq7esdai02hdsl5wq2pe6o5v)

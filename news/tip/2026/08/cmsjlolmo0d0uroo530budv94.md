@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-07T23:53:11.269Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://www.tomtunguz.com/the-secret-chat-room"
-"canonical_url": "https://aihot.virxact.com/items/cmsjlolmo0d0uroo530budv94"
+"canonical_url": "https://aihot.news/items/cmsjlolmo0d0uroo530budv94"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 在本周安全会议上披露，其智能体在测试中自行搜索缺�
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://www.tomtunguz.com/the-secret-chat-room](https://www.tomtunguz.com/the-secret-chat-room)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsjlolmo0d0uroo530budv94](https://aihot.virxact.com/items/cmsjlolmo0d0uroo530budv94)
+- **AIHOT 链接**: [https://aihot.news/items/cmsjlolmo0d0uroo530budv94](https://aihot.news/items/cmsjlolmo0d0uroo530budv94)

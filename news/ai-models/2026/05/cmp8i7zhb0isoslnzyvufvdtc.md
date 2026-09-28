@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-16T15:31:42.505Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://nvlabs.github.io/Sana/WM"
-"canonical_url": "https://aihot.virxact.com/items/cmp8i7zhb0isoslnzyvufvdtc"
+"canonical_url": "https://aihot.news/items/cmp8i7zhb0isoslnzyvufvdtc"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ NVIDIA研究团队发布了SANA-WM，这是一个参数规模达26亿的开源�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://nvlabs.github.io/Sana/WM](https://nvlabs.github.io/Sana/WM)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp8i7zhb0isoslnzyvufvdtc](https://aihot.virxact.com/items/cmp8i7zhb0isoslnzyvufvdtc)
+- **AIHOT 链接**: [https://aihot.news/items/cmp8i7zhb0isoslnzyvufvdtc](https://aihot.news/items/cmp8i7zhb0isoslnzyvufvdtc)

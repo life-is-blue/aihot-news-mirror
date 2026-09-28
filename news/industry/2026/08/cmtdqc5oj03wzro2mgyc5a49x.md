@@ -7,7 +7,7 @@
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/our-decision-on-cursor-following-its-\
   acquisition-by-spacex"
-"canonical_url": "https://aihot.virxact.com/items/cmtdqc5oj03wzro2mgyc5a49x"
+"canonical_url": "https://aihot.news/items/cmtdqc5oj03wzro2mgyc5a49x"
 "score": 69
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenAI 已通知 SpaceX，将终止向 Cursor 提供 OpenAI 模型的合同，�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtdqc5oj03wzro2mgyc5a49x](https://aihot.virxact.com/items/cmtdqc5oj03wzro2mgyc5a49x)
+- **AIHOT 链接**: [https://aihot.news/items/cmtdqc5oj03wzro2mgyc5a49x](https://aihot.news/items/cmtdqc5oj03wzro2mgyc5a49x)

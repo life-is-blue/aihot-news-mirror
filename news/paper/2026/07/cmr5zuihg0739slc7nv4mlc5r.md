@@ -8,7 +8,7 @@
 "original_url": "https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-a\
   spire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro\
   -long-tasks"
-"canonical_url": "https://aihot.virxact.com/items/cmr5zuihg0739slc7nv4mlc5r"
+"canonical_url": "https://aihot.news/items/cmr5zuihg0739slc7nv4mlc5r"
 "score": 70
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ NVIDIA 联合密歇根大学、UIUC、UC Berkeley 等提出 ASPIRE，一个持�
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks](https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr5zuihg0739slc7nv4mlc5r](https://aihot.virxact.com/items/cmr5zuihg0739slc7nv4mlc5r)
+- **AIHOT 链接**: [https://aihot.news/items/cmr5zuihg0739slc7nv4mlc5r](https://aihot.news/items/cmr5zuihg0739slc7nv4mlc5r)

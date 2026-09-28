@@ -7,7 +7,7 @@
 "source_name": "公众号：京东JoyAI"
 "original_url": "https://mp.weixin.qq.com/s?__biz=MzU0MjU0MDMzMw%3D%3D&mid=2247\
   487226&idx=1&sn=490e87cc3dab3bc150c5d8133dabc328"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu3i8x016qrofzm1mlo13i"
+"canonical_url": "https://aihot.news/items/cmsdu3i8x016qrofzm1mlo13i"
 "score": 62
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ JoyAI APP 上线「欢乐足球季」主题活动，用户上传一张人像照�
 
 - **来源**: 公众号：京东JoyAI
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=MzU0MjU0MDMzMw%3D%3D&mid=2247487226&idx=1&sn=490e87cc3dab3bc150c5d8133dabc328](https://mp.weixin.qq.com/s?__biz=MzU0MjU0MDMzMw%3D%3D&mid=2247487226&idx=1&sn=490e87cc3dab3bc150c5d8133dabc328)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu3i8x016qrofzm1mlo13i](https://aihot.virxact.com/items/cmsdu3i8x016qrofzm1mlo13i)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu3i8x016qrofzm1mlo13i](https://aihot.news/items/cmsdu3i8x016qrofzm1mlo13i)

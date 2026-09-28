@@ -7,7 +7,7 @@
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/reimagining-advertising-with-ai"
 "canonical_url": "https://aihot.news/items/cmu4574wb09w5ro4w7cdwfm7l"
-"score": 66
+"score": 67
 "content_kind": "news"
 ---
 

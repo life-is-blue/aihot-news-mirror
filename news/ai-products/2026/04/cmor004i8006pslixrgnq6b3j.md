@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-29T12:00:00.000Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/announcements/openrouter-on-stripe-projects"
-"canonical_url": "https://aihot.virxact.com/items/cmor004i8006pslixrgnq6b3j"
+"canonical_url": "https://aihot.news/items/cmor004i8006pslixrgnq6b3j"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/announcements/openrouter-on-stripe-projects](https://openrouter.ai/announcements/openrouter-on-stripe-projects)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmor004i8006pslixrgnq6b3j](https://aihot.virxact.com/items/cmor004i8006pslixrgnq6b3j)
+- **AIHOT 链接**: [https://aihot.news/items/cmor004i8006pslixrgnq6b3j](https://aihot.news/items/cmor004i8006pslixrgnq6b3j)

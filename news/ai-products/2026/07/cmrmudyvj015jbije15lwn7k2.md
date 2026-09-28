@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-16T01:40:28.320Z"
 "source_name": "公众号：MiniMax（稀宇科技）"
 "original_url": "https://mp.weixin.qq.com/s/mQeBO0xC6Z1R0LqZX5TvNg"
-"canonical_url": "https://aihot.virxact.com/items/cmrmudyvj015jbije15lwn7k2"
+"canonical_url": "https://aihot.news/items/cmrmudyvj015jbije15lwn7k2"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ MiniMax Code 2.0 桌面端发布，基于 Pi Agent 框架重构底层架构，�
 
 - **来源**: 公众号：MiniMax（稀宇科技）
 - **原文链接**: [https://mp.weixin.qq.com/s/mQeBO0xC6Z1R0LqZX5TvNg](https://mp.weixin.qq.com/s/mQeBO0xC6Z1R0LqZX5TvNg)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrmudyvj015jbije15lwn7k2](https://aihot.virxact.com/items/cmrmudyvj015jbije15lwn7k2)
+- **AIHOT 链接**: [https://aihot.news/items/cmrmudyvj015jbije15lwn7k2](https://aihot.news/items/cmrmudyvj015jbije15lwn7k2)

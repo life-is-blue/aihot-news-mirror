@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-08T17:49:17.497Z"
 "source_name": "X：Boris Cherny (@bcherny)"
 "original_url": "https://x.com/bcherny/status/2064034799711588805"
-"canonical_url": "https://aihot.virxact.com/items/cmq5i9iqg087aslt26400pkni"
+"canonical_url": "https://aihot.news/items/cmq5i9iqg087aslt26400pkni"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Code GA一周年之际，Anthropic工程师Boris Cherny与@_catwu回顾�
 
 - **来源**: X：Boris Cherny (@bcherny)
 - **原文链接**: [https://x.com/bcherny/status/2064034799711588805](https://x.com/bcherny/status/2064034799711588805)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq5i9iqg087aslt26400pkni](https://aihot.virxact.com/items/cmq5i9iqg087aslt26400pkni)
+- **AIHOT 链接**: [https://aihot.news/items/cmq5i9iqg087aslt26400pkni](https://aihot.news/items/cmq5i9iqg087aslt26400pkni)

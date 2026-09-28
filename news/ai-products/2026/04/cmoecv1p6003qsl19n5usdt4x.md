@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-08T00:00:00.000Z"
 "source_name": "蚂蚁百灵：Developer Blog（网页）"
 "original_url": "https://developer.ant-ling.com/zh-CN/blogs/cula-cuda-linear-attention"
-"canonical_url": "https://aihot.virxact.com/items/cmoecv1p6003qsl19n5usdt4x"
+"canonical_url": "https://aihot.news/items/cmoecv1p6003qsl19n5usdt4x"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ cuLA是一套面向GLA、KDA等线性注意力变体的高性能CUDA内核库。
 
 - **来源**: 蚂蚁百灵：Developer Blog（网页）
 - **原文链接**: [https://developer.ant-ling.com/zh-CN/blogs/cula-cuda-linear-attention](https://developer.ant-ling.com/zh-CN/blogs/cula-cuda-linear-attention)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoecv1p6003qsl19n5usdt4x](https://aihot.virxact.com/items/cmoecv1p6003qsl19n5usdt4x)
+- **AIHOT 链接**: [https://aihot.news/items/cmoecv1p6003qsl19n5usdt4x](https://aihot.news/items/cmoecv1p6003qsl19n5usdt4x)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-09T06:08:54.362Z"
 "source_name": "X：Tibo (@thsottiaux)"
 "original_url": "https://x.com/thsottiaux/status/2064226958494572727"
-"canonical_url": "https://aihot.virxact.com/items/cmq68oov10673sl5ivwp0ca0i"
+"canonical_url": "https://aihot.news/items/cmq68oov10673sl5ivwp0ca0i"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：Tibo (@thsottiaux)
 - **原文链接**: [https://x.com/thsottiaux/status/2064226958494572727](https://x.com/thsottiaux/status/2064226958494572727)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq68oov10673sl5ivwp0ca0i](https://aihot.virxact.com/items/cmq68oov10673sl5ivwp0ca0i)
+- **AIHOT 链接**: [https://aihot.news/items/cmq68oov10673sl5ivwp0ca0i](https://aihot.news/items/cmq68oov10673sl5ivwp0ca0i)

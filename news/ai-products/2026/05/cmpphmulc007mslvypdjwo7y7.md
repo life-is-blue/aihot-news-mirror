@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-28T12:47:09.083Z"
 "source_name": "Mistral AI：News（网页）"
 "original_url": "https://mistral.ai/news/search-toolkit"
-"canonical_url": "https://aihot.virxact.com/items/cmpphmulc007mslvypdjwo7y7"
+"canonical_url": "https://aihot.news/items/cmpphmulc007mslvypdjwo7y7"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Mistral AI 发布了 Search Toolkit 的公共预览版。这是一个用于构�
 
 - **来源**: Mistral AI：News（网页）
 - **原文链接**: [https://mistral.ai/news/search-toolkit](https://mistral.ai/news/search-toolkit)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpphmulc007mslvypdjwo7y7](https://aihot.virxact.com/items/cmpphmulc007mslvypdjwo7y7)
+- **AIHOT 链接**: [https://aihot.news/items/cmpphmulc007mslvypdjwo7y7](https://aihot.news/items/cmpphmulc007mslvypdjwo7y7)

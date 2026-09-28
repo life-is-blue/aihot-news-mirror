@@ -7,7 +7,7 @@
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/kiyoung-choi-representative-dir\
   ector-anthropic-korea"
-"canonical_url": "https://aihot.virxact.com/items/cmpn9vusg0vq6sl0195qmighr"
+"canonical_url": "https://aihot.news/items/cmpn9vusg0vq6sl0195qmighr"
 "score": 65
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Anthropic宣布任命KiYoung Choi为韩国代表董事，以支持其即将在�
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea](https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpn9vusg0vq6sl0195qmighr](https://aihot.virxact.com/items/cmpn9vusg0vq6sl0195qmighr)
+- **AIHOT 链接**: [https://aihot.news/items/cmpn9vusg0vq6sl0195qmighr](https://aihot.news/items/cmpn9vusg0vq6sl0195qmighr)

@@ -6,7 +6,7 @@
 "discovered_at": "2025-09-23T13:41:02.000Z"
 "source_name": "Sam Altman：Blog（RSS）"
 "original_url": "https://blog.samaltman.com/abundant-intelligence"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xr1o0040slc35nmxy4dt"
+"canonical_url": "https://aihot.news/items/cmnw1xr1o0040slc35nmxy4dt"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Sam Altman：Blog（RSS）
 - **原文链接**: [https://blog.samaltman.com/abundant-intelligence](https://blog.samaltman.com/abundant-intelligence)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xr1o0040slc35nmxy4dt](https://aihot.virxact.com/items/cmnw1xr1o0040slc35nmxy4dt)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xr1o0040slc35nmxy4dt](https://aihot.news/items/cmnw1xr1o0040slc35nmxy4dt)

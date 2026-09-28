@@ -7,7 +7,7 @@
 "source_name": "FireRedTeam：原创语音与多模态项目"
 "original_url": "https://github.com/FireRedTeam/FireRedAudio"
 "canonical_url": "https://aihot.news/items/cmtym5t890002roy8fv6lz6hf"
-"score": 63
+"score": 64
 "content_kind": "news"
 ---
 

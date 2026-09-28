@@ -7,7 +7,7 @@
 "source_name": "Epoch AI：研究、数据与评测"
 "original_url": "https://epoch.ai/gradient-updates/ai-lab-job-postings"
 "canonical_url": "https://aihot.news/items/cmtyo2t5y03jerog0906a3386"
-"score": 63
+"score": 64
 "content_kind": "news"
 ---
 

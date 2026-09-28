@@ -7,7 +7,7 @@
 "source_name": "LMSYS：Blog（Chatbot Arena 团队）"
 "original_url": "https://www.lmsys.org/blog/2026-08-29-sglang-ssd-expert-pack"
 "canonical_url": "https://aihot.news/items/cmu79ssfu0z2irowkbdofbmeq"
-"score": 65
+"score": 66
 "content_kind": "news"
 ---
 

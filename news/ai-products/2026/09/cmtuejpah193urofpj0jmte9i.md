@@ -9,7 +9,7 @@
 "original_url": "https://www.apple.com/newsroom/2026/09/apple-advances-health-a\
   nd-fitness-capabilities-using-apple-intelligence"
 "canonical_url": "https://aihot.news/items/cmtuejpah193urofpj0jmte9i"
-"score": 62
+"score": 63
 "content_kind": "news"
 ---
 

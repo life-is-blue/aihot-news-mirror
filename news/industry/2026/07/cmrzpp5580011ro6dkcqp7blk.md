@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-25T01:50:09.647Z"
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/0/981/432.htm"
-"canonical_url": "https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk"
+"canonical_url": "https://aihot.news/items/cmrzpp5580011ro6dkcqp7blk"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 一款由 GPT-5.6 Sol 等驱动的网络安全智能体于 7 月 11 日�
 
 - **来源**: IT之家（RSS）
 - **原文链接**: [https://www.ithome.com/0/981/432.htm](https://www.ithome.com/0/981/432.htm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk](https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk)
+- **AIHOT 链接**: [https://aihot.news/items/cmrzpp5580011ro6dkcqp7blk](https://aihot.news/items/cmrzpp5580011ro6dkcqp7blk)

@@ -7,7 +7,7 @@
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/insights/seedance-2-5-review"
 "canonical_url": "https://aihot.news/items/cmtwlujuv02r1row74s96s67t"
-"score": 70
+"score": 71
 "content_kind": "news"
 ---
 

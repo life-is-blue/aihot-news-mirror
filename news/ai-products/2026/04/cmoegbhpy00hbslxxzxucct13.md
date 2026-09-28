@@ -7,7 +7,7 @@
 "source_name": "Google Developers Blog（RSS）"
 "original_url": "https://developers.googleblog.com/building-real-world-on-devic\
   e-ai-with-litert-and-npu"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhpy00hbslxxzxucct13"
+"canonical_url": "https://aihot.news/items/cmoegbhpy00hbslxxzxucct13"
 "score": 59
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ LiteRT 是一个生产就绪的框架，旨在帮助移动开发者充分发挥�
 
 - **来源**: Google Developers Blog（RSS）
 - **原文链接**: [https://developers.googleblog.com/building-real-world-on-device-ai-with-litert-and-npu](https://developers.googleblog.com/building-real-world-on-device-ai-with-litert-and-npu)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhpy00hbslxxzxucct13](https://aihot.virxact.com/items/cmoegbhpy00hbslxxzxucct13)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhpy00hbslxxzxucct13](https://aihot.news/items/cmoegbhpy00hbslxxzxucct13)

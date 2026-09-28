@@ -8,7 +8,7 @@
 "original_url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-op\
   en-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-d\
   ense-spatial-perception"
-"canonical_url": "https://aihot.virxact.com/items/cmrbikwbz04b5ihl16qfp5ntw"
+"canonical_url": "https://aihot.news/items/cmrbikwbz04b5ihl16qfp5ntw"
 "score": 71
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception](https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrbikwbz04b5ihl16qfp5ntw](https://aihot.virxact.com/items/cmrbikwbz04b5ihl16qfp5ntw)
+- **AIHOT 链接**: [https://aihot.news/items/cmrbikwbz04b5ihl16qfp5ntw](https://aihot.news/items/cmrbikwbz04b5ihl16qfp5ntw)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-11T01:45:12.916Z"
 "source_name": "Gary Marcus：The Road to AI We Can Trust（RSS）"
 "original_url": "https://garymarcus.substack.com/p/maybe-section-230-doesnt-shield-ai"
-"canonical_url": "https://aihot.virxact.com/items/cmq8u596h05thslld0loup210"
+"canonical_url": "https://aihot.news/items/cmq8u596h05thslld0loup210"
 "score": 56
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Gary Marcus：The Road to AI We Can Trust（RSS）
 - **原文链接**: [https://garymarcus.substack.com/p/maybe-section-230-doesnt-shield-ai](https://garymarcus.substack.com/p/maybe-section-230-doesnt-shield-ai)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq8u596h05thslld0loup210](https://aihot.virxact.com/items/cmq8u596h05thslld0loup210)
+- **AIHOT 链接**: [https://aihot.news/items/cmq8u596h05thslld0loup210](https://aihot.news/items/cmq8u596h05thslld0loup210)

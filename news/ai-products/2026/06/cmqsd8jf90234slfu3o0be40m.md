@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-24T17:47:13.907Z"
 "source_name": "X：Tibo (@thsottiaux)"
 "original_url": "https://x.com/thsottiaux/status/2069837606574289329"
-"canonical_url": "https://aihot.virxact.com/items/cmqsd8jf90234slfu3o0be40m"
+"canonical_url": "https://aihot.news/items/cmqsd8jf90234slfu3o0be40m"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 设计并制造了其首款 AI 芯片：Jalapeño。该芯片由 OpenAI �
 
 - **来源**: X：Tibo (@thsottiaux)
 - **原文链接**: [https://x.com/thsottiaux/status/2069837606574289329](https://x.com/thsottiaux/status/2069837606574289329)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqsd8jf90234slfu3o0be40m](https://aihot.virxact.com/items/cmqsd8jf90234slfu3o0be40m)
+- **AIHOT 链接**: [https://aihot.news/items/cmqsd8jf90234slfu3o0be40m](https://aihot.news/items/cmqsd8jf90234slfu3o0be40m)

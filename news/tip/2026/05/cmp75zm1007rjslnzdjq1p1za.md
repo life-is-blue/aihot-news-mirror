@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-15T17:01:02.568Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/deploying-claude-across-the-legal-industry"
-"canonical_url": "https://aihot.virxact.com/items/cmp75zm1007rjslnzdjq1p1za"
+"canonical_url": "https://aihot.news/items/cmp75zm1007rjslnzdjq1p1za"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/deploying-claude-across-the-legal-industry](https://claude.com/blog/deploying-claude-across-the-legal-industry)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp75zm1007rjslnzdjq1p1za](https://aihot.virxact.com/items/cmp75zm1007rjslnzdjq1p1za)
+- **AIHOT 链接**: [https://aihot.news/items/cmp75zm1007rjslnzdjq1p1za](https://aihot.news/items/cmp75zm1007rjslnzdjq1p1za)

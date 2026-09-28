@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-23T19:09:16.399Z"
 "source_name": "X：Replit (@Replit)"
 "original_url": "https://x.com/Replit/status/2058261705998602548"
-"canonical_url": "https://aihot.virxact.com/items/cmpiq2r6p0z5bsljwnmtrw2la"
+"canonical_url": "https://aihot.news/items/cmpiq2r6p0z5bsljwnmtrw2la"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Replit Agent与Squidler已完成集成，形成一套完整的AI驱动质量保�
 
 - **来源**: X：Replit (@Replit)
 - **原文链接**: [https://x.com/Replit/status/2058261705998602548](https://x.com/Replit/status/2058261705998602548)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpiq2r6p0z5bsljwnmtrw2la](https://aihot.virxact.com/items/cmpiq2r6p0z5bsljwnmtrw2la)
+- **AIHOT 链接**: [https://aihot.news/items/cmpiq2r6p0z5bsljwnmtrw2la](https://aihot.news/items/cmpiq2r6p0z5bsljwnmtrw2la)

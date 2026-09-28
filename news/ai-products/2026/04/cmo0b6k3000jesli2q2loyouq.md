@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-15T17:12:46.635Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk"
-"canonical_url": "https://aihot.virxact.com/items/cmo0b6k3000jesli2q2loyouq"
+"canonical_url": "https://aihot.news/items/cmo0b6k3000jesli2q2loyouq"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 推出 Agents SDK 重大更新，引入原生沙盒执行环境与模型�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/the-next-evolution-of-the-agents-sdk](https://openai.com/index/the-next-evolution-of-the-agents-sdk)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmo0b6k3000jesli2q2loyouq](https://aihot.virxact.com/items/cmo0b6k3000jesli2q2loyouq)
+- **AIHOT 链接**: [https://aihot.news/items/cmo0b6k3000jesli2q2loyouq](https://aihot.news/items/cmo0b6k3000jesli2q2loyouq)

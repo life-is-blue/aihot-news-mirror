@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-29T18:49:33.524Z"
 "source_name": "X：Greg Brockman (@gdb)"
 "original_url": "https://x.com/gdb/status/2060432274710315010"
-"canonical_url": "https://aihot.virxact.com/items/cmpra0kca0c96slnodva0jcoi"
+"canonical_url": "https://aihot.news/items/cmpra0kca0c96slnodva0jcoi"
 "score": 71
 "content_kind": "news"
 ---
@@ -23,4 +23,4 @@ Codex 用户在 Windows 上迎来重大升级：
 
 - **来源**: X：Greg Brockman (@gdb)
 - **原文链接**: [https://x.com/gdb/status/2060432274710315010](https://x.com/gdb/status/2060432274710315010)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpra0kca0c96slnodva0jcoi](https://aihot.virxact.com/items/cmpra0kca0c96slnodva0jcoi)
+- **AIHOT 链接**: [https://aihot.news/items/cmpra0kca0c96slnodva0jcoi](https://aihot.news/items/cmpra0kca0c96slnodva0jcoi)

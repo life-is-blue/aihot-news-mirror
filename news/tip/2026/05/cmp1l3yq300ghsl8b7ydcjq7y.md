@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-11T19:18:10.796Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://www.tomtunguz.com/localmaxxing"
-"canonical_url": "https://aihot.virxact.com/items/cmp1l3yq300ghsl8b7ydcjq7y"
+"canonical_url": "https://aihot.news/items/cmp1l3yq300ghsl8b7ydcjq7y"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://www.tomtunguz.com/localmaxxing](https://www.tomtunguz.com/localmaxxing)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp1l3yq300ghsl8b7ydcjq7y](https://aihot.virxact.com/items/cmp1l3yq300ghsl8b7ydcjq7y)
+- **AIHOT 链接**: [https://aihot.news/items/cmp1l3yq300ghsl8b7ydcjq7y](https://aihot.news/items/cmp1l3yq300ghsl8b7ydcjq7y)

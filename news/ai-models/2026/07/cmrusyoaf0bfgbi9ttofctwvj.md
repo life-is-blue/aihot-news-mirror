@@ -7,7 +7,7 @@
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-fl\
   ash-lite-and-35-flash-cyber"
-"canonical_url": "https://aihot.virxact.com/items/cmrusyoaf0bfgbi9ttofctwvj"
+"canonical_url": "https://aihot.news/items/cmrusyoaf0bfgbi9ttofctwvj"
 "score": 57
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google DeepMind 推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber 三
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber](https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrusyoaf0bfgbi9ttofctwvj](https://aihot.virxact.com/items/cmrusyoaf0bfgbi9ttofctwvj)
+- **AIHOT 链接**: [https://aihot.news/items/cmrusyoaf0bfgbi9ttofctwvj](https://aihot.news/items/cmrusyoaf0bfgbi9ttofctwvj)

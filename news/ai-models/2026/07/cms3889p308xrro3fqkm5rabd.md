@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-23T16:00:00.000Z"
 "source_name": "蚂蚁百灵：Developer Blog（网页）"
 "original_url": "https://developer.ant-ling.com/zh-CN/blogs/ling-3.0-flash-release"
-"canonical_url": "https://aihot.virxact.com/items/cms3889p308xrro3fqkm5rabd"
+"canonical_url": "https://aihot.news/items/cms3889p308xrro3fqkm5rabd"
 "score": 55
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: 蚂蚁百灵：Developer Blog（网页）
 - **原文链接**: [https://developer.ant-ling.com/zh-CN/blogs/ling-3.0-flash-release](https://developer.ant-ling.com/zh-CN/blogs/ling-3.0-flash-release)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3889p308xrro3fqkm5rabd](https://aihot.virxact.com/items/cms3889p308xrro3fqkm5rabd)
+- **AIHOT 链接**: [https://aihot.news/items/cms3889p308xrro3fqkm5rabd](https://aihot.news/items/cms3889p308xrro3fqkm5rabd)

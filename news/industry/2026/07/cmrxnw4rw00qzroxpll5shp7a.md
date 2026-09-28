@@ -7,7 +7,7 @@
 "source_name": "TechCrunch：AI（RSS）"
 "original_url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-\
   billion-user-product-with-gemini"
-"canonical_url": "https://aihot.virxact.com/items/cmrxnw4rw00qzroxpll5shp7a"
+"canonical_url": "https://aihot.news/items/cmrxnw4rw00qzroxpll5shp7a"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google 在 Q2 2026 财报电话会上宣布，AI 助手 Gemini 月活跃用户�
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini](https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrxnw4rw00qzroxpll5shp7a](https://aihot.virxact.com/items/cmrxnw4rw00qzroxpll5shp7a)
+- **AIHOT 链接**: [https://aihot.news/items/cmrxnw4rw00qzroxpll5shp7a](https://aihot.news/items/cmrxnw4rw00qzroxpll5shp7a)

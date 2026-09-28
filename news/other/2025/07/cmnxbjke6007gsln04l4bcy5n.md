@@ -6,7 +6,7 @@
 "discovered_at": "2025-07-30T16:00:00.000Z"
 "source_name": "LMSYS：Blog（Chatbot Arena 团队）"
 "original_url": "https://www.lmsys.org/blog/2025-07-31-glm4-5"
-"canonical_url": "https://aihot.virxact.com/items/cmnxbjke6007gsln04l4bcy5n"
+"canonical_url": "https://aihot.news/items/cmnxbjke6007gsln04l4bcy5n"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: LMSYS：Blog（Chatbot Arena 团队）
 - **原文链接**: [https://www.lmsys.org/blog/2025-07-31-glm4-5](https://www.lmsys.org/blog/2025-07-31-glm4-5)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnxbjke6007gsln04l4bcy5n](https://aihot.virxact.com/items/cmnxbjke6007gsln04l4bcy5n)
+- **AIHOT 链接**: [https://aihot.news/items/cmnxbjke6007gsln04l4bcy5n](https://aihot.news/items/cmnxbjke6007gsln04l4bcy5n)

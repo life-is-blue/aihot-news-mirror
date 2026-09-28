@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-04T21:17:41.173Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.buchodi.com/meta-glasses-facial-recognition"
-"canonical_url": "https://aihot.virxact.com/items/cmpzzy3mq01lhsltr53sjjspw"
+"canonical_url": "https://aihot.news/items/cmpzzy3mq01lhsltr53sjjspw"
 "score": 80
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Meta 为其智能眼镜产品推出了人脸识别功能，用户可通过眼镜
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.buchodi.com/meta-glasses-facial-recognition](https://www.buchodi.com/meta-glasses-facial-recognition)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpzzy3mq01lhsltr53sjjspw](https://aihot.virxact.com/items/cmpzzy3mq01lhsltr53sjjspw)
+- **AIHOT 链接**: [https://aihot.news/items/cmpzzy3mq01lhsltr53sjjspw](https://aihot.news/items/cmpzzy3mq01lhsltr53sjjspw)

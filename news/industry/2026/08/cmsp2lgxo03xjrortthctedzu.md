@@ -7,7 +7,7 @@
 "source_name": "The Verge：AI（RSS）"
 "original_url": "https://www.theverge.com/ai-artificial-intelligence/978113/cha\
   tgpt-gemini-1-billion-users"
-"canonical_url": "https://aihot.virxact.com/items/cmsp2lgxo03xjrortthctedzu"
+"canonical_url": "https://aihot.news/items/cmsp2lgxo03xjrortthctedzu"
 "score": 80
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 
 
 - **来源**: The Verge：AI（RSS）
 - **原文链接**: [https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users](https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsp2lgxo03xjrortthctedzu](https://aihot.virxact.com/items/cmsp2lgxo03xjrortthctedzu)
+- **AIHOT 链接**: [https://aihot.news/items/cmsp2lgxo03xjrortthctedzu](https://aihot.news/items/cmsp2lgxo03xjrortthctedzu)

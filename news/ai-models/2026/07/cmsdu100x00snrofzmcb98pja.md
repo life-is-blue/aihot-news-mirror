@@ -7,7 +7,7 @@
 "source_name": "公众号：月之暗面（Kimi）"
 "original_url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247\
   484303&idx=1&sn=9662fc55e9dcfc804e2cd9988ebba510"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu100x00snrofzmcb98pja"
+"canonical_url": "https://aihot.news/items/cmsdu100x00snrofzmcb98pja"
 "score": 83
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: 公众号：月之暗面（Kimi）
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484303&idx=1&sn=9662fc55e9dcfc804e2cd9988ebba510](https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484303&idx=1&sn=9662fc55e9dcfc804e2cd9988ebba510)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu100x00snrofzmcb98pja](https://aihot.virxact.com/items/cmsdu100x00snrofzmcb98pja)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu100x00snrofzmcb98pja](https://aihot.news/items/cmsdu100x00snrofzmcb98pja)

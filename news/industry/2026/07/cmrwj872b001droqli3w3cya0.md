@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-22T20:25:43.768Z"
 "source_name": "X：Sundar Pichai (@sundarpichai)"
 "original_url": "https://x.com/sundarpichai/status/2080021408856293584"
-"canonical_url": "https://aihot.virxact.com/items/cmrwj872b001droqli3w3cya0"
+"canonical_url": "https://aihot.news/items/cmrwj872b001droqli3w3cya0"
 "score": 62
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Alphabet Q2 营收同比增长 24%，Google Cloud 增速达 82%。Gemini 应用�
 
 - **来源**: X：Sundar Pichai (@sundarpichai)
 - **原文链接**: [https://x.com/sundarpichai/status/2080021408856293584](https://x.com/sundarpichai/status/2080021408856293584)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrwj872b001droqli3w3cya0](https://aihot.virxact.com/items/cmrwj872b001droqli3w3cya0)
+- **AIHOT 链接**: [https://aihot.news/items/cmrwj872b001droqli3w3cya0](https://aihot.news/items/cmrwj872b001droqli3w3cya0)

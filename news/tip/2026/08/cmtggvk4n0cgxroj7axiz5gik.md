@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-21T00:00:00.000Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://tomtunguz.com/intelligence-per-watt"
-"canonical_url": "https://aihot.virxact.com/items/cmtggvk4n0cgxroj7axiz5gik"
+"canonical_url": "https://aihot.news/items/cmtggvk4n0cgxroj7axiz5gik"
 "score": 64
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://tomtunguz.com/intelligence-per-watt](https://tomtunguz.com/intelligence-per-watt)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtggvk4n0cgxroj7axiz5gik](https://aihot.virxact.com/items/cmtggvk4n0cgxroj7axiz5gik)
+- **AIHOT 链接**: [https://aihot.news/items/cmtggvk4n0cgxroj7axiz5gik](https://aihot.news/items/cmtggvk4n0cgxroj7axiz5gik)

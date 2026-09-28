@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-11T00:00:00.000Z"
 "source_name": "Claude Platform：开发者版本说明（RSS）"
 "original_url": "https://platform.claude.com/docs/en/release-notes/overview#may-11-2026"
-"canonical_url": "https://aihot.virxact.com/items/cms3enyq8004zrozq4w685lxz"
+"canonical_url": "https://aihot.news/items/cms3enyq8004zrozq4w685lxz"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 推出 Claude Platform on AWS，将 Claude API 部署在由 Anthropic 
 
 - **来源**: Claude Platform：开发者版本说明（RSS）
 - **原文链接**: [https://platform.claude.com/docs/en/release-notes/overview#may-11-2026](https://platform.claude.com/docs/en/release-notes/overview#may-11-2026)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3enyq8004zrozq4w685lxz](https://aihot.virxact.com/items/cms3enyq8004zrozq4w685lxz)
+- **AIHOT 链接**: [https://aihot.news/items/cms3enyq8004zrozq4w685lxz](https://aihot.news/items/cms3enyq8004zrozq4w685lxz)

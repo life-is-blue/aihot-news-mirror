@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-05T17:12:11.075Z"
 "source_name": "Google Developers Blog（RSS）"
 "original_url": "https://developers.googleblog.com/introducing-the-google-colab-cli"
-"canonical_url": "https://aihot.virxact.com/items/cmq16mdmy0d0hsltriwaiyzvh"
+"canonical_url": "https://aihot.news/items/cmq16mdmy0d0hsltriwaiyzvh"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google 推出 Colab 命令行界面（CLI），允许开发者和 AI 智能体�
 
 - **来源**: Google Developers Blog（RSS）
 - **原文链接**: [https://developers.googleblog.com/introducing-the-google-colab-cli](https://developers.googleblog.com/introducing-the-google-colab-cli)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq16mdmy0d0hsltriwaiyzvh](https://aihot.virxact.com/items/cmq16mdmy0d0hsltriwaiyzvh)
+- **AIHOT 链接**: [https://aihot.news/items/cmq16mdmy0d0hsltriwaiyzvh](https://aihot.news/items/cmq16mdmy0d0hsltriwaiyzvh)

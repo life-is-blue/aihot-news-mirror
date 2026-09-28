@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-09T22:19:17.050Z"
 "source_name": "Simon Willison 博客"
 "original_url": "https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price"
-"canonical_url": "https://aihot.virxact.com/items/cmq77ckl000hfsl5wb4w757br"
+"canonical_url": "https://aihot.news/items/cmq77ckl000hfsl5wb4w757br"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Wes McKinney 开发的 AgentsView 是一个用于追踪本地编码智能体 tok
 
 - **来源**: Simon Willison 博客
 - **原文链接**: [https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price](https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq77ckl000hfsl5wb4w757br](https://aihot.virxact.com/items/cmq77ckl000hfsl5wb4w757br)
+- **AIHOT 链接**: [https://aihot.news/items/cmq77ckl000hfsl5wb4w757br](https://aihot.news/items/cmq77ckl000hfsl5wb4w757br)

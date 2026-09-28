@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-19T04:28:55.066Z"
 "source_name": "X：Tibo (@thsottiaux)"
 "original_url": "https://x.com/thsottiaux/status/2078697631019303273"
-"canonical_url": "https://aihot.virxact.com/items/cmrraq5dk03p5bi18vyrt83kp"
+"canonical_url": "https://aihot.news/items/cmrraq5dk03p5bi18vyrt83kp"
 "score": 75
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ ChatGPT Work 适用于
 
 - **来源**: X：Tibo (@thsottiaux)
 - **原文链接**: [https://x.com/thsottiaux/status/2078697631019303273](https://x.com/thsottiaux/status/2078697631019303273)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrraq5dk03p5bi18vyrt83kp](https://aihot.virxact.com/items/cmrraq5dk03p5bi18vyrt83kp)
+- **AIHOT 链接**: [https://aihot.news/items/cmrraq5dk03p5bi18vyrt83kp](https://aihot.news/items/cmrraq5dk03p5bi18vyrt83kp)

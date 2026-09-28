@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-10T16:00:00.000Z"
 "source_name": "Suno：Blog（网页）"
 "original_url": "https://suno.com/blog/stem-separation-updates"
-"canonical_url": "https://aihot.virxact.com/items/cmqqtisqu0dbjslp5zqr7vbl8"
+"canonical_url": "https://aihot.news/items/cmqqtisqu0dbjslp5zqr7vbl8"
 "score": 68
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Suno 对音轨分离功能进行重构，推出三种拆分方式：Auto Split �
 
 - **来源**: Suno：Blog（网页）
 - **原文链接**: [https://suno.com/blog/stem-separation-updates](https://suno.com/blog/stem-separation-updates)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqqtisqu0dbjslp5zqr7vbl8](https://aihot.virxact.com/items/cmqqtisqu0dbjslp5zqr7vbl8)
+- **AIHOT 链接**: [https://aihot.news/items/cmqqtisqu0dbjslp5zqr7vbl8](https://aihot.news/items/cmqqtisqu0dbjslp5zqr7vbl8)

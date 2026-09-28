@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-16T19:26:47.273Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/introducing-gpt-rosalind"
-"canonical_url": "https://aihot.virxact.com/items/cmo1ver7v003yslbagj12d7u8"
+"canonical_url": "https://aihot.news/items/cmo1ver7v003yslbagj12d7u8"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI发布面向生命科学的专业推理模型GPT-Rosalind。该模型专�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/introducing-gpt-rosalind](https://openai.com/index/introducing-gpt-rosalind)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmo1ver7v003yslbagj12d7u8](https://aihot.virxact.com/items/cmo1ver7v003yslbagj12d7u8)
+- **AIHOT 链接**: [https://aihot.news/items/cmo1ver7v003yslbagj12d7u8](https://aihot.news/items/cmo1ver7v003yslbagj12d7u8)

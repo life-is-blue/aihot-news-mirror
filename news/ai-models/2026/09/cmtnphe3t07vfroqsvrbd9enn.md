@@ -6,8 +6,8 @@
 "discovered_at": "2026-09-05T01:30:18.743Z"
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/0/998/661.htm"
-"canonical_url": "https://aihot.virxact.com/items/cmtnphe3t07vfroqsvrbd9enn"
-"score": 82
+"canonical_url": "https://aihot.news/items/cmtnphe3t07vfroqsvrbd9enn"
+"score": 83
 "content_kind": "news"
 ---
 
@@ -17,4 +17,4 @@ OpenAI 于 9 月 3 日上线 GPT-6 Astra，称其在电脑使用、浏览、软�
 
 - **来源**: IT之家（RSS）
 - **原文链接**: [https://www.ithome.com/0/998/661.htm](https://www.ithome.com/0/998/661.htm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtnphe3t07vfroqsvrbd9enn](https://aihot.virxact.com/items/cmtnphe3t07vfroqsvrbd9enn)
+- **AIHOT 链接**: [https://aihot.news/items/cmtnphe3t07vfroqsvrbd9enn](https://aihot.news/items/cmtnphe3t07vfroqsvrbd9enn)

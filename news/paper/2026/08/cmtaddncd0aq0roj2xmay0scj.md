@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-26T17:30:30.074Z"
 "source_name": "Anthropic：Research（发表成果 · 网页）"
 "original_url": "https://www.anthropic.com/research/enabling-independent-research"
-"canonical_url": "https://aihot.virxact.com/items/cmtaddncd0aq0roj2xmay0scj"
+"canonical_url": "https://aihot.news/items/cmtaddncd0aq0roj2xmay0scj"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 今年春季启动试点，通过隐私保护工具 Anthropic Insights
 
 - **来源**: Anthropic：Research（发表成果 · 网页）
 - **原文链接**: [https://www.anthropic.com/research/enabling-independent-research](https://www.anthropic.com/research/enabling-independent-research)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtaddncd0aq0roj2xmay0scj](https://aihot.virxact.com/items/cmtaddncd0aq0roj2xmay0scj)
+- **AIHOT 链接**: [https://aihot.news/items/cmtaddncd0aq0roj2xmay0scj](https://aihot.news/items/cmtaddncd0aq0roj2xmay0scj)

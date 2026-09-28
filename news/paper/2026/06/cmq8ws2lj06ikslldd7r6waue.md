@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-09T00:00:00.000Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2606.11289"
-"canonical_url": "https://aihot.virxact.com/items/cmq8ws2lj06ikslldd7r6waue"
+"canonical_url": "https://aihot.news/items/cmq8ws2lj06ikslldd7r6waue"
 "score": 82
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ i1 是一个 3B 参数的文本到图像扩散模型，仅使用公开数据集�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2606.11289](https://arxiv.org/abs/2606.11289)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq8ws2lj06ikslldd7r6waue](https://aihot.virxact.com/items/cmq8ws2lj06ikslldd7r6waue)
+- **AIHOT 链接**: [https://aihot.news/items/cmq8ws2lj06ikslldd7r6waue](https://aihot.news/items/cmq8ws2lj06ikslldd7r6waue)

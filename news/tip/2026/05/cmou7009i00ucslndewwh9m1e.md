@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-06T15:08:40.604Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/introducing-b2b-signals"
-"canonical_url": "https://aihot.virxact.com/items/cmou7009i00ucslndewwh9m1e"
+"canonical_url": "https://aihot.news/items/cmou7009i00ucslndewwh9m1e"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI的B2B Signals研究揭示了前沿企业深化AI应用、规模化基于C
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/introducing-b2b-signals](https://openai.com/index/introducing-b2b-signals)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmou7009i00ucslndewwh9m1e](https://aihot.virxact.com/items/cmou7009i00ucslndewwh9m1e)
+- **AIHOT 链接**: [https://aihot.news/items/cmou7009i00ucslndewwh9m1e](https://aihot.news/items/cmou7009i00ucslndewwh9m1e)

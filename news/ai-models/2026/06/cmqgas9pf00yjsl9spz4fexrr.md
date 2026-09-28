@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-16T07:05:23.503Z"
 "source_name": "X：Testing Catalog (@testingcatalog)"
 "original_url": "https://x.com/testingcatalog/status/2066773392527655252"
-"canonical_url": "https://aihot.virxact.com/items/cmqgas9pf00yjsl9spz4fexrr"
+"canonical_url": "https://aihot.news/items/cmqgas9pf00yjsl9spz4fexrr"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Cartesia 推出 Sonic 3.5 和 Ink 2 两个模型，作为单一实时语音栈�
 
 - **来源**: X：Testing Catalog (@testingcatalog)
 - **原文链接**: [https://x.com/testingcatalog/status/2066773392527655252](https://x.com/testingcatalog/status/2066773392527655252)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqgas9pf00yjsl9spz4fexrr](https://aihot.virxact.com/items/cmqgas9pf00yjsl9spz4fexrr)
+- **AIHOT 链接**: [https://aihot.news/items/cmqgas9pf00yjsl9spz4fexrr](https://aihot.news/items/cmqgas9pf00yjsl9spz4fexrr)

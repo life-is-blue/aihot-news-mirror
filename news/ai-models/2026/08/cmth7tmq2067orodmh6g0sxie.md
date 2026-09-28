@@ -6,8 +6,8 @@
 "discovered_at": "2026-08-31T12:29:19.834Z"
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/0/996/637.htm"
-"canonical_url": "https://aihot.virxact.com/items/cmth7tmq2067orodmh6g0sxie"
-"score": 76
+"canonical_url": "https://aihot.news/items/cmth7tmq2067orodmh6g0sxie"
+"score": 77
 "content_kind": "news"
 ---
 
@@ -17,4 +17,4 @@ DeepSeek 于 8 月 31 日在 Hugging Face 开源首个多模态模型 DeepSeek-V
 
 - **来源**: IT之家（RSS）
 - **原文链接**: [https://www.ithome.com/0/996/637.htm](https://www.ithome.com/0/996/637.htm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmth7tmq2067orodmh6g0sxie](https://aihot.virxact.com/items/cmth7tmq2067orodmh6g0sxie)
+- **AIHOT 链接**: [https://aihot.news/items/cmth7tmq2067orodmh6g0sxie](https://aihot.news/items/cmth7tmq2067orodmh6g0sxie)

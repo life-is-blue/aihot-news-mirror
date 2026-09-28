@@ -8,7 +8,7 @@
 "original_url": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-w\
   ould-not-be-merged-into-main"
 "canonical_url": "https://aihot.news/items/cmtym8yln0009rolseat7ohr1"
-"score": 61
+"score": 62
 "content_kind": "news"
 ---
 

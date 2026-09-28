@@ -7,7 +7,7 @@
 "source_name": "Epoch AI：研究、数据与评测"
 "original_url": "https://epoch.ai/gradient-updates/keeping-up-with-the-gpts"
 "canonical_url": "https://aihot.news/items/cmtyo2t5y03jbrog0qf8xz5nm"
-"score": 62
+"score": 63
 "content_kind": "news"
 ---
 

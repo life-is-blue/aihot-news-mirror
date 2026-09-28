@@ -7,7 +7,7 @@
 "source_name": "公众号：小米 MiMo"
 "original_url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247\
   484547&idx=1&sn=45ac9a16623e2df6c97defbf9094113b"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu2j0500yprofzjt4xussd"
+"canonical_url": "https://aihot.news/items/cmsdu2j0500yprofzjt4xussd"
 "score": 79
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Xiaomi MiMo-V2.5 系列正式公测，包含 MiMo-V2.5、V2.5-Pro、TTS 与 ASR 
 
 - **来源**: 公众号：小米 MiMo
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484547&idx=1&sn=45ac9a16623e2df6c97defbf9094113b](https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484547&idx=1&sn=45ac9a16623e2df6c97defbf9094113b)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu2j0500yprofzjt4xussd](https://aihot.virxact.com/items/cmsdu2j0500yprofzjt4xussd)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu2j0500yprofzjt4xussd](https://aihot.news/items/cmsdu2j0500yprofzjt4xussd)

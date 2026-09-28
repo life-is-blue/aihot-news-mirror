@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-08T17:54:15.323Z"
 "source_name": "X：蚂蚁百灵 (@AntLingAGI)"
 "original_url": "https://x.com/AntLingAGI/status/2052808934390661134"
-"canonical_url": "https://aihot.virxact.com/items/cmox7snrc00cdslfoxg99o3kc"
+"canonical_url": "https://aihot.news/items/cmox7snrc00cdslfoxg99o3kc"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Ring-2.6-1T是一款万亿参数的旗舰思维模型，专为现实世界复杂
 
 - **来源**: X：蚂蚁百灵 (@AntLingAGI)
 - **原文链接**: [https://x.com/AntLingAGI/status/2052808934390661134](https://x.com/AntLingAGI/status/2052808934390661134)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmox7snrc00cdslfoxg99o3kc](https://aihot.virxact.com/items/cmox7snrc00cdslfoxg99o3kc)
+- **AIHOT 链接**: [https://aihot.news/items/cmox7snrc00cdslfoxg99o3kc](https://aihot.news/items/cmox7snrc00cdslfoxg99o3kc)

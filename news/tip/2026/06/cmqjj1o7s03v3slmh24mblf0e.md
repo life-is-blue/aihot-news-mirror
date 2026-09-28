@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-18T13:19:57.424Z"
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/securing-the-future-of-ai-agents"
-"canonical_url": "https://aihot.virxact.com/items/cmqjj1o7s03v3slmh24mblf0e"
+"canonical_url": "https://aihot.news/items/cmqjj1o7s03v3slmh24mblf0e"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google DeepMind发布AI Control Roadmap，这是一套针对内部先进AI智能
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/securing-the-future-of-ai-agents](https://deepmind.google/blog/securing-the-future-of-ai-agents)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqjj1o7s03v3slmh24mblf0e](https://aihot.virxact.com/items/cmqjj1o7s03v3slmh24mblf0e)
+- **AIHOT 链接**: [https://aihot.news/items/cmqjj1o7s03v3slmh24mblf0e](https://aihot.news/items/cmqjj1o7s03v3slmh24mblf0e)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-02-11T16:00:00.000Z"
 "source_name": "MiniMax：Blog（网页）"
 "original_url": "https://www.minimax.io/blog/minimax-m25"
-"canonical_url": "https://aihot.virxact.com/items/cmpunu0g60007slbrqtizmyjw"
+"canonical_url": "https://aihot.news/items/cmpunu0g60007slbrqtizmyjw"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ MiniMax 最新发布的大语言模型 M2.5，通过在数十万个复杂现实�
 
 - **来源**: MiniMax：Blog（网页）
 - **原文链接**: [https://www.minimax.io/blog/minimax-m25](https://www.minimax.io/blog/minimax-m25)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpunu0g60007slbrqtizmyjw](https://aihot.virxact.com/items/cmpunu0g60007slbrqtizmyjw)
+- **AIHOT 链接**: [https://aihot.news/items/cmpunu0g60007slbrqtizmyjw](https://aihot.news/items/cmpunu0g60007slbrqtizmyjw)

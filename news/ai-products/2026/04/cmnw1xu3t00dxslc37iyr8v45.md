@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-08T16:00:00.000Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/cowork-for-enterprise"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xu3t00dxslc37iyr8v45"
+"canonical_url": "https://aihot.news/items/cmnw1xu3t00dxslc37iyr8v45"
 "score": 64
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Cowork 向所有付费用户正式开放，并推出企业级管理控制
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/cowork-for-enterprise](https://claude.com/blog/cowork-for-enterprise)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xu3t00dxslc37iyr8v45](https://aihot.virxact.com/items/cmnw1xu3t00dxslc37iyr8v45)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xu3t00dxslc37iyr8v45](https://aihot.news/items/cmnw1xu3t00dxslc37iyr8v45)

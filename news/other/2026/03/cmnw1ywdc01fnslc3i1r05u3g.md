@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-19T17:25:44.000Z"
 "source_name": "X：Satya Nadella (@satyanadella)"
 "original_url": "https://x.com/satyanadella/status/2034682749240713260"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1ywdc01fnslc3i1r05u3g"
+"canonical_url": "https://aihot.news/items/cmnw1ywdc01fnslc3i1r05u3g"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ MAI-Image-2 图像生成模型已在 MAI Playground 上线，竞技场排名第 
 
 - **来源**: X：Satya Nadella (@satyanadella)
 - **原文链接**: [https://x.com/satyanadella/status/2034682749240713260](https://x.com/satyanadella/status/2034682749240713260)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1ywdc01fnslc3i1r05u3g](https://aihot.virxact.com/items/cmnw1ywdc01fnslc3i1r05u3g)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1ywdc01fnslc3i1r05u3g](https://aihot.news/items/cmnw1ywdc01fnslc3i1r05u3g)

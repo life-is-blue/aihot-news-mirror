@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-05T19:33:26.491Z"
 "source_name": "Anthropic：Research（发表成果 · 网页）"
 "original_url": "https://www.anthropic.com/research/making-claude-a-chemist"
-"canonical_url": "https://aihot.virxact.com/items/cmq1bny1b0ebysltrc6b1fxmk"
+"canonical_url": "https://aihot.news/items/cmq1bny1b0ebysltrc6b1fxmk"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic与顶尖化学家合作，提升Claude在化学领域的实用性。�
 
 - **来源**: Anthropic：Research（发表成果 · 网页）
 - **原文链接**: [https://www.anthropic.com/research/making-claude-a-chemist](https://www.anthropic.com/research/making-claude-a-chemist)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq1bny1b0ebysltrc6b1fxmk](https://aihot.virxact.com/items/cmq1bny1b0ebysltrc6b1fxmk)
+- **AIHOT 链接**: [https://aihot.news/items/cmq1bny1b0ebysltrc6b1fxmk](https://aihot.news/items/cmq1bny1b0ebysltrc6b1fxmk)

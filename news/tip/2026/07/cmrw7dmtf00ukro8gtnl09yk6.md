@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-22T14:54:01.117Z"
 "source_name": "Nathan Lambert：Interconnects（RSS）"
 "original_url": "https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3"
-"canonical_url": "https://aihot.virxact.com/items/cmrw7dmtf00ukro8gtnl09yk6"
+"canonical_url": "https://aihot.news/items/cmrw7dmtf00ukro8gtnl09yk6"
 "score": 62
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Nathan Lambert 与 Florian Brand 在播客中盘点开源模型最新动态。Ki
 
 - **来源**: Nathan Lambert：Interconnects（RSS）
 - **原文链接**: [https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3](https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrw7dmtf00ukro8gtnl09yk6](https://aihot.virxact.com/items/cmrw7dmtf00ukro8gtnl09yk6)
+- **AIHOT 链接**: [https://aihot.news/items/cmrw7dmtf00ukro8gtnl09yk6](https://aihot.news/items/cmrw7dmtf00ukro8gtnl09yk6)

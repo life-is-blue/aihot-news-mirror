@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-27T23:40:33.688Z"
 "source_name": "Midjourney：Updates（RSS）"
 "original_url": "https://updates.midjourney.com/edit-model-for-v8"
-"canonical_url": "https://aihot.virxact.com/items/cmtc61ej101lqrojqto587wu9"
+"canonical_url": "https://aihot.news/items/cmtc61ej101lqrojqto587wu9"
 "score": 64
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Midjourney 开始向所有用户开放其首个 V8.2 图像编辑模型的测试
 
 - **来源**: Midjourney：Updates（RSS）
 - **原文链接**: [https://updates.midjourney.com/edit-model-for-v8](https://updates.midjourney.com/edit-model-for-v8)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtc61ej101lqrojqto587wu9](https://aihot.virxact.com/items/cmtc61ej101lqrojqto587wu9)
+- **AIHOT 链接**: [https://aihot.news/items/cmtc61ej101lqrojqto587wu9](https://aihot.news/items/cmtc61ej101lqrojqto587wu9)

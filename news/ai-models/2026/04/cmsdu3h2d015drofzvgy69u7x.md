@@ -7,7 +7,7 @@
 "source_name": "公众号：DeepSeek（深度求索）"
 "original_url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247\
   485745&idx=1&sn=ef3bc11042fc329e89bc66a8938e8b2c"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu3h2d015drofzvgy69u7x"
+"canonical_url": "https://aihot.news/items/cmsdu3h2d015drofzvgy69u7x"
 "score": 85
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ DeepSeek-V4 预览版正式上线并开源，拥有 1M 超长上下文，Agent �
 
 - **来源**: 公众号：DeepSeek（深度求索）
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485745&idx=1&sn=ef3bc11042fc329e89bc66a8938e8b2c](https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485745&idx=1&sn=ef3bc11042fc329e89bc66a8938e8b2c)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu3h2d015drofzvgy69u7x](https://aihot.virxact.com/items/cmsdu3h2d015drofzvgy69u7x)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu3h2d015drofzvgy69u7x](https://aihot.news/items/cmsdu3h2d015drofzvgy69u7x)

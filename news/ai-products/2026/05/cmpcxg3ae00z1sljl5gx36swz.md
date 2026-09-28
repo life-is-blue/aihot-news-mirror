@@ -7,7 +7,7 @@
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/gemini-for-science-ai-experiments\
   -and-tools-for-a-new-era-of-discovery"
-"canonical_url": "https://aihot.virxact.com/items/cmpcxg3ae00z1sljl5gx36swz"
+"canonical_url": "https://aihot.news/items/cmpcxg3ae00z1sljl5gx36swz"
 "score": 55
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google 推出 Gemini for Science 项目，发布一系列基于 Gemini 模型的
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery](https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpcxg3ae00z1sljl5gx36swz](https://aihot.virxact.com/items/cmpcxg3ae00z1sljl5gx36swz)
+- **AIHOT 链接**: [https://aihot.news/items/cmpcxg3ae00z1sljl5gx36swz](https://aihot.news/items/cmpcxg3ae00z1sljl5gx36swz)

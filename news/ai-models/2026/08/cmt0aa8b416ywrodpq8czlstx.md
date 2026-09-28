@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-11T12:11:35.000Z"
 "source_name": "蚂蚁 inclusionAI：HuggingFace 新模型"
 "original_url": "https://huggingface.co/inclusionAI/Ling-3.0-tiny-base"
-"canonical_url": "https://aihot.virxact.com/items/cmt0aa8b416ywrodpq8czlstx"
+"canonical_url": "https://aihot.news/items/cmt0aa8b416ywrodpq8czlstx"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: 蚂蚁 inclusionAI：HuggingFace 新模型
 - **原文链接**: [https://huggingface.co/inclusionAI/Ling-3.0-tiny-base](https://huggingface.co/inclusionAI/Ling-3.0-tiny-base)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt0aa8b416ywrodpq8czlstx](https://aihot.virxact.com/items/cmt0aa8b416ywrodpq8czlstx)
+- **AIHOT 链接**: [https://aihot.news/items/cmt0aa8b416ywrodpq8czlstx](https://aihot.news/items/cmt0aa8b416ywrodpq8czlstx)

@@ -7,7 +7,7 @@
 "source_name": "GitHub Blog"
 "original_url": "https://github.blog/ai-and-ml/github-copilot/give-github-copil\
   ot-cli-real-code-intelligence-with-language-servers"
-"canonical_url": "https://aihot.virxact.com/items/cmq8a2tlv00hrslld20zqrt9e"
+"canonical_url": "https://aihot.news/items/cmq8a2tlv00hrslld20zqrt9e"
 "score": 68
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ GitHub Copilot CLI 现在可以通过安装和配置 LSP（Language Server Proto
 
 - **来源**: GitHub Blog
 - **原文链接**: [https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers](https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq8a2tlv00hrslld20zqrt9e](https://aihot.virxact.com/items/cmq8a2tlv00hrslld20zqrt9e)
+- **AIHOT 链接**: [https://aihot.news/items/cmq8a2tlv00hrslld20zqrt9e](https://aihot.news/items/cmq8a2tlv00hrslld20zqrt9e)

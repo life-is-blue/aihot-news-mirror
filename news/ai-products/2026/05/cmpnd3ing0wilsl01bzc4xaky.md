@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-27T01:04:42.394Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build"
-"canonical_url": "https://aihot.virxact.com/items/cmpnd3ing0wilsl01bzc4xaky"
+"canonical_url": "https://aihot.news/items/cmpnd3ing0wilsl01bzc4xaky"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build](https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpnd3ing0wilsl01bzc4xaky](https://aihot.virxact.com/items/cmpnd3ing0wilsl01bzc4xaky)
+- **AIHOT 链接**: [https://aihot.news/items/cmpnd3ing0wilsl01bzc4xaky](https://aihot.news/items/cmpnd3ing0wilsl01bzc4xaky)

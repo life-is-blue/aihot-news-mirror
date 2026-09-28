@@ -7,7 +7,7 @@
 "source_name": "Trail of Bits：AI安全研究"
 "original_url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents"
 "canonical_url": "https://aihot.news/items/cmtym6ry10002rojqck192p90"
-"score": 81
+"score": 82
 "content_kind": "news"
 ---
 

@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-14T18:22:41.004Z"
 "source_name": "X：Gemini (@GeminiApp)"
 "original_url": "https://x.com/GeminiApp/status/2088326407730692538"
-"canonical_url": "https://aihot.virxact.com/items/cmst9yj3c05utrodz443l0odv"
+"canonical_url": "https://aihot.news/items/cmst9yj3c05utrodz443l0odv"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Gemini 3.7 Flash 现已向 Gemini 聊天中的 Pro 和 Ultra 用户开放。该�
 
 - **来源**: X：Gemini (@GeminiApp)
 - **原文链接**: [https://x.com/GeminiApp/status/2088326407730692538](https://x.com/GeminiApp/status/2088326407730692538)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmst9yj3c05utrodz443l0odv](https://aihot.virxact.com/items/cmst9yj3c05utrodz443l0odv)
+- **AIHOT 链接**: [https://aihot.news/items/cmst9yj3c05utrodz443l0odv](https://aihot.news/items/cmst9yj3c05utrodz443l0odv)

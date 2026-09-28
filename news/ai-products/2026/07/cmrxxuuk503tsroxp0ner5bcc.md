@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-23T20:03:02.615Z"
 "source_name": "Runway：News（网页）"
 "original_url": "https://runwayml.com/news/company-news/introducing-runway-media-router"
-"canonical_url": "https://aihot.virxact.com/items/cmrxxuuk503tsroxp0ner5bcc"
+"canonical_url": "https://aihot.news/items/cmrxxuuk503tsroxp0ner5bcc"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Runway 发布 Media Router，这是首个为生成式媒体模型设计的模型
 
 - **来源**: Runway：News（网页）
 - **原文链接**: [https://runwayml.com/news/company-news/introducing-runway-media-router](https://runwayml.com/news/company-news/introducing-runway-media-router)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrxxuuk503tsroxp0ner5bcc](https://aihot.virxact.com/items/cmrxxuuk503tsroxp0ner5bcc)
+- **AIHOT 链接**: [https://aihot.news/items/cmrxxuuk503tsroxp0ner5bcc](https://aihot.news/items/cmrxxuuk503tsroxp0ner5bcc)

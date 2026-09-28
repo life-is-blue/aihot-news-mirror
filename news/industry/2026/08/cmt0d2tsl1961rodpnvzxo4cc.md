@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-19T17:24:22.858Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe"
-"canonical_url": "https://aihot.virxact.com/items/cmt0d2tsl1961rodpnvzxo4cc"
+"canonical_url": "https://aihot.news/items/cmt0d2tsl1961rodpnvzxo4cc"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter 宣布与 Stripe 合并，以加速推动全球经济增长。OpenRou
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt0d2tsl1961rodpnvzxo4cc](https://aihot.virxact.com/items/cmt0d2tsl1961rodpnvzxo4cc)
+- **AIHOT 链接**: [https://aihot.news/items/cmt0d2tsl1961rodpnvzxo4cc](https://aihot.news/items/cmt0d2tsl1961rodpnvzxo4cc)

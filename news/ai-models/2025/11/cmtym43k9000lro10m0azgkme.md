@@ -7,7 +7,7 @@
 "source_name": "Prime Intellect（网页）"
 "original_url": "https://www.primeintellect.ai/blog/intellect-3"
 "canonical_url": "https://aihot.news/items/cmtym43k9000lro10m0azgkme"
-"score": 68
+"score": 69
 "content_kind": "news"
 ---
 

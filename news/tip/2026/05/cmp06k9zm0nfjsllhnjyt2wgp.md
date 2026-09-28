@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-10T19:43:11.288Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck"
-"canonical_url": "https://aihot.virxact.com/items/cmp06k9zm0nfjsllhnjyt2wgp"
+"canonical_url": "https://aihot.news/items/cmp06k9zm0nfjsllhnjyt2wgp"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ MachinaCheck是一款基于多智能体AI的系统，旨在革新小型CNC机加
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck](https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp06k9zm0nfjsllhnjyt2wgp](https://aihot.virxact.com/items/cmp06k9zm0nfjsllhnjyt2wgp)
+- **AIHOT 链接**: [https://aihot.news/items/cmp06k9zm0nfjsllhnjyt2wgp](https://aihot.news/items/cmp06k9zm0nfjsllhnjyt2wgp)

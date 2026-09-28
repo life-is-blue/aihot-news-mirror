@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-25T17:00:44.000Z"
 "source_name": "X：Claude (@claudeai)"
 "original_url": "https://x.com/claudeai/status/2036850783526719610"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yoll00h5slc3hgcpm7t9"
+"canonical_url": "https://aihot.news/items/cmnw1yoll00h5slc3hgcpm7t9"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude 移动端现已集成工作工具，支持在手机上直接查看 Figma 
 
 - **来源**: X：Claude (@claudeai)
 - **原文链接**: [https://x.com/claudeai/status/2036850783526719610](https://x.com/claudeai/status/2036850783526719610)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yoll00h5slc3hgcpm7t9](https://aihot.virxact.com/items/cmnw1yoll00h5slc3hgcpm7t9)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yoll00h5slc3hgcpm7t9](https://aihot.news/items/cmnw1yoll00h5slc3hgcpm7t9)

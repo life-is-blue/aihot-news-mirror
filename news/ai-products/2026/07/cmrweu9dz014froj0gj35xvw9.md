@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-22T18:22:55.949Z"
 "source_name": "X：Microsoft Research (@MSFTResearch)"
 "original_url": "https://x.com/MSFTResearch/status/2079989338994069511"
-"canonical_url": "https://aihot.virxact.com/items/cmrweu9dz014froj0gj35xvw9"
+"canonical_url": "https://aihot.news/items/cmrweu9dz014froj0gj35xvw9"
 "score": 73
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ MagenticLite 的模型现已完全开源。
 
 - **来源**: X：Microsoft Research (@MSFTResearch)
 - **原文链接**: [https://x.com/MSFTResearch/status/2079989338994069511](https://x.com/MSFTResearch/status/2079989338994069511)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrweu9dz014froj0gj35xvw9](https://aihot.virxact.com/items/cmrweu9dz014froj0gj35xvw9)
+- **AIHOT 链接**: [https://aihot.news/items/cmrweu9dz014froj0gj35xvw9](https://aihot.news/items/cmrweu9dz014froj0gj35xvw9)

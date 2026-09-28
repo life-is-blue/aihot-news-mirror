@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-07T22:11:09.295Z"
 "source_name": "Hacker News：AI 热帖"
 "original_url": "https://github.com/rowboatlabs/rowboat"
-"canonical_url": "https://aihot.virxact.com/items/cmrb7dzge01d6ihl1bthomtam"
+"canonical_url": "https://aihot.news/items/cmrb7dzge01d6ihl1bthomtam"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Rowboat 是一个开源、本地优先的桌面 AI 助手，将邮件、会议�
 
 - **来源**: Hacker News：AI 热帖
 - **原文链接**: [https://github.com/rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrb7dzge01d6ihl1bthomtam](https://aihot.virxact.com/items/cmrb7dzge01d6ihl1bthomtam)
+- **AIHOT 链接**: [https://aihot.news/items/cmrb7dzge01d6ihl1bthomtam](https://aihot.news/items/cmrb7dzge01d6ihl1bthomtam)

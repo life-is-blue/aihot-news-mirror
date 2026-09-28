@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-12T00:35:57.988Z"
 "source_name": "X：Epoch AI (@EpochAIResearch)"
 "original_url": "https://x.com/EpochAIResearch/status/2053995435870892048"
-"canonical_url": "https://aihot.virxact.com/items/cmp1wgrdr024sslbpoczb50vy"
+"canonical_url": "https://aihot.news/items/cmp1wgrdr024sslbpoczb50vy"
 "score": 80
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@
 
 - **来源**: X：Epoch AI (@EpochAIResearch)
 - **原文链接**: [https://x.com/EpochAIResearch/status/2053995435870892048](https://x.com/EpochAIResearch/status/2053995435870892048)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp1wgrdr024sslbpoczb50vy](https://aihot.virxact.com/items/cmp1wgrdr024sslbpoczb50vy)
+- **AIHOT 链接**: [https://aihot.news/items/cmp1wgrdr024sslbpoczb50vy](https://aihot.news/items/cmp1wgrdr024sslbpoczb50vy)

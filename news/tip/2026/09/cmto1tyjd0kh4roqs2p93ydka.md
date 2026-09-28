@@ -6,7 +6,7 @@
 "discovered_at": "2026-09-05T07:16:00.494Z"
 "source_name": "X：OpenAI (@OpenAI)"
 "original_url": "https://x.com/OpenAI/status/2096133504417616165"
-"canonical_url": "https://aihot.virxact.com/items/cmto1tyjd0kh4roqs2p93ydka"
+"canonical_url": "https://aihot.news/items/cmto1tyjd0kh4roqs2p93ydka"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 发文说明其智能体向多个互联网站点写入内容的 wiki 事�
 
 - **来源**: X：OpenAI (@OpenAI)
 - **原文链接**: [https://x.com/OpenAI/status/2096133504417616165](https://x.com/OpenAI/status/2096133504417616165)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmto1tyjd0kh4roqs2p93ydka](https://aihot.virxact.com/items/cmto1tyjd0kh4roqs2p93ydka)
+- **AIHOT 链接**: [https://aihot.news/items/cmto1tyjd0kh4roqs2p93ydka](https://aihot.news/items/cmto1tyjd0kh4roqs2p93ydka)

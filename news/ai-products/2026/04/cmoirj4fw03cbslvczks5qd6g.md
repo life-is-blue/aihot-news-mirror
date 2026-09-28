@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-28T15:10:09.987Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/claude-for-creative-work"
-"canonical_url": "https://aihot.virxact.com/items/cmoirj4fw03cbslvczks5qd6g"
+"canonical_url": "https://aihot.news/items/cmoirj4fw03cbslvczks5qd6g"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic推出Claude for Creative Work，这是一套连接器工具，可实�
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/claude-for-creative-work](https://www.anthropic.com/news/claude-for-creative-work)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoirj4fw03cbslvczks5qd6g](https://aihot.virxact.com/items/cmoirj4fw03cbslvczks5qd6g)
+- **AIHOT 链接**: [https://aihot.news/items/cmoirj4fw03cbslvczks5qd6g](https://aihot.news/items/cmoirj4fw03cbslvczks5qd6g)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-01T07:13:20.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/tiiuae/falcon-perception"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhaj008tslxxpmj93n9q"
+"canonical_url": "https://aihot.news/items/cmoegbhaj008tslxxpmj93n9q"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Technology Innovation Institute 在 Hugging Face 平台发布了一篇博客文�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/tiiuae/falcon-perception](https://huggingface.co/blog/tiiuae/falcon-perception)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhaj008tslxxpmj93n9q](https://aihot.virxact.com/items/cmoegbhaj008tslxxpmj93n9q)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhaj008tslxxpmj93n9q](https://aihot.news/items/cmoegbhaj008tslxxpmj93n9q)

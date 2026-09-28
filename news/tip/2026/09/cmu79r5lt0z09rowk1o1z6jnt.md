@@ -7,7 +7,7 @@
 "source_name": "Ethan Mollick：One Useful Thing（RSS）"
 "original_url": "https://www.oneusefulthing.org/p/the-overhang"
 "canonical_url": "https://aihot.news/items/cmu79r5lt0z09rowk1o1z6jnt"
-"score": 62
+"score": 63
 "content_kind": "news"
 ---
 

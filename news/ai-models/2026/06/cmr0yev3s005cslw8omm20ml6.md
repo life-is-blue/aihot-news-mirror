@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-30T18:02:06.984Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/claude-sonnet-5"
-"canonical_url": "https://aihot.virxact.com/items/cmr0yev3s005cslw8omm20ml6"
+"canonical_url": "https://aihot.news/items/cmr0yev3s005cslw8omm20ml6"
 "score": 81
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Sonnet 5 是 Anthropic 推出的最新 Sonnet 模型，具备计划、浏
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/claude-sonnet-5](https://www.anthropic.com/news/claude-sonnet-5)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr0yev3s005cslw8omm20ml6](https://aihot.virxact.com/items/cmr0yev3s005cslw8omm20ml6)
+- **AIHOT 链接**: [https://aihot.news/items/cmr0yev3s005cslw8omm20ml6](https://aihot.news/items/cmr0yev3s005cslw8omm20ml6)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-02T16:22:29.579Z"
 "source_name": "Gary Marcus：The Road to AI We Can Trust（RSS）"
 "original_url": "https://garymarcus.substack.com/p/why-things-will-eventually-fall-apart"
-"canonical_url": "https://aihot.virxact.com/items/cmpwuirwl00tisl79gfmq5mmf"
+"canonical_url": "https://aihot.news/items/cmpwuirwl00tisl79gfmq5mmf"
 "score": 55
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Gary Marcus：The Road to AI We Can Trust（RSS）
 - **原文链接**: [https://garymarcus.substack.com/p/why-things-will-eventually-fall-apart](https://garymarcus.substack.com/p/why-things-will-eventually-fall-apart)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpwuirwl00tisl79gfmq5mmf](https://aihot.virxact.com/items/cmpwuirwl00tisl79gfmq5mmf)
+- **AIHOT 链接**: [https://aihot.news/items/cmpwuirwl00tisl79gfmq5mmf](https://aihot.news/items/cmpwuirwl00tisl79gfmq5mmf)

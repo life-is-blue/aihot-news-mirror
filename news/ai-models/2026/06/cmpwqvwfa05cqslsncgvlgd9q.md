@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-02T14:40:42.857Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/Hcompany/holo31"
-"canonical_url": "https://aihot.virxact.com/items/cmpwqvwfa05cqslsncgvlgd9q"
+"canonical_url": "https://aihot.news/items/cmpwqvwfa05cqslsncgvlgd9q"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Holo3.1 是基于 Qwen 模型家族的计算机使用智能体系列，旨在提
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/Hcompany/holo31](https://huggingface.co/blog/Hcompany/holo31)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpwqvwfa05cqslsncgvlgd9q](https://aihot.virxact.com/items/cmpwqvwfa05cqslsncgvlgd9q)
+- **AIHOT 链接**: [https://aihot.news/items/cmpwqvwfa05cqslsncgvlgd9q](https://aihot.news/items/cmpwqvwfa05cqslsncgvlgd9q)

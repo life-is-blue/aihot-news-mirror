@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-05T15:53:03.009Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://github.com/Trystan-SA/claude-design-system-prompt"
-"canonical_url": "https://aihot.virxact.com/items/cmr7z00up0065sl0472bil7hs"
+"canonical_url": "https://aihot.news/items/cmr7z00up0065sl0472bil7hs"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 旗下 Claude Design 的反向工程系统提示词在 GitHub 以 MIT 
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://github.com/Trystan-SA/claude-design-system-prompt](https://github.com/Trystan-SA/claude-design-system-prompt)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr7z00up0065sl0472bil7hs](https://aihot.virxact.com/items/cmr7z00up0065sl0472bil7hs)
+- **AIHOT 链接**: [https://aihot.news/items/cmr7z00up0065sl0472bil7hs](https://aihot.news/items/cmr7z00up0065sl0472bil7hs)

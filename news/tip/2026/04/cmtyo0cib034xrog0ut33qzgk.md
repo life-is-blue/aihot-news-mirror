@@ -8,7 +8,7 @@
 "original_url": "https://www.llamaindex.ai/blog/how-liteparse-turns-pdfs-into-t\
   ext-a-deep-dive-into-the-grid-projection-algorithm"
 "canonical_url": "https://aihot.news/items/cmtyo0cib034xrog0ut33qzgk"
-"score": 61
+"score": 62
 "content_kind": "news"
 ---
 

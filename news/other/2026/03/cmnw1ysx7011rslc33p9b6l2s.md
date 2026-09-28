@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-27T01:56:49.000Z"
 "source_name": "X：Greg Brockman (@gdb)"
 "original_url": "https://x.com/gdb/status/2037348081684111623"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1ysx7011rslc33p9b6l2s"
+"canonical_url": "https://aihot.news/items/cmnw1ysx7011rslc33p9b6l2s"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Codex 正式上线 Plugins 功能，开箱即用支持 Slack、Figma、Notion、
 
 - **来源**: X：Greg Brockman (@gdb)
 - **原文链接**: [https://x.com/gdb/status/2037348081684111623](https://x.com/gdb/status/2037348081684111623)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1ysx7011rslc33p9b6l2s](https://aihot.virxact.com/items/cmnw1ysx7011rslc33p9b6l2s)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1ysx7011rslc33p9b6l2s](https://aihot.news/items/cmnw1ysx7011rslc33p9b6l2s)

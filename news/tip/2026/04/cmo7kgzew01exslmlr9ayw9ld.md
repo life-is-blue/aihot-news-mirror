@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-20T19:07:13.736Z"
 "source_name": "Nathan Lambert：Interconnects（RSS）"
 "original_url": "https://www.interconnects.ai/p/reading-todays-open-closed-performance"
-"canonical_url": "https://aihot.virxact.com/items/cmo7kgzew01exslmlr9ayw9ld"
+"canonical_url": "https://aihot.news/items/cmo7kgzew01exslmlr9ayw9ld"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Nathan Lambert：Interconnects（RSS）
 - **原文链接**: [https://www.interconnects.ai/p/reading-todays-open-closed-performance](https://www.interconnects.ai/p/reading-todays-open-closed-performance)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmo7kgzew01exslmlr9ayw9ld](https://aihot.virxact.com/items/cmo7kgzew01exslmlr9ayw9ld)
+- **AIHOT 链接**: [https://aihot.news/items/cmo7kgzew01exslmlr9ayw9ld](https://aihot.news/items/cmo7kgzew01exslmlr9ayw9ld)

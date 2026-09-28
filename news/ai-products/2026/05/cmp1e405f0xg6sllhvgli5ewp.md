@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-11T16:02:12.577Z"
 "source_name": "X：小北 (@frxiaobei)"
 "original_url": "https://x.com/frxiaobei/status/2053861985008431398"
-"canonical_url": "https://aihot.virxact.com/items/cmp1e405f0xg6sllhvgli5ewp"
+"canonical_url": "https://aihot.news/items/cmp1e405f0xg6sllhvgli5ewp"
 "score": 85
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic在GitHub开源了金融服务行业AI解决方案完整模板库，包
 
 - **来源**: X：小北 (@frxiaobei)
 - **原文链接**: [https://x.com/frxiaobei/status/2053861985008431398](https://x.com/frxiaobei/status/2053861985008431398)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp1e405f0xg6sllhvgli5ewp](https://aihot.virxact.com/items/cmp1e405f0xg6sllhvgli5ewp)
+- **AIHOT 链接**: [https://aihot.news/items/cmp1e405f0xg6sllhvgli5ewp](https://aihot.news/items/cmp1e405f0xg6sllhvgli5ewp)

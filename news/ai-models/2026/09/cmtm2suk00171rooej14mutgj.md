@@ -6,8 +6,8 @@
 "discovered_at": "2026-09-03T22:07:37.028Z"
 "source_name": "X：Greg Brockman (@gdb)"
 "original_url": "https://x.com/gdb/status/2095629409017614390"
-"canonical_url": "https://aihot.virxact.com/items/cmtm2suk00171rooej14mutgj"
-"score": 71
+"canonical_url": "https://aihot.news/items/cmtm2suk00171rooej14mutgj"
+"score": 72
 "content_kind": "news"
 ---
 
@@ -17,4 +17,4 @@ Greg Brockman 转发 @arcprize 的评测称 OpenAI 的 GPT-6 Astra 在 ARC-AGI-3
 
 - **来源**: X：Greg Brockman (@gdb)
 - **原文链接**: [https://x.com/gdb/status/2095629409017614390](https://x.com/gdb/status/2095629409017614390)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtm2suk00171rooej14mutgj](https://aihot.virxact.com/items/cmtm2suk00171rooej14mutgj)
+- **AIHOT 链接**: [https://aihot.news/items/cmtm2suk00171rooej14mutgj](https://aihot.news/items/cmtm2suk00171rooej14mutgj)

@@ -7,7 +7,7 @@
 "source_name": "Transluce（网页）"
 "original_url": "https://transluce.org/agent-activity"
 "canonical_url": "https://aihot.news/items/cmuev9dsk04imroyq4xqz0yc2"
-"score": 76
+"score": 77
 "content_kind": "news"
 ---
 

@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-27T08:51:11.096Z"
 "source_name": "X：Rohan Paul (@rohanpaul_ai)"
 "original_url": "https://x.com/rohanpaul_ai/status/2048684647715070121"
-"canonical_url": "https://aihot.virxact.com/items/cmogyjrz901eqslwp4kuyv0p7"
+"canonical_url": "https://aihot.news/items/cmogyjrz901eqslwp4kuyv0p7"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：Rohan Paul (@rohanpaul_ai)
 - **原文链接**: [https://x.com/rohanpaul_ai/status/2048684647715070121](https://x.com/rohanpaul_ai/status/2048684647715070121)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmogyjrz901eqslwp4kuyv0p7](https://aihot.virxact.com/items/cmogyjrz901eqslwp4kuyv0p7)
+- **AIHOT 链接**: [https://aihot.news/items/cmogyjrz901eqslwp4kuyv0p7](https://aihot.news/items/cmogyjrz901eqslwp4kuyv0p7)

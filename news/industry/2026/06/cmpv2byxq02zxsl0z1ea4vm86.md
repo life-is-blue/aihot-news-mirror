@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-01T10:24:49.447Z"
 "source_name": "Runway：News（网页）"
 "original_url": "https://runwayml.com/news/runway-opens-london-hq"
-"canonical_url": "https://aihot.virxact.com/items/cmpv2byxq02zxsl0z1ea4vm86"
+"canonical_url": "https://aihot.news/items/cmpv2byxq02zxsl0z1ea4vm86"
 "score": 61
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Runway 宣布在伦敦建立新的欧洲总部和专注于通用世界模型的�
 
 - **来源**: Runway：News（网页）
 - **原文链接**: [https://runwayml.com/news/runway-opens-london-hq](https://runwayml.com/news/runway-opens-london-hq)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpv2byxq02zxsl0z1ea4vm86](https://aihot.virxact.com/items/cmpv2byxq02zxsl0z1ea4vm86)
+- **AIHOT 链接**: [https://aihot.news/items/cmpv2byxq02zxsl0z1ea4vm86](https://aihot.news/items/cmpv2byxq02zxsl0z1ea4vm86)

@@ -7,7 +7,7 @@
 "source_name": "Tripo（官方 X）"
 "original_url": "https://x.com/tripoai/status/2097972692200940013"
 "canonical_url": "https://aihot.news/items/cmtyjejg90006rotlkmqx93kl"
-"score": 65
+"score": 66
 "content_kind": "news"
 ---
 

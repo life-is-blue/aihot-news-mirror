@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-07T23:36:48.120Z"
 "source_name": "X：OpenAI Developers (@OpenAIDevs)"
 "original_url": "https://x.com/OpenAIDevs/status/2052530378184032560"
-"canonical_url": "https://aihot.virxact.com/items/cmow4l9yl02rhslcxc25ez3eo"
+"canonical_url": "https://aihot.news/items/cmow4l9yl02rhslcxc25ez3eo"
 "score": 76
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ https://developers.openai.com/api/docs/guides/realtime-models-prompting?realtime
 
 - **来源**: X：OpenAI Developers (@OpenAIDevs)
 - **原文链接**: [https://x.com/OpenAIDevs/status/2052530378184032560](https://x.com/OpenAIDevs/status/2052530378184032560)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmow4l9yl02rhslcxc25ez3eo](https://aihot.virxact.com/items/cmow4l9yl02rhslcxc25ez3eo)
+- **AIHOT 链接**: [https://aihot.news/items/cmow4l9yl02rhslcxc25ez3eo](https://aihot.news/items/cmow4l9yl02rhslcxc25ez3eo)

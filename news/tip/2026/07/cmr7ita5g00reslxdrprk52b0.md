@@ -7,7 +7,7 @@
 "source_name": "MarkTechPost（RSS）"
 "original_url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-ag\
   entic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools"
-"canonical_url": "https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0"
+"canonical_url": "https://aihot.news/items/cmr7ita5g00reslxdrprk52b0"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ LlamaIndex 发布 legal-kb，一个基于 Index v2（LlamaParse Platform）的�
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools](https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0](https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0)
+- **AIHOT 链接**: [https://aihot.news/items/cmr7ita5g00reslxdrprk52b0](https://aihot.news/items/cmr7ita5g00reslxdrprk52b0)

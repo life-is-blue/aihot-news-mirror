@@ -8,7 +8,7 @@
 "original_url": "https://www.promptarmor.com/resources/securing-microsoft-copil\
   ot-cowork-a-security-practitioners-guide"
 "canonical_url": "https://aihot.news/items/cmtym6tgo000oroo5ew1oqyr4"
-"score": 64
+"score": 65
 "content_kind": "news"
 ---
 

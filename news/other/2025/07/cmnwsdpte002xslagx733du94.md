@@ -6,7 +6,7 @@
 "discovered_at": "2025-07-10T16:00:00.000Z"
 "source_name": "Moonshot AI：Kimi Blog"
 "original_url": "https://www.kimi.com/blog/kimi-k2"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsdpte002xslagx733du94"
+"canonical_url": "https://aihot.news/items/cmnwsdpte002xslagx733du94"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Kimi K2 采用混合专家（MoE）架构，拥有 320 亿激活参数和 1 万�
 
 - **来源**: Moonshot AI：Kimi Blog
 - **原文链接**: [https://www.kimi.com/blog/kimi-k2](https://www.kimi.com/blog/kimi-k2)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsdpte002xslagx733du94](https://aihot.virxact.com/items/cmnwsdpte002xslagx733du94)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsdpte002xslagx733du94](https://aihot.news/items/cmnwsdpte002xslagx733du94)

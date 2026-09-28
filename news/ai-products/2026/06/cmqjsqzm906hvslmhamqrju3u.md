@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-18T17:51:29.795Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/enterprise-managed-auth"
-"canonical_url": "https://aihot.virxact.com/items/cmqjsqzm906hvslmhamqrju3u"
+"canonical_url": "https://aihot.news/items/cmqjsqzm906hvslmhamqrju3u"
 "score": 68
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Enterprise 推出企业托管授权功能，管理员可通过身份提�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/enterprise-managed-auth](https://claude.com/blog/enterprise-managed-auth)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqjsqzm906hvslmhamqrju3u](https://aihot.virxact.com/items/cmqjsqzm906hvslmhamqrju3u)
+- **AIHOT 链接**: [https://aihot.news/items/cmqjsqzm906hvslmhamqrju3u](https://aihot.news/items/cmqjsqzm906hvslmhamqrju3u)

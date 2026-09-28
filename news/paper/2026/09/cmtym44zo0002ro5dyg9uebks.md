@@ -7,7 +7,7 @@
 "source_name": "ARC Prize：官方博客"
 "original_url": "https://arcprize.org/blog/astra"
 "canonical_url": "https://aihot.news/items/cmtym44zo0002ro5dyg9uebks"
-"score": 78
+"score": 79
 "content_kind": "news"
 ---
 

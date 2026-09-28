@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-28T16:00:00.000Z"
 "source_name": "LMSYS：Blog（Chatbot Arena 团队）"
 "original_url": "https://www.lmsys.org/blog/2026-06-01-hetero-epd"
-"canonical_url": "https://aihot.virxact.com/items/cmpvk42bo0015slfpngd3kyca"
+"canonical_url": "https://aihot.news/items/cmpvk42bo0015slfpngd3kyca"
 "score": 61
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ LMSYS团队（Intel与SGLang）通过Dynamo和SGLang框架，为视觉语言模�
 
 - **来源**: LMSYS：Blog（Chatbot Arena 团队）
 - **原文链接**: [https://www.lmsys.org/blog/2026-06-01-hetero-epd](https://www.lmsys.org/blog/2026-06-01-hetero-epd)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpvk42bo0015slfpngd3kyca](https://aihot.virxact.com/items/cmpvk42bo0015slfpngd3kyca)
+- **AIHOT 链接**: [https://aihot.news/items/cmpvk42bo0015slfpngd3kyca](https://aihot.news/items/cmpvk42bo0015slfpngd3kyca)

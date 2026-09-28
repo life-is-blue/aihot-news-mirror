@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-21T16:33:06.339Z"
 "source_name": "Google Developers Blog（RSS）"
 "original_url": "https://developers.googleblog.com/adk-kotlin-android-building-ai-agents"
-"canonical_url": "https://aihot.virxact.com/items/cmpfpmdn508jgsljwog7g8k3k"
+"canonical_url": "https://aihot.news/items/cmpfpmdn508jgsljwog7g8k3k"
 "score": 63
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google发布了面向开发者的新工具包：Kotlin版ADK与Android版ADK 0.1
 
 - **来源**: Google Developers Blog（RSS）
 - **原文链接**: [https://developers.googleblog.com/adk-kotlin-android-building-ai-agents](https://developers.googleblog.com/adk-kotlin-android-building-ai-agents)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpfpmdn508jgsljwog7g8k3k](https://aihot.virxact.com/items/cmpfpmdn508jgsljwog7g8k3k)
+- **AIHOT 链接**: [https://aihot.news/items/cmpfpmdn508jgsljwog7g8k3k](https://aihot.news/items/cmpfpmdn508jgsljwog7g8k3k)

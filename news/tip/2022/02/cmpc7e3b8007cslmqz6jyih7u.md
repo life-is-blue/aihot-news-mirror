@@ -6,7 +6,7 @@
 "discovered_at": "2022-02-20T00:00:00.000Z"
 "source_name": "Lilian Weng：Lil'Log（RSS）"
 "original_url": "https://lilianweng.github.io/posts/2022-02-20-active-learning"
-"canonical_url": "https://aihot.virxact.com/items/cmpc7e3b8007cslmqz6jyih7u"
+"canonical_url": "https://aihot.news/items/cmpc7e3b8007cslmqz6jyih7u"
 "score": 57
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Lilian Weng：Lil'Log（RSS）
 - **原文链接**: [https://lilianweng.github.io/posts/2022-02-20-active-learning](https://lilianweng.github.io/posts/2022-02-20-active-learning)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpc7e3b8007cslmqz6jyih7u](https://aihot.virxact.com/items/cmpc7e3b8007cslmqz6jyih7u)
+- **AIHOT 链接**: [https://aihot.news/items/cmpc7e3b8007cslmqz6jyih7u](https://aihot.news/items/cmpc7e3b8007cslmqz6jyih7u)

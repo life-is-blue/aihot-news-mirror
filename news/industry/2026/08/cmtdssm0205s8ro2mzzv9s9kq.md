@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-29T03:05:19.120Z"
 "source_name": "X：Michael Truell (@mntruell)"
 "original_url": "https://x.com/mntruell/status/2093532254006063557"
-"canonical_url": "https://aihot.virxact.com/items/cmtdssm0205s8ro2mzzv9s9kq"
+"canonical_url": "https://aihot.news/items/cmtdssm0205s8ro2mzzv9s9kq"
 "score": 58
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ Cursor 是 OpenAI 最早的用戶之一，多年来我们与他们的团队密�
 
 - **来源**: X：Michael Truell (@mntruell)
 - **原文链接**: [https://x.com/mntruell/status/2093532254006063557](https://x.com/mntruell/status/2093532254006063557)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtdssm0205s8ro2mzzv9s9kq](https://aihot.virxact.com/items/cmtdssm0205s8ro2mzzv9s9kq)
+- **AIHOT 链接**: [https://aihot.news/items/cmtdssm0205s8ro2mzzv9s9kq](https://aihot.news/items/cmtdssm0205s8ro2mzzv9s9kq)

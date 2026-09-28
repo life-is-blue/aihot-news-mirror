@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-02T16:08:03.000Z"
 "source_name": "X：Demis Hassabis (@demishassabis)"
 "original_url": "https://x.com/demishassabis/status/2039736628659269901"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yqoh00toslc3u4hk2dqn"
+"canonical_url": "https://aihot.news/items/cmnw1yqoh00toslc3u4hk2dqn"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Gemma 4 开源模型发布，提供 4 种尺寸：31B dense 版追求极致性�
 
 - **来源**: X：Demis Hassabis (@demishassabis)
 - **原文链接**: [https://x.com/demishassabis/status/2039736628659269901](https://x.com/demishassabis/status/2039736628659269901)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yqoh00toslc3u4hk2dqn](https://aihot.virxact.com/items/cmnw1yqoh00toslc3u4hk2dqn)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yqoh00toslc3u4hk2dqn](https://aihot.news/items/cmnw1yqoh00toslc3u4hk2dqn)

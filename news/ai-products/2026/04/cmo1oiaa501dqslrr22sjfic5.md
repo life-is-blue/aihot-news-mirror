@@ -7,7 +7,7 @@
 "source_name": "Google Blog：AI（RSS）"
 "original_url": "https://blog.google/innovation-and-ai/products/gemini-app/pers\
   onal-intelligence-nano-banana"
-"canonical_url": "https://aihot.virxact.com/items/cmo1oiaa501dqslrr22sjfic5"
+"canonical_url": "https://aihot.news/items/cmo1oiaa501dqslrr22sjfic5"
 "score": 71
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Nano Banana 2 现支持结合个人上下文与 Google Photos 数据生成图像
 
 - **来源**: Google Blog：AI（RSS）
 - **原文链接**: [https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana](https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmo1oiaa501dqslrr22sjfic5](https://aihot.virxact.com/items/cmo1oiaa501dqslrr22sjfic5)
+- **AIHOT 链接**: [https://aihot.news/items/cmo1oiaa501dqslrr22sjfic5](https://aihot.news/items/cmo1oiaa501dqslrr22sjfic5)

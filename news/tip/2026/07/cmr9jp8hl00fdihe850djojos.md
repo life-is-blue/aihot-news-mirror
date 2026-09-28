@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-06T18:20:11.364Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns"
-"canonical_url": "https://aihot.virxact.com/items/cmr9jp8hl00fdihe850djojos"
+"canonical_url": "https://aihot.news/items/cmr9jp8hl00fdihe850djojos"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Fable是第一款要求用户主动澄清未知才能获得高质量工�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns](https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr9jp8hl00fdihe850djojos](https://aihot.virxact.com/items/cmr9jp8hl00fdihe850djojos)
+- **AIHOT 链接**: [https://aihot.news/items/cmr9jp8hl00fdihe850djojos](https://aihot.news/items/cmr9jp8hl00fdihe850djojos)

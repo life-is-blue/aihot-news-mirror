@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-28T15:15:42.000Z"
 "source_name": "X：OpenRouter (@OpenRouter)"
 "original_url": "https://x.com/OpenRouter/status/2049145538373947541"
-"canonical_url": "https://aihot.virxact.com/items/cmoiudoyt006gsl0xb2mvcqzh"
+"canonical_url": "https://aihot.news/items/cmoiudoyt006gsl0xb2mvcqzh"
 "score": 64
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Laguna M.1 和 Laguna XS.2。专为智能体编码和长周期工作从头构建
 
 - **来源**: X：OpenRouter (@OpenRouter)
 - **原文链接**: [https://x.com/OpenRouter/status/2049145538373947541](https://x.com/OpenRouter/status/2049145538373947541)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoiudoyt006gsl0xb2mvcqzh](https://aihot.virxact.com/items/cmoiudoyt006gsl0xb2mvcqzh)
+- **AIHOT 链接**: [https://aihot.news/items/cmoiudoyt006gsl0xb2mvcqzh](https://aihot.news/items/cmoiudoyt006gsl0xb2mvcqzh)

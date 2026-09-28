@@ -6,7 +6,7 @@
 "discovered_at": "2026-09-01T15:29:20.486Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/webgpu-kernels"
-"canonical_url": "https://aihot.virxact.com/items/cmtitozyq04j2ro9ydv3oxgsd"
+"canonical_url": "https://aihot.news/items/cmtitozyq04j2ro9ydv3oxgsd"
 "score": 62
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Hugging Face WebAI 团队发布 @huggingface/kernels 库及 207 个以独立仓�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/webgpu-kernels](https://huggingface.co/blog/webgpu-kernels)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtitozyq04j2ro9ydv3oxgsd](https://aihot.virxact.com/items/cmtitozyq04j2ro9ydv3oxgsd)
+- **AIHOT 链接**: [https://aihot.news/items/cmtitozyq04j2ro9ydv3oxgsd](https://aihot.news/items/cmtitozyq04j2ro9ydv3oxgsd)

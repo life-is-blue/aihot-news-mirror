@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-20T11:48:15.000Z"
 "source_name": "X：Artificial Analysis (@ArtificialAnlys)"
 "original_url": "https://x.com/ArtificialAnlys/status/2034960206736892365"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1ypby00oislc3fue2oy4c"
+"canonical_url": "https://aihot.news/items/cmnw1ypby00oislc3fue2oy4c"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Mistral发布开源权重模型Mistral Small 4，采用119B参数MoE架构（每
 
 - **来源**: X：Artificial Analysis (@ArtificialAnlys)
 - **原文链接**: [https://x.com/ArtificialAnlys/status/2034960206736892365](https://x.com/ArtificialAnlys/status/2034960206736892365)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1ypby00oislc3fue2oy4c](https://aihot.virxact.com/items/cmnw1ypby00oislc3fue2oy4c)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1ypby00oislc3fue2oy4c](https://aihot.news/items/cmnw1ypby00oislc3fue2oy4c)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-11T17:06:44.417Z"
 "source_name": "Dwarkesh Patel：Podcast & Blog（RSS）"
 "original_url": "https://www.dwarkesh.com/p/ryan-greenblatt"
-"canonical_url": "https://aihot.virxact.com/items/cmsowxh6d09rrrohdkhpckhpi"
+"canonical_url": "https://aihot.news/items/cmsowxh6d09rrrohdkhpckhpi"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Dwarkesh Patel与Redwood Research首席科学家Ryan Greenblatt探讨递归自�
 
 - **来源**: Dwarkesh Patel：Podcast & Blog（RSS）
 - **原文链接**: [https://www.dwarkesh.com/p/ryan-greenblatt](https://www.dwarkesh.com/p/ryan-greenblatt)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsowxh6d09rrrohdkhpckhpi](https://aihot.virxact.com/items/cmsowxh6d09rrrohdkhpckhpi)
+- **AIHOT 链接**: [https://aihot.news/items/cmsowxh6d09rrrohdkhpckhpi](https://aihot.news/items/cmsowxh6d09rrrohdkhpckhpi)

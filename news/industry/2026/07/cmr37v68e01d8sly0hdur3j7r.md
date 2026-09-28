@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-02T08:02:22.086Z"
 "source_name": "X：Testing Catalog (@testingcatalog)"
 "original_url": "https://x.com/testingcatalog/status/2072585845542969583"
-"canonical_url": "https://aihot.virxact.com/items/cmr37v68e01d8sly0hdur3j7r"
+"canonical_url": "https://aihot.news/items/cmr37v68e01d8sly0hdur3j7r"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：Testing Catalog (@testingcatalog)
 - **原文链接**: [https://x.com/testingcatalog/status/2072585845542969583](https://x.com/testingcatalog/status/2072585845542969583)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr37v68e01d8sly0hdur3j7r](https://aihot.virxact.com/items/cmr37v68e01d8sly0hdur3j7r)
+- **AIHOT 链接**: [https://aihot.news/items/cmr37v68e01d8sly0hdur3j7r](https://aihot.news/items/cmr37v68e01d8sly0hdur3j7r)

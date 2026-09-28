@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-05T16:00:00.000Z"
 "source_name": "Anthropic：Engineering（事故复盘 + 工程实践 · 网页）"
 "original_url": "https://www.anthropic.com/engineering/eval-awareness-browsecomp"
-"canonical_url": "https://aihot.virxact.com/items/cmorb7ml0008aslhfpid40zev"
+"canonical_url": "https://aihot.news/items/cmorb7ml0008aslhfpid40zev"
 "score": 81
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Anthropic：Engineering（事故复盘 + 工程实践 · 网页）
 - **原文链接**: [https://www.anthropic.com/engineering/eval-awareness-browsecomp](https://www.anthropic.com/engineering/eval-awareness-browsecomp)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmorb7ml0008aslhfpid40zev](https://aihot.virxact.com/items/cmorb7ml0008aslhfpid40zev)
+- **AIHOT 链接**: [https://aihot.news/items/cmorb7ml0008aslhfpid40zev](https://aihot.news/items/cmorb7ml0008aslhfpid40zev)

@@ -8,7 +8,7 @@
 "original_url": "https://deepmind.google/blog/advanced-version-of-gemini-with-d\
   eep-think-officially-achieves-gold-medal-standard-at-the-international-mathem\
   atical-olympiad"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsdqal004gslag6nhxcao0"
+"canonical_url": "https://aihot.news/items/cmnwsdqal004gslag6nhxcao0"
 "score": null
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad](https://deepmind.google/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsdqal004gslag6nhxcao0](https://aihot.virxact.com/items/cmnwsdqal004gslag6nhxcao0)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsdqal004gslag6nhxcao0](https://aihot.news/items/cmnwsdqal004gslag6nhxcao0)

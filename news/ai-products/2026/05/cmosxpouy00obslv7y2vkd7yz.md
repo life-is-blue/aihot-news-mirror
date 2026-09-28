@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-05T18:00:53.152Z"
 "source_name": "X：Sam Altman (@sama)"
 "original_url": "https://x.com/sama/status/2051716909629153573"
-"canonical_url": "https://aihot.virxact.com/items/cmosxpouy00obslv7y2vkd7yz"
+"canonical_url": "https://aihot.news/items/cmosxpouy00obslv7y2vkd7yz"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,7 +17,7 @@
 
 在我看来这是一个相当大的升级，我真的很喜欢使用它。
 
-【引用 @ericmitchellai】：Excited that we're updating the default model in ChatGPT today！
+[引用 @ericmitchellai]：Excited that we're updating the default model in ChatGPT today!
 
 5.5 instant 在智能、图像感知和事实准确性方面都有显著提升。
 
@@ -27,4 +27,4 @@
 
 - **来源**: X：Sam Altman (@sama)
 - **原文链接**: [https://x.com/sama/status/2051716909629153573](https://x.com/sama/status/2051716909629153573)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmosxpouy00obslv7y2vkd7yz](https://aihot.virxact.com/items/cmosxpouy00obslv7y2vkd7yz)
+- **AIHOT 链接**: [https://aihot.news/items/cmosxpouy00obslv7y2vkd7yz](https://aihot.news/items/cmosxpouy00obslv7y2vkd7yz)

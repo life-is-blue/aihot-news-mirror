@@ -7,7 +7,7 @@
 "source_name": "Tessl：产品与工程博客"
 "original_url": "https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence"
 "canonical_url": "https://aihot.news/items/cmu707f5a0lferowk7ytu9d3h"
-"score": 62
+"score": 63
 "content_kind": "news"
 ---
 

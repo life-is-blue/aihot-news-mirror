@@ -7,7 +7,7 @@
 "source_name": "Liquid AI 模型与工程博客（网页）"
 "original_url": "https://www.liquid.ai/blog/lfm2-24b-a2b"
 "canonical_url": "https://aihot.news/items/cmtym3yoy000dronzcgp7p57y"
-"score": 63
+"score": 64
 "content_kind": "news"
 ---
 

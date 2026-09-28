@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-02T09:07:58.151Z"
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/0/958/810.htm"
-"canonical_url": "https://aihot.virxact.com/items/cmpwf05rk02d5slsnyqog4n3x"
+"canonical_url": "https://aihot.news/items/cmpwf05rk02d5slsnyqog4n3x"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ SK海力士会长崔泰源宣布，计划在未来五年内将整体晶圆产能
 
 - **来源**: IT之家（RSS）
 - **原文链接**: [https://www.ithome.com/0/958/810.htm](https://www.ithome.com/0/958/810.htm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpwf05rk02d5slsnyqog4n3x](https://aihot.virxact.com/items/cmpwf05rk02d5slsnyqog4n3x)
+- **AIHOT 链接**: [https://aihot.news/items/cmpwf05rk02d5slsnyqog4n3x](https://aihot.news/items/cmpwf05rk02d5slsnyqog4n3x)

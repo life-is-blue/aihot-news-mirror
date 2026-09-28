@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-03T05:09:22.477Z"
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/0/959/249.htm"
-"canonical_url": "https://aihot.virxact.com/items/cmpxlx0y5058eslckymzyv282"
+"canonical_url": "https://aihot.news/items/cmpxlx0y5058eslckymzyv282"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ DeepSeek 计划在首轮融资中从腾讯、宁德时代等投资方处筹集�
 
 - **来源**: IT之家（RSS）
 - **原文链接**: [https://www.ithome.com/0/959/249.htm](https://www.ithome.com/0/959/249.htm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpxlx0y5058eslckymzyv282](https://aihot.virxact.com/items/cmpxlx0y5058eslckymzyv282)
+- **AIHOT 链接**: [https://aihot.news/items/cmpxlx0y5058eslckymzyv282](https://aihot.news/items/cmpxlx0y5058eslckymzyv282)

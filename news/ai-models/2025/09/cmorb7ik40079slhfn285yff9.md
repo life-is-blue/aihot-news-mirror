@@ -6,7 +6,7 @@
 "discovered_at": "2025-09-29T03:19:13.000Z"
 "source_name": "蚂蚁 inclusionAI：GitHub 新仓库"
 "original_url": "https://github.com/inclusionAI/MingTok-Audio"
-"canonical_url": "https://aihot.virxact.com/items/cmorb7ik40079slhfn285yff9"
+"canonical_url": "https://aihot.news/items/cmorb7ik40079slhfn285yff9"
 "score": 57
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ inclusionAI团队推出了MingTok-Audio，这是首个能有效融合语义与�
 
 - **来源**: 蚂蚁 inclusionAI：GitHub 新仓库
 - **原文链接**: [https://github.com/inclusionAI/MingTok-Audio](https://github.com/inclusionAI/MingTok-Audio)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmorb7ik40079slhfn285yff9](https://aihot.virxact.com/items/cmorb7ik40079slhfn285yff9)
+- **AIHOT 链接**: [https://aihot.news/items/cmorb7ik40079slhfn285yff9](https://aihot.news/items/cmorb7ik40079slhfn285yff9)

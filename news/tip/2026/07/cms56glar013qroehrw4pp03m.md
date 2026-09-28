@@ -7,7 +7,7 @@
 "source_name": "Stanford HAI News（网页）"
 "original_url": "https://hai.stanford.edu/news/the-complexities-of-governing-mental-health-ai"
 "canonical_url": "https://aihot.news/items/cms56glar013qroehrw4pp03m"
-"score": 60
+"score": 61
 "content_kind": "news"
 ---
 

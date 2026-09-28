@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-19T01:27:14.379Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/tutorials/sillytavern-openrouter"
-"canonical_url": "https://aihot.virxact.com/items/cmqk90yo9047fslhiqzp4ut7u"
+"canonical_url": "https://aihot.news/items/cmqk90yo9047fslhiqzp4ut7u"
 "score": 55
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/tutorials/sillytavern-openrouter](https://openrouter.ai/blog/tutorials/sillytavern-openrouter)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqk90yo9047fslhiqzp4ut7u](https://aihot.virxact.com/items/cmqk90yo9047fslhiqzp4ut7u)
+- **AIHOT 链接**: [https://aihot.news/items/cmqk90yo9047fslhiqzp4ut7u](https://aihot.news/items/cmqk90yo9047fslhiqzp4ut7u)

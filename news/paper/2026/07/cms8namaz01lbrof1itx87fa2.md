@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-23T00:00:00.000Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2607.20891"
-"canonical_url": "https://aihot.virxact.com/items/cms8namaz01lbrof1itx87fa2"
+"canonical_url": "https://aihot.news/items/cms8namaz01lbrof1itx87fa2"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2607.20891](https://arxiv.org/abs/2607.20891)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms8namaz01lbrof1itx87fa2](https://aihot.virxact.com/items/cms8namaz01lbrof1itx87fa2)
+- **AIHOT 链接**: [https://aihot.news/items/cms8namaz01lbrof1itx87fa2](https://aihot.news/items/cms8namaz01lbrof1itx87fa2)

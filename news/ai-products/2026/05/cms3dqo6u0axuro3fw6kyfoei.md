@@ -7,7 +7,7 @@
 "source_name": "Google Cloud：Databases（RSS）"
 "original_url": "https://cloud.google.com/blog/products/data-analytics/more-tha\
   n-100x-faster-and-cheaper-llm-powered-sql-queries-with-proxy-models"
-"canonical_url": "https://aihot.virxact.com/items/cms3dqo6u0axuro3fw6kyfoei"
+"canonical_url": "https://aihot.news/items/cms3dqo6u0axuro3fw6kyfoei"
 "score": 71
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google Cloud 在 SIGMOD 发表论文，提出用代理模型（proxy model）加
 
 - **来源**: Google Cloud：Databases（RSS）
 - **原文链接**: [https://cloud.google.com/blog/products/data-analytics/more-than-100x-faster-and-cheaper-llm-powered-sql-queries-with-proxy-models](https://cloud.google.com/blog/products/data-analytics/more-than-100x-faster-and-cheaper-llm-powered-sql-queries-with-proxy-models)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3dqo6u0axuro3fw6kyfoei](https://aihot.virxact.com/items/cms3dqo6u0axuro3fw6kyfoei)
+- **AIHOT 链接**: [https://aihot.news/items/cms3dqo6u0axuro3fw6kyfoei](https://aihot.news/items/cms3dqo6u0axuro3fw6kyfoei)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-14T15:33:54.188Z"
 "source_name": "X：Google AI for Developers (@googleaidevs)"
 "original_url": "https://x.com/googleaidevs/status/2077049898059354565"
-"canonical_url": "https://aihot.virxact.com/items/cmrkta2fv011vbi5qe7hdwh0s"
+"canonical_url": "https://aihot.news/items/cmrkta2fv011vbi5qe7hdwh0s"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言、近实时延迟
 
 - **来源**: X：Google AI for Developers (@googleaidevs)
 - **原文链接**: [https://x.com/googleaidevs/status/2077049898059354565](https://x.com/googleaidevs/status/2077049898059354565)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrkta2fv011vbi5qe7hdwh0s](https://aihot.virxact.com/items/cmrkta2fv011vbi5qe7hdwh0s)
+- **AIHOT 链接**: [https://aihot.news/items/cmrkta2fv011vbi5qe7hdwh0s](https://aihot.news/items/cmrkta2fv011vbi5qe7hdwh0s)

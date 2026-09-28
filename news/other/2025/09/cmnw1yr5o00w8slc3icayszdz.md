@@ -6,7 +6,7 @@
 "discovered_at": "2025-09-17T17:09:52.000Z"
 "source_name": "X：Google DeepMind (@GoogleDeepMind)"
 "original_url": "https://x.com/GoogleDeepMind/status/1968361776321323420"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yr5o00w8slc3icayszdz"
+"canonical_url": "https://aihot.news/items/cmnw1yr5o00w8slc3icayszdz"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Gemini 2.5 Deep Think 进阶版在 ICPC 2025 世界编程大赛中取得金牌�
 
 - **来源**: X：Google DeepMind (@GoogleDeepMind)
 - **原文链接**: [https://x.com/GoogleDeepMind/status/1968361776321323420](https://x.com/GoogleDeepMind/status/1968361776321323420)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yr5o00w8slc3icayszdz](https://aihot.virxact.com/items/cmnw1yr5o00w8slc3icayszdz)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yr5o00w8slc3icayszdz](https://aihot.news/items/cmnw1yr5o00w8slc3icayszdz)

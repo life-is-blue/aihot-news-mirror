@@ -7,7 +7,7 @@
 "source_name": "X：Nathan Lambert (@natolambert)"
 "original_url": "https://x.com/natolambert/status/2102872133244183038"
 "canonical_url": "https://aihot.news/items/cmuem5vyq07nqroynhi5j65vd"
-"score": 78
+"score": 79
 "content_kind": "news"
 ---
 

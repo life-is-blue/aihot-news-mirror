@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://github.blog/news-insights/company-news/changes-to-gith\
   ub-copilot-individual-plans"
-"canonical_url": "https://aihot.virxact.com/items/cmo8jxkbz05rnslml898t7xvx"
+"canonical_url": "https://aihot.news/items/cmo8jxkbz05rnslml898t7xvx"
 "score": 73
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ GitHub官方博客发布关于Copilot个人订阅计划的变更公告。提供�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans](https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmo8jxkbz05rnslml898t7xvx](https://aihot.virxact.com/items/cmo8jxkbz05rnslml898t7xvx)
+- **AIHOT 链接**: [https://aihot.news/items/cmo8jxkbz05rnslml898t7xvx](https://aihot.news/items/cmo8jxkbz05rnslml898t7xvx)

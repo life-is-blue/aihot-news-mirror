@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-10T17:19:11.037Z"
 "source_name": "LMSYS：Blog（Chatbot Arena 团队）"
 "original_url": "https://www.lmsys.org/blog/2026-07-10-rocm-miles-dsv4"
-"canonical_url": "https://aihot.virxact.com/items/cmrf7a5kg000wihpr80vvnaxn"
+"canonical_url": "https://aihot.news/items/cmrf7a5kg000wihpr80vvnaxn"
 "score": 61
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ DeepSeek-V4 Flash 的强化学习训练现已在 AMD Instinct MI355X GPU 上通�
 
 - **来源**: LMSYS：Blog（Chatbot Arena 团队）
 - **原文链接**: [https://www.lmsys.org/blog/2026-07-10-rocm-miles-dsv4](https://www.lmsys.org/blog/2026-07-10-rocm-miles-dsv4)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrf7a5kg000wihpr80vvnaxn](https://aihot.virxact.com/items/cmrf7a5kg000wihpr80vvnaxn)
+- **AIHOT 链接**: [https://aihot.news/items/cmrf7a5kg000wihpr80vvnaxn](https://aihot.news/items/cmrf7a5kg000wihpr80vvnaxn)

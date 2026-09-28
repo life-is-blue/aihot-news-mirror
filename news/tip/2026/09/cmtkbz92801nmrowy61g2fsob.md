@@ -7,8 +7,8 @@
 "source_name": "Google AI：DEV 作者专属（RSS）"
 "original_url": "https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-\
   as-a-judge-evaluations-ndp"
-"canonical_url": "https://aihot.virxact.com/items/cmtkbz92801nmrowy61g2fsob"
-"score": 65
+"canonical_url": "https://aihot.news/items/cmtkbz92801nmrowy61g2fsob"
+"score": 66
 "content_kind": "news"
 ---
 
@@ -18,4 +18,4 @@ Google AI 团队发布教程，讲解如何为 LLM-as-a-Judge 评测编写可靠
 
 - **来源**: Google AI：DEV 作者专属（RSS）
 - **原文链接**: [https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp](https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtkbz92801nmrowy61g2fsob](https://aihot.virxact.com/items/cmtkbz92801nmrowy61g2fsob)
+- **AIHOT 链接**: [https://aihot.news/items/cmtkbz92801nmrowy61g2fsob](https://aihot.news/items/cmtkbz92801nmrowy61g2fsob)

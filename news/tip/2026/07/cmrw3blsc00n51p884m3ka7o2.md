@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-22T13:00:30.002Z"
 "source_name": "公众号：卡尔的AI沃茨"
 "original_url": "https://mp.weixin.qq.com/s/PnXGmmDYejrHBSpoRBOHkg"
-"canonical_url": "https://aihot.virxact.com/items/cmrw3blsc00n51p884m3ka7o2"
+"canonical_url": "https://aihot.news/items/cmrw3blsc00n51p884m3ka7o2"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Qwen-Image-3.0上线，支持最高4.5k token输入、12种语言、20多种字�
 
 - **来源**: 公众号：卡尔的AI沃茨
 - **原文链接**: [https://mp.weixin.qq.com/s/PnXGmmDYejrHBSpoRBOHkg](https://mp.weixin.qq.com/s/PnXGmmDYejrHBSpoRBOHkg)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrw3blsc00n51p884m3ka7o2](https://aihot.virxact.com/items/cmrw3blsc00n51p884m3ka7o2)
+- **AIHOT 链接**: [https://aihot.news/items/cmrw3blsc00n51p884m3ka7o2](https://aihot.news/items/cmrw3blsc00n51p884m3ka7o2)

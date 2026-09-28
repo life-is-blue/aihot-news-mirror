@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-29T02:07:37.476Z"
 "source_name": "X：Tibo (@thsottiaux)"
 "original_url": "https://x.com/thsottiaux/status/2093515916076343774"
-"canonical_url": "https://aihot.virxact.com/items/cmtdqqeiu046gro2maw35y3c4"
+"canonical_url": "https://aihot.news/items/cmtdqqeiu046gro2maw35y3c4"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 因 SpaceX 收购 Cursor 后信任问题，决定终止向其提供模型
 
 - **来源**: X：Tibo (@thsottiaux)
 - **原文链接**: [https://x.com/thsottiaux/status/2093515916076343774](https://x.com/thsottiaux/status/2093515916076343774)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtdqqeiu046gro2maw35y3c4](https://aihot.virxact.com/items/cmtdqqeiu046gro2maw35y3c4)
+- **AIHOT 链接**: [https://aihot.news/items/cmtdqqeiu046gro2maw35y3c4](https://aihot.news/items/cmtdqqeiu046gro2maw35y3c4)

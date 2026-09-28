@@ -6,7 +6,7 @@
 "discovered_at": "2025-10-09T15:49:06.000Z"
 "source_name": "X：Jeff Dean (@JeffDean)"
 "original_url": "https://x.com/JeffDean/status/1976313985453732222"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yswj011aslc35jdhhg9o"
+"canonical_url": "https://aihot.news/items/cmnw1yswj011aslc35jdhhg9o"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google 为 Gemini 和 Google Cloud 推出一系列新功能，支持基于组织
 
 - **来源**: X：Jeff Dean (@JeffDean)
 - **原文链接**: [https://x.com/JeffDean/status/1976313985453732222](https://x.com/JeffDean/status/1976313985453732222)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yswj011aslc35jdhhg9o](https://aihot.virxact.com/items/cmnw1yswj011aslc35jdhhg9o)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yswj011aslc35jdhhg9o](https://aihot.news/items/cmnw1yswj011aslc35jdhhg9o)

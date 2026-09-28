@@ -7,7 +7,7 @@
 "source_name": "Microsoft：Official Blog（RSS）"
 "original_url": "https://blogs.microsoft.com/blog/2026/06/22/powering-the-next-\
   wave-of-ai-expanding-capacity-with-our-new-datacenter-in-pecos"
-"canonical_url": "https://aihot.virxact.com/items/cms3drt3p0b6dro3fzrddvddz"
+"canonical_url": "https://aihot.news/items/cms3drt3p0b6dro3fzrddvddz"
 "score": 69
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Microsoft：Official Blog（RSS）
 - **原文链接**: [https://blogs.microsoft.com/blog/2026/06/22/powering-the-next-wave-of-ai-expanding-capacity-with-our-new-datacenter-in-pecos](https://blogs.microsoft.com/blog/2026/06/22/powering-the-next-wave-of-ai-expanding-capacity-with-our-new-datacenter-in-pecos)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3drt3p0b6dro3fzrddvddz](https://aihot.virxact.com/items/cms3drt3p0b6dro3fzrddvddz)
+- **AIHOT 链接**: [https://aihot.news/items/cms3drt3p0b6dro3fzrddvddz](https://aihot.news/items/cms3drt3p0b6dro3fzrddvddz)

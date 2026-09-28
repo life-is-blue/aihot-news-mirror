@@ -7,7 +7,7 @@
 "source_name": "Cohere 产品与研究博客（网页）"
 "original_url": "https://cohere.com/blog/north-mini-code"
 "canonical_url": "https://aihot.news/items/cmtym1xbw0005ron64iqde8bn"
-"score": 62
+"score": 63
 "content_kind": "news"
 ---
 

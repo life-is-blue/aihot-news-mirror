@@ -6,7 +6,7 @@
 "discovered_at": "2026-02-03T11:25:53.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/Photoroom/prx-part2"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhak009mslxx20kmizmw"
+"canonical_url": "https://aihot.news/items/cmoegbhak009mslxx20kmizmw"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Photoroom团队通过消融研究，总结了文本到图像模型训练的关�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/Photoroom/prx-part2](https://huggingface.co/blog/Photoroom/prx-part2)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhak009mslxx20kmizmw](https://aihot.virxact.com/items/cmoegbhak009mslxx20kmizmw)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhak009mslxx20kmizmw](https://aihot.news/items/cmoegbhak009mslxx20kmizmw)

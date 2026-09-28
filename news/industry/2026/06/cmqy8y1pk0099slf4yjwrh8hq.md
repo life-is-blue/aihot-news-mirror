@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lob\
   bies-eu-to-host-anthropic-after-us-access-curbs"
-"canonical_url": "https://aihot.virxact.com/items/cmqy8y1pk0099slf4yjwrh8hq"
+"canonical_url": "https://aihot.news/items/cmqy8y1pk0099slf4yjwrh8hq"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs](https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqy8y1pk0099slf4yjwrh8hq](https://aihot.virxact.com/items/cmqy8y1pk0099slf4yjwrh8hq)
+- **AIHOT 链接**: [https://aihot.news/items/cmqy8y1pk0099slf4yjwrh8hq](https://aihot.news/items/cmqy8y1pk0099slf4yjwrh8hq)

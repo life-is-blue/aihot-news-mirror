@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-08T04:44:06.301Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://blog.zksecurity.xyz/posts/circl-bugs"
-"canonical_url": "https://aihot.virxact.com/items/cmrblfb8a050sihl1484pa3wo"
+"canonical_url": "https://aihot.news/items/cmrblfb8a050sihl1484pa3wo"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ zkSecurity 的 AI 审计代理 zkao 持续扫描 Cloudflare 的 CIRCL 密码学�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://blog.zksecurity.xyz/posts/circl-bugs](https://blog.zksecurity.xyz/posts/circl-bugs)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrblfb8a050sihl1484pa3wo](https://aihot.virxact.com/items/cmrblfb8a050sihl1484pa3wo)
+- **AIHOT 链接**: [https://aihot.news/items/cmrblfb8a050sihl1484pa3wo](https://aihot.news/items/cmrblfb8a050sihl1484pa3wo)

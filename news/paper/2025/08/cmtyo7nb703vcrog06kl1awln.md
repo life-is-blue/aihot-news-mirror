@@ -14,7 +14,7 @@
 
 # METR 研究认为尽管存在不忠实，思维链仍可作为监控模型行为的信息来源
 
-METR 复现 Anthropic 的 Claude Sonnet 3.7 与 Claude 4 忠实度评测并提出，当解题所需推理必须用到思维链时，模型在宽松忠实度定义下几乎总是忠实：在 21，272 条轨迹中仅发现 3 条疑似不忠实。
+METR 复现 Anthropic 的 Claude Sonnet 3.7 与 Claude 4 忠实度评测并提出，当解题所需推理必须用到思维链时，模型在宽松忠实度定义下几乎总是忠实：在 21,272 条轨迹中仅发现 3 条疑似不忠实。
 
 - **来源**: METR：Research（网页）
 - **原文链接**: [https://metr.org/blog/2025-08-08-cot-may-be-highly-informative-despite-unfaithfulness](https://metr.org/blog/2025-08-08-cot-may-be-highly-informative-despite-unfaithfulness)

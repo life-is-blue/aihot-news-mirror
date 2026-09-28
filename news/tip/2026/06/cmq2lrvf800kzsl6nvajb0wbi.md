@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-05T01:31:15.000Z"
 "source_name": "公众号：数字生命卡兹克"
 "original_url": "https://mp.weixin.qq.com/s/mJbuKJChVk7ktIHEtKzChg"
-"canonical_url": "https://aihot.virxact.com/items/cmq2lrvf800kzsl6nvajb0wbi"
+"canonical_url": "https://aihot.news/items/cmq2lrvf800kzsl6nvajb0wbi"
 "score": 68
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic发文指出，AI系统正加速自身开发，递归自我改进或将
 
 - **来源**: 公众号：数字生命卡兹克
 - **原文链接**: [https://mp.weixin.qq.com/s/mJbuKJChVk7ktIHEtKzChg](https://mp.weixin.qq.com/s/mJbuKJChVk7ktIHEtKzChg)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq2lrvf800kzsl6nvajb0wbi](https://aihot.virxact.com/items/cmq2lrvf800kzsl6nvajb0wbi)
+- **AIHOT 链接**: [https://aihot.news/items/cmq2lrvf800kzsl6nvajb0wbi](https://aihot.news/items/cmq2lrvf800kzsl6nvajb0wbi)

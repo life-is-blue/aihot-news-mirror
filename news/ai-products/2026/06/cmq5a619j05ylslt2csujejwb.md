@@ -7,7 +7,7 @@
 "source_name": "公众号：月之暗面（Kimi）"
 "original_url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247\
   484250&idx=1&sn=d0a07f5358250f3a54df8fbabe61f09a"
-"canonical_url": "https://aihot.virxact.com/items/cmq5a619j05ylslt2csujejwb"
+"canonical_url": "https://aihot.news/items/cmq5a619j05ylslt2csujejwb"
 "score": 76
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Kimi Code 开源 Coding Agent 迎来大版本升级：一行命令安装，毫�
 
 - **来源**: 公众号：月之暗面（Kimi）
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484250&idx=1&sn=d0a07f5358250f3a54df8fbabe61f09a](https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484250&idx=1&sn=d0a07f5358250f3a54df8fbabe61f09a)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq5a619j05ylslt2csujejwb](https://aihot.virxact.com/items/cmq5a619j05ylslt2csujejwb)
+- **AIHOT 链接**: [https://aihot.news/items/cmq5a619j05ylslt2csujejwb](https://aihot.news/items/cmq5a619j05ylslt2csujejwb)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-18T13:47:43.402Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/is-it-agentic-enough"
-"canonical_url": "https://aihot.virxact.com/items/cmqjk1dcw0421slmh4xbaqcmp"
+"canonical_url": "https://aihot.news/items/cmqjk1dcw0421slmh4xbaqcmp"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Hugging Face 发布面向 AI 智能体使用场景的基准测试框架，以 tr
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/is-it-agentic-enough](https://huggingface.co/blog/is-it-agentic-enough)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqjk1dcw0421slmh4xbaqcmp](https://aihot.virxact.com/items/cmqjk1dcw0421slmh4xbaqcmp)
+- **AIHOT 链接**: [https://aihot.news/items/cmqjk1dcw0421slmh4xbaqcmp](https://aihot.news/items/cmqjk1dcw0421slmh4xbaqcmp)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-19T19:25:56.789Z"
 "source_name": "Google Developers Blog（RSS）"
 "original_url": "https://developers.googleblog.com/google-tensor-sdk-beta-with-litert"
-"canonical_url": "https://aihot.virxact.com/items/cmpd0wx2i01xdsljlb5qn6lbf"
+"canonical_url": "https://aihot.news/items/cmpd0wx2i01xdsljlb5qn6lbf"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google Tensor ML SDK 进入测试版，支持开发者直接在 Pixel 10 设备�
 
 - **来源**: Google Developers Blog（RSS）
 - **原文链接**: [https://developers.googleblog.com/google-tensor-sdk-beta-with-litert](https://developers.googleblog.com/google-tensor-sdk-beta-with-litert)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpd0wx2i01xdsljlb5qn6lbf](https://aihot.virxact.com/items/cmpd0wx2i01xdsljlb5qn6lbf)
+- **AIHOT 链接**: [https://aihot.news/items/cmpd0wx2i01xdsljlb5qn6lbf](https://aihot.news/items/cmpd0wx2i01xdsljlb5qn6lbf)

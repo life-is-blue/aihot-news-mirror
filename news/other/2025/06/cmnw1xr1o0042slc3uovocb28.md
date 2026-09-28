@@ -6,7 +6,7 @@
 "discovered_at": "2025-06-10T21:12:47.000Z"
 "source_name": "Sam Altman：Blog（RSS）"
 "original_url": "https://blog.samaltman.com/the-gentle-singularity"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xr1o0042slc3uovocb28"
+"canonical_url": "https://aihot.news/items/cmnw1xr1o0042slc3uovocb28"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Sam Altman：Blog（RSS）
 - **原文链接**: [https://blog.samaltman.com/the-gentle-singularity](https://blog.samaltman.com/the-gentle-singularity)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xr1o0042slc3uovocb28](https://aihot.virxact.com/items/cmnw1xr1o0042slc3uovocb28)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xr1o0042slc3uovocb28](https://aihot.news/items/cmnw1xr1o0042slc3uovocb28)

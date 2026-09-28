@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-01T19:10:05.430Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://www.tomtunguz.com/what-ai-did-in-the-last-two-weeks"
-"canonical_url": "https://aihot.virxact.com/items/cmonaf1m80eg6sll9kus3phwv"
+"canonical_url": "https://aihot.news/items/cmonaf1m80eg6sll9kus3phwv"
 "score": 57
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://www.tomtunguz.com/what-ai-did-in-the-last-two-weeks](https://www.tomtunguz.com/what-ai-did-in-the-last-two-weeks)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmonaf1m80eg6sll9kus3phwv](https://aihot.virxact.com/items/cmonaf1m80eg6sll9kus3phwv)
+- **AIHOT 链接**: [https://aihot.news/items/cmonaf1m80eg6sll9kus3phwv](https://aihot.news/items/cmonaf1m80eg6sll9kus3phwv)

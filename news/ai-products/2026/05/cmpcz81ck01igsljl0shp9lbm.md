@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-19T18:38:37.980Z"
 "source_name": "X：Gemini (@GeminiApp)"
 "original_url": "https://x.com/GeminiApp/status/2056800978343764238"
-"canonical_url": "https://aihot.virxact.com/items/cmpcz81ck01igsljl0shp9lbm"
+"canonical_url": "https://aihot.news/items/cmpcz81ck01igsljl0shp9lbm"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Daily Brief是一项新的个性化摘要功能，旨在成为您每天早晨的
 
 - **来源**: X：Gemini (@GeminiApp)
 - **原文链接**: [https://x.com/GeminiApp/status/2056800978343764238](https://x.com/GeminiApp/status/2056800978343764238)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpcz81ck01igsljl0shp9lbm](https://aihot.virxact.com/items/cmpcz81ck01igsljl0shp9lbm)
+- **AIHOT 链接**: [https://aihot.news/items/cmpcz81ck01igsljl0shp9lbm](https://aihot.news/items/cmpcz81ck01igsljl0shp9lbm)

@@ -6,7 +6,7 @@
 "discovered_at": "2025-05-27T16:00:00.000Z"
 "source_name": "DeepSeek：API 更新日志"
 "original_url": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2025-05-28"
-"canonical_url": "https://aihot.virxact.com/items/cms8ndntd01psrof1wfbsmcm8"
+"canonical_url": "https://aihot.news/items/cms8ndntd01psrof1wfbsmcm8"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ DeepSeek 将 deepseek-reasoner 模型升级为 DeepSeek-R1-0528，推理能力�
 
 - **来源**: DeepSeek：API 更新日志
 - **原文链接**: [https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2025-05-28](https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2025-05-28)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms8ndntd01psrof1wfbsmcm8](https://aihot.virxact.com/items/cms8ndntd01psrof1wfbsmcm8)
+- **AIHOT 链接**: [https://aihot.news/items/cms8ndntd01psrof1wfbsmcm8](https://aihot.news/items/cms8ndntd01psrof1wfbsmcm8)

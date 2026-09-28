@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-18T17:06:04.136Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/anthropic-acquires-stainless"
-"canonical_url": "https://aihot.virxact.com/items/cmpbgh7e51779slnz95461dox"
+"canonical_url": "https://aihot.news/items/cmpbgh7e51779slnz95461dox"
 "score": 64
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic宣布收购SDK与MCP服务器工具开发商Stainless。Stainless自20
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/anthropic-acquires-stainless](https://www.anthropic.com/news/anthropic-acquires-stainless)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpbgh7e51779slnz95461dox](https://aihot.virxact.com/items/cmpbgh7e51779slnz95461dox)
+- **AIHOT 链接**: [https://aihot.news/items/cmpbgh7e51779slnz95461dox](https://aihot.news/items/cmpbgh7e51779slnz95461dox)

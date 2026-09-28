@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-22T17:27:04.811Z"
 "source_name": "Anthropic：Research（发表成果 · 网页）"
 "original_url": "https://www.anthropic.com/research/81k-economics"
-"canonical_url": "https://aihot.virxact.com/items/cmoabrx2t01ajsl1yui6uuwza"
+"canonical_url": "https://aihot.news/items/cmoabrx2t01ajsl1yui6uuwza"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Anthropic：Research（发表成果 · 网页）
 - **原文链接**: [https://www.anthropic.com/research/81k-economics](https://www.anthropic.com/research/81k-economics)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoabrx2t01ajsl1yui6uuwza](https://aihot.virxact.com/items/cmoabrx2t01ajsl1yui6uuwza)
+- **AIHOT 链接**: [https://aihot.news/items/cmoabrx2t01ajsl1yui6uuwza](https://aihot.news/items/cmoabrx2t01ajsl1yui6uuwza)

@@ -6,7 +6,7 @@
 "discovered_at": "2025-09-30T17:13:47.000Z"
 "source_name": "Sam Altman：Blog（RSS）"
 "original_url": "https://blog.samaltman.com/sora-2"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xr1o003zslc3y7ndvr9i"
+"canonical_url": "https://aihot.news/items/cmnw1xr1o003zslc3y7ndvr9i"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI发布Sora应用，集成Sora 2模型，支持快速创作、分享和观�
 
 - **来源**: Sam Altman：Blog（RSS）
 - **原文链接**: [https://blog.samaltman.com/sora-2](https://blog.samaltman.com/sora-2)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xr1o003zslc3y7ndvr9i](https://aihot.virxact.com/items/cmnw1xr1o003zslc3y7ndvr9i)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xr1o003zslc3y7ndvr9i](https://aihot.news/items/cmnw1xr1o003zslc3y7ndvr9i)

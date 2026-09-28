@@ -7,7 +7,7 @@
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/use-openrouter-models-in-cursor-try\
   -it-with-moonshot-ais-kimi-k2"
-"canonical_url": "https://aihot.virxact.com/items/cmq29zxqx00hkslopl0xhurdk"
+"canonical_url": "https://aihot.news/items/cmq29zxqx00hkslopl0xhurdk"
 "score": 56
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenRouter 宣布其灵活模型路由支持在 Cursor 中运行月之暗面的 
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/use-openrouter-models-in-cursor-try-it-with-moonshot-ais-kimi-k2](https://openrouter.ai/blog/use-openrouter-models-in-cursor-try-it-with-moonshot-ais-kimi-k2)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq29zxqx00hkslopl0xhurdk](https://aihot.virxact.com/items/cmq29zxqx00hkslopl0xhurdk)
+- **AIHOT 链接**: [https://aihot.news/items/cmq29zxqx00hkslopl0xhurdk](https://aihot.news/items/cmq29zxqx00hkslopl0xhurdk)

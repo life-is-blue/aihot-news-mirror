@@ -7,7 +7,7 @@
 "source_name": "The Verge：AI（RSS）"
 "original_url": "https://www.theverge.com/ai-artificial-intelligence/937933/pop\
   e-ai-encyclical-tech-industry-reactions"
-"canonical_url": "https://aihot.virxact.com/items/cmpo1uaxp028dslv47o305cfh"
+"canonical_url": "https://aihot.news/items/cmpo1uaxp028dslv47o305cfh"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: The Verge：AI（RSS）
 - **原文链接**: [https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions](https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpo1uaxp028dslv47o305cfh](https://aihot.virxact.com/items/cmpo1uaxp028dslv47o305cfh)
+- **AIHOT 链接**: [https://aihot.news/items/cmpo1uaxp028dslv47o305cfh](https://aihot.news/items/cmpo1uaxp028dslv47o305cfh)

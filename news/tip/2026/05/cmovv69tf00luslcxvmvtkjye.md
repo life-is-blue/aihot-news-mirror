@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-07T19:13:17.551Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://www.tomtunguz.com/ai-at-discount"
-"canonical_url": "https://aihot.virxact.com/items/cmovv69tf00luslcxvmvtkjye"
+"canonical_url": "https://aihot.news/items/cmovv69tf00luslcxvmvtkjye"
 "score": 57
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic在15个月内估值从10亿飙升至300亿美元，但其企业价值�
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://www.tomtunguz.com/ai-at-discount](https://www.tomtunguz.com/ai-at-discount)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmovv69tf00luslcxvmvtkjye](https://aihot.virxact.com/items/cmovv69tf00luslcxvmvtkjye)
+- **AIHOT 链接**: [https://aihot.news/items/cmovv69tf00luslcxvmvtkjye](https://aihot.news/items/cmovv69tf00luslcxvmvtkjye)

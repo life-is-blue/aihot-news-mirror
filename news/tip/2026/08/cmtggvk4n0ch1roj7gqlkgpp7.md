@@ -6,8 +6,8 @@
 "discovered_at": "2026-08-14T00:00:00.000Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://tomtunguz.com/model-release-exhaustion"
-"canonical_url": "https://aihot.virxact.com/items/cmtggvk4n0ch1roj7gqlkgpp7"
-"score": 63
+"canonical_url": "https://aihot.news/items/cmtggvk4n0ch1roj7gqlkgpp7"
+"score": 64
 "content_kind": "news"
 ---
 
@@ -17,4 +17,4 @@ OpenRouter 数据显示，84% 的 token 并非来自 SOTA 模型，用户选择�
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://tomtunguz.com/model-release-exhaustion](https://tomtunguz.com/model-release-exhaustion)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtggvk4n0ch1roj7gqlkgpp7](https://aihot.virxact.com/items/cmtggvk4n0ch1roj7gqlkgpp7)
+- **AIHOT 链接**: [https://aihot.news/items/cmtggvk4n0ch1roj7gqlkgpp7](https://aihot.news/items/cmtggvk4n0ch1roj7gqlkgpp7)

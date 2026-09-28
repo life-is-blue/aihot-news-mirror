@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-05T17:31:05.820Z"
 "source_name": "X：Perplexity (@perplexity_ai)"
 "original_url": "https://x.com/perplexity_ai/status/2051710342242480538"
-"canonical_url": "https://aihot.virxact.com/items/cmoswnaa800fuslv78jmqk6ne"
+"canonical_url": "https://aihot.news/items/cmoswnaa800fuslv78jmqk6ne"
 "score": 71
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Perplexity和Computer现已接入优质健康资源，首批包括NEJM和BMJ集�
 
 - **来源**: X：Perplexity (@perplexity_ai)
 - **原文链接**: [https://x.com/perplexity_ai/status/2051710342242480538](https://x.com/perplexity_ai/status/2051710342242480538)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoswnaa800fuslv78jmqk6ne](https://aihot.virxact.com/items/cmoswnaa800fuslv78jmqk6ne)
+- **AIHOT 链接**: [https://aihot.news/items/cmoswnaa800fuslv78jmqk6ne](https://aihot.news/items/cmoswnaa800fuslv78jmqk6ne)

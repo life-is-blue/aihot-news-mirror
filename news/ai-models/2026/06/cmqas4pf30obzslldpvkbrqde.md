@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-12T10:24:19.922Z"
 "source_name": "X：Kimi.ai (@Kimi_Moonshot)"
 "original_url": "https://x.com/Kimi_Moonshot/status/2065377579130142937"
-"canonical_url": "https://aihot.virxact.com/items/cmqas4pf30obzslldpvkbrqde"
+"canonical_url": "https://aihot.news/items/cmqas4pf30obzslldpvkbrqde"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Kimi 发布并开源最新代码模型 Kimi-K2.7-Code。相比 K2.6，其在 Kim
 
 - **来源**: X：Kimi.ai (@Kimi_Moonshot)
 - **原文链接**: [https://x.com/Kimi_Moonshot/status/2065377579130142937](https://x.com/Kimi_Moonshot/status/2065377579130142937)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqas4pf30obzslldpvkbrqde](https://aihot.virxact.com/items/cmqas4pf30obzslldpvkbrqde)
+- **AIHOT 链接**: [https://aihot.news/items/cmqas4pf30obzslldpvkbrqde](https://aihot.news/items/cmqas4pf30obzslldpvkbrqde)

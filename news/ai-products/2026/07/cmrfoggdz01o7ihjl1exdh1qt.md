@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-11T01:20:03.126Z"
 "source_name": "Claude Code：GitHub Releases（RSS）"
 "original_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.207"
-"canonical_url": "https://aihot.virxact.com/items/cmrfoggdz01o7ihjl1exdh1qt"
+"canonical_url": "https://aihot.news/items/cmrfoggdz01o7ihjl1exdh1qt"
 "score": 56
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Code v2.1.207 发布。Auto 模式在 Bedrock、Vertex AI 和 Foundry 上
 
 - **来源**: Claude Code：GitHub Releases（RSS）
 - **原文链接**: [https://github.com/anthropics/claude-code/releases/tag/v2.1.207](https://github.com/anthropics/claude-code/releases/tag/v2.1.207)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrfoggdz01o7ihjl1exdh1qt](https://aihot.virxact.com/items/cmrfoggdz01o7ihjl1exdh1qt)
+- **AIHOT 链接**: [https://aihot.news/items/cmrfoggdz01o7ihjl1exdh1qt](https://aihot.news/items/cmrfoggdz01o7ihjl1exdh1qt)

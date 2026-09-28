@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-09T14:38:23.268Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://www.tomtunguz.com/ollama-series-b"
-"canonical_url": "https://aihot.virxact.com/items/cmrdm3exj052mih4bnm4k525b"
+"canonical_url": "https://aihot.news/items/cmrdm3exj052mih4bnm4k525b"
 "score": 62
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Ollama 让开源模型在本地或云端轻松运行，保持体验一致。目�
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://www.tomtunguz.com/ollama-series-b](https://www.tomtunguz.com/ollama-series-b)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrdm3exj052mih4bnm4k525b](https://aihot.virxact.com/items/cmrdm3exj052mih4bnm4k525b)
+- **AIHOT 链接**: [https://aihot.news/items/cmrdm3exj052mih4bnm4k525b](https://aihot.news/items/cmrdm3exj052mih4bnm4k525b)

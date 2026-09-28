@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-21T17:04:03.027Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/cloud-agent-lessons"
-"canonical_url": "https://aihot.virxact.com/items/cmpfqpzv708sisljwusm386u3"
+"canonical_url": "https://aihot.news/items/cmpfqpzv708sisljwusm386u3"
 "score": 58
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/cloud-agent-lessons](https://cursor.com/blog/cloud-agent-lessons)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpfqpzv708sisljwusm386u3](https://aihot.virxact.com/items/cmpfqpzv708sisljwusm386u3)
+- **AIHOT 链接**: [https://aihot.news/items/cmpfqpzv708sisljwusm386u3](https://aihot.news/items/cmpfqpzv708sisljwusm386u3)

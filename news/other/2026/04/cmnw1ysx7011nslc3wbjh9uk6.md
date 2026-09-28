@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-02T22:22:20.000Z"
 "source_name": "X：Greg Brockman (@gdb)"
 "original_url": "https://x.com/gdb/status/2039830819498491919"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1ysx7011nslc3wbjh9uk6"
+"canonical_url": "https://aihot.news/items/cmnw1ysx7011nslc3wbjh9uk6"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 调整 Codex 定价策略，推出 $0 起步的纯 Codex 席位，完全�
 
 - **来源**: X：Greg Brockman (@gdb)
 - **原文链接**: [https://x.com/gdb/status/2039830819498491919](https://x.com/gdb/status/2039830819498491919)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1ysx7011nslc3wbjh9uk6](https://aihot.virxact.com/items/cmnw1ysx7011nslc3wbjh9uk6)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1ysx7011nslc3wbjh9uk6](https://aihot.news/items/cmnw1ysx7011nslc3wbjh9uk6)

@@ -8,7 +8,7 @@
 "original_url": "https://www.together.ai/blog/serving-minimax-m3-for-efficient-\
   inference-unlocking-1m-token-context-and-multimodality-without-regrets"
 "canonical_url": "https://aihot.news/items/cmtym21vw000vro2bi3334yrc"
-"score": 63
+"score": 64
 "content_kind": "news"
 ---
 

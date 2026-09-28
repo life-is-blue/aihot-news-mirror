@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-20T00:00:00.000Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://tomtunguz.com/open-models-tack-toward-the-frontier"
-"canonical_url": "https://aihot.virxact.com/items/cmtggvk4o0chfroj767udj28f"
+"canonical_url": "https://aihot.news/items/cmtggvk4o0chfroj767udj28f"
 "score": 62
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://tomtunguz.com/open-models-tack-toward-the-frontier](https://tomtunguz.com/open-models-tack-toward-the-frontier)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtggvk4o0chfroj767udj28f](https://aihot.virxact.com/items/cmtggvk4o0chfroj767udj28f)
+- **AIHOT 链接**: [https://aihot.news/items/cmtggvk4o0chfroj767udj28f](https://aihot.news/items/cmtggvk4o0chfroj767udj28f)

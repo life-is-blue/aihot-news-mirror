@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-02T00:19:35.942Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy"
-"canonical_url": "https://aihot.virxact.com/items/cmpvw4hpp027lslukhs91b8ux"
+"canonical_url": "https://aihot.news/items/cmpvw4hpp027lslukhs91b8ux"
 "score": 55
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI阐述了其在AI政策与政治倡导方面的立场，包括对透明度
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/our-views-on-ai-policy-and-political-advocacy](https://openai.com/index/our-views-on-ai-policy-and-political-advocacy)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpvw4hpp027lslukhs91b8ux](https://aihot.virxact.com/items/cmpvw4hpp027lslukhs91b8ux)
+- **AIHOT 链接**: [https://aihot.news/items/cmpvw4hpp027lslukhs91b8ux](https://aihot.news/items/cmpvw4hpp027lslukhs91b8ux)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-01T23:41:31.000Z"
 "source_name": "Claude Code：GitHub Releases（RSS）"
 "original_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.90"
-"canonical_url": "https://aihot.virxact.com/items/cmnw8fk5600atslcjfh2hckg7"
+"canonical_url": "https://aihot.news/items/cmnw8fk5600atslcjfh2hckg7"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Code 发布 v2.1.90 版本。新增 `/powerup` 交互式教程命令，�
 
 - **来源**: Claude Code：GitHub Releases（RSS）
 - **原文链接**: [https://github.com/anthropics/claude-code/releases/tag/v2.1.90](https://github.com/anthropics/claude-code/releases/tag/v2.1.90)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw8fk5600atslcjfh2hckg7](https://aihot.virxact.com/items/cmnw8fk5600atslcjfh2hckg7)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw8fk5600atslcjfh2hckg7](https://aihot.news/items/cmnw8fk5600atslcjfh2hckg7)

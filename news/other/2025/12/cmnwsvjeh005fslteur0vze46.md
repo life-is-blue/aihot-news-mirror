@@ -6,7 +6,7 @@
 "discovered_at": "2025-12-22T00:00:00.000Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/us-gov-dept-of-war"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsvjeh005fslteur0vze46"
+"canonical_url": "https://aihot.news/items/cmnwsvjeh005fslteur0vze46"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI 被美国战争部（DOW）选中，为其 GenAI.Mil 套件提供 Frontier A
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/us-gov-dept-of-war](https://x.ai/news/us-gov-dept-of-war)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsvjeh005fslteur0vze46](https://aihot.virxact.com/items/cmnwsvjeh005fslteur0vze46)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsvjeh005fslteur0vze46](https://aihot.news/items/cmnwsvjeh005fslteur0vze46)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-17T13:06:32.046Z"
 "source_name": "X：Jensen Huang (@JensenHuang)"
 "original_url": "https://x.com/JensenHuang/status/2089331487342829862"
-"canonical_url": "https://aihot.virxact.com/items/cmsx8zij405t2rommm4gwgzjh"
+"canonical_url": "https://aihot.news/items/cmsx8zij405t2rommm4gwgzjh"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：Jensen Huang (@JensenHuang)
 - **原文链接**: [https://x.com/JensenHuang/status/2089331487342829862](https://x.com/JensenHuang/status/2089331487342829862)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsx8zij405t2rommm4gwgzjh](https://aihot.virxact.com/items/cmsx8zij405t2rommm4gwgzjh)
+- **AIHOT 链接**: [https://aihot.news/items/cmsx8zij405t2rommm4gwgzjh](https://aihot.news/items/cmsx8zij405t2rommm4gwgzjh)

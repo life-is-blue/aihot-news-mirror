@@ -6,7 +6,7 @@
 "discovered_at": "2026-02-11T10:55:17.000Z"
 "source_name": "蚂蚁 inclusionAI：GitHub 新仓库"
 "original_url": "https://github.com/inclusionAI/humming"
-"canonical_url": "https://aihot.virxact.com/items/cmorb7ik3006oslhfmf6g1irj"
+"canonical_url": "https://aihot.news/items/cmorb7ik3006oslhfmf6g1irj"
 "score": 61
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ inclusionAI 开源了 Humming，这是一个专为量化推理设计的高性能
 
 - **来源**: 蚂蚁 inclusionAI：GitHub 新仓库
 - **原文链接**: [https://github.com/inclusionAI/humming](https://github.com/inclusionAI/humming)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmorb7ik3006oslhfmf6g1irj](https://aihot.virxact.com/items/cmorb7ik3006oslhfmf6g1irj)
+- **AIHOT 链接**: [https://aihot.news/items/cmorb7ik3006oslhfmf6g1irj](https://aihot.news/items/cmorb7ik3006oslhfmf6g1irj)

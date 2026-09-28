@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-01T13:12:57.540Z"
 "source_name": "X：面壁智能 OpenBMB (@OpenBMB)"
 "original_url": "https://x.com/OpenBMB/status/2061432928492810535"
-"canonical_url": "https://aihot.virxact.com/items/cmpv8b6wa04jvsl0zc4newlns"
+"canonical_url": "https://aihot.news/items/cmpv8b6wa04jvsl0zc4newlns"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenBMB联合清华NLP与Modelbest发布两个开源数据集：Ultra-FineWeb-L3
 
 - **来源**: X：面壁智能 OpenBMB (@OpenBMB)
 - **原文链接**: [https://x.com/OpenBMB/status/2061432928492810535](https://x.com/OpenBMB/status/2061432928492810535)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpv8b6wa04jvsl0zc4newlns](https://aihot.virxact.com/items/cmpv8b6wa04jvsl0zc4newlns)
+- **AIHOT 链接**: [https://aihot.news/items/cmpv8b6wa04jvsl0zc4newlns](https://aihot.news/items/cmpv8b6wa04jvsl0zc4newlns)

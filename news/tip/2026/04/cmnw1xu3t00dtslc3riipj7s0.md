@@ -7,7 +7,7 @@
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/preparing-your-security-program-for-ai\
   -accelerated-offense"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xu3t00dtslc3riipj7s0"
+"canonical_url": "https://aihot.news/items/cmnw1xu3t00dtslc3riipj7s0"
 "score": 67
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Anthropic发布Project Glasswing项目，利用Claude Mythos Preview模型进行
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense](https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xu3t00dtslc3riipj7s0](https://aihot.virxact.com/items/cmnw1xu3t00dtslc3riipj7s0)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xu3t00dtslc3riipj7s0](https://aihot.news/items/cmnw1xu3t00dtslc3riipj7s0)

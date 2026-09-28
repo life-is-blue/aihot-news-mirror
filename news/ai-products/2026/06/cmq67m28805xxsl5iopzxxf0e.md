@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-09T05:38:53.795Z"
 "source_name": "X：Tibo (@thsottiaux)"
 "original_url": "https://x.com/thsottiaux/status/2064217733722669539"
-"canonical_url": "https://aihot.virxact.com/items/cmq67m28805xxsl5iopzxxf0e"
+"canonical_url": "https://aihot.news/items/cmq67m28805xxsl5iopzxxf0e"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ ChatGPT团队持续每周推进更新，最新一批功能已全部上线。新�
 
 - **来源**: X：Tibo (@thsottiaux)
 - **原文链接**: [https://x.com/thsottiaux/status/2064217733722669539](https://x.com/thsottiaux/status/2064217733722669539)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq67m28805xxsl5iopzxxf0e](https://aihot.virxact.com/items/cmq67m28805xxsl5iopzxxf0e)
+- **AIHOT 链接**: [https://aihot.news/items/cmq67m28805xxsl5iopzxxf0e](https://aihot.news/items/cmq67m28805xxsl5iopzxxf0e)

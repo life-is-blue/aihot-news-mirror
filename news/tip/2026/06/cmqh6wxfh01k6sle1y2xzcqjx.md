@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-16T22:04:48.920Z"
 "source_name": "Gary Marcus：The Road to AI We Can Trust（RSS）"
 "original_url": "https://garymarcus.substack.com/p/openais-lead-is-dwindling-fast"
-"canonical_url": "https://aihot.virxact.com/items/cmqh6wxfh01k6sle1y2xzcqjx"
+"canonical_url": "https://aihot.news/items/cmqh6wxfh01k6sle1y2xzcqjx"
 "score": 62
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Gary Marcus：The Road to AI We Can Trust（RSS）
 - **原文链接**: [https://garymarcus.substack.com/p/openais-lead-is-dwindling-fast](https://garymarcus.substack.com/p/openais-lead-is-dwindling-fast)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqh6wxfh01k6sle1y2xzcqjx](https://aihot.virxact.com/items/cmqh6wxfh01k6sle1y2xzcqjx)
+- **AIHOT 链接**: [https://aihot.news/items/cmqh6wxfh01k6sle1y2xzcqjx](https://aihot.news/items/cmqh6wxfh01k6sle1y2xzcqjx)

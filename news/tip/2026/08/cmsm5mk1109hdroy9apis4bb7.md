@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-09T18:47:00.566Z"
 "source_name": "X：Boris Cherny (@bcherny)"
 "original_url": "https://x.com/bcherny/status/2086520950259118464"
-"canonical_url": "https://aihot.virxact.com/items/cmsm5mk1109hdroy9apis4bb7"
+"canonical_url": "https://aihot.news/items/cmsm5mk1109hdroy9apis4bb7"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 的 Boris Cherny 表示，通过模型训练已基本解决 Claude 模
 
 - **来源**: X：Boris Cherny (@bcherny)
 - **原文链接**: [https://x.com/bcherny/status/2086520950259118464](https://x.com/bcherny/status/2086520950259118464)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsm5mk1109hdroy9apis4bb7](https://aihot.virxact.com/items/cmsm5mk1109hdroy9apis4bb7)
+- **AIHOT 链接**: [https://aihot.news/items/cmsm5mk1109hdroy9apis4bb7](https://aihot.news/items/cmsm5mk1109hdroy9apis4bb7)

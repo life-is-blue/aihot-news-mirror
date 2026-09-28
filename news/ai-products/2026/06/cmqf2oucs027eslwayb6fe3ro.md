@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-15T10:31:00.713Z"
 "source_name": "公众号：月之暗面（Kimi）"
 "original_url": "https://mp.weixin.qq.com/s/p87ebkY1xqKtkGZ2N3DGSw"
-"canonical_url": "https://aihot.virxact.com/items/cmqf2oucs027eslwayb6fe3ro"
+"canonical_url": "https://aihot.news/items/cmqf2oucs027eslwayb6fe3ro"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Kimi K2.7 Code 高速版上线，与普通版为同一模型，输出速度约 5
 
 - **来源**: 公众号：月之暗面（Kimi）
 - **原文链接**: [https://mp.weixin.qq.com/s/p87ebkY1xqKtkGZ2N3DGSw](https://mp.weixin.qq.com/s/p87ebkY1xqKtkGZ2N3DGSw)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqf2oucs027eslwayb6fe3ro](https://aihot.virxact.com/items/cmqf2oucs027eslwayb6fe3ro)
+- **AIHOT 链接**: [https://aihot.news/items/cmqf2oucs027eslwayb6fe3ro](https://aihot.news/items/cmqf2oucs027eslwayb6fe3ro)

@@ -7,7 +7,7 @@
 "source_name": "Cognition 模型 / Devin 博客（网页）"
 "original_url": "https://cognition.com/blog/multi-agents-working"
 "canonical_url": "https://aihot.news/items/cmtyo2ihm03cwrog0ld81mp5a"
-"score": 71
+"score": 72
 "content_kind": "news"
 ---
 

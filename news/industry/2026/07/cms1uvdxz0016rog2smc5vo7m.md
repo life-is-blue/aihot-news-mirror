@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-26T13:50:28.804Z"
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/0/981/797.htm"
-"canonical_url": "https://aihot.virxact.com/items/cms1uvdxz0016rog2smc5vo7m"
+"canonical_url": "https://aihot.news/items/cms1uvdxz0016rog2smc5vo7m"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 与 Anthropic 正游说美国监管机构限制中国开源 AI 模型，�
 
 - **来源**: IT之家（RSS）
 - **原文链接**: [https://www.ithome.com/0/981/797.htm](https://www.ithome.com/0/981/797.htm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms1uvdxz0016rog2smc5vo7m](https://aihot.virxact.com/items/cms1uvdxz0016rog2smc5vo7m)
+- **AIHOT 链接**: [https://aihot.news/items/cms1uvdxz0016rog2smc5vo7m](https://aihot.news/items/cms1uvdxz0016rog2smc5vo7m)

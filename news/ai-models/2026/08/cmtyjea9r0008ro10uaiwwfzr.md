@@ -13,7 +13,7 @@
 
 # Unsloth 发布 Qwen3.8-Flash-Next GGUF，75GB 内存可本地运行
 
-Unsloth 推出 Qwen3.8-Flash-Next 的 GGUF 量化版本，称该 125B MoE 多模态模型性能超过 Claude-Opus-4.6 （Max），可在 75GB RAM 上本地运行，无需 GPU VRAM。
+Unsloth 推出 Qwen3.8-Flash-Next 的 GGUF 量化版本，称该 125B MoE 多模态模型性能超过 Claude-Opus-4.6 (Max)，可在 75GB RAM 上本地运行，无需 GPU VRAM。
 
 - **来源**: X：Unsloth (@UnslothAI)
 - **原文链接**: [https://x.com/UnslothAI/status/2092639558815060281](https://x.com/UnslothAI/status/2092639558815060281)

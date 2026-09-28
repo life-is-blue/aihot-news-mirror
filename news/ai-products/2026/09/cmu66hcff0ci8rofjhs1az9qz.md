@@ -7,7 +7,7 @@
 "source_name": "X：Sherwin Wu（@sherwinwu）"
 "original_url": "https://x.com/sherwinwu/status/2100730628673065040"
 "canonical_url": "https://aihot.news/items/cmu66hcff0ci8rofjhs1az9qz"
-"score": 70
+"score": 71
 "content_kind": "news"
 ---
 

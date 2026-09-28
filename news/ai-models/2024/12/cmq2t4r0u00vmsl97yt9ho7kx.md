@@ -6,7 +6,7 @@
 "discovered_at": "2024-12-26T11:17:38.000Z"
 "source_name": "公众号：DeepSeek（深度求索）"
 "original_url": "https://mp.weixin.qq.com/s/iFZOQsUNkpkXPDvOkE99wQ"
-"canonical_url": "https://aihot.virxact.com/items/cmq2t4r0u00vmsl97yt9ho7kx"
+"canonical_url": "https://aihot.news/items/cmq2t4r0u00vmsl97yt9ho7kx"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: 公众号：DeepSeek（深度求索）
 - **原文链接**: [https://mp.weixin.qq.com/s/iFZOQsUNkpkXPDvOkE99wQ](https://mp.weixin.qq.com/s/iFZOQsUNkpkXPDvOkE99wQ)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq2t4r0u00vmsl97yt9ho7kx](https://aihot.virxact.com/items/cmq2t4r0u00vmsl97yt9ho7kx)
+- **AIHOT 链接**: [https://aihot.news/items/cmq2t4r0u00vmsl97yt9ho7kx](https://aihot.news/items/cmq2t4r0u00vmsl97yt9ho7kx)

@@ -7,7 +7,7 @@
 "source_name": "蚂蚁 inclusionAI：GitHub 新仓库"
 "original_url": "https://github.com/inclusionAI/Realtime-Venus"
 "canonical_url": "https://aihot.news/items/cmu70p8rz0lwirowknowy7cwc"
-"score": 62
+"score": 63
 "content_kind": "news"
 ---
 

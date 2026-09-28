@@ -8,7 +8,7 @@
 "original_url": "https://www.promptarmor.com/resources/unpatched-ollama-vulnera\
   bilities-phishing-overlays-and-data-exfiltration"
 "canonical_url": "https://aihot.news/items/cmtym6tgo000kroo5d5l79ny6"
-"score": 67
+"score": 68
 "content_kind": "news"
 ---
 

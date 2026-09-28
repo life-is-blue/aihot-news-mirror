@@ -7,7 +7,7 @@
 "source_name": "公众号：龙猫LongCat（美团）"
 "original_url": "https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA%3D%3D&mid=2651\
   782661&idx=1&sn=db604b1c300d7dccb71d445baefdd23c"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu2t2b011wrofzn9v6zcye"
+"canonical_url": "https://aihot.news/items/cmsdu2t2b011wrofzn9v6zcye"
 "score": 88
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: 公众号：龙猫LongCat（美团）
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA%3D%3D&mid=2651782661&idx=1&sn=db604b1c300d7dccb71d445baefdd23c](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA%3D%3D&mid=2651782661&idx=1&sn=db604b1c300d7dccb71d445baefdd23c)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu2t2b011wrofzn9v6zcye](https://aihot.virxact.com/items/cmsdu2t2b011wrofzn9v6zcye)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu2t2b011wrofzn9v6zcye](https://aihot.news/items/cmsdu2t2b011wrofzn9v6zcye)

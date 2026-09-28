@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-05T14:41:25.486Z"
 "source_name": "X：Viggle AI (@ViggleAI)"
 "original_url": "https://x.com/ViggleAI/status/2062904007123714329"
-"canonical_url": "https://aihot.virxact.com/items/cmq118d2f0bjmsltrjj0o010h"
+"canonical_url": "https://aihot.news/items/cmq118d2f0bjmsltrjj0o010h"
 "score": 65
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ Mocap 不需要套装、工作室或数千美元。
 
 - **来源**: X：Viggle AI (@ViggleAI)
 - **原文链接**: [https://x.com/ViggleAI/status/2062904007123714329](https://x.com/ViggleAI/status/2062904007123714329)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq118d2f0bjmsltrjj0o010h](https://aihot.virxact.com/items/cmq118d2f0bjmsltrjj0o010h)
+- **AIHOT 链接**: [https://aihot.news/items/cmq118d2f0bjmsltrjj0o010h](https://aihot.news/items/cmq118d2f0bjmsltrjj0o010h)

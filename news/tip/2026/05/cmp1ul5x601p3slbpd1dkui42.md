@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-11T23:43:29.591Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks"
-"canonical_url": "https://aihot.virxact.com/items/cmp1ul5x601p3slbpd1dkui42"
+"canonical_url": "https://aihot.news/items/cmp1ul5x601p3slbpd1dkui42"
 "score": 58
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/amazon/foundation-model-building-blocks](https://huggingface.co/blog/amazon/foundation-model-building-blocks)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp1ul5x601p3slbpd1dkui42](https://aihot.virxact.com/items/cmp1ul5x601p3slbpd1dkui42)
+- **AIHOT 链接**: [https://aihot.news/items/cmp1ul5x601p3slbpd1dkui42](https://aihot.news/items/cmp1ul5x601p3slbpd1dkui42)

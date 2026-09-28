@@ -8,7 +8,7 @@
 "original_url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but\
   -its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forwar\
   d"
-"canonical_url": "https://aihot.virxact.com/items/cmtmvk9590ccdromyrrae80ir"
+"canonical_url": "https://aihot.news/items/cmtmvk9590ccdromyrrae80ir"
 "score": 78
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ GPT-6 Astra 的基准结论相互矛盾：Epoch AI 以 169 分将其排在 267 �
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward](https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtmvk9590ccdromyrrae80ir](https://aihot.virxact.com/items/cmtmvk9590ccdromyrrae80ir)
+- **AIHOT 链接**: [https://aihot.news/items/cmtmvk9590ccdromyrrae80ir](https://aihot.news/items/cmtmvk9590ccdromyrrae80ir)

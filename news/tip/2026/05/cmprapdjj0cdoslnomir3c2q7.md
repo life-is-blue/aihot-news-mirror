@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-29T19:08:53.856Z"
 "source_name": "Google Blog：AI（RSS）"
 "original_url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz"
-"canonical_url": "https://aihot.virxact.com/items/cmprapdjj0cdoslnomir3c2q7"
+"canonical_url": "https://aihot.news/items/cmprapdjj0cdoslnomir3c2q7"
 "score": 55
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google 使用其开发工具 Google AI Studio，通过氛围编程（vibe coding
 
 - **来源**: Google Blog：AI（RSS）
 - **原文链接**: [https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz](https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmprapdjj0cdoslnomir3c2q7](https://aihot.virxact.com/items/cmprapdjj0cdoslnomir3c2q7)
+- **AIHOT 链接**: [https://aihot.news/items/cmprapdjj0cdoslnomir3c2q7](https://aihot.news/items/cmprapdjj0cdoslnomir3c2q7)

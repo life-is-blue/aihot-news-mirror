@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-19T20:41:47.539Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-openclaw"
-"canonical_url": "https://aihot.virxact.com/items/cmpd3ms9200o4slk1fra40xlv"
+"canonical_url": "https://aihot.news/items/cmpd3ms9200o4slk1fra40xlv"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-openclaw](https://x.ai/news/grok-openclaw)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpd3ms9200o4slk1fra40xlv](https://aihot.virxact.com/items/cmpd3ms9200o4slk1fra40xlv)
+- **AIHOT 链接**: [https://aihot.news/items/cmpd3ms9200o4slk1fra40xlv](https://aihot.news/items/cmpd3ms9200o4slk1fra40xlv)

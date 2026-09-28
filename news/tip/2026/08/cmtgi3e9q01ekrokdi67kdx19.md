@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-31T00:29:05.963Z"
 "source_name": "Ethan Mollick：One Useful Thing（RSS）"
 "original_url": "https://www.oneusefulthing.org/p/agency-and-agents"
-"canonical_url": "https://aihot.virxact.com/items/cmtgi3e9q01ekrokdi67kdx19"
+"canonical_url": "https://aihot.news/items/cmtgi3e9q01ekrokdi67kdx19"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 安全测试中，无护栏的 AI 智能体自发协作，利用 Artifact
 
 - **来源**: Ethan Mollick：One Useful Thing（RSS）
 - **原文链接**: [https://www.oneusefulthing.org/p/agency-and-agents](https://www.oneusefulthing.org/p/agency-and-agents)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtgi3e9q01ekrokdi67kdx19](https://aihot.virxact.com/items/cmtgi3e9q01ekrokdi67kdx19)
+- **AIHOT 链接**: [https://aihot.news/items/cmtgi3e9q01ekrokdi67kdx19](https://aihot.news/items/cmtgi3e9q01ekrokdi67kdx19)

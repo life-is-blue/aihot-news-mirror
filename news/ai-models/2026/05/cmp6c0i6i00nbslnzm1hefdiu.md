@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-15T03:02:11.887Z"
 "source_name": "蚂蚁 inclusionAI：HuggingFace 新模型"
 "original_url": "https://huggingface.co/inclusionAI/ARGenSeg-8B"
-"canonical_url": "https://aihot.virxact.com/items/cmp6c0i6i00nbslnzm1hefdiu"
+"canonical_url": "https://aihot.news/items/cmp6c0i6i00nbslnzm1hefdiu"
 "score": 56
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: 蚂蚁 inclusionAI：HuggingFace 新模型
 - **原文链接**: [https://huggingface.co/inclusionAI/ARGenSeg-8B](https://huggingface.co/inclusionAI/ARGenSeg-8B)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp6c0i6i00nbslnzm1hefdiu](https://aihot.virxact.com/items/cmp6c0i6i00nbslnzm1hefdiu)
+- **AIHOT 链接**: [https://aihot.news/items/cmp6c0i6i00nbslnzm1hefdiu](https://aihot.news/items/cmp6c0i6i00nbslnzm1hefdiu)

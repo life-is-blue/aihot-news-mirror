@@ -7,7 +7,7 @@
 "source_name": "TechCrunch：AI（RSS）"
 "original_url": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphon\
   e-to-finish-your-sentences-your-photos-and-your-workflows"
-"canonical_url": "https://aihot.virxact.com/items/cmq5l4kxt00lmsl384yhftczo"
+"canonical_url": "https://aihot.news/items/cmq5l4kxt00lmsl384yhftczo"
 "score": 73
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Apple为Safari、Shortcuts和Password应用添加了AI驱动的新功能，让iP
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows](https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq5l4kxt00lmsl384yhftczo](https://aihot.virxact.com/items/cmq5l4kxt00lmsl384yhftczo)
+- **AIHOT 链接**: [https://aihot.news/items/cmq5l4kxt00lmsl384yhftczo](https://aihot.news/items/cmq5l4kxt00lmsl384yhftczo)

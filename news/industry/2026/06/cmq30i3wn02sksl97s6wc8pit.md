@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-milli\
   on-a-month-for-xai-compute-capacity.html"
-"canonical_url": "https://aihot.virxact.com/items/cmq30i3wn02sksl97s6wc8pit"
+"canonical_url": "https://aihot.news/items/cmq30i3wn02sksl97s6wc8pit"
 "score": 75
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html](https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq30i3wn02sksl97s6wc8pit](https://aihot.virxact.com/items/cmq30i3wn02sksl97s6wc8pit)
+- **AIHOT 链接**: [https://aihot.news/items/cmq30i3wn02sksl97s6wc8pit](https://aihot.news/items/cmq30i3wn02sksl97s6wc8pit)

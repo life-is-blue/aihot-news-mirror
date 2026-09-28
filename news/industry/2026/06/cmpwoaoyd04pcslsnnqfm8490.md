@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-02T13:28:13.607Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/expanding-project-glasswing"
-"canonical_url": "https://aihot.virxact.com/items/cmpwoaoyd04pcslsnnqfm8490"
+"canonical_url": "https://aihot.news/items/cmpwoaoyd04pcslsnnqfm8490"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic正将其Project Glasswing计划扩展至约150个新组织，此前首
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/expanding-project-glasswing](https://www.anthropic.com/news/expanding-project-glasswing)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpwoaoyd04pcslsnnqfm8490](https://aihot.virxact.com/items/cmpwoaoyd04pcslsnnqfm8490)
+- **AIHOT 链接**: [https://aihot.news/items/cmpwoaoyd04pcslsnnqfm8490](https://aihot.news/items/cmpwoaoyd04pcslsnnqfm8490)

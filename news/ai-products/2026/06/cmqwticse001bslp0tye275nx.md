@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-25T16:04:46.000Z"
 "source_name": "Hacker News：AI 热帖"
 "original_url": "https://github.com/inkeep/open-knowledge"
-"canonical_url": "https://aihot.virxact.com/items/cmqwticse001bslp0tye275nx"
+"canonical_url": "https://aihot.news/items/cmqwticse001bslp0tye275nx"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenKnowledge 是一款开源、本地优先的 Markdown 编辑器，私密免�
 
 - **来源**: Hacker News：AI 热帖
 - **原文链接**: [https://github.com/inkeep/open-knowledge](https://github.com/inkeep/open-knowledge)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqwticse001bslp0tye275nx](https://aihot.virxact.com/items/cmqwticse001bslp0tye275nx)
+- **AIHOT 链接**: [https://aihot.news/items/cmqwticse001bslp0tye275nx](https://aihot.news/items/cmqwticse001bslp0tye275nx)

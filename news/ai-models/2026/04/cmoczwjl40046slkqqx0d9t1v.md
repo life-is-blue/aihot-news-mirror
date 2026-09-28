@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-22T16:45:23.000Z"
 "source_name": "Simon Willison 博客"
 "original_url": "https://simonwillison.net/2026/Apr/22/qwen36-27b"
-"canonical_url": "https://aihot.virxact.com/items/cmoczwjl40046slkqqx0d9t1v"
+"canonical_url": "https://aihot.news/items/cmoczwjl40046slkqqx0d9t1v"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Qwen 发布 Qwen3.6-27B 开源模型，这款 27B 参数的稠密模型在编码
 
 - **来源**: Simon Willison 博客
 - **原文链接**: [https://simonwillison.net/2026/Apr/22/qwen36-27b](https://simonwillison.net/2026/Apr/22/qwen36-27b)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoczwjl40046slkqqx0d9t1v](https://aihot.virxact.com/items/cmoczwjl40046slkqqx0d9t1v)
+- **AIHOT 链接**: [https://aihot.news/items/cmoczwjl40046slkqqx0d9t1v](https://aihot.news/items/cmoczwjl40046slkqqx0d9t1v)

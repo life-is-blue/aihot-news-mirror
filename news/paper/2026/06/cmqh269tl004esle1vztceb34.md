@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-16T19:52:07.006Z"
 "source_name": "OpenAI：Alignment 研究博客（RSS）"
 "original_url": "https://alignment.openai.com/validating-public-evals"
-"canonical_url": "https://aihot.virxact.com/items/cmqh269tl004esle1vztceb34"
+"canonical_url": "https://aihot.news/items/cmqh269tl004esle1vztceb34"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI利用WildChat公开数据集（2023年4月至2024年5月收集的100万�
 
 - **来源**: OpenAI：Alignment 研究博客（RSS）
 - **原文链接**: [https://alignment.openai.com/validating-public-evals](https://alignment.openai.com/validating-public-evals)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqh269tl004esle1vztceb34](https://aihot.virxact.com/items/cmqh269tl004esle1vztceb34)
+- **AIHOT 链接**: [https://aihot.news/items/cmqh269tl004esle1vztceb34](https://aihot.news/items/cmqh269tl004esle1vztceb34)

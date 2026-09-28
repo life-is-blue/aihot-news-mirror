@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-23T22:31:19.195Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-voice-think-fast-1"
-"canonical_url": "https://aihot.virxact.com/items/cmoc236s8012qslsj7ujcduy7"
+"canonical_url": "https://aihot.news/items/cmoc236s8012qslsj7ujcduy7"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI发布旗舰语音模型Grok Voice Think Fast 1.0，专为客服、销售等�
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-voice-think-fast-1](https://x.ai/news/grok-voice-think-fast-1)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoc236s8012qslsj7ujcduy7](https://aihot.virxact.com/items/cmoc236s8012qslsj7ujcduy7)
+- **AIHOT 链接**: [https://aihot.news/items/cmoc236s8012qslsj7ujcduy7](https://aihot.news/items/cmoc236s8012qslsj7ujcduy7)

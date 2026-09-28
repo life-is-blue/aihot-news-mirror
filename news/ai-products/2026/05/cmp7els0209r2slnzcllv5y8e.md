@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-15T21:02:29.551Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-hermes"
-"canonical_url": "https://aihot.virxact.com/items/cmp7els0209r2slnzcllv5y8e"
+"canonical_url": "https://aihot.news/items/cmp7els0209r2slnzcllv5y8e"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI宣布，用户现可将Grok订阅账户接入Nous Research的开源自改进
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-hermes](https://x.ai/news/grok-hermes)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp7els0209r2slnzcllv5y8e](https://aihot.virxact.com/items/cmp7els0209r2slnzcllv5y8e)
+- **AIHOT 链接**: [https://aihot.news/items/cmp7els0209r2slnzcllv5y8e](https://aihot.news/items/cmp7els0209r2slnzcllv5y8e)

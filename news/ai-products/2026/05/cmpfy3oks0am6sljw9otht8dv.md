@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-21T20:30:38.457Z"
 "source_name": "Simon Willison 博客"
 "original_url": "https://simonwillison.net/2026/May/21/datasette-agent"
-"canonical_url": "https://aihot.virxact.com/items/cmpfy3oks0am6sljw9otht8dv"
+"canonical_url": "https://aihot.news/items/cmpfy3oks0am6sljw9otht8dv"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Datasette Agent是Datasette推出的首个可扩展AI助手，为用户提供对
 
 - **来源**: Simon Willison 博客
 - **原文链接**: [https://simonwillison.net/2026/May/21/datasette-agent](https://simonwillison.net/2026/May/21/datasette-agent)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpfy3oks0am6sljw9otht8dv](https://aihot.virxact.com/items/cmpfy3oks0am6sljw9otht8dv)
+- **AIHOT 链接**: [https://aihot.news/items/cmpfy3oks0am6sljw9otht8dv](https://aihot.news/items/cmpfy3oks0am6sljw9otht8dv)

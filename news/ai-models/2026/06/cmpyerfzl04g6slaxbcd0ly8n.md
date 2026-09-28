@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-03T18:36:51.727Z"
 "source_name": "X：Demis Hassabis (@demishassabis)"
 "original_url": "https://x.com/demishassabis/status/2062241713398149524"
-"canonical_url": "https://aihot.virxact.com/items/cmpyerfzl04g6slaxbcd0ly8n"
+"canonical_url": "https://aihot.news/items/cmpyerfzl04g6slaxbcd0ly8n"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Demis Hassabis 宣布 Gemma 4 系列下载量突破 1.5 亿，并正式发布新
 
 - **来源**: X：Demis Hassabis (@demishassabis)
 - **原文链接**: [https://x.com/demishassabis/status/2062241713398149524](https://x.com/demishassabis/status/2062241713398149524)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpyerfzl04g6slaxbcd0ly8n](https://aihot.virxact.com/items/cmpyerfzl04g6slaxbcd0ly8n)
+- **AIHOT 链接**: [https://aihot.news/items/cmpyerfzl04g6slaxbcd0ly8n](https://aihot.news/items/cmpyerfzl04g6slaxbcd0ly8n)

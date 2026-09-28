@@ -7,7 +7,7 @@
 "source_name": "MarkTechPost（RSS）"
 "original_url": "https://www.marktechpost.com/2026/06/24/baidu-releases-unlimit\
   ed-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing"
-"canonical_url": "https://aihot.virxact.com/items/cmqt3kfx30024sl0ev7aty5q7"
+"canonical_url": "https://aihot.news/items/cmqt3kfx30024sl0ev7aty5q7"
 "score": 73
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing](https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqt3kfx30024sl0ev7aty5q7](https://aihot.virxact.com/items/cmqt3kfx30024sl0ev7aty5q7)
+- **AIHOT 链接**: [https://aihot.news/items/cmqt3kfx30024sl0ev7aty5q7](https://aihot.news/items/cmqt3kfx30024sl0ev7aty5q7)

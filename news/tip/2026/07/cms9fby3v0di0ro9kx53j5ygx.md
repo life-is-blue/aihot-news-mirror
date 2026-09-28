@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-31T20:57:41.296Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://tailscale.com/blog/hugging-face-intrusion"
-"canonical_url": "https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx"
+"canonical_url": "https://aihot.news/items/cms9fby3v0di0ro9kx53j5ygx"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://tailscale.com/blog/hugging-face-intrusion](https://tailscale.com/blog/hugging-face-intrusion)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx](https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx)
+- **AIHOT 链接**: [https://aihot.news/items/cms9fby3v0di0ro9kx53j5ygx](https://aihot.news/items/cms9fby3v0di0ro9kx53j5ygx)

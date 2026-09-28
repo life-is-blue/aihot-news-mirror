@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://dreadnode.io/research/every-model-cheats-prompt-level-\
   mitigation-of-cheating-on-offensive-cyber-tasks"
-"canonical_url": "https://aihot.virxact.com/items/cmt2ry1sl04ywro6t5znttdrs"
+"canonical_url": "https://aihot.news/items/cmt2ry1sl04ywro6t5znttdrs"
 "score": 75
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks](https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt2ry1sl04ywro6t5znttdrs](https://aihot.virxact.com/items/cmt2ry1sl04ywro6t5znttdrs)
+- **AIHOT 链接**: [https://aihot.news/items/cmt2ry1sl04ywro6t5znttdrs](https://aihot.news/items/cmt2ry1sl04ywro6t5znttdrs)

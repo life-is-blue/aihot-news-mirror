@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-11T16:55:24.803Z"
 "source_name": "X：Sam Altman (@sama)"
 "original_url": "https://x.com/sama/status/2075985056846451123"
-"canonical_url": "https://aihot.virxact.com/items/cmrglvcki024uih2edvsk7pef"
+"canonical_url": "https://aihot.news/items/cmrglvcki024uih2edvsk7pef"
 "score": 68
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 发布 GPT-5.6 系列在医疗领域的评估结果。最小变体 GPT-5.
 
 - **来源**: X：Sam Altman (@sama)
 - **原文链接**: [https://x.com/sama/status/2075985056846451123](https://x.com/sama/status/2075985056846451123)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrglvcki024uih2edvsk7pef](https://aihot.virxact.com/items/cmrglvcki024uih2edvsk7pef)
+- **AIHOT 链接**: [https://aihot.news/items/cmrglvcki024uih2edvsk7pef](https://aihot.news/items/cmrglvcki024uih2edvsk7pef)

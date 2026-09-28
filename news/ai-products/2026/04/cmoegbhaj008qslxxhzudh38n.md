@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-09T00:00:00.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/multimodal-sentence-transformers"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhaj008qslxxhzudh38n"
+"canonical_url": "https://aihot.news/items/cmoegbhaj008qslxxhzudh38n"
 "score": 81
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Sentence Transformers 开源社区发布了支持多模态的嵌入与重排序�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/multimodal-sentence-transformers](https://huggingface.co/blog/multimodal-sentence-transformers)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhaj008qslxxhzudh38n](https://aihot.virxact.com/items/cmoegbhaj008qslxxhzudh38n)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhaj008qslxxhzudh38n](https://aihot.news/items/cmoegbhaj008qslxxhzudh38n)

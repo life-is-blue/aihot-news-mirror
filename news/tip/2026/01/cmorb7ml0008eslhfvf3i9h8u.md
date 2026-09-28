@@ -6,7 +6,7 @@
 "discovered_at": "2026-01-08T16:00:00.000Z"
 "source_name": "Anthropic：Engineering（事故复盘 + 工程实践 · 网页）"
 "original_url": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents"
-"canonical_url": "https://aihot.virxact.com/items/cmorb7ml0008eslhfvf3i9h8u"
+"canonical_url": "https://aihot.news/items/cmorb7ml0008eslhfvf3i9h8u"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Anthropic：Engineering（事故复盘 + 工程实践 · 网页）
 - **原文链接**: [https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmorb7ml0008eslhfvf3i9h8u](https://aihot.virxact.com/items/cmorb7ml0008eslhfvf3i9h8u)
+- **AIHOT 链接**: [https://aihot.news/items/cmorb7ml0008eslhfvf3i9h8u](https://aihot.news/items/cmorb7ml0008eslhfvf3i9h8u)

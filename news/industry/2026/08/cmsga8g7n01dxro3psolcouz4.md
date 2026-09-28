@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-05T16:09:23.683Z"
 "source_name": "X：Demis Hassabis (@demishassabis)"
 "original_url": "https://x.com/demishassabis/status/2085034334914769203"
-"canonical_url": "https://aihot.virxact.com/items/cmsga8g7n01dxro3psolcouz4"
+"canonical_url": "https://aihot.news/items/cmsga8g7n01dxro3psolcouz4"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Demis Hassabis 宣布卸任 Google DeepMind CEO，转任主席兼 Alphabet 首�
 
 - **来源**: X：Demis Hassabis (@demishassabis)
 - **原文链接**: [https://x.com/demishassabis/status/2085034334914769203](https://x.com/demishassabis/status/2085034334914769203)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsga8g7n01dxro3psolcouz4](https://aihot.virxact.com/items/cmsga8g7n01dxro3psolcouz4)
+- **AIHOT 链接**: [https://aihot.news/items/cmsga8g7n01dxro3psolcouz4](https://aihot.news/items/cmsga8g7n01dxro3psolcouz4)

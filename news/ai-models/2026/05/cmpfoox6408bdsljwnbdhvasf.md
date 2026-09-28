@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-21T16:07:10.330Z"
 "source_name": "美团 LongCat：HuggingFace 新模型"
 "original_url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5"
-"canonical_url": "https://aihot.virxact.com/items/cmpfoox6408bdsljwnbdhvasf"
+"canonical_url": "https://aihot.news/items/cmpfoox6408bdsljwnbdhvasf"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: 美团 LongCat：HuggingFace 新模型
 - **原文链接**: [https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5](https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpfoox6408bdsljwnbdhvasf](https://aihot.virxact.com/items/cmpfoox6408bdsljwnbdhvasf)
+- **AIHOT 链接**: [https://aihot.news/items/cmpfoox6408bdsljwnbdhvasf](https://aihot.news/items/cmpfoox6408bdsljwnbdhvasf)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-01T18:41:04.874Z"
 "source_name": "X：Google AI for Developers (@googleaidevs)"
 "original_url": "https://x.com/googleaidevs/status/2061515177166844317"
-"canonical_url": "https://aihot.virxact.com/items/cmpvk16me000kslfppbs3wx8f"
+"canonical_url": "https://aihot.news/items/cmpvk16me000kslfppbs3wx8f"
 "score": 68
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：Google AI for Developers (@googleaidevs)
 - **原文链接**: [https://x.com/googleaidevs/status/2061515177166844317](https://x.com/googleaidevs/status/2061515177166844317)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpvk16me000kslfppbs3wx8f](https://aihot.virxact.com/items/cmpvk16me000kslfppbs3wx8f)
+- **AIHOT 链接**: [https://aihot.news/items/cmpvk16me000kslfppbs3wx8f](https://aihot.news/items/cmpvk16me000kslfppbs3wx8f)

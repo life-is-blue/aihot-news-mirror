@@ -7,7 +7,7 @@
 "source_name": "公众号：数字生命卡兹克"
 "original_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647\
   685772&idx=1&sn=a073c30899a7f420147673def8209609"
-"canonical_url": "https://aihot.virxact.com/items/cmtjjt7360180roe43ggo0t09"
+"canonical_url": "https://aihot.news/items/cmtjjt7360180roe43ggo0t09"
 "score": 65
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ UU远程于9月2日上线新版本，重点优化终端功能，补齐 TUI 渲�
 
 - **来源**: 公众号：数字生命卡兹克
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685772&idx=1&sn=a073c30899a7f420147673def8209609](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685772&idx=1&sn=a073c30899a7f420147673def8209609)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtjjt7360180roe43ggo0t09](https://aihot.virxact.com/items/cmtjjt7360180roe43ggo0t09)
+- **AIHOT 链接**: [https://aihot.news/items/cmtjjt7360180roe43ggo0t09](https://aihot.news/items/cmtjjt7360180roe43ggo0t09)

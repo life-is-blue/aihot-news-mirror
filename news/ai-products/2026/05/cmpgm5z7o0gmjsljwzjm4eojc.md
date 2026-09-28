@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-22T07:44:16.558Z"
 "source_name": "X：Elon Musk (@elonmusk, xAI)"
 "original_url": "https://x.com/elonmusk/status/2057726307346039282"
-"canonical_url": "https://aihot.virxact.com/items/cmpgm5z7o0gmjsljwzjm4eojc"
+"canonical_url": "https://aihot.news/items/cmpgm5z7o0gmjsljwzjm4eojc"
 "score": 73
 "content_kind": "news"
 ---
@@ -29,4 +29,4 @@ Grok Imagine Agent Mode 现已在 Grok iOS 应用上推出。
 
 - **来源**: X：Elon Musk (@elonmusk, xAI)
 - **原文链接**: [https://x.com/elonmusk/status/2057726307346039282](https://x.com/elonmusk/status/2057726307346039282)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpgm5z7o0gmjsljwzjm4eojc](https://aihot.virxact.com/items/cmpgm5z7o0gmjsljwzjm4eojc)
+- **AIHOT 链接**: [https://aihot.news/items/cmpgm5z7o0gmjsljwzjm4eojc](https://aihot.news/items/cmpgm5z7o0gmjsljwzjm4eojc)

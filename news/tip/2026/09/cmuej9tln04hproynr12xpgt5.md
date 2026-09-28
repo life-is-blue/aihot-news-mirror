@@ -7,7 +7,7 @@
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://tomtunguz.com/the-most-important-market-in-ai-is-the-middle"
 "canonical_url": "https://aihot.news/items/cmuej9tln04hproynr12xpgt5"
-"score": 71
+"score": 72
 "content_kind": "news"
 ---
 

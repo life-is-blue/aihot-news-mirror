@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-06T01:07:55.274Z"
 "source_name": "Claude Code：GitHub Releases（RSS）"
 "original_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.166"
-"canonical_url": "https://aihot.virxact.com/items/cmq1nm1dn0hfdsltrrkyflhsr"
+"canonical_url": "https://aihot.news/items/cmq1nm1dn0hfdsltrrkyflhsr"
 "score": 64
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Code v2.1.166 新增 fallbackModel 设置，最多配置三个后备模�
 
 - **来源**: Claude Code：GitHub Releases（RSS）
 - **原文链接**: [https://github.com/anthropics/claude-code/releases/tag/v2.1.166](https://github.com/anthropics/claude-code/releases/tag/v2.1.166)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq1nm1dn0hfdsltrrkyflhsr](https://aihot.virxact.com/items/cmq1nm1dn0hfdsltrrkyflhsr)
+- **AIHOT 链接**: [https://aihot.news/items/cmq1nm1dn0hfdsltrrkyflhsr](https://aihot.news/items/cmq1nm1dn0hfdsltrrkyflhsr)

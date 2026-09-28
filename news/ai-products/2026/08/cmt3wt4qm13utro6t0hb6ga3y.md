@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-22T05:00:00.912Z"
 "source_name": "X：蚂蚁百灵 (@AntLingAGI)"
 "original_url": "https://x.com/AntLingAGI/status/2091021795373855124"
-"canonical_url": "https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y"
+"canonical_url": "https://aihot.news/items/cmt3wt4qm13utro6t0hb6ga3y"
 "score": 53
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：蚂蚁百灵 (@AntLingAGI)
 - **原文链接**: [https://x.com/AntLingAGI/status/2091021795373855124](https://x.com/AntLingAGI/status/2091021795373855124)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y](https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y)
+- **AIHOT 链接**: [https://aihot.news/items/cmt3wt4qm13utro6t0hb6ga3y](https://aihot.news/items/cmt3wt4qm13utro6t0hb6ga3y)

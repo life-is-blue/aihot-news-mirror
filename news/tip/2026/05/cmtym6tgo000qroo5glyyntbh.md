@@ -8,7 +8,7 @@
 "original_url": "https://www.promptarmor.com/resources/what-is-the-risk-of-each\
   -microsoft-copilot"
 "canonical_url": "https://aihot.news/items/cmtym6tgo000qroo5glyyntbh"
-"score": 62
+"score": 63
 "content_kind": "news"
 ---
 

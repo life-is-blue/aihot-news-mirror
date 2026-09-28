@@ -7,8 +7,8 @@
 "source_name": "GitHub Blog"
 "original_url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-co\
   ding-more-cost-efficient-without-sacrificing-task-quality"
-"canonical_url": "https://aihot.virxact.com/items/cmtkfkfvl03garobqyr0vwpth"
-"score": 61
+"canonical_url": "https://aihot.news/items/cmtkfkfvl03garobqyr0vwpth"
+"score": 62
 "content_kind": "news"
 ---
 
@@ -18,4 +18,4 @@ GitHub 工程师 Erik Kristensen 分享了 Copilot 降本的四项改动：选�
 
 - **来源**: GitHub Blog
 - **原文链接**: [https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality](https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtkfkfvl03garobqyr0vwpth](https://aihot.virxact.com/items/cmtkfkfvl03garobqyr0vwpth)
+- **AIHOT 链接**: [https://aihot.news/items/cmtkfkfvl03garobqyr0vwpth](https://aihot.news/items/cmtkfkfvl03garobqyr0vwpth)

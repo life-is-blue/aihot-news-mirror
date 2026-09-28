@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-23T09:25:08.000Z"
 "source_name": "Google AI：DEV 作者专属（RSS）"
 "original_url": "https://dev.to/googleai/gemini-36-flash-35-flash-lite-developer-guide-268i"
-"canonical_url": "https://aihot.virxact.com/items/cms3dqexi0avdro3fs65mhx7g"
+"canonical_url": "https://aihot.news/items/cms3dqexi0avdro3fs65mhx7g"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google 发布 Gemini 3.6 Flash 和 Gemini 3.5 Flash-Lite 正式版。3.6 Flash �
 
 - **来源**: Google AI：DEV 作者专属（RSS）
 - **原文链接**: [https://dev.to/googleai/gemini-36-flash-35-flash-lite-developer-guide-268i](https://dev.to/googleai/gemini-36-flash-35-flash-lite-developer-guide-268i)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3dqexi0avdro3fs65mhx7g](https://aihot.virxact.com/items/cms3dqexi0avdro3fs65mhx7g)
+- **AIHOT 链接**: [https://aihot.news/items/cms3dqexi0avdro3fs65mhx7g](https://aihot.news/items/cms3dqexi0avdro3fs65mhx7g)

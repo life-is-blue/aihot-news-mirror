@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-18T19:05:39.262Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm"
-"canonical_url": "https://aihot.virxact.com/items/cmsz1974l06hbro20gosn5d78"
+"canonical_url": "https://aihot.news/items/cmsz1974l06hbro20gosn5d78"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/ibm-research/altk-evolve-hmm](https://huggingface.co/blog/ibm-research/altk-evolve-hmm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsz1974l06hbro20gosn5d78](https://aihot.virxact.com/items/cmsz1974l06hbro20gosn5d78)
+- **AIHOT 链接**: [https://aihot.news/items/cmsz1974l06hbro20gosn5d78](https://aihot.news/items/cmsz1974l06hbro20gosn5d78)

@@ -6,8 +6,8 @@
 "discovered_at": "2026-09-02T19:15:00.970Z"
 "source_name": "X：Claude (@claudeai)"
 "original_url": "https://x.com/claudeai/status/2095226833293685100"
-"canonical_url": "https://aihot.virxact.com/items/cmtkh71ky017vrolly7trswyx"
-"score": 71
+"canonical_url": "https://aihot.news/items/cmtkh71ky017vrolly7trswyx"
+"score": 72
 "content_kind": "news"
 ---
 
@@ -17,4 +17,4 @@ Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能
 
 - **来源**: X：Claude (@claudeai)
 - **原文链接**: [https://x.com/claudeai/status/2095226833293685100](https://x.com/claudeai/status/2095226833293685100)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtkh71ky017vrolly7trswyx](https://aihot.virxact.com/items/cmtkh71ky017vrolly7trswyx)
+- **AIHOT 链接**: [https://aihot.news/items/cmtkh71ky017vrolly7trswyx](https://aihot.news/items/cmtkh71ky017vrolly7trswyx)

@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plan\
   s-to-invest-up-to-40-billion-in-anthropic"
-"canonical_url": "https://aihot.virxact.com/items/cmodhwnrm0051sludd4rhisog"
+"canonical_url": "https://aihot.news/items/cmodhwnrm0051sludd4rhisog"
 "score": 71
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmodhwnrm0051sludd4rhisog](https://aihot.virxact.com/items/cmodhwnrm0051sludd4rhisog)
+- **AIHOT 链接**: [https://aihot.news/items/cmodhwnrm0051sludd4rhisog](https://aihot.news/items/cmodhwnrm0051sludd4rhisog)

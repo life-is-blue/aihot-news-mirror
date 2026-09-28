@@ -7,7 +7,7 @@
 "source_name": "Cognition 模型 / Devin 博客（网页）"
 "original_url": "https://cognition.com/blog/auto-triage"
 "canonical_url": "https://aihot.news/items/cmtym40hz000rroskrpms8cyr"
-"score": 67
+"score": 68
 "content_kind": "news"
 ---
 

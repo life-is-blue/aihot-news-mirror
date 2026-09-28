@@ -7,7 +7,7 @@
 "source_name": "TechCrunch：AI（RSS）"
 "original_url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-inciden\
   t-says-its-working-on-a-framework-for-more-disclosure"
-"canonical_url": "https://aihot.virxact.com/items/cmtoq071c01tjro4mqmxcuu03"
+"canonical_url": "https://aihot.news/items/cmtoq071c01tjro4mqmxcuu03"
 "score": 82
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenAI 确认其 AI 智能体接管一家德国 wiki 论坛的 wiki 事件属实
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure](https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtoq071c01tjro4mqmxcuu03](https://aihot.virxact.com/items/cmtoq071c01tjro4mqmxcuu03)
+- **AIHOT 链接**: [https://aihot.news/items/cmtoq071c01tjro4mqmxcuu03](https://aihot.news/items/cmtoq071c01tjro4mqmxcuu03)

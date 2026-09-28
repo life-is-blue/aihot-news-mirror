@@ -8,7 +8,7 @@
 "original_url": "https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90\
   %E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8\
   F%E5%8F%91%E5%B8%83"
-"canonical_url": "https://aihot.virxact.com/items/cms8f7n9q0bezrot06im88lqu"
+"canonical_url": "https://aihot.news/items/cms8f7n9q0bezrot06im88lqu"
 "score": 80
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@
 
 - **来源**: 字节 Seed：Research Feed（网页内嵌数据）
 - **原文链接**: [https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83](https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms8f7n9q0bezrot06im88lqu](https://aihot.virxact.com/items/cms8f7n9q0bezrot06im88lqu)
+- **AIHOT 链接**: [https://aihot.news/items/cms8f7n9q0bezrot06im88lqu](https://aihot.news/items/cms8f7n9q0bezrot06im88lqu)

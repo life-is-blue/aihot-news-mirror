@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-21T05:21:16.823Z"
 "source_name": "X：Elon Musk (@elonmusk, xAI)"
 "original_url": "https://x.com/elonmusk/status/2057327547411570907"
-"canonical_url": "https://aihot.virxact.com/items/cmpf1mbr302nqsljwc31l12yf"
+"canonical_url": "https://aihot.news/items/cmpf1mbr302nqsljwc31l12yf"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ SpaceX正在为SpaceXAI积极招聘世界级工程师/物理学家，即使你�
 
 - **来源**: X：Elon Musk (@elonmusk, xAI)
 - **原文链接**: [https://x.com/elonmusk/status/2057327547411570907](https://x.com/elonmusk/status/2057327547411570907)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpf1mbr302nqsljwc31l12yf](https://aihot.virxact.com/items/cmpf1mbr302nqsljwc31l12yf)
+- **AIHOT 链接**: [https://aihot.news/items/cmpf1mbr302nqsljwc31l12yf](https://aihot.news/items/cmpf1mbr302nqsljwc31l12yf)

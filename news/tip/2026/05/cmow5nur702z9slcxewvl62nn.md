@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-08T00:06:49.031Z"
 "source_name": "X：Rohan Paul (@rohanpaul_ai)"
 "original_url": "https://x.com/rohanpaul_ai/status/2052533657525698802"
-"canonical_url": "https://aihot.virxact.com/items/cmow5nur702z9slcxewvl62nn"
+"canonical_url": "https://aihot.news/items/cmow5nur702z9slcxewvl62nn"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ atomic.chat通过为LLaMA.cpp引入多令牌预测技术，大幅提升了本地
 
 - **来源**: X：Rohan Paul (@rohanpaul_ai)
 - **原文链接**: [https://x.com/rohanpaul_ai/status/2052533657525698802](https://x.com/rohanpaul_ai/status/2052533657525698802)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmow5nur702z9slcxewvl62nn](https://aihot.virxact.com/items/cmow5nur702z9slcxewvl62nn)
+- **AIHOT 链接**: [https://aihot.news/items/cmow5nur702z9slcxewvl62nn](https://aihot.news/items/cmow5nur702z9slcxewvl62nn)

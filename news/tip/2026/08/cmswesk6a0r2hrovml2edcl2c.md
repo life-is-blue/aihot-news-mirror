@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-16T23:01:19.206Z"
 "source_name": "Simon Willison 博客"
 "original_url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b"
-"canonical_url": "https://aihot.virxact.com/items/cmswesk6a0r2hrovml2edcl2c"
+"canonical_url": "https://aihot.news/items/cmswesk6a0r2hrovml2edcl2c"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Simon Willison 博客
 - **原文链接**: [https://simonwillison.net/2026/Aug/16/qwen-38-27b](https://simonwillison.net/2026/Aug/16/qwen-38-27b)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmswesk6a0r2hrovml2edcl2c](https://aihot.virxact.com/items/cmswesk6a0r2hrovml2edcl2c)
+- **AIHOT 链接**: [https://aihot.news/items/cmswesk6a0r2hrovml2edcl2c](https://aihot.news/items/cmswesk6a0r2hrovml2edcl2c)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-23T00:00:00.000Z"
 "source_name": "蚂蚁百灵：Developer Blog（网页）"
 "original_url": "https://developer.ant-ling.com/zh-CN/blogs/ling-2.6-flash-release"
-"canonical_url": "https://aihot.virxact.com/items/cmoecv1p6003psl19avg9nn7a"
+"canonical_url": "https://aihot.news/items/cmoecv1p6003psl19avg9nn7a"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: 蚂蚁百灵：Developer Blog（网页）
 - **原文链接**: [https://developer.ant-ling.com/zh-CN/blogs/ling-2.6-flash-release](https://developer.ant-ling.com/zh-CN/blogs/ling-2.6-flash-release)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoecv1p6003psl19avg9nn7a](https://aihot.virxact.com/items/cmoecv1p6003psl19avg9nn7a)
+- **AIHOT 链接**: [https://aihot.news/items/cmoecv1p6003psl19avg9nn7a](https://aihot.news/items/cmoecv1p6003psl19avg9nn7a)

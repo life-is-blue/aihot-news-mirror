@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.sanders.senate.gov/op-eds/the-public-should-own-ha\
   lf-of-the-big-a-i-companies"
-"canonical_url": "https://aihot.virxact.com/items/cmpyet96704h6slax053xht9f"
+"canonical_url": "https://aihot.news/items/cmpyet96704h6slax053xht9f"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.sanders.senate.gov/op-eds/the-public-should-own-half-of-the-big-a-i-companies](https://www.sanders.senate.gov/op-eds/the-public-should-own-half-of-the-big-a-i-companies)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpyet96704h6slax053xht9f](https://aihot.virxact.com/items/cmpyet96704h6slax053xht9f)
+- **AIHOT 链接**: [https://aihot.news/items/cmpyet96704h6slax053xht9f](https://aihot.news/items/cmpyet96704h6slax053xht9f)

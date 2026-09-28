@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-06T14:36:22.301Z"
 "source_name": "X：商汤 SenseTime (@SenseTime_AI)"
 "original_url": "https://x.com/SenseTime_AI/status/2052033518121955818"
-"canonical_url": "https://aihot.virxact.com/items/cmou5uboa00l4slndg69l7v7x"
+"canonical_url": "https://aihot.news/items/cmou5uboa00l4slndg69l7v7x"
 "score": 71
 "content_kind": "news"
 ---
@@ -24,4 +24,4 @@ https://github.com/OpenSenseNova/SenseNova-U1/
 
 - **来源**: X：商汤 SenseTime (@SenseTime_AI)
 - **原文链接**: [https://x.com/SenseTime_AI/status/2052033518121955818](https://x.com/SenseTime_AI/status/2052033518121955818)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmou5uboa00l4slndg69l7v7x](https://aihot.virxact.com/items/cmou5uboa00l4slndg69l7v7x)
+- **AIHOT 链接**: [https://aihot.news/items/cmou5uboa00l4slndg69l7v7x](https://aihot.news/items/cmou5uboa00l4slndg69l7v7x)

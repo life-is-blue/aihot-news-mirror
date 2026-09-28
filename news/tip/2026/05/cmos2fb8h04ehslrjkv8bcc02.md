@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-05T03:25:10.711Z"
 "source_name": "X：OpenRouter (@OpenRouter)"
 "original_url": "https://x.com/OpenRouter/status/2051500175554654467"
-"canonical_url": "https://aihot.virxact.com/items/cmos2fb8h04ehslrjkv8bcc02"
+"canonical_url": "https://aihot.news/items/cmos2fb8h04ehslrjkv8bcc02"
 "score": 65
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ GPT 5.5价格翻倍的影响因模型生成长提示时补全令牌减少了19-3
 
 - **来源**: X：OpenRouter (@OpenRouter)
 - **原文链接**: [https://x.com/OpenRouter/status/2051500175554654467](https://x.com/OpenRouter/status/2051500175554654467)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmos2fb8h04ehslrjkv8bcc02](https://aihot.virxact.com/items/cmos2fb8h04ehslrjkv8bcc02)
+- **AIHOT 链接**: [https://aihot.news/items/cmos2fb8h04ehslrjkv8bcc02](https://aihot.news/items/cmos2fb8h04ehslrjkv8bcc02)

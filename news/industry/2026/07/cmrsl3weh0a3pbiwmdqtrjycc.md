@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-20T02:07:10.363Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://ollama.com/blog/all-aboard-open-models"
-"canonical_url": "https://aihot.virxact.com/items/cmrsl3weh0a3pbiwmdqtrjycc"
+"canonical_url": "https://aihot.news/items/cmrsl3weh0a3pbiwmdqtrjycc"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Ollama 宣布完成 8800 万美元融资，由 Benchmark、Theory Ventures 和 8
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://ollama.com/blog/all-aboard-open-models](https://ollama.com/blog/all-aboard-open-models)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrsl3weh0a3pbiwmdqtrjycc](https://aihot.virxact.com/items/cmrsl3weh0a3pbiwmdqtrjycc)
+- **AIHOT 链接**: [https://aihot.news/items/cmrsl3weh0a3pbiwmdqtrjycc](https://aihot.news/items/cmrsl3weh0a3pbiwmdqtrjycc)

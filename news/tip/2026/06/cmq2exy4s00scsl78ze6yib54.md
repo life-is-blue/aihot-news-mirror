@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-\
   livingroom-is-a-node-in-the-aiscraping-economy"
-"canonical_url": "https://aihot.virxact.com/items/cmq2exy4s00scsl78ze6yib54"
+"canonical_url": "https://aihot.news/items/cmq2exy4s00scsl78ze6yib54"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq2exy4s00scsl78ze6yib54](https://aihot.virxact.com/items/cmq2exy4s00scsl78ze6yib54)
+- **AIHOT 链接**: [https://aihot.news/items/cmq2exy4s00scsl78ze6yib54](https://aihot.news/items/cmq2exy4s00scsl78ze6yib54)

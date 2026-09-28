@@ -7,7 +7,7 @@
 "source_name": "Google Blog：AI（RSS）"
 "original_url": "https://blog.google/innovation-and-ai/models-and-research/gemi\
   ni-models/gemini-omni-3-5-videos"
-"canonical_url": "https://aihot.virxact.com/items/cmpr7hl690bkbslnof45smmd0"
+"canonical_url": "https://aihot.news/items/cmpr7hl690bkbslnof45smmd0"
 "score": 74
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google 在 2026 年 Google I/O 大会上发布了新一代多模态模型 Gemini
 
 - **来源**: Google Blog：AI（RSS）
 - **原文链接**: [https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpr7hl690bkbslnof45smmd0](https://aihot.virxact.com/items/cmpr7hl690bkbslnof45smmd0)
+- **AIHOT 链接**: [https://aihot.news/items/cmpr7hl690bkbslnof45smmd0](https://aihot.news/items/cmpr7hl690bkbslnof45smmd0)

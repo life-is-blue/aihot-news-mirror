@@ -6,7 +6,7 @@
 "discovered_at": "2025-05-22T11:00:44.000Z"
 "source_name": "Ethan Mollick：One Useful Thing（RSS）"
 "original_url": "https://www.oneusefulthing.org/p/making-ai-work-leadership-lab-and"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsvctg003nsltep0luc8ph"
+"canonical_url": "https://aihot.news/items/cmnwsvctg003nsltep0luc8ph"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Ethan Mollick：One Useful Thing（RSS）
 - **原文链接**: [https://www.oneusefulthing.org/p/making-ai-work-leadership-lab-and](https://www.oneusefulthing.org/p/making-ai-work-leadership-lab-and)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsvctg003nsltep0luc8ph](https://aihot.virxact.com/items/cmnwsvctg003nsltep0luc8ph)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsvctg003nsltep0luc8ph](https://aihot.news/items/cmnwsvctg003nsltep0luc8ph)

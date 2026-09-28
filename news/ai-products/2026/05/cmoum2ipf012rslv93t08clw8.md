@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-01T18:00:00.000Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/announcements/announcing-audio-apis"
-"canonical_url": "https://aihot.virxact.com/items/cmoum2ipf012rslv93t08clw8"
+"canonical_url": "https://aihot.news/items/cmoum2ipf012rslv93t08clw8"
 "score": 63
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter 正式上线文本转语音和音频转录功能。平台通过两个
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/announcements/announcing-audio-apis](https://openrouter.ai/announcements/announcing-audio-apis)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoum2ipf012rslv93t08clw8](https://aihot.virxact.com/items/cmoum2ipf012rslv93t08clw8)
+- **AIHOT 链接**: [https://aihot.news/items/cmoum2ipf012rslv93t08clw8](https://aihot.news/items/cmoum2ipf012rslv93t08clw8)

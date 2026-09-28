@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-01T20:35:37.098Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://www.tomtunguz.com/ai-execution-routing"
-"canonical_url": "https://aihot.virxact.com/items/cmr2jc03c08kssl8zf2bmdjlj"
+"canonical_url": "https://aihot.news/items/cmr2jc03c08kssl8zf2bmdjlj"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://www.tomtunguz.com/ai-execution-routing](https://www.tomtunguz.com/ai-execution-routing)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr2jc03c08kssl8zf2bmdjlj](https://aihot.virxact.com/items/cmr2jc03c08kssl8zf2bmdjlj)
+- **AIHOT 链接**: [https://aihot.news/items/cmr2jc03c08kssl8zf2bmdjlj](https://aihot.news/items/cmr2jc03c08kssl8zf2bmdjlj)

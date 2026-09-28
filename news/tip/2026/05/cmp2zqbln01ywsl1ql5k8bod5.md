@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-12T18:54:46.908Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/how-anthropic-uses-claude-cybersecurity"
-"canonical_url": "https://aihot.virxact.com/items/cmp2zqbln01ywsl1ql5k8bod5"
+"canonical_url": "https://aihot.news/items/cmp2zqbln01ywsl1ql5k8bod5"
 "score": 58
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 检测平台工程团队技术负责人 Jackie Bow 运用 Claude Code 
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/how-anthropic-uses-claude-cybersecurity](https://claude.com/blog/how-anthropic-uses-claude-cybersecurity)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp2zqbln01ywsl1ql5k8bod5](https://aihot.virxact.com/items/cmp2zqbln01ywsl1ql5k8bod5)
+- **AIHOT 链接**: [https://aihot.news/items/cmp2zqbln01ywsl1ql5k8bod5](https://aihot.news/items/cmp2zqbln01ywsl1ql5k8bod5)

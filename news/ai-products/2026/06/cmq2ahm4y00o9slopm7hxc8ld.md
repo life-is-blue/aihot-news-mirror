@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-06T11:48:20.182Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/build-small-hackathon/persona-atlas"
-"canonical_url": "https://aihot.virxact.com/items/cmq2ahm4y00o9slopm7hxc8ld"
+"canonical_url": "https://aihot.news/items/cmq2ahm4y00o9slopm7hxc8ld"
 "score": 58
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Persona Atlas 是一个运行在 Hugging Face Inference Providers 上的开源�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/build-small-hackathon/persona-atlas](https://huggingface.co/blog/build-small-hackathon/persona-atlas)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq2ahm4y00o9slopm7hxc8ld](https://aihot.virxact.com/items/cmq2ahm4y00o9slopm7hxc8ld)
+- **AIHOT 链接**: [https://aihot.news/items/cmq2ahm4y00o9slopm7hxc8ld](https://aihot.news/items/cmq2ahm4y00o9slopm7hxc8ld)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-13T20:42:29.064Z"
 "source_name": "Berkeley RDI：Blog（AI 安全与评测）"
 "original_url": "https://rdi.berkeley.edu/blog/exploitgym"
-"canonical_url": "https://aihot.virxact.com/items/cmp4j0582068osljxjmrn48ll"
+"canonical_url": "https://aihot.news/items/cmp4j0582068osljxjmrn48ll"
 "score": 79
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Berkeley RDI：Blog（AI 安全与评测）
 - **原文链接**: [https://rdi.berkeley.edu/blog/exploitgym](https://rdi.berkeley.edu/blog/exploitgym)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp4j0582068osljxjmrn48ll](https://aihot.virxact.com/items/cmp4j0582068osljxjmrn48ll)
+- **AIHOT 链接**: [https://aihot.news/items/cmp4j0582068osljxjmrn48ll](https://aihot.news/items/cmp4j0582068osljxjmrn48ll)

@@ -7,7 +7,7 @@
 "source_name": "Google Developers Blog（RSS）"
 "original_url": "https://developers.googleblog.com/build-a-smart-financial-assi\
   stant-with-llamaparse-and-gemini-31"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhpz00htslxx72wchomb"
+"canonical_url": "https://aihot.news/items/cmoegbhpz00htslxx72wchomb"
 "score": 71
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Google Developers Blog（RSS）
 - **原文链接**: [https://developers.googleblog.com/build-a-smart-financial-assistant-with-llamaparse-and-gemini-31](https://developers.googleblog.com/build-a-smart-financial-assistant-with-llamaparse-and-gemini-31)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhpz00htslxx72wchomb](https://aihot.virxact.com/items/cmoegbhpz00htslxx72wchomb)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhpz00htslxx72wchomb](https://aihot.news/items/cmoegbhpz00htslxx72wchomb)

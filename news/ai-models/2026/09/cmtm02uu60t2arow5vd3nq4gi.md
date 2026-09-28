@@ -6,8 +6,8 @@
 "discovered_at": "2026-09-03T20:51:25.010Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/safety-overview-gpt-6-astra"
-"canonical_url": "https://aihot.virxact.com/items/cmtm02uu60t2arow5vd3nq4gi"
-"score": 80
+"canonical_url": "https://aihot.news/items/cmtm02uu60t2arow5vd3nq4gi"
+"score": 81
 "content_kind": "news"
 ---
 
@@ -17,4 +17,4 @@ OpenAI 发布 GPT-6 Astra，称这是其部署过的最强模型，也是首个�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/safety-overview-gpt-6-astra](https://openai.com/index/safety-overview-gpt-6-astra)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtm02uu60t2arow5vd3nq4gi](https://aihot.virxact.com/items/cmtm02uu60t2arow5vd3nq4gi)
+- **AIHOT 链接**: [https://aihot.news/items/cmtm02uu60t2arow5vd3nq4gi](https://aihot.news/items/cmtm02uu60t2arow5vd3nq4gi)

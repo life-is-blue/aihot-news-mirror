@@ -7,7 +7,7 @@
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/advancing-the-price-performance-front\
   ier-with-gpt-5-6"
-"canonical_url": "https://aihot.virxact.com/items/cms7sdkx702mjropbnq4l267q"
+"canonical_url": "https://aihot.news/items/cms7sdkx702mjropbnq4l267q"
 "score": 66
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenAI 为 GPT-5.6 的 Luna 和 Terra 版本推出更低定价，以更高效的
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms7sdkx702mjropbnq4l267q](https://aihot.virxact.com/items/cms7sdkx702mjropbnq4l267q)
+- **AIHOT 链接**: [https://aihot.news/items/cms7sdkx702mjropbnq4l267q](https://aihot.news/items/cms7sdkx702mjropbnq4l267q)

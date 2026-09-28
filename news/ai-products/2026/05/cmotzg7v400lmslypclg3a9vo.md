@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-06T11:37:27.286Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/mrc-supercomputer-networking"
-"canonical_url": "https://aihot.virxact.com/items/cmotzg7v400lmslypclg3a9vo"
+"canonical_url": "https://aihot.news/items/cmotzg7v400lmslypclg3a9vo"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 发布了名为 MRC 的新型超级计算机网络协议，旨在提升�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/mrc-supercomputer-networking](https://openai.com/index/mrc-supercomputer-networking)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmotzg7v400lmslypclg3a9vo](https://aihot.virxact.com/items/cmotzg7v400lmslypclg3a9vo)
+- **AIHOT 链接**: [https://aihot.news/items/cmotzg7v400lmslypclg3a9vo](https://aihot.news/items/cmotzg7v400lmslypclg3a9vo)

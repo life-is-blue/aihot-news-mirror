@@ -7,7 +7,7 @@
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/announcements/us-in-region-routing"
 "canonical_url": "https://aihot.news/items/cmtu70vhj11u4rofpg46vvloh"
-"score": 61
+"score": 62
 "content_kind": "news"
 ---
 

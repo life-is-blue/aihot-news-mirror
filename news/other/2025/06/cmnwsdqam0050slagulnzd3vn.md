@@ -7,7 +7,7 @@
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/gemini-robotics-on-device-brings-\
   ai-to-local-robotic-devices"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsdqam0050slagulnzd3vn"
+"canonical_url": "https://aihot.news/items/cmnwsdqam0050slagulnzd3vn"
 "score": null
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Gemini Robotics On-Device 推出高效端侧机器人模型，具备通用灵巧
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices](https://deepmind.google/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsdqam0050slagulnzd3vn](https://aihot.virxact.com/items/cmnwsdqam0050slagulnzd3vn)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsdqam0050slagulnzd3vn](https://aihot.news/items/cmnwsdqam0050slagulnzd3vn)

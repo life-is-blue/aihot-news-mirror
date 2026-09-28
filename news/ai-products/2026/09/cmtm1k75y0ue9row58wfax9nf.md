@@ -6,7 +6,7 @@
 "discovered_at": "2026-09-03T21:32:36.611Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-bot-for-enterprise"
-"canonical_url": "https://aihot.virxact.com/items/cmtm1k75y0ue9row58wfax9nf"
+"canonical_url": "https://aihot.news/items/cmtm1k75y0ue9row58wfax9nf"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI 宣布 Grok Bot 面向企业开放，Grok 和 Cursor Enterprise 客户未来
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-bot-for-enterprise](https://x.ai/news/grok-bot-for-enterprise)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtm1k75y0ue9row58wfax9nf](https://aihot.virxact.com/items/cmtm1k75y0ue9row58wfax9nf)
+- **AIHOT 链接**: [https://aihot.news/items/cmtm1k75y0ue9row58wfax9nf](https://aihot.news/items/cmtm1k75y0ue9row58wfax9nf)

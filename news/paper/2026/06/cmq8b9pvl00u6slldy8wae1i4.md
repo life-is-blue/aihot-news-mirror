@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-10T16:56:49.137Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2606.10662"
-"canonical_url": "https://aihot.virxact.com/items/cmq8b9pvl00u6slldy8wae1i4"
+"canonical_url": "https://aihot.news/items/cmq8b9pvl00u6slldy8wae1i4"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ DeLM是一种去中心化多智能体系统框架，通过并行智能体、共�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2606.10662](https://arxiv.org/abs/2606.10662)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq8b9pvl00u6slldy8wae1i4](https://aihot.virxact.com/items/cmq8b9pvl00u6slldy8wae1i4)
+- **AIHOT 链接**: [https://aihot.news/items/cmq8b9pvl00u6slldy8wae1i4](https://aihot.news/items/cmq8b9pvl00u6slldy8wae1i4)

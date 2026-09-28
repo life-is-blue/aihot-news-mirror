@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-11T10:39:06.431Z"
 "source_name": "X：商汤 SenseTime (@SenseTime_AI)"
 "original_url": "https://x.com/SenseTime_AI/status/2053782644492525847"
-"canonical_url": "https://aihot.virxact.com/items/cmp12kiy60ususllh30fsxow3"
+"canonical_url": "https://aihot.news/items/cmp12kiy60ususllh30fsxow3"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ SenseNova U1图像生成模型现已在ComfyUI上可运行，并获得包括REBE
 
 - **来源**: X：商汤 SenseTime (@SenseTime_AI)
 - **原文链接**: [https://x.com/SenseTime_AI/status/2053782644492525847](https://x.com/SenseTime_AI/status/2053782644492525847)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp12kiy60ususllh30fsxow3](https://aihot.virxact.com/items/cmp12kiy60ususllh30fsxow3)
+- **AIHOT 链接**: [https://aihot.news/items/cmp12kiy60ususllh30fsxow3](https://aihot.news/items/cmp12kiy60ususllh30fsxow3)

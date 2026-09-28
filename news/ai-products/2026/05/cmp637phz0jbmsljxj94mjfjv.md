@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-14T22:56:02.855Z"
 "source_name": "Claude Code：GitHub Releases（RSS）"
 "original_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.142"
-"canonical_url": "https://aihot.virxact.com/items/cmp637phz0jbmsljxj94mjfjv"
+"canonical_url": "https://aihot.news/items/cmp637phz0jbmsljxj94mjfjv"
 "score": 63
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude 代理工具发布 v2.1.142 版本。本次更新新增了 `--add-dir`、
 
 - **来源**: Claude Code：GitHub Releases（RSS）
 - **原文链接**: [https://github.com/anthropics/claude-code/releases/tag/v2.1.142](https://github.com/anthropics/claude-code/releases/tag/v2.1.142)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp637phz0jbmsljxj94mjfjv](https://aihot.virxact.com/items/cmp637phz0jbmsljxj94mjfjv)
+- **AIHOT 链接**: [https://aihot.news/items/cmp637phz0jbmsljxj94mjfjv](https://aihot.news/items/cmp637phz0jbmsljxj94mjfjv)

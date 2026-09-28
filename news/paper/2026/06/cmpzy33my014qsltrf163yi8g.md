@@ -7,7 +7,7 @@
 "source_name": "Google Research：Blog（网页）"
 "original_url": "https://research.google/blog/towards-passive-heart-health-moni\
   toring-via-smartphone-camera"
-"canonical_url": "https://aihot.virxact.com/items/cmpzy33my014qsltrf163yi8g"
+"canonical_url": "https://aihot.news/items/cmpzy33my014qsltrf163yi8g"
 "score": 79
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google Research 开发了一种被动心率监测系统（PHRM），利用智能
 
 - **来源**: Google Research：Blog（网页）
 - **原文链接**: [https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera](https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpzy33my014qsltrf163yi8g](https://aihot.virxact.com/items/cmpzy33my014qsltrf163yi8g)
+- **AIHOT 链接**: [https://aihot.news/items/cmpzy33my014qsltrf163yi8g](https://aihot.news/items/cmpzy33my014qsltrf163yi8g)

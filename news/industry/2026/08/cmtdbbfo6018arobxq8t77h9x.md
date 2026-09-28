@@ -7,7 +7,7 @@
 "source_name": "Ars Technica：AI（RSS）"
 "original_url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting\
   -of-woke-anthropic-deemed-illegal-by-federal-judge"
-"canonical_url": "https://aihot.virxact.com/items/cmtdbbfo6018arobxq8t77h9x"
+"canonical_url": "https://aihot.news/items/cmtdbbfo6018arobxq8t77h9x"
 "score": 71
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Ars Technica：AI（RSS）
 - **原文链接**: [https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge](https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtdbbfo6018arobxq8t77h9x](https://aihot.virxact.com/items/cmtdbbfo6018arobxq8t77h9x)
+- **AIHOT 链接**: [https://aihot.news/items/cmtdbbfo6018arobxq8t77h9x](https://aihot.news/items/cmtdbbfo6018arobxq8t77h9x)

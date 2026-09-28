@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-13T19:18:19.312Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://www.tomtunguz.com/the-disappearance-of-email"
-"canonical_url": "https://aihot.virxact.com/items/cmp4fzumy05kbsljxlqrddfex"
+"canonical_url": "https://aihot.news/items/cmp4fzumy05kbsljxlqrddfex"
 "score": 59
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://www.tomtunguz.com/the-disappearance-of-email](https://www.tomtunguz.com/the-disappearance-of-email)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp4fzumy05kbsljxlqrddfex](https://aihot.virxact.com/items/cmp4fzumy05kbsljxlqrddfex)
+- **AIHOT 链接**: [https://aihot.news/items/cmp4fzumy05kbsljxlqrddfex](https://aihot.news/items/cmp4fzumy05kbsljxlqrddfex)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-04T19:54:52.549Z"
 "source_name": "Simon Willison 博客"
 "original_url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx"
-"canonical_url": "https://aihot.virxact.com/items/cmsf2ukfc1ekiro2e4h0k2bux"
+"canonical_url": "https://aihot.news/items/cmsf2ukfc1ekiro2e4h0k2bux"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ MiniMax 发布 MiniMax-H3，一个可接受文本、图像、音频和视频并�
 
 - **来源**: Simon Willison 博客
 - **原文链接**: [https://simonwillison.net/2026/Aug/4/minimax-h3-mlx](https://simonwillison.net/2026/Aug/4/minimax-h3-mlx)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsf2ukfc1ekiro2e4h0k2bux](https://aihot.virxact.com/items/cmsf2ukfc1ekiro2e4h0k2bux)
+- **AIHOT 链接**: [https://aihot.news/items/cmsf2ukfc1ekiro2e4h0k2bux](https://aihot.news/items/cmsf2ukfc1ekiro2e4h0k2bux)

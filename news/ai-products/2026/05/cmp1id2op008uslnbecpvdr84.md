@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-11T18:01:13.360Z"
 "source_name": "X：Replit (@Replit)"
 "original_url": "https://x.com/Replit/status/2053891504989753817"
-"canonical_url": "https://aihot.virxact.com/items/cmp1id2op008uslnbecpvdr84"
+"canonical_url": "https://aihot.news/items/cmp1id2op008uslnbecpvdr84"
 "score": 68
 "content_kind": "news"
 ---
@@ -23,4 +23,4 @@
 
 - **来源**: X：Replit (@Replit)
 - **原文链接**: [https://x.com/Replit/status/2053891504989753817](https://x.com/Replit/status/2053891504989753817)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp1id2op008uslnbecpvdr84](https://aihot.virxact.com/items/cmp1id2op008uslnbecpvdr84)
+- **AIHOT 链接**: [https://aihot.news/items/cmp1id2op008uslnbecpvdr84](https://aihot.news/items/cmp1id2op008uslnbecpvdr84)

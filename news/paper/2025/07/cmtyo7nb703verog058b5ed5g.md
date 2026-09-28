@@ -7,7 +7,7 @@
 "source_name": "METR：Research（网页）"
 "original_url": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study"
 "canonical_url": "https://aihot.news/items/cmtyo7nb703verog058b5ed5g"
-"score": 78
+"score": 79
 "content_kind": "news"
 ---
 

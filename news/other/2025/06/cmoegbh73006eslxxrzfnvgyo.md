@@ -6,7 +6,7 @@
 "discovered_at": "2025-06-15T00:00:00.000Z"
 "source_name": "Anthropic：Transformer Circuits（可解释性研究）"
 "original_url": "https://transformer-circuits.pub/2025/linebreaks/index.html"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbh73006eslxxrzfnvgyo"
+"canonical_url": "https://aihot.news/items/cmoegbh73006eslxxrzfnvgyo"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Anthropic：Transformer Circuits（可解释性研究）
 - **原文链接**: [https://transformer-circuits.pub/2025/linebreaks/index.html](https://transformer-circuits.pub/2025/linebreaks/index.html)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbh73006eslxxrzfnvgyo](https://aihot.virxact.com/items/cmoegbh73006eslxxrzfnvgyo)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbh73006eslxxrzfnvgyo](https://aihot.news/items/cmoegbh73006eslxxrzfnvgyo)

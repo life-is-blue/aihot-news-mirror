@@ -7,7 +7,7 @@
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/insights/best-embedding-models-2026"
 "canonical_url": "https://aihot.news/items/cmude350u077jroggw7odbigk"
-"score": 66
+"score": 67
 "content_kind": "news"
 ---
 

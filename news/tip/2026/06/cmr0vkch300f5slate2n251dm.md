@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-30T16:42:26.772Z"
 "source_name": "Dwarkesh Patel：Podcast & Blog（RSS）"
 "original_url": "https://www.dwarkesh.com/p/grant-sanderson-2"
-"canonical_url": "https://aihot.virxact.com/items/cmr0vkch300f5slate2n251dm"
+"canonical_url": "https://aihot.news/items/cmr0vkch300f5slate2n251dm"
 "score": 61
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Dwarkesh Patel：Podcast & Blog（RSS）
 - **原文链接**: [https://www.dwarkesh.com/p/grant-sanderson-2](https://www.dwarkesh.com/p/grant-sanderson-2)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr0vkch300f5slate2n251dm](https://aihot.virxact.com/items/cmr0vkch300f5slate2n251dm)
+- **AIHOT 链接**: [https://aihot.news/items/cmr0vkch300f5slate2n251dm](https://aihot.news/items/cmr0vkch300f5slate2n251dm)

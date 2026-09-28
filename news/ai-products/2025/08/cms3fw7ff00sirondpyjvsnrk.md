@@ -6,7 +6,7 @@
 "discovered_at": "2025-08-21T14:46:30.000Z"
 "source_name": "Linear：Now（RSS）"
 "original_url": "https://linear.app/now/how-cursor-integrated-with-linear-for-agents"
-"canonical_url": "https://aihot.virxact.com/items/cms3fw7ff00sirondpyjvsnrk"
+"canonical_url": "https://aihot.news/items/cms3fw7ff00sirondpyjvsnrk"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Cursor 与 Linear 推出新集成，用户可直接在 Linear 中将问题指派
 
 - **来源**: Linear：Now（RSS）
 - **原文链接**: [https://linear.app/now/how-cursor-integrated-with-linear-for-agents](https://linear.app/now/how-cursor-integrated-with-linear-for-agents)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3fw7ff00sirondpyjvsnrk](https://aihot.virxact.com/items/cms3fw7ff00sirondpyjvsnrk)
+- **AIHOT 链接**: [https://aihot.news/items/cms3fw7ff00sirondpyjvsnrk](https://aihot.news/items/cms3fw7ff00sirondpyjvsnrk)

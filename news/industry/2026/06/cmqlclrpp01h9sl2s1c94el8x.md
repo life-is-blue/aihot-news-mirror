@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-gover\
   nment-pressure-silence-lawful-online-speech"
-"canonical_url": "https://aihot.virxact.com/items/cmqlclrpp01h9sl2s1c94el8x"
+"canonical_url": "https://aihot.news/items/cmqlclrpp01h9sl2s1c94el8x"
 "score": 75
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqlclrpp01h9sl2s1c94el8x](https://aihot.virxact.com/items/cmqlclrpp01h9sl2s1c94el8x)
+- **AIHOT 链接**: [https://aihot.news/items/cmqlclrpp01h9sl2s1c94el8x](https://aihot.news/items/cmqlclrpp01h9sl2s1c94el8x)

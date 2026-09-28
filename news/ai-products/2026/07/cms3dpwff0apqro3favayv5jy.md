@@ -7,7 +7,7 @@
 "source_name": "LangChain：Blog（RSS）"
 "original_url": "https://www.langchain.com/blog/new-in-langsmith-fleet-bring-ag\
   ents-into-slack-in-one-click"
-"canonical_url": "https://aihot.virxact.com/items/cms3dpwff0apqro3favayv5jy"
+"canonical_url": "https://aihot.news/items/cms3dpwff0apqro3favayv5jy"
 "score": 67
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ LangChain Fleet 允许用户在无代码环境下构建自定义 AI 智能体，
 
 - **来源**: LangChain：Blog（RSS）
 - **原文链接**: [https://www.langchain.com/blog/new-in-langsmith-fleet-bring-agents-into-slack-in-one-click](https://www.langchain.com/blog/new-in-langsmith-fleet-bring-agents-into-slack-in-one-click)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3dpwff0apqro3favayv5jy](https://aihot.virxact.com/items/cms3dpwff0apqro3favayv5jy)
+- **AIHOT 链接**: [https://aihot.news/items/cms3dpwff0apqro3favayv5jy](https://aihot.news/items/cms3dpwff0apqro3favayv5jy)

@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/anthropic-study-shows-ai-needs-hours-n\
   ot-weeks-to-build-exploits-from-security-patches"
-"canonical_url": "https://aihot.virxact.com/items/cmq8d8miz01drslldd29j1yzr"
+"canonical_url": "https://aihot.news/items/cmq8d8miz01drslldd29j1yzr"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Anthropic 安全团队发现，其 Mythos Preview AI 模型能在几小时内将
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/anthropic-study-shows-ai-needs-hours-not-weeks-to-build-exploits-from-security-patches](https://the-decoder.com/anthropic-study-shows-ai-needs-hours-not-weeks-to-build-exploits-from-security-patches)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq8d8miz01drslldd29j1yzr](https://aihot.virxact.com/items/cmq8d8miz01drslldd29j1yzr)
+- **AIHOT 链接**: [https://aihot.news/items/cmq8d8miz01drslldd29j1yzr](https://aihot.news/items/cmq8d8miz01drslldd29j1yzr)

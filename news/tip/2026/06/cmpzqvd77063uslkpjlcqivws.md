@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-04T17:03:34.500Z"
 "source_name": "Dwarkesh Patel：Podcast & Blog（RSS）"
 "original_url": "https://www.dwarkesh.com/p/alex-imas-phil-trammell"
-"canonical_url": "https://aihot.virxact.com/items/cmpzqvd77063uslkpjlcqivws"
+"canonical_url": "https://aihot.news/items/cmpzqvd77063uslkpjlcqivws"
 "score": 63
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Dwarkesh Patel：Podcast & Blog（RSS）
 - **原文链接**: [https://www.dwarkesh.com/p/alex-imas-phil-trammell](https://www.dwarkesh.com/p/alex-imas-phil-trammell)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpzqvd77063uslkpjlcqivws](https://aihot.virxact.com/items/cmpzqvd77063uslkpjlcqivws)
+- **AIHOT 链接**: [https://aihot.news/items/cmpzqvd77063uslkpjlcqivws](https://aihot.news/items/cmpzqvd77063uslkpjlcqivws)

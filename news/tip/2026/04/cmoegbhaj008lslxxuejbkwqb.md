@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-16T00:00:00.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/transformers-to-mlx"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhaj008lslxxuejbkwqb"
+"canonical_url": "https://aihot.news/items/cmoegbhaj008lslxxuejbkwqb"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/transformers-to-mlx](https://huggingface.co/blog/transformers-to-mlx)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhaj008lslxxuejbkwqb](https://aihot.virxact.com/items/cmoegbhaj008lslxxuejbkwqb)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhaj008lslxxuejbkwqb](https://aihot.news/items/cmoegbhaj008lslxxuejbkwqb)

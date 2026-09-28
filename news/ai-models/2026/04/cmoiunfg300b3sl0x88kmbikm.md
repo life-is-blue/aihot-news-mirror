@@ -7,7 +7,7 @@
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multim\
   odal-intelligence"
-"canonical_url": "https://aihot.virxact.com/items/cmoiunfg300b3sl0x88kmbikm"
+"canonical_url": "https://aihot.news/items/cmoiunfg300b3sl0x88kmbikm"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ NVIDIA 发布了 Nemotron 3 Nano Omni 模型，这是一个专为处理长上下
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence](https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoiunfg300b3sl0x88kmbikm](https://aihot.virxact.com/items/cmoiunfg300b3sl0x88kmbikm)
+- **AIHOT 链接**: [https://aihot.news/items/cmoiunfg300b3sl0x88kmbikm](https://aihot.news/items/cmoiunfg300b3sl0x88kmbikm)

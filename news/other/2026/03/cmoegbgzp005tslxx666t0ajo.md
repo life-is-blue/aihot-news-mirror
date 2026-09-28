@@ -8,7 +8,7 @@
 "original_url": "https://engineering.fb.com/2026/03/31/ml-applications/meta-ada\
   ptive-ranking-model-bending-the-inference-scaling-curve-to-serve-llm-scale-mo\
   dels-for-ads"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbgzp005tslxx666t0ajo"
+"canonical_url": "https://aihot.news/items/cmoegbgzp005tslxx666t0ajo"
 "score": 81
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Meta将其广告推荐系统的运行时模型扩展至LLM的规模和复杂度�
 
 - **来源**: Meta Engineering Blog（RSS）
 - **原文链接**: [https://engineering.fb.com/2026/03/31/ml-applications/meta-adaptive-ranking-model-bending-the-inference-scaling-curve-to-serve-llm-scale-models-for-ads](https://engineering.fb.com/2026/03/31/ml-applications/meta-adaptive-ranking-model-bending-the-inference-scaling-curve-to-serve-llm-scale-models-for-ads)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbgzp005tslxx666t0ajo](https://aihot.virxact.com/items/cmoegbgzp005tslxx666t0ajo)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbgzp005tslxx666t0ajo](https://aihot.news/items/cmoegbgzp005tslxx666t0ajo)

@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-r\
   ation-ai-as-cost-skyrockets-1eb99d7a"
-"canonical_url": "https://aihot.virxact.com/items/cmpsjtxfm022vsluz0pojemz9"
+"canonical_url": "https://aihot.news/items/cmpsjtxfm022vsluz0pojemz9"
 "score": 71
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a](https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpsjtxfm022vsluz0pojemz9](https://aihot.virxact.com/items/cmpsjtxfm022vsluz0pojemz9)
+- **AIHOT 链接**: [https://aihot.news/items/cmpsjtxfm022vsluz0pojemz9](https://aihot.news/items/cmpsjtxfm022vsluz0pojemz9)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-24T03:54:41.406Z"
 "source_name": "Qwen：Blog Retrieval（API）"
 "original_url": "https://qwen.ai/blog?id=qwen-agentworld"
-"canonical_url": "https://aihot.virxact.com/items/cmqrjhuo40kszslp5qsjmxdy7"
+"canonical_url": "https://aihot.news/items/cmqrjhuo40kszslp5qsjmxdy7"
 "score": 81
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Qwen 团队发布 Qwen-AgentWorld，一个以环境建模为训练目标的原�
 
 - **来源**: Qwen：Blog Retrieval（API）
 - **原文链接**: [https://qwen.ai/blog?id=qwen-agentworld](https://qwen.ai/blog?id=qwen-agentworld)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqrjhuo40kszslp5qsjmxdy7](https://aihot.virxact.com/items/cmqrjhuo40kszslp5qsjmxdy7)
+- **AIHOT 链接**: [https://aihot.news/items/cmqrjhuo40kszslp5qsjmxdy7](https://aihot.news/items/cmqrjhuo40kszslp5qsjmxdy7)

@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/anthropic-overtakes-openai-in-b2b-adop\
   tion-for-the-first-time-according-to-ramp-spending-data"
-"canonical_url": "https://aihot.virxact.com/items/cmp4eqy8u059osljxs6c4bk0v"
+"canonical_url": "https://aihot.news/items/cmp4eqy8u059osljxs6c4bk0v"
 "score": 71
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/anthropic-overtakes-openai-in-b2b-adoption-for-the-first-time-according-to-ramp-spending-data](https://the-decoder.com/anthropic-overtakes-openai-in-b2b-adoption-for-the-first-time-according-to-ramp-spending-data)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp4eqy8u059osljxs6c4bk0v](https://aihot.virxact.com/items/cmp4eqy8u059osljxs6c4bk0v)
+- **AIHOT 链接**: [https://aihot.news/items/cmp4eqy8u059osljxs6c4bk0v](https://aihot.news/items/cmp4eqy8u059osljxs6c4bk0v)

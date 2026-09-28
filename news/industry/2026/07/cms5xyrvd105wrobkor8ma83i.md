@@ -7,7 +7,7 @@
 "source_name": "Artificial Intelligence News（网页）"
 "original_url": "https://www.artificialintelligence-news.com/news/google-ai-ove\
   rviews-us-searches"
-"canonical_url": "https://aihot.virxact.com/items/cms5xyrvd105wrobkor8ma83i"
+"canonical_url": "https://aihot.news/items/cms5xyrvd105wrobkor8ma83i"
 "score": 73
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Artificial Intelligence News（网页）
 - **原文链接**: [https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches](https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms5xyrvd105wrobkor8ma83i](https://aihot.virxact.com/items/cms5xyrvd105wrobkor8ma83i)
+- **AIHOT 链接**: [https://aihot.news/items/cms5xyrvd105wrobkor8ma83i](https://aihot.news/items/cms5xyrvd105wrobkor8ma83i)

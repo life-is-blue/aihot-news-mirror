@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-11T18:13:16.585Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/dxc-anthropic-alliance"
-"canonical_url": "https://aihot.virxact.com/items/cmq9tg1bi0f3qslld86ne1vt3"
+"canonical_url": "https://aihot.news/items/cmq9tg1bi0f3qslld86ne1vt3"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic与IT服务公司DXC Technology达成多年全球联盟。DXC将培训�
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/dxc-anthropic-alliance](https://www.anthropic.com/news/dxc-anthropic-alliance)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq9tg1bi0f3qslld86ne1vt3](https://aihot.virxact.com/items/cmq9tg1bi0f3qslld86ne1vt3)
+- **AIHOT 链接**: [https://aihot.news/items/cmq9tg1bi0f3qslld86ne1vt3](https://aihot.news/items/cmq9tg1bi0f3qslld86ne1vt3)

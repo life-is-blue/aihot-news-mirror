@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.reuters.com/business/us-house-lawmakers-release-dr\
   aft-bill-regulate-ai-2026-06-04"
-"canonical_url": "https://aihot.virxact.com/items/cmq2w7jzd01ojsl97krih83rb"
+"canonical_url": "https://aihot.news/items/cmq2w7jzd01ojsl97krih83rb"
 "score": 78
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04](https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq2w7jzd01ojsl97krih83rb](https://aihot.virxact.com/items/cmq2w7jzd01ojsl97krih83rb)
+- **AIHOT 链接**: [https://aihot.news/items/cmq2w7jzd01ojsl97krih83rb](https://aihot.news/items/cmq2w7jzd01ojsl97krih83rb)

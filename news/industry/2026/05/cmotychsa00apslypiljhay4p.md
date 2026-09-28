@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-06T11:06:28.621Z"
 "source_name": "X：腾讯混元 (@TencentHunyuan)"
 "original_url": "https://x.com/TencentHunyuan/status/2051978552900538403"
-"canonical_url": "https://aihot.virxact.com/items/cmotychsa00apslypiljhay4p"
+"canonical_url": "https://aihot.news/items/cmotychsa00apslypiljhay4p"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,7 +17,7 @@
 
 在总使用量、工具调用和编程领域均排名第一。全平台市场占有率达15.4%。🏆
 
-运行Hy3预览版的热门应用：Hermes Agent， Claude Code， Kilo Code， OpenClaw， Cline。@NousResearch @claudeai @kilocodehq @openclaw @cline
+运行Hy3预览版的热门应用：Hermes Agent, Claude Code, Kilo Code, OpenClaw, Cline。@NousResearch @claudeai @kilocodehq @openclaw @cline 
 
 衷心感谢所有基于此开发的开发者。🙏
 
@@ -25,4 +25,4 @@
 
 - **来源**: X：腾讯混元 (@TencentHunyuan)
 - **原文链接**: [https://x.com/TencentHunyuan/status/2051978552900538403](https://x.com/TencentHunyuan/status/2051978552900538403)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmotychsa00apslypiljhay4p](https://aihot.virxact.com/items/cmotychsa00apslypiljhay4p)
+- **AIHOT 链接**: [https://aihot.news/items/cmotychsa00apslypiljhay4p](https://aihot.news/items/cmotychsa00apslypiljhay4p)

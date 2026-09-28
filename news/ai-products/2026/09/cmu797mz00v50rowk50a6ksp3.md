@@ -7,7 +7,7 @@
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-voice-transcribe-2"
 "canonical_url": "https://aihot.news/items/cmu797mz00v50rowk50a6ksp3"
-"score": 63
+"score": 64
 "content_kind": "news"
 ---
 

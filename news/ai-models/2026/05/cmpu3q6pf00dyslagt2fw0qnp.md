@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-31T18:16:53.342Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://prismml.com/news/bonsai-image-4b"
-"canonical_url": "https://aihot.virxact.com/items/cmpu3q6pf00dyslagt2fw0qnp"
+"canonical_url": "https://aihot.news/items/cmpu3q6pf00dyslagt2fw0qnp"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://prismml.com/news/bonsai-image-4b](https://prismml.com/news/bonsai-image-4b)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpu3q6pf00dyslagt2fw0qnp](https://aihot.virxact.com/items/cmpu3q6pf00dyslagt2fw0qnp)
+- **AIHOT 链接**: [https://aihot.news/items/cmpu3q6pf00dyslagt2fw0qnp](https://aihot.news/items/cmpu3q6pf00dyslagt2fw0qnp)

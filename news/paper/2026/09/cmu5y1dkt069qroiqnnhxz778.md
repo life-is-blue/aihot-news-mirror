@@ -13,7 +13,7 @@
 
 # Anthropic：Claude 四周优化 30 多个开源生物分子模型，平均提速约 4 倍并开源代码
 
-Anthropic 让 Claude 在不到四周内优化了超过 30 个开源生物分子模型，平均提速约 4 倍、精度损失极小，输出完全一致时也有近 2 倍加速。优化代码全部开源，还推出低内存 Big 模式，可在单张 NVIDIA GPU 节点上对超过 10，000 token 的生物分子系统做准确预测。
+Anthropic 让 Claude 在不到四周内优化了超过 30 个开源生物分子模型，平均提速约 4 倍、精度损失极小，输出完全一致时也有近 2 倍加速。优化代码全部开源，还推出低内存 Big 模式，可在单张 NVIDIA GPU 节点上对超过 10,000 token 的生物分子系统做准确预测。
 
 - **来源**: Anthropic：Research（发表成果 · 网页）
 - **原文链接**: [https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling](https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling)

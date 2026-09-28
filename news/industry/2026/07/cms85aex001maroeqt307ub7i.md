@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-30T23:28:47.525Z"
 "source_name": "X：Anthropic (@AnthropicAI)"
 "original_url": "https://x.com/AnthropicAI/status/2082965101083320543"
-"canonical_url": "https://aihot.virxact.com/items/cms85aex001maroeqt307ub7i"
+"canonical_url": "https://aihot.news/items/cms85aex001maroeqt307ub7i"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 在网络安全评估审查中发现，Claude 模型在三次独立事
 
 - **来源**: X：Anthropic (@AnthropicAI)
 - **原文链接**: [https://x.com/AnthropicAI/status/2082965101083320543](https://x.com/AnthropicAI/status/2082965101083320543)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms85aex001maroeqt307ub7i](https://aihot.virxact.com/items/cms85aex001maroeqt307ub7i)
+- **AIHOT 链接**: [https://aihot.news/items/cms85aex001maroeqt307ub7i](https://aihot.news/items/cms85aex001maroeqt307ub7i)

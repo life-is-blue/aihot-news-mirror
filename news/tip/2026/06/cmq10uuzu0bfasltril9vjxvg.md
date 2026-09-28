@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-05T14:30:55.974Z"
 "source_name": "Gary Marcus：The Road to AI We Can Trust（RSS）"
 "original_url": "https://garymarcus.substack.com/p/sir-demis-hassabis-vs-sir-demis-hassabis"
-"canonical_url": "https://aihot.virxact.com/items/cmq10uuzu0bfasltril9vjxvg"
+"canonical_url": "https://aihot.news/items/cmq10uuzu0bfasltril9vjxvg"
 "score": 55
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Demis Hassabis 本周在斯坦福表示，AGI 可能只需几年即可实现，�
 
 - **来源**: Gary Marcus：The Road to AI We Can Trust（RSS）
 - **原文链接**: [https://garymarcus.substack.com/p/sir-demis-hassabis-vs-sir-demis-hassabis](https://garymarcus.substack.com/p/sir-demis-hassabis-vs-sir-demis-hassabis)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq10uuzu0bfasltril9vjxvg](https://aihot.virxact.com/items/cmq10uuzu0bfasltril9vjxvg)
+- **AIHOT 链接**: [https://aihot.news/items/cmq10uuzu0bfasltril9vjxvg](https://aihot.news/items/cmq10uuzu0bfasltril9vjxvg)

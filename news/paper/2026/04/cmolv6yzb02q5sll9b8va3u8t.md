@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-30T19:16:07.816Z"
 "source_name": "X：Anthropic (@AnthropicAI)"
 "original_url": "https://x.com/AnthropicAI/status/2049927618397614466"
-"canonical_url": "https://aihot.virxact.com/items/cmolv6yzb02q5sll9b8va3u8t"
+"canonical_url": "https://aihot.news/items/cmolv6yzb02q5sll9b8va3u8t"
 "score": 63
 "content_kind": "news"
 ---
@@ -20,4 +20,4 @@ https://www.anthropic.com/research/claude-personal-guidance
 
 - **来源**: X：Anthropic (@AnthropicAI)
 - **原文链接**: [https://x.com/AnthropicAI/status/2049927618397614466](https://x.com/AnthropicAI/status/2049927618397614466)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmolv6yzb02q5sll9b8va3u8t](https://aihot.virxact.com/items/cmolv6yzb02q5sll9b8va3u8t)
+- **AIHOT 链接**: [https://aihot.news/items/cmolv6yzb02q5sll9b8va3u8t](https://aihot.news/items/cmolv6yzb02q5sll9b8va3u8t)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-19T18:08:37.719Z"
 "source_name": "X：Gemini (@GeminiApp)"
 "original_url": "https://x.com/GeminiApp/status/2056792333132460322"
-"canonical_url": "https://aihot.virxact.com/items/cmpcy5k73018bsljlb97r1dme"
+"canonical_url": "https://aihot.news/items/cmpcy5k73018bsljlb97r1dme"
 "score": 74
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Gemini Spark 是你的新全天候个人AI代理。
 
 - **来源**: X：Gemini (@GeminiApp)
 - **原文链接**: [https://x.com/GeminiApp/status/2056792333132460322](https://x.com/GeminiApp/status/2056792333132460322)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpcy5k73018bsljlb97r1dme](https://aihot.virxact.com/items/cmpcy5k73018bsljlb97r1dme)
+- **AIHOT 链接**: [https://aihot.news/items/cmpcy5k73018bsljlb97r1dme](https://aihot.news/items/cmpcy5k73018bsljlb97r1dme)

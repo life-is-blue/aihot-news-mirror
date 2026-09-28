@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-27T15:31:51.181Z"
 "source_name": "X：Kimi.ai (@Kimi_Moonshot)"
 "original_url": "https://x.com/Kimi_Moonshot/status/2081762978391843020"
-"canonical_url": "https://aihot.virxact.com/items/cms3dxit00berro3f8etbfxfh"
+"canonical_url": "https://aihot.news/items/cms3dxit00berro3f8etbfxfh"
 "score": 69
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ AgentENV 是一个用于大规模运行智能体环境的分布式系统。其�
 
 - **来源**: X：Kimi.ai (@Kimi_Moonshot)
 - **原文链接**: [https://x.com/Kimi_Moonshot/status/2081762978391843020](https://x.com/Kimi_Moonshot/status/2081762978391843020)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3dxit00berro3f8etbfxfh](https://aihot.virxact.com/items/cms3dxit00berro3f8etbfxfh)
+- **AIHOT 链接**: [https://aihot.news/items/cms3dxit00berro3f8etbfxfh](https://aihot.news/items/cms3dxit00berro3f8etbfxfh)

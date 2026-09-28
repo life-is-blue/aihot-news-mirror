@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-30T01:50:53.228Z"
 "source_name": "公众号：卡尔的AI沃茨"
 "original_url": "https://mp.weixin.qq.com/s/iW5FVqbHtYi31mJ22Q_cog"
-"canonical_url": "https://aihot.virxact.com/items/cmqzzpqet02gpslki3d15k1l0"
+"canonical_url": "https://aihot.news/items/cmqzzpqet02gpslki3d15k1l0"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ AI News Radar 迎来大更新，新增自媒体板块，支持订阅某书、某
 
 - **来源**: 公众号：卡尔的AI沃茨
 - **原文链接**: [https://mp.weixin.qq.com/s/iW5FVqbHtYi31mJ22Q_cog](https://mp.weixin.qq.com/s/iW5FVqbHtYi31mJ22Q_cog)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqzzpqet02gpslki3d15k1l0](https://aihot.virxact.com/items/cmqzzpqet02gpslki3d15k1l0)
+- **AIHOT 链接**: [https://aihot.news/items/cmqzzpqet02gpslki3d15k1l0](https://aihot.news/items/cmqzzpqet02gpslki3d15k1l0)

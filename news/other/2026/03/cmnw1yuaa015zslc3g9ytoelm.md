@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-05T18:10:38.000Z"
 "source_name": "X：OpenAI (@OpenAI)"
 "original_url": "https://x.com/OpenAI/status/2029620619743219811"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yuaa015zslc3g9ytoelm"
+"canonical_url": "https://aihot.news/items/cmnw1yuaa015zslc3g9ytoelm"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ GPT-5.4 Thinking 和 GPT-5.4 Pro 开始向 ChatGPT 用户推出，同时通过 A
 
 - **来源**: X：OpenAI (@OpenAI)
 - **原文链接**: [https://x.com/OpenAI/status/2029620619743219811](https://x.com/OpenAI/status/2029620619743219811)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yuaa015zslc3g9ytoelm](https://aihot.virxact.com/items/cmnw1yuaa015zslc3g9ytoelm)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yuaa015zslc3g9ytoelm](https://aihot.news/items/cmnw1yuaa015zslc3g9ytoelm)

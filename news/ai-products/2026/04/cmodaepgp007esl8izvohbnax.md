@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-24T19:12:07.013Z"
 "source_name": "X：Greg Brockman (@gdb)"
 "original_url": "https://x.com/gdb/status/2047752627728060585"
-"canonical_url": "https://aihot.virxact.com/items/cmodaepgp007esl8izvohbnax"
+"canonical_url": "https://aihot.news/items/cmodaepgp007esl8izvohbnax"
 "score": 75
 "content_kind": "news"
 ---
@@ -15,7 +15,7 @@
 
 gpt-5.5 现已登陆 GitHub Copilot！
 
-【引用 @github】：🆕 @OpenAIDevs GPT-5.5 现已全面推出，并正在 GitHub Copilot 中逐步上线。
+[引用 @github]：🆕 @OpenAIDevs GPT-5.5 现已全面推出，并正在 GitHub Copilot 中逐步上线。
 
 我们的早期测试显示
 ➡️ 它在复杂的智能体编码任务上表现出最强的性能
@@ -26,4 +26,4 @@ https://github.blog/changelog/2026-04-24-gpt-5-5-is-generally-available-for-gith
 
 - **来源**: X：Greg Brockman (@gdb)
 - **原文链接**: [https://x.com/gdb/status/2047752627728060585](https://x.com/gdb/status/2047752627728060585)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmodaepgp007esl8izvohbnax](https://aihot.virxact.com/items/cmodaepgp007esl8izvohbnax)
+- **AIHOT 链接**: [https://aihot.news/items/cmodaepgp007esl8izvohbnax](https://aihot.news/items/cmodaepgp007esl8izvohbnax)

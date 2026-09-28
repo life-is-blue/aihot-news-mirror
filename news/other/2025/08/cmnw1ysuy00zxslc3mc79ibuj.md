@@ -6,7 +6,7 @@
 "discovered_at": "2025-08-05T15:57:05.000Z"
 "source_name": "X：Jim Fan (@DrJimFan)"
 "original_url": "https://x.com/DrJimFan/status/1952760780706984051"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1ysuy00zxslc3mc79ibuj"
+"canonical_url": "https://aihot.news/items/cmnw1ysuy00zxslc3mc79ibuj"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ NVIDIA发布DreamGen引擎（GR00T Dreams），将Sora/Veo等视频生成模型�
 
 - **来源**: X：Jim Fan (@DrJimFan)
 - **原文链接**: [https://x.com/DrJimFan/status/1952760780706984051](https://x.com/DrJimFan/status/1952760780706984051)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1ysuy00zxslc3mc79ibuj](https://aihot.virxact.com/items/cmnw1ysuy00zxslc3mc79ibuj)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1ysuy00zxslc3mc79ibuj](https://aihot.news/items/cmnw1ysuy00zxslc3mc79ibuj)

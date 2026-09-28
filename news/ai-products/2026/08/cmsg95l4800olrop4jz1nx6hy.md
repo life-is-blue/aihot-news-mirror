@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-05T15:39:09.167Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://blog.cloudflare.com/cloudflare-os"
-"canonical_url": "https://aihot.virxact.com/items/cmsg95l4800olrop4jz1nx6hy"
+"canonical_url": "https://aihot.news/items/cmsg95l4800olrop4jz1nx6hy"
 "score": 80
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Cloudflare 开源 Cloudflare OS，一个面向代理、应用和工作的开放�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://blog.cloudflare.com/cloudflare-os](https://blog.cloudflare.com/cloudflare-os)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsg95l4800olrop4jz1nx6hy](https://aihot.virxact.com/items/cmsg95l4800olrop4jz1nx6hy)
+- **AIHOT 链接**: [https://aihot.news/items/cmsg95l4800olrop4jz1nx6hy](https://aihot.news/items/cmsg95l4800olrop4jz1nx6hy)

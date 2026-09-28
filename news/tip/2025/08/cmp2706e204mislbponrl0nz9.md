@@ -6,7 +6,7 @@
 "discovered_at": "2025-08-15T11:57:47.000Z"
 "source_name": "蚂蚁 inclusionAI：GitHub 新仓库"
 "original_url": "https://github.com/inclusionAI/UI-Venus"
-"canonical_url": "https://aihot.virxact.com/items/cmp2706e204mislbponrl0nz9"
+"canonical_url": "https://aihot.news/items/cmp2706e204mislbponrl0nz9"
 "score": 58
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ UI-Venus 是一款本地 UI 智能体，仅以屏幕截图作为输入，即可�
 
 - **来源**: 蚂蚁 inclusionAI：GitHub 新仓库
 - **原文链接**: [https://github.com/inclusionAI/UI-Venus](https://github.com/inclusionAI/UI-Venus)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp2706e204mislbponrl0nz9](https://aihot.virxact.com/items/cmp2706e204mislbponrl0nz9)
+- **AIHOT 链接**: [https://aihot.news/items/cmp2706e204mislbponrl0nz9](https://aihot.news/items/cmp2706e204mislbponrl0nz9)

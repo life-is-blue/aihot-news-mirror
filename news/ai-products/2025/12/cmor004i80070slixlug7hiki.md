@@ -7,7 +7,7 @@
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/announcements/response-healing-reduce-js\
   on-defects-by-80percent"
-"canonical_url": "https://aihot.virxact.com/items/cmor004i80070slixlug7hiki"
+"canonical_url": "https://aihot.news/items/cmor004i80070slixlug7hiki"
 "score": 61
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenRouter 推出新功能 Response Healing，可在 LLM 生成的畸形 JSON �
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/announcements/response-healing-reduce-json-defects-by-80percent](https://openrouter.ai/announcements/response-healing-reduce-json-defects-by-80percent)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmor004i80070slixlug7hiki](https://aihot.virxact.com/items/cmor004i80070slixlug7hiki)
+- **AIHOT 链接**: [https://aihot.news/items/cmor004i80070slixlug7hiki](https://aihot.news/items/cmor004i80070slixlug7hiki)

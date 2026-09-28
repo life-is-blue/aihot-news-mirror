@@ -6,7 +6,7 @@
 "discovered_at": "2026-01-26T17:03:45.000Z"
 "source_name": "X：Dario Amodei (@DarioAmodei)"
 "original_url": "https://x.com/DarioAmodei/status/2015833046327402527"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yogb00gmslc3y1hv7ngv"
+"canonical_url": "https://aihot.news/items/cmnw1yogb00gmslc3y1hv7ngv"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Dario Amodei 发布长文《技术的青春期》，指出强大 AI 正处于"�
 
 - **来源**: X：Dario Amodei (@DarioAmodei)
 - **原文链接**: [https://x.com/DarioAmodei/status/2015833046327402527](https://x.com/DarioAmodei/status/2015833046327402527)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yogb00gmslc3y1hv7ngv](https://aihot.virxact.com/items/cmnw1yogb00gmslc3y1hv7ngv)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yogb00gmslc3y1hv7ngv](https://aihot.news/items/cmnw1yogb00gmslc3y1hv7ngv)

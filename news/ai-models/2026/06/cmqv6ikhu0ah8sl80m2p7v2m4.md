@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-26T17:02:25.180Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/previewing-gpt-5-6-sol"
-"canonical_url": "https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4"
+"canonical_url": "https://aihot.news/items/cmqv6ikhu0ah8sl80m2p7v2m4"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 发布了新一代模型 GPT-5.6 Sol 的预览信息。该模型被定位
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/previewing-gpt-5-6-sol](https://openai.com/index/previewing-gpt-5-6-sol)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4](https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4)
+- **AIHOT 链接**: [https://aihot.news/items/cmqv6ikhu0ah8sl80m2p7v2m4](https://aihot.news/items/cmqv6ikhu0ah8sl80m2p7v2m4)

@@ -7,7 +7,7 @@
 "source_name": "Gary Marcus：The Road to AI We Can Trust（RSS）"
 "original_url": "https://garymarcus.substack.com/p/historic-un-security-council-briefing"
 "canonical_url": "https://aihot.news/items/cmueno9s80cv0royn7zd2ihe1"
-"score": 64
+"score": 65
 "content_kind": "news"
 ---
 

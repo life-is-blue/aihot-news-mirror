@@ -6,7 +6,7 @@
 "discovered_at": "2025-11-03T16:00:00.000Z"
 "source_name": "Anthropic：Engineering（事故复盘 + 工程实践 · 网页）"
 "original_url": "https://www.anthropic.com/engineering/code-execution-with-mcp"
-"canonical_url": "https://aihot.virxact.com/items/cmorb7ml0008hslhfkltymj5p"
+"canonical_url": "https://aihot.news/items/cmorb7ml0008hslhfkltymj5p"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Anthropic：Engineering（事故复盘 + 工程实践 · 网页）
 - **原文链接**: [https://www.anthropic.com/engineering/code-execution-with-mcp](https://www.anthropic.com/engineering/code-execution-with-mcp)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmorb7ml0008hslhfkltymj5p](https://aihot.virxact.com/items/cmorb7ml0008hslhfkltymj5p)
+- **AIHOT 链接**: [https://aihot.news/items/cmorb7ml0008hslhfkltymj5p](https://aihot.news/items/cmorb7ml0008hslhfkltymj5p)

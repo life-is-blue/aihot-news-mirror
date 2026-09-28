@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-13T02:10:22.554Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/tutorials/hermes-agent"
-"canonical_url": "https://aihot.virxact.com/items/cmqbpxbo703szslamf29w860z"
+"canonical_url": "https://aihot.news/items/cmqbpxbo703szslamf29w860z"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Hermes Agent 已通过 OpenRouter 处理超过 17 万亿 tokens。使用指南�
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/tutorials/hermes-agent](https://openrouter.ai/blog/tutorials/hermes-agent)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqbpxbo703szslamf29w860z](https://aihot.virxact.com/items/cmqbpxbo703szslamf29w860z)
+- **AIHOT 链接**: [https://aihot.news/items/cmqbpxbo703szslamf29w860z](https://aihot.news/items/cmqbpxbo703szslamf29w860z)

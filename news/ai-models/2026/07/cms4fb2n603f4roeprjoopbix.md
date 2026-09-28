@@ -8,7 +8,7 @@
 "original_url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-\
   mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-9\
   5-on-cybergym"
-"canonical_url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix"
+"canonical_url": "https://aihot.news/items/cms4fb2n603f4roeprjoopbix"
 "score": 71
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Microsoft 发布 MAI-Cyber-1-Flash，一款 137B 总参数（5B 活跃参数）�
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym](https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix](https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix)
+- **AIHOT 链接**: [https://aihot.news/items/cms4fb2n603f4roeprjoopbix](https://aihot.news/items/cms4fb2n603f4roeprjoopbix)

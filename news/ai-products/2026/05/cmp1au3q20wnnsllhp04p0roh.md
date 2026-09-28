@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-11T14:30:31.960Z"
 "source_name": "X：OpenRouter (@OpenRouter)"
 "original_url": "https://x.com/OpenRouter/status/2053843701261025290"
-"canonical_url": "https://aihot.virxact.com/items/cmp1au3q20wnnsllhp04p0roh"
+"canonical_url": "https://aihot.news/items/cmp1au3q20wnnsllhp04p0roh"
 "score": 76
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ DeepSeek V4 Pro 占据首位，其次是 GPT 5.4 Mini 和 Gemini 3.1 Pro https:/
 
 - **来源**: X：OpenRouter (@OpenRouter)
 - **原文链接**: [https://x.com/OpenRouter/status/2053843701261025290](https://x.com/OpenRouter/status/2053843701261025290)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp1au3q20wnnsllhp04p0roh](https://aihot.virxact.com/items/cmp1au3q20wnnsllhp04p0roh)
+- **AIHOT 链接**: [https://aihot.news/items/cmp1au3q20wnnsllhp04p0roh](https://aihot.news/items/cmp1au3q20wnnsllhp04p0roh)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-12T23:54:06.097Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6"
-"canonical_url": "https://aihot.virxact.com/items/cmrig9mkx0024bijp9pr04hss"
+"canonical_url": "https://aihot.news/items/cmrig9mkx0024bijp9pr04hss"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Ploy 将其 AI 智能体默认模型从 Claude Opus 4.8 切换至 OpenAI 今晨�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6](https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrig9mkx0024bijp9pr04hss](https://aihot.virxact.com/items/cmrig9mkx0024bijp9pr04hss)
+- **AIHOT 链接**: [https://aihot.news/items/cmrig9mkx0024bijp9pr04hss](https://aihot.news/items/cmrig9mkx0024bijp9pr04hss)

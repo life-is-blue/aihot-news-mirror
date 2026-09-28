@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-20T07:07:57.448Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2605.20075"
-"canonical_url": "https://aihot.virxact.com/items/cmpdpzkae05ztslk17ym4i8px"
+"canonical_url": "https://aihot.news/items/cmpdpzkae05ztslk17ym4i8px"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ CopT提出了一种反转传统链式思考（CoT）顺序的推理框架：先�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2605.20075](https://arxiv.org/abs/2605.20075)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpdpzkae05ztslk17ym4i8px](https://aihot.virxact.com/items/cmpdpzkae05ztslk17ym4i8px)
+- **AIHOT 链接**: [https://aihot.news/items/cmpdpzkae05ztslk17ym4i8px](https://aihot.news/items/cmpdpzkae05ztslk17ym4i8px)

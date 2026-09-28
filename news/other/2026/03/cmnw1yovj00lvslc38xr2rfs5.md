@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-25T16:05:14.000Z"
 "source_name": "X：Andrej Karpathy (@karpathy)"
 "original_url": "https://x.com/karpathy/status/2036836816654147718"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yovj00lvslc38xr2rfs5"
+"canonical_url": "https://aihot.news/items/cmnw1yovj00lvslc38xr2rfs5"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ LLM 的记忆功能存在过度联想问题：两个月前随口一问会被当�
 
 - **来源**: X：Andrej Karpathy (@karpathy)
 - **原文链接**: [https://x.com/karpathy/status/2036836816654147718](https://x.com/karpathy/status/2036836816654147718)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yovj00lvslc38xr2rfs5](https://aihot.virxact.com/items/cmnw1yovj00lvslc38xr2rfs5)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yovj00lvslc38xr2rfs5](https://aihot.news/items/cmnw1yovj00lvslc38xr2rfs5)

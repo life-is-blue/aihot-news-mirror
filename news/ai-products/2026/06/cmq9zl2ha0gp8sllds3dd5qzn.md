@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-01T00:00:00.000Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/announcements/may-release-spotlight"
-"canonical_url": "https://aihot.virxact.com/items/cmq9zl2ha0gp8sllds3dd5qzn"
+"canonical_url": "https://aihot.news/items/cmq9zl2ha0gp8sllds3dd5qzn"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter 推出语音与转录 API、模型融合（Model Fusion）、私有�
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/announcements/may-release-spotlight](https://openrouter.ai/blog/announcements/may-release-spotlight)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq9zl2ha0gp8sllds3dd5qzn](https://aihot.virxact.com/items/cmq9zl2ha0gp8sllds3dd5qzn)
+- **AIHOT 链接**: [https://aihot.news/items/cmq9zl2ha0gp8sllds3dd5qzn](https://aihot.news/items/cmq9zl2ha0gp8sllds3dd5qzn)

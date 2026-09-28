@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-08T00:30:23.173Z"
 "source_name": "Claude Code：GitHub Releases（RSS）"
 "original_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.133"
-"canonical_url": "https://aihot.virxact.com/items/cmow6i2aq036jslcxxneym5zm"
+"canonical_url": "https://aihot.news/items/cmow6i2aq036jslcxxneym5zm"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude 发布 v2.1.133 版本，新增多项配置与优化。主要新增 `work
 
 - **来源**: Claude Code：GitHub Releases（RSS）
 - **原文链接**: [https://github.com/anthropics/claude-code/releases/tag/v2.1.133](https://github.com/anthropics/claude-code/releases/tag/v2.1.133)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmow6i2aq036jslcxxneym5zm](https://aihot.virxact.com/items/cmow6i2aq036jslcxxneym5zm)
+- **AIHOT 链接**: [https://aihot.news/items/cmow6i2aq036jslcxxneym5zm](https://aihot.news/items/cmow6i2aq036jslcxxneym5zm)

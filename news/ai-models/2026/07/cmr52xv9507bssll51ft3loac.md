@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-03T15:19:52.792Z"
 "source_name": "Mistral AI：News（网页）"
 "original_url": "https://mistral.ai/news/leanstral-1-5"
-"canonical_url": "https://aihot.virxact.com/items/cmr52xv9507bssll51ft3loac"
+"canonical_url": "https://aihot.news/items/cmr52xv9507bssll51ft3loac"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Mistral AI 今日发布 Leanstral 1.5，一款 Apache-2.0 许可的开源形式�
 
 - **来源**: Mistral AI：News（网页）
 - **原文链接**: [https://mistral.ai/news/leanstral-1-5](https://mistral.ai/news/leanstral-1-5)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr52xv9507bssll51ft3loac](https://aihot.virxact.com/items/cmr52xv9507bssll51ft3loac)
+- **AIHOT 链接**: [https://aihot.news/items/cmr52xv9507bssll51ft3loac](https://aihot.news/items/cmr52xv9507bssll51ft3loac)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-08T02:02:02.000Z"
 "source_name": "X：唐杰（@jietang）"
 "original_url": "https://x.com/jietang/status/2041698050306142641"
-"canonical_url": "https://aihot.virxact.com/items/cmry2rl7p000groqa7tilx62m"
+"canonical_url": "https://aihot.news/items/cmry2rl7p000groqa7tilx62m"
 "score": 69
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ GLM 5.1 即将到来 https://huggingface.co/zai-org/GLM-5.1
 
 - **来源**: X：唐杰（@jietang）
 - **原文链接**: [https://x.com/jietang/status/2041698050306142641](https://x.com/jietang/status/2041698050306142641)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmry2rl7p000groqa7tilx62m](https://aihot.virxact.com/items/cmry2rl7p000groqa7tilx62m)
+- **AIHOT 链接**: [https://aihot.news/items/cmry2rl7p000groqa7tilx62m](https://aihot.news/items/cmry2rl7p000groqa7tilx62m)

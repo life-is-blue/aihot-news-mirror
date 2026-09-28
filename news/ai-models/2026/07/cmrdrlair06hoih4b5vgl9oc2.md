@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-09T17:12:15.257Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/gpt-5-6"
-"canonical_url": "https://aihot.virxact.com/items/cmrdrlair06hoih4b5vgl9oc2"
+"canonical_url": "https://aihot.news/items/cmrdrlair06hoih4b5vgl9oc2"
 "score": 85
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 推出 GPT-5.6 系列，包括旗舰 Sol、平衡型 Terra 和成本最�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/gpt-5-6](https://openai.com/index/gpt-5-6)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrdrlair06hoih4b5vgl9oc2](https://aihot.virxact.com/items/cmrdrlair06hoih4b5vgl9oc2)
+- **AIHOT 链接**: [https://aihot.news/items/cmrdrlair06hoih4b5vgl9oc2](https://aihot.news/items/cmrdrlair06hoih4b5vgl9oc2)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-11T22:47:37.956Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.kennethpayne.uk/p/shall-we-play-a-game"
-"canonical_url": "https://aihot.virxact.com/items/cmqa38qfw0hrsslld9n3v1pzf"
+"canonical_url": "https://aihot.news/items/cmqa38qfw0hrsslld9n3v1pzf"
 "score": 82
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.kennethpayne.uk/p/shall-we-play-a-game](https://www.kennethpayne.uk/p/shall-we-play-a-game)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqa38qfw0hrsslld9n3v1pzf](https://aihot.virxact.com/items/cmqa38qfw0hrsslld9n3v1pzf)
+- **AIHOT 链接**: [https://aihot.news/items/cmqa38qfw0hrsslld9n3v1pzf](https://aihot.news/items/cmqa38qfw0hrsslld9n3v1pzf)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-28T14:39:12.474Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://github.com/microsoft/VibeVoice"
-"canonical_url": "https://aihot.virxact.com/items/cmoiqf4kd031mslvca7aqvmfd"
+"canonical_url": "https://aihot.news/items/cmoiqf4kd031mslvca7aqvmfd"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://github.com/microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoiqf4kd031mslvca7aqvmfd](https://aihot.virxact.com/items/cmoiqf4kd031mslvca7aqvmfd)
+- **AIHOT 链接**: [https://aihot.news/items/cmoiqf4kd031mslvca7aqvmfd](https://aihot.news/items/cmoiqf4kd031mslvca7aqvmfd)

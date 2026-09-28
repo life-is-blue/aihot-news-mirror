@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/openais-new-prompting-guide-tells-user\
   s-to-stop-overthinking-and-start-with-the-result"
-"canonical_url": "https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged"
+"canonical_url": "https://aihot.news/items/cmrjj6scy03ghbi03olyygged"
 "score": 78
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenAI 整合了一份面向普通用户的提示词指南，涵盖目标、上�
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result](https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged](https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged)
+- **AIHOT 链接**: [https://aihot.news/items/cmrjj6scy03ghbi03olyygged](https://aihot.news/items/cmrjj6scy03ghbi03olyygged)

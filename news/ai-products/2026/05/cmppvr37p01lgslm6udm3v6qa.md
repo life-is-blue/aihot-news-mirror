@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-28T19:22:28.296Z"
 "source_name": "X：MiniMax (@MiniMax_AI)"
 "original_url": "https://x.com/MiniMax_AI/status/2060071852970844377"
-"canonical_url": "https://aihot.virxact.com/items/cmppvr37p01lgslm6udm3v6qa"
+"canonical_url": "https://aihot.news/items/cmppvr37p01lgslm6udm3v6qa"
 "score": 76
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@
 
 - **来源**: X：MiniMax (@MiniMax_AI)
 - **原文链接**: [https://x.com/MiniMax_AI/status/2060071852970844377](https://x.com/MiniMax_AI/status/2060071852970844377)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmppvr37p01lgslm6udm3v6qa](https://aihot.virxact.com/items/cmppvr37p01lgslm6udm3v6qa)
+- **AIHOT 链接**: [https://aihot.news/items/cmppvr37p01lgslm6udm3v6qa](https://aihot.news/items/cmppvr37p01lgslm6udm3v6qa)

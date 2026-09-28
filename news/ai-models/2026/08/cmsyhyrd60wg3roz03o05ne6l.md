@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-15T00:00:00.000Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2608.15045"
-"canonical_url": "https://aihot.virxact.com/items/cmsyhyrd60wg3roz03o05ne6l"
+"canonical_url": "https://aihot.news/items/cmsyhyrd60wg3roz03o05ne6l"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ MOSS-VL是一个将实时交互（边感知边说话）作为一等能力的开�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2608.15045](https://arxiv.org/abs/2608.15045)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsyhyrd60wg3roz03o05ne6l](https://aihot.virxact.com/items/cmsyhyrd60wg3roz03o05ne6l)
+- **AIHOT 链接**: [https://aihot.news/items/cmsyhyrd60wg3roz03o05ne6l](https://aihot.news/items/cmsyhyrd60wg3roz03o05ne6l)

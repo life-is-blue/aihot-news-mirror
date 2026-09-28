@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-12T17:01:44.504Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/academy-courses-applying-ai-at-work"
-"canonical_url": "https://aihot.virxact.com/items/cmqb6brwi0008sl5v981gsd10"
+"canonical_url": "https://aihot.news/items/cmqb6brwi0008sl5v981gsd10"
 "score": 57
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 发布三门 Academy 课程，帮助用户掌握实用 AI 技能、创建
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/academy-courses-applying-ai-at-work](https://openai.com/index/academy-courses-applying-ai-at-work)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqb6brwi0008sl5v981gsd10](https://aihot.virxact.com/items/cmqb6brwi0008sl5v981gsd10)
+- **AIHOT 链接**: [https://aihot.news/items/cmqb6brwi0008sl5v981gsd10](https://aihot.news/items/cmqb6brwi0008sl5v981gsd10)

@@ -8,7 +8,7 @@
 "original_url": "https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads\
   -and-executes-malware"
 "canonical_url": "https://aihot.news/items/cmtyqbg7d031rrouphbo70ywf"
-"score": 65
+"score": 66
 "content_kind": "news"
 ---
 

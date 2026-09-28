@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-10T00:00:00.000Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2605.09423"
-"canonical_url": "https://aihot.virxact.com/items/cmp25c774049kslbpnhakgvwi"
+"canonical_url": "https://aihot.news/items/cmp25c774049kslbpnhakgvwi"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ SimWorld Studio是一个基于Unreal Engine 5的开源平台，旨在为具身�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2605.09423](https://arxiv.org/abs/2605.09423)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp25c774049kslbpnhakgvwi](https://aihot.virxact.com/items/cmp25c774049kslbpnhakgvwi)
+- **AIHOT 链接**: [https://aihot.news/items/cmp25c774049kslbpnhakgvwi](https://aihot.news/items/cmp25c774049kslbpnhakgvwi)

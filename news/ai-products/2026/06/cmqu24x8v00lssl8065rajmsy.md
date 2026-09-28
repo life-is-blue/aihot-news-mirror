@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-25T22:12:04.136Z"
 "source_name": "Claude Code：GitHub Releases（RSS）"
 "original_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.193"
-"canonical_url": "https://aihot.virxact.com/items/cmqu24x8v00lssl8065rajmsy"
+"canonical_url": "https://aihot.news/items/cmqu24x8v00lssl8065rajmsy"
 "score": 61
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Code v2.1.193 新增 `autoMode.classifyAllShell` 设置，将全部 Bash/
 
 - **来源**: Claude Code：GitHub Releases（RSS）
 - **原文链接**: [https://github.com/anthropics/claude-code/releases/tag/v2.1.193](https://github.com/anthropics/claude-code/releases/tag/v2.1.193)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqu24x8v00lssl8065rajmsy](https://aihot.virxact.com/items/cmqu24x8v00lssl8065rajmsy)
+- **AIHOT 链接**: [https://aihot.news/items/cmqu24x8v00lssl8065rajmsy](https://aihot.news/items/cmqu24x8v00lssl8065rajmsy)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-01T08:00:16.762Z"
 "source_name": "X：Greg Brockman (@gdb)"
 "original_url": "https://x.com/gdb/status/2083457463337287721"
-"canonical_url": "https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h"
+"canonical_url": "https://aihot.news/items/cmsa302cc01xaro41omun2e1h"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 用下一代模型 Astra 内部版解决了数学与理论计算机科学
 
 - **来源**: X：Greg Brockman (@gdb)
 - **原文链接**: [https://x.com/gdb/status/2083457463337287721](https://x.com/gdb/status/2083457463337287721)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h](https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h)
+- **AIHOT 链接**: [https://aihot.news/items/cmsa302cc01xaro41omun2e1h](https://aihot.news/items/cmsa302cc01xaro41omun2e1h)

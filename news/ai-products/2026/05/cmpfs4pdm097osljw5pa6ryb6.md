@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-21T17:43:01.640Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/compliance-api-security-partners"
-"canonical_url": "https://aihot.virxact.com/items/cmpfs4pdm097osljw5pa6ryb6"
+"canonical_url": "https://aihot.news/items/cmpfs4pdm097osljw5pa6ryb6"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic宣布为Claude企业版及平台新增28项安全与合规工具集成
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/compliance-api-security-partners](https://claude.com/blog/compliance-api-security-partners)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpfs4pdm097osljw5pa6ryb6](https://aihot.virxact.com/items/cmpfs4pdm097osljw5pa6ryb6)
+- **AIHOT 链接**: [https://aihot.news/items/cmpfs4pdm097osljw5pa6ryb6](https://aihot.news/items/cmpfs4pdm097osljw5pa6ryb6)

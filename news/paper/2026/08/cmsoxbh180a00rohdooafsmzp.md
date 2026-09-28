@@ -7,7 +7,7 @@
 "source_name": "Google Blog：AI（RSS）"
 "original_url": "https://blog.google/innovation-and-ai/models-and-research/goog\
   le-research/amie-video-consultations"
-"canonical_url": "https://aihot.virxact.com/items/cmsoxbh180a00rohdooafsmzp"
+"canonical_url": "https://aihot.news/items/cmsoxbh180a00rohdooafsmzp"
 "score": 69
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google Research 与 Google DeepMind 推进医疗 AI 系统 AMIE，实现实时�
 
 - **来源**: Google Blog：AI（RSS）
 - **原文链接**: [https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations](https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsoxbh180a00rohdooafsmzp](https://aihot.virxact.com/items/cmsoxbh180a00rohdooafsmzp)
+- **AIHOT 链接**: [https://aihot.news/items/cmsoxbh180a00rohdooafsmzp](https://aihot.news/items/cmsoxbh180a00rohdooafsmzp)

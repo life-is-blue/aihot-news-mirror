@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-28T18:42:10.939Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-build-0-1"
-"canonical_url": "https://aihot.virxact.com/items/cmppubmxw0190slm6mre7svcq"
+"canonical_url": "https://aihot.news/items/cmppubmxw0190slm6mre7svcq"
 "score": 82
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI 的最新编码模型 Grok Build 0.1 已通过 xAI API 进入公开测试阶
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-build-0-1](https://x.ai/news/grok-build-0-1)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmppubmxw0190slm6mre7svcq](https://aihot.virxact.com/items/cmppubmxw0190slm6mre7svcq)
+- **AIHOT 链接**: [https://aihot.news/items/cmppubmxw0190slm6mre7svcq](https://aihot.news/items/cmppubmxw0190slm6mre7svcq)

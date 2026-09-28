@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-04T15:15:20.755Z"
 "source_name": "X：硅基流动 SiliconFlow (@SiliconFlowAI)"
 "original_url": "https://x.com/SiliconFlowAI/status/2062549952266723493"
-"canonical_url": "https://aihot.virxact.com/items/cmpzn05ag052vslkpo3cb21hq"
+"canonical_url": "https://aihot.news/items/cmpzn05ag052vslkpo3cb21hq"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ neolab 推出 Nex-N2-Pro，基于 Qwen3.5-397B-A17B，总参数 397B 的 MoE 推
 
 - **来源**: X：硅基流动 SiliconFlow (@SiliconFlowAI)
 - **原文链接**: [https://x.com/SiliconFlowAI/status/2062549952266723493](https://x.com/SiliconFlowAI/status/2062549952266723493)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpzn05ag052vslkpo3cb21hq](https://aihot.virxact.com/items/cmpzn05ag052vslkpo3cb21hq)
+- **AIHOT 链接**: [https://aihot.news/items/cmpzn05ag052vslkpo3cb21hq](https://aihot.news/items/cmpzn05ag052vslkpo3cb21hq)

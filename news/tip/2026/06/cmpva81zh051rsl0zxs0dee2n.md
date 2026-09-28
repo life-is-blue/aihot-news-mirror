@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-01T14:06:30.873Z"
 "source_name": "Nathan Lambert：Interconnects（RSS）"
 "original_url": "https://www.interconnects.ai/p/open-and-closed-models-are-on-different"
-"canonical_url": "https://aihot.virxact.com/items/cmpva81zh051rsl0zxs0dee2n"
+"canonical_url": "https://aihot.news/items/cmpva81zh051rsl0zxs0dee2n"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Nathan Lambert：Interconnects（RSS）
 - **原文链接**: [https://www.interconnects.ai/p/open-and-closed-models-are-on-different](https://www.interconnects.ai/p/open-and-closed-models-are-on-different)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpva81zh051rsl0zxs0dee2n](https://aihot.virxact.com/items/cmpva81zh051rsl0zxs0dee2n)
+- **AIHOT 链接**: [https://aihot.news/items/cmpva81zh051rsl0zxs0dee2n](https://aihot.news/items/cmpva81zh051rsl0zxs0dee2n)

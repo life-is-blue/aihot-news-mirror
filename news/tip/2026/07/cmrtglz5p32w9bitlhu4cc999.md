@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-20T16:49:09.836Z"
 "source_name": "Nathan Lambert：Interconnects（RSS）"
 "original_url": "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation"
-"canonical_url": "https://aihot.virxact.com/items/cmrtglz5p32w9bitlhu4cc999"
+"canonical_url": "https://aihot.news/items/cmrtglz5p32w9bitlhu4cc999"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Nathan Lambert：Interconnects（RSS）
 - **原文链接**: [https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation](https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrtglz5p32w9bitlhu4cc999](https://aihot.virxact.com/items/cmrtglz5p32w9bitlhu4cc999)
+- **AIHOT 链接**: [https://aihot.news/items/cmrtglz5p32w9bitlhu4cc999](https://aihot.news/items/cmrtglz5p32w9bitlhu4cc999)

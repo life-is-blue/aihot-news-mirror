@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-06T22:40:47.859Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/uber"
-"canonical_url": "https://aihot.virxact.com/items/cmoun5n1s01dhslv9v2pv4lzj"
+"canonical_url": "https://aihot.news/items/cmoun5n1s01dhslv9v2pv4lzj"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Uber 宣布在其全球实时交通服务平台中集成 OpenAI 技术，用于�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/uber](https://openai.com/index/uber)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoun5n1s01dhslv9v2pv4lzj](https://aihot.virxact.com/items/cmoun5n1s01dhslv9v2pv4lzj)
+- **AIHOT 链接**: [https://aihot.news/items/cmoun5n1s01dhslv9v2pv4lzj](https://aihot.news/items/cmoun5n1s01dhslv9v2pv4lzj)

@@ -7,7 +7,7 @@
 "source_name": "Cohere 产品与研究博客（网页）"
 "original_url": "https://cohere.com/blog/command-a-reasoning"
 "canonical_url": "https://aihot.news/items/cmtynzxra033arog0lkpqgiew"
-"score": 60
+"score": 61
 "content_kind": "news"
 ---
 

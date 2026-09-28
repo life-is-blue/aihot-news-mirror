@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-01T05:26:08.826Z"
 "source_name": "X：Satya Nadella (@satyanadella)"
 "original_url": "https://x.com/satyanadella/status/2061315017589600699"
-"canonical_url": "https://aihot.virxact.com/items/cmpurmvix00ausl0z681vyv6h"
+"canonical_url": "https://aihot.news/items/cmpurmvix00ausl0z681vyv6h"
 "score": 65
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ NVIDIA RTX Spark 标志着朝着这一愿景迈出的真正突破。
 
 - **来源**: X：Satya Nadella (@satyanadella)
 - **原文链接**: [https://x.com/satyanadella/status/2061315017589600699](https://x.com/satyanadella/status/2061315017589600699)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpurmvix00ausl0z681vyv6h](https://aihot.virxact.com/items/cmpurmvix00ausl0z681vyv6h)
+- **AIHOT 链接**: [https://aihot.news/items/cmpurmvix00ausl0z681vyv6h](https://aihot.news/items/cmpurmvix00ausl0z681vyv6h)

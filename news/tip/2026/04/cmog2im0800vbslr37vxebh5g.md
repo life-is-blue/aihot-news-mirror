@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-26T17:54:32.083Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified"
-"canonical_url": "https://aihot.virxact.com/items/cmog2im0800vbslr37vxebh5g"
+"canonical_url": "https://aihot.news/items/cmog2im0800vbslr37vxebh5g"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI宣布停止使用SWE-bench Verified基准评估前沿编码能力。该�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified](https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmog2im0800vbslr37vxebh5g](https://aihot.virxact.com/items/cmog2im0800vbslr37vxebh5g)
+- **AIHOT 链接**: [https://aihot.news/items/cmog2im0800vbslr37vxebh5g](https://aihot.news/items/cmog2im0800vbslr37vxebh5g)

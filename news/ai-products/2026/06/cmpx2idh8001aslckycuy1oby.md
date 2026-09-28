@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-02T20:06:07.158Z"
 "source_name": "X：Runway (@runwayml)"
 "original_url": "https://x.com/runwayml/status/2061895998545244342"
-"canonical_url": "https://aihot.virxact.com/items/cmpx2idh8001aslckycuy1oby"
+"canonical_url": "https://aihot.news/items/cmpx2idh8001aslckycuy1oby"
 "score": 73
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Aleph 2.0 现已通过 Runway API 提供。将精准视频编辑直接集成到�
 
 - **来源**: X：Runway (@runwayml)
 - **原文链接**: [https://x.com/runwayml/status/2061895998545244342](https://x.com/runwayml/status/2061895998545244342)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpx2idh8001aslckycuy1oby](https://aihot.virxact.com/items/cmpx2idh8001aslckycuy1oby)
+- **AIHOT 链接**: [https://aihot.news/items/cmpx2idh8001aslckycuy1oby](https://aihot.news/items/cmpx2idh8001aslckycuy1oby)

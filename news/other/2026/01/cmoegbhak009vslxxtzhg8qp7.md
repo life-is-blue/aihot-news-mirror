@@ -6,7 +6,7 @@
 "discovered_at": "2026-01-20T00:00:00.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/waypoint-1"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhak009vslxxtzhg8qp7"
+"canonical_url": "https://aihot.news/items/cmoegbhak009vslxxtzhg8qp7"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Overworld推出实时交互式视频扩散模型Waypoint-1，用户可通过文�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/waypoint-1](https://huggingface.co/blog/waypoint-1)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhak009vslxxtzhg8qp7](https://aihot.virxact.com/items/cmoegbhak009vslxxtzhg8qp7)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhak009vslxxtzhg8qp7](https://aihot.news/items/cmoegbhak009vslxxtzhg8qp7)

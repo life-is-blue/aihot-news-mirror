@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-16T19:35:22.252Z"
 "source_name": "Anthropic：Research（发表成果 · 网页）"
 "original_url": "https://www.anthropic.com/research/claude-code-expertise"
-"canonical_url": "https://aihot.virxact.com/items/cmqh1kwnx002asle1lo0di435"
+"canonical_url": "https://aihot.news/items/cmqh1kwnx002asle1lo0di435"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 基于约40万次 Claude Code 交互会话（2025年10月至2026年4�
 
 - **来源**: Anthropic：Research（发表成果 · 网页）
 - **原文链接**: [https://www.anthropic.com/research/claude-code-expertise](https://www.anthropic.com/research/claude-code-expertise)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqh1kwnx002asle1lo0di435](https://aihot.virxact.com/items/cmqh1kwnx002asle1lo0di435)
+- **AIHOT 链接**: [https://aihot.news/items/cmqh1kwnx002asle1lo0di435](https://aihot.news/items/cmqh1kwnx002asle1lo0di435)

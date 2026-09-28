@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-25T14:08:17.142Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/announcements/openrouter-mcp-server"
-"canonical_url": "https://aihot.virxact.com/items/cmqtkuscr04g8sl0eoqzwkdm7"
+"canonical_url": "https://aihot.news/items/cmqtkuscr04g8sl0eoqzwkdm7"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter 推出 MCP 服务器，为编程智能体提供实时模型数据、�
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/announcements/openrouter-mcp-server](https://openrouter.ai/blog/announcements/openrouter-mcp-server)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqtkuscr04g8sl0eoqzwkdm7](https://aihot.virxact.com/items/cmqtkuscr04g8sl0eoqzwkdm7)
+- **AIHOT 链接**: [https://aihot.news/items/cmqtkuscr04g8sl0eoqzwkdm7](https://aihot.news/items/cmqtkuscr04g8sl0eoqzwkdm7)

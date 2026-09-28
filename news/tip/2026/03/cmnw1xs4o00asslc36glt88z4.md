@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-22T16:00:00.000Z"
 "source_name": "Anthropic：Research（发表成果 · 网页）"
 "original_url": "https://www.anthropic.com/research/long-running-Claude"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xs4o00asslc36glt88z4"
+"canonical_url": "https://aihot.news/items/cmnw1xs4o00asslc36glt88z4"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 研究员展示了如何将多日智能体编码工作流应用于科�
 
 - **来源**: Anthropic：Research（发表成果 · 网页）
 - **原文链接**: [https://www.anthropic.com/research/long-running-Claude](https://www.anthropic.com/research/long-running-Claude)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xs4o00asslc36glt88z4](https://aihot.virxact.com/items/cmnw1xs4o00asslc36glt88z4)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xs4o00asslc36glt88z4](https://aihot.news/items/cmnw1xs4o00asslc36glt88z4)

@@ -7,7 +7,7 @@
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/measuring-the-impact-of-learning-\
   with-ai-in-sierra-leone-and-beyond"
-"canonical_url": "https://aihot.virxact.com/items/cmq6niqv20a1osl5iixuej5ea"
+"canonical_url": "https://aihot.news/items/cmq6niqv20a1osl5iixuej5ea"
 "score": 56
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond](https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq6niqv20a1osl5iixuej5ea](https://aihot.virxact.com/items/cmq6niqv20a1osl5iixuej5ea)
+- **AIHOT 链接**: [https://aihot.news/items/cmq6niqv20a1osl5iixuej5ea](https://aihot.news/items/cmq6niqv20a1osl5iixuej5ea)

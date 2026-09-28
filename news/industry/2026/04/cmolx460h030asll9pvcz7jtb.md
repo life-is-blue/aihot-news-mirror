@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-30T20:09:55.475Z"
 "source_name": "X：Rohan Paul (@rohanpaul_ai)"
 "original_url": "https://x.com/rohanpaul_ai/status/2049942207277494589"
-"canonical_url": "https://aihot.virxact.com/items/cmolx460h030asll9pvcz7jtb"
+"canonical_url": "https://aihot.news/items/cmolx460h030asll9pvcz7jtb"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Alphabet股价大涨约9%，市值单日增加约4200亿美元，创下历史最
 
 - **来源**: X：Rohan Paul (@rohanpaul_ai)
 - **原文链接**: [https://x.com/rohanpaul_ai/status/2049942207277494589](https://x.com/rohanpaul_ai/status/2049942207277494589)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmolx460h030asll9pvcz7jtb](https://aihot.virxact.com/items/cmolx460h030asll9pvcz7jtb)
+- **AIHOT 链接**: [https://aihot.news/items/cmolx460h030asll9pvcz7jtb](https://aihot.news/items/cmolx460h030asll9pvcz7jtb)

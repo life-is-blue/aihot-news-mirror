@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-19T08:29:01.517Z"
 "source_name": "X：通义千问 / Qwen (@Alibaba_Qwen)"
 "original_url": "https://x.com/Alibaba_Qwen/status/2078754377473601787"
-"canonical_url": "https://aihot.virxact.com/items/cmrrjaxlv030jbihklywu3xy6"
+"canonical_url": "https://aihot.news/items/cmrrjaxlv030jbihklywu3xy6"
 "score": 75
 "content_kind": "news"
 ---
@@ -23,4 +23,4 @@ Qwen3.8 即将发布并很快开源权重！🌐
 
 - **来源**: X：通义千问 / Qwen (@Alibaba_Qwen)
 - **原文链接**: [https://x.com/Alibaba_Qwen/status/2078754377473601787](https://x.com/Alibaba_Qwen/status/2078754377473601787)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrrjaxlv030jbihklywu3xy6](https://aihot.virxact.com/items/cmrrjaxlv030jbihklywu3xy6)
+- **AIHOT 链接**: [https://aihot.news/items/cmrrjaxlv030jbihklywu3xy6](https://aihot.news/items/cmrrjaxlv030jbihklywu3xy6)

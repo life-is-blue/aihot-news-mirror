@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-14T16:38:49.404Z"
 "source_name": "X：Testing Catalog (@testingcatalog)"
 "original_url": "https://x.com/testingcatalog/status/2054957664300404937"
-"canonical_url": "https://aihot.virxact.com/items/cmp5pqmhz0g9isljxvcdu2roq"
+"canonical_url": "https://aihot.news/items/cmp5pqmhz0g9isljxvcdu2roq"
 "score": 76
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ Kimi发布了Kimi Web Bridge，这是一款可与多种代理协同工作的新�
 
 - **来源**: X：Testing Catalog (@testingcatalog)
 - **原文链接**: [https://x.com/testingcatalog/status/2054957664300404937](https://x.com/testingcatalog/status/2054957664300404937)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp5pqmhz0g9isljxvcdu2roq](https://aihot.virxact.com/items/cmp5pqmhz0g9isljxvcdu2roq)
+- **AIHOT 链接**: [https://aihot.news/items/cmp5pqmhz0g9isljxvcdu2roq](https://aihot.news/items/cmp5pqmhz0g9isljxvcdu2roq)

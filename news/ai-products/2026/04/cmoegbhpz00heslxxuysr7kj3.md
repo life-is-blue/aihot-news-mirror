@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-25T14:45:21.202Z"
 "source_name": "Google Developers Blog（RSS）"
 "original_url": "https://developers.googleblog.com/a2ui-v0-9-generative-ui"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhpz00heslxxuysr7kj3"
+"canonical_url": "https://aihot.news/items/cmoegbhpz00heslxxuysr7kj3"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ A2UI v0.9发布了一个框架无关的新标准，旨在帮助AI代理依据公
 
 - **来源**: Google Developers Blog（RSS）
 - **原文链接**: [https://developers.googleblog.com/a2ui-v0-9-generative-ui](https://developers.googleblog.com/a2ui-v0-9-generative-ui)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhpz00heslxxuysr7kj3](https://aihot.virxact.com/items/cmoegbhpz00heslxxuysr7kj3)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhpz00heslxxuysr7kj3](https://aihot.news/items/cmoegbhpz00heslxxuysr7kj3)

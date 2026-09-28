@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-10T15:08:23.185Z"
 "source_name": "X：Greg Brockman (@gdb)"
 "original_url": "https://x.com/gdb/status/2075592729736995209"
-"canonical_url": "https://aihot.virxact.com/items/cmrf2luxz06pxih8e4ag32u0y"
+"canonical_url": "https://aihot.news/items/cmrf2luxz06pxih8e4ag32u0y"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI高管Fidji Simo宣布因慢性疾病加重，辞去全职职务，转为�
 
 - **来源**: X：Greg Brockman (@gdb)
 - **原文链接**: [https://x.com/gdb/status/2075592729736995209](https://x.com/gdb/status/2075592729736995209)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrf2luxz06pxih8e4ag32u0y](https://aihot.virxact.com/items/cmrf2luxz06pxih8e4ag32u0y)
+- **AIHOT 链接**: [https://aihot.news/items/cmrf2luxz06pxih8e4ag32u0y](https://aihot.news/items/cmrf2luxz06pxih8e4ag32u0y)

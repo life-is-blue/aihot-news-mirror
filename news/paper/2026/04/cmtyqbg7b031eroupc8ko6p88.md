@@ -7,7 +7,7 @@
 "source_name": "PromptArmor：Threat Intelligence"
 "original_url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials"
 "canonical_url": "https://aihot.news/items/cmtyqbg7b031eroupc8ko6p88"
-"score": 63
+"score": 64
 "content_kind": "news"
 ---
 

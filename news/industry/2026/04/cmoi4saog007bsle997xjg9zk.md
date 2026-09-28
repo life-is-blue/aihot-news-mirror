@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-28T01:43:37.000Z"
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/0/944/247.htm"
-"canonical_url": "https://aihot.virxact.com/items/cmoi4saog007bsle997xjg9zk"
+"canonical_url": "https://aihot.news/items/cmoi4saog007bsle997xjg9zk"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 2025年未能实现ChatGPT的内部营收和周活用户突破10亿的目
 
 - **来源**: IT之家（RSS）
 - **原文链接**: [https://www.ithome.com/0/944/247.htm](https://www.ithome.com/0/944/247.htm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoi4saog007bsle997xjg9zk](https://aihot.virxact.com/items/cmoi4saog007bsle997xjg9zk)
+- **AIHOT 链接**: [https://aihot.news/items/cmoi4saog007bsle997xjg9zk](https://aihot.news/items/cmoi4saog007bsle997xjg9zk)

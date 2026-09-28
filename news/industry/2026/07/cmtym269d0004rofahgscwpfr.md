@@ -7,7 +7,7 @@
 "source_name": "Modal 官方工程博客（RSS）"
 "original_url": "https://modal.com/blog/a-note-on-the-hugging-face-agent-incident"
 "canonical_url": "https://aihot.news/items/cmtym269d0004rofahgscwpfr"
-"score": 63
+"score": 64
 "content_kind": "news"
 ---
 

@@ -7,7 +7,7 @@
 "source_name": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)"
 "original_url": "https://x.com/Thom_Wolf/status/2097615465698713666"
 "canonical_url": "https://aihot.news/items/cmttwq6oy0pybrofphae4ykhb"
-"score": 77
+"score": 78
 "content_kind": "news"
 ---
 

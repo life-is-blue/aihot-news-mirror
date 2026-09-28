@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-10T17:46:50.781Z"
 "source_name": "Anthropic：Research（发表成果 · 网页）"
 "original_url": "https://www.anthropic.com/research/riemann-zeta"
-"canonical_url": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp"
+"canonical_url": "https://aihot.news/items/cmsnix1by08d3rohfftiex1xp"
 "score": 57
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 员工让 Claude 尝试攻克黎曼猜想，虽未成功，但一个�
 
 - **来源**: Anthropic：Research（发表成果 · 网页）
 - **原文链接**: [https://www.anthropic.com/research/riemann-zeta](https://www.anthropic.com/research/riemann-zeta)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp](https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp)
+- **AIHOT 链接**: [https://aihot.news/items/cmsnix1by08d3rohfftiex1xp](https://aihot.news/items/cmsnix1by08d3rohfftiex1xp)

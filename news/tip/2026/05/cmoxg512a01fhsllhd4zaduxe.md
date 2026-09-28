@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-08T21:47:56.744Z"
 "source_name": "Simon Willison 博客"
 "original_url": "https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html"
-"canonical_url": "https://aihot.virxact.com/items/cmoxg512a01fhsllhd4zaduxe"
+"canonical_url": "https://aihot.news/items/cmoxg512a01fhsllhd4zaduxe"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic公司Claude Code团队的Thariq Shihipar主张，在向Claude等大语
 
 - **来源**: Simon Willison 博客
 - **原文链接**: [https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html](https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoxg512a01fhsllhd4zaduxe](https://aihot.virxact.com/items/cmoxg512a01fhsllhd4zaduxe)
+- **AIHOT 链接**: [https://aihot.news/items/cmoxg512a01fhsllhd4zaduxe](https://aihot.news/items/cmoxg512a01fhsllhd4zaduxe)

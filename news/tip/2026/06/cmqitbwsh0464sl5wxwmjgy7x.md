@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-18T01:20:05.083Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/tutorials/codex-cli-openrouter"
-"canonical_url": "https://aihot.virxact.com/items/cmqitbwsh0464sl5wxwmjgy7x"
+"canonical_url": "https://aihot.news/items/cmqitbwsh0464sl5wxwmjgy7x"
 "score": 57
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Codex CLI 支持自定义 OpenAI 兼容提供商，只需在 config.toml 中配�
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/tutorials/codex-cli-openrouter](https://openrouter.ai/blog/tutorials/codex-cli-openrouter)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqitbwsh0464sl5wxwmjgy7x](https://aihot.virxact.com/items/cmqitbwsh0464sl5wxwmjgy7x)
+- **AIHOT 链接**: [https://aihot.news/items/cmqitbwsh0464sl5wxwmjgy7x](https://aihot.news/items/cmqitbwsh0464sl5wxwmjgy7x)

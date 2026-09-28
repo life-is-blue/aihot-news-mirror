@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-11T16:39:44.578Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/openai-to-acquire-ona"
-"canonical_url": "https://aihot.virxact.com/items/cmq9q3mrj0e8jslld20gniuzv"
+"canonical_url": "https://aihot.news/items/cmq9q3mrj0e8jslld20gniuzv"
 "score": 61
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 计划收购 Ona，以拓展 Codex 的功能，提供安全、持久的�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/openai-to-acquire-ona](https://openai.com/index/openai-to-acquire-ona)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq9q3mrj0e8jslld20gniuzv](https://aihot.virxact.com/items/cmq9q3mrj0e8jslld20gniuzv)
+- **AIHOT 链接**: [https://aihot.news/items/cmq9q3mrj0e8jslld20gniuzv](https://aihot.news/items/cmq9q3mrj0e8jslld20gniuzv)

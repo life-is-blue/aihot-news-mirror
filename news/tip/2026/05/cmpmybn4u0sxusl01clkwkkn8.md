@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-26T18:11:06.012Z"
 "source_name": "Anthropic：Engineering（事故复盘 + 工程实践 · 网页）"
 "original_url": "https://www.anthropic.com/engineering/how-we-contain-claude"
-"canonical_url": "https://aihot.virxact.com/items/cmpmybn4u0sxusl01clkwkkn8"
+"canonical_url": "https://aihot.news/items/cmpmybn4u0sxusl01clkwkkn8"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic通过三重机制控制Claude智能体的部署风险，包括用户�
 
 - **来源**: Anthropic：Engineering（事故复盘 + 工程实践 · 网页）
 - **原文链接**: [https://www.anthropic.com/engineering/how-we-contain-claude](https://www.anthropic.com/engineering/how-we-contain-claude)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpmybn4u0sxusl01clkwkkn8](https://aihot.virxact.com/items/cmpmybn4u0sxusl01clkwkkn8)
+- **AIHOT 链接**: [https://aihot.news/items/cmpmybn4u0sxusl01clkwkkn8](https://aihot.news/items/cmpmybn4u0sxusl01clkwkkn8)

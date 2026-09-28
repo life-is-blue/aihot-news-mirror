@@ -8,7 +8,7 @@
 "original_url": "https://www.promptarmor.com/resources/data-exfiltration-in-ope\
   nai-agent-builder-via-mcp"
 "canonical_url": "https://aihot.news/items/cmtyqbg7c031lroup8o1dntmd"
-"score": 68
+"score": 69
 "content_kind": "news"
 ---
 

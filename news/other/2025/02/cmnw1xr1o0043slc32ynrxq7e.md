@@ -6,7 +6,7 @@
 "discovered_at": "2025-02-09T21:05:32.000Z"
 "source_name": "Sam Altman：Blog（RSS）"
 "original_url": "https://blog.samaltman.com/three-observations"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xr1o0043slc32ynrxq7e"
+"canonical_url": "https://aihot.news/items/cmnw1xr1o0043slc32ynrxq7e"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 阐述关于 AI 经济学的三点观察：模型智能与训练资源的
 
 - **来源**: Sam Altman：Blog（RSS）
 - **原文链接**: [https://blog.samaltman.com/three-observations](https://blog.samaltman.com/three-observations)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xr1o0043slc32ynrxq7e](https://aihot.virxact.com/items/cmnw1xr1o0043slc32ynrxq7e)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xr1o0043slc32ynrxq7e](https://aihot.news/items/cmnw1xr1o0043slc32ynrxq7e)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-10T09:42:59.999Z"
 "source_name": "X：华为云 (@HuaweiCloud1)"
 "original_url": "https://x.com/HuaweiCloud1/status/2064637581652852831"
-"canonical_url": "https://aihot.virxact.com/items/cmq7vrubn024sslepi58d3kyg"
+"canonical_url": "https://aihot.news/items/cmq7vrubn024sslepi58d3kyg"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：华为云 (@HuaweiCloud1)
 - **原文链接**: [https://x.com/HuaweiCloud1/status/2064637581652852831](https://x.com/HuaweiCloud1/status/2064637581652852831)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq7vrubn024sslepi58d3kyg](https://aihot.virxact.com/items/cmq7vrubn024sslepi58d3kyg)
+- **AIHOT 链接**: [https://aihot.news/items/cmq7vrubn024sslepi58d3kyg](https://aihot.news/items/cmq7vrubn024sslepi58d3kyg)

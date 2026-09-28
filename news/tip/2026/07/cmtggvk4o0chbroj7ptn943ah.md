@@ -6,8 +6,8 @@
 "discovered_at": "2026-07-28T00:00:00.000Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://tomtunguz.com/aftermarket-harnesses"
-"canonical_url": "https://aihot.virxact.com/items/cmtggvk4o0chbroj7ptn943ah"
-"score": 66
+"canonical_url": "https://aihot.news/items/cmtggvk4o0chbroj7ptn943ah"
+"score": 67
 "content_kind": "news"
 ---
 
@@ -17,4 +17,4 @@ Endor Labs 测试显示，同一模型在不同 harness 中性能差异巨大：
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://tomtunguz.com/aftermarket-harnesses](https://tomtunguz.com/aftermarket-harnesses)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtggvk4o0chbroj7ptn943ah](https://aihot.virxact.com/items/cmtggvk4o0chbroj7ptn943ah)
+- **AIHOT 链接**: [https://aihot.news/items/cmtggvk4o0chbroj7ptn943ah](https://aihot.news/items/cmtggvk4o0chbroj7ptn943ah)

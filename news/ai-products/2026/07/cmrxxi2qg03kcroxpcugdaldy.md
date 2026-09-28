@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-23T19:53:05.984Z"
 "source_name": "X：OpenAI (@OpenAI)"
 "original_url": "https://x.com/OpenAI/status/2080378182469857576"
-"canonical_url": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy"
+"canonical_url": "https://aihot.news/items/cmrxxi2qg03kcroxpcugdaldy"
 "score": 79
 "content_kind": "news"
 ---
@@ -23,4 +23,4 @@ ChatGPT 语音功能现已登陆桌面应用。
 
 - **来源**: X：OpenAI (@OpenAI)
 - **原文链接**: [https://x.com/OpenAI/status/2080378182469857576](https://x.com/OpenAI/status/2080378182469857576)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy](https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy)
+- **AIHOT 链接**: [https://aihot.news/items/cmrxxi2qg03kcroxpcugdaldy](https://aihot.news/items/cmrxxi2qg03kcroxpcugdaldy)

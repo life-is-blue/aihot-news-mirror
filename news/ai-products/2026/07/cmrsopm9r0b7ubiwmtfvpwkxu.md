@@ -8,7 +8,7 @@
 "original_url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B\
   4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%\
   A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83"
-"canonical_url": "https://aihot.virxact.com/items/cmrsopm9r0b7ubiwmtfvpwkxu"
+"canonical_url": "https://aihot.news/items/cmrsopm9r0b7ubiwmtfvpwkxu"
 "score": 79
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@
 
 - **来源**: 字节 Seed：Research Feed（网页内嵌数据）
 - **原文链接**: [https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83](https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrsopm9r0b7ubiwmtfvpwkxu](https://aihot.virxact.com/items/cmrsopm9r0b7ubiwmtfvpwkxu)
+- **AIHOT 链接**: [https://aihot.news/items/cmrsopm9r0b7ubiwmtfvpwkxu](https://aihot.news/items/cmrsopm9r0b7ubiwmtfvpwkxu)

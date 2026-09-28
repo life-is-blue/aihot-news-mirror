@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-08T12:00:00.000Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/announcements/human-in-the-loop-tools"
-"canonical_url": "https://aihot.virxact.com/items/cmp1f9fw80xoxsllhoycngo1e"
+"canonical_url": "https://aihot.news/items/cmp1f9fw80xoxsllhoycngo1e"
 "score": 56
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter Agent SDK 引入了一种新工具类型，使智能体能够自动�
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/announcements/human-in-the-loop-tools](https://openrouter.ai/announcements/human-in-the-loop-tools)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp1f9fw80xoxsllhoycngo1e](https://aihot.virxact.com/items/cmp1f9fw80xoxsllhoycngo1e)
+- **AIHOT 链接**: [https://aihot.news/items/cmp1f9fw80xoxsllhoycngo1e](https://aihot.news/items/cmp1f9fw80xoxsllhoycngo1e)

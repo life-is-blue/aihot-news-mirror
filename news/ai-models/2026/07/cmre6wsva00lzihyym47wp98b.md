@@ -7,7 +7,7 @@
 "source_name": "Google Research：Blog（网页）"
 "original_url": "https://research.google/blog/sensorfm-towards-a-general-intell\
   igence-and-interface-for-wearable-health-data"
-"canonical_url": "https://aihot.virxact.com/items/cmre6wsva00lzihyym47wp98b"
+"canonical_url": "https://aihot.news/items/cmre6wsva00lzihyym47wp98b"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google Research 发布 SensorFM，一个在超过 100 万亿分钟多模态传�
 
 - **来源**: Google Research：Blog（网页）
 - **原文链接**: [https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data](https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmre6wsva00lzihyym47wp98b](https://aihot.virxact.com/items/cmre6wsva00lzihyym47wp98b)
+- **AIHOT 链接**: [https://aihot.news/items/cmre6wsva00lzihyym47wp98b](https://aihot.news/items/cmre6wsva00lzihyym47wp98b)

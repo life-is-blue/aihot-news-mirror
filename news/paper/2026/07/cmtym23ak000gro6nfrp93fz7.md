@@ -13,7 +13,7 @@
 
 # Fireworks AI 实测 Kimi K3 对标 Fable 5，两模型路由可达 93% 准确率
 
-Fireworks AI 在约 1，030 个真实 agent 任务上对比开源的 Kimi K3 与闭源的 Fable 5，两者总体水平接近（SWE 分别为 92.4% 与 92.6%），但各自擅长不同任务类型。
+Fireworks AI 在约 1,030 个真实 agent 任务上对比开源的 Kimi K3 与闭源的 Fable 5，两者总体水平接近（SWE 分别为 92.4% 与 92.6%），但各自擅长不同任务类型。
 
 - **来源**: Fireworks AI（网页）
 - **原文链接**: [https://fireworks.ai/blog/kimik3-fable](https://fireworks.ai/blog/kimik3-fable)

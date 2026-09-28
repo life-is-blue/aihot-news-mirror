@@ -14,7 +14,7 @@
 
 # DeepSWE 实测：GLM-5.3 与 Claude Fable 5 在成本、编码与路由上的对比
 
-Together AI 在 DeepSWE 全部 113 个任务、每任务 4 次试验（共 904 次 rollout）上对比 GLM-5.3 （max） 与 Claude Fable 5 （max）。
+Together AI 在 DeepSWE 全部 113 个任务、每任务 4 次试验（共 904 次 rollout）上对比 GLM-5.3 (max) 与 Claude Fable 5 (max)。
 
 - **来源**: Together AI 研究与产品博客（RSS）
 - **原文链接**: [https://www.together.ai/blog/glm-5-3-vs-claude-fable-5-on-deepswe-cost-coding-and-routing](https://www.together.ai/blog/glm-5-3-vs-claude-fable-5-on-deepswe-cost-coding-and-routing)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-08T00:00:00.000Z"
 "source_name": "Claude Platform：开发者版本说明（RSS）"
 "original_url": "https://platform.claude.com/docs/en/release-notes/overview#april-8-2026"
-"canonical_url": "https://aihot.virxact.com/items/cms3gt4xx01zfrondaq78xu9o"
+"canonical_url": "https://aihot.news/items/cms3gt4xx01zfrondaq78xu9o"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude 发布 Managed Agents 公开测试版，这是一个完全托管的智能
 
 - **来源**: Claude Platform：开发者版本说明（RSS）
 - **原文链接**: [https://platform.claude.com/docs/en/release-notes/overview#april-8-2026](https://platform.claude.com/docs/en/release-notes/overview#april-8-2026)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3gt4xx01zfrondaq78xu9o](https://aihot.virxact.com/items/cms3gt4xx01zfrondaq78xu9o)
+- **AIHOT 链接**: [https://aihot.news/items/cms3gt4xx01zfrondaq78xu9o](https://aihot.news/items/cms3gt4xx01zfrondaq78xu9o)

@@ -8,7 +8,7 @@
 "original_url": "https://arstechnica.com/security/2026/09/muse-metas-extraordin\
   arily-privileged-ai-assistant-has-a-serious-0-day"
 "canonical_url": "https://aihot.news/items/cmud3b5q504b9rov6qig73auy"
-"score": 79
+"score": 80
 "content_kind": "news"
 ---
 

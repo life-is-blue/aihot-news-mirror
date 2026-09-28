@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-02T11:14:13.893Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://senior-swe-bench.snorkel.ai/"
-"canonical_url": "https://aihot.virxact.com/items/cmr3epwmy008bsllx0y68akps"
+"canonical_url": "https://aihot.news/items/cmr3epwmy008bsllx0y68akps"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Senior SWE-Bench是一个开源基准测试，用于评估AI智能体完成高�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://senior-swe-bench.snorkel.ai/](https://senior-swe-bench.snorkel.ai/)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr3epwmy008bsllx0y68akps](https://aihot.virxact.com/items/cmr3epwmy008bsllx0y68akps)
+- **AIHOT 链接**: [https://aihot.news/items/cmr3epwmy008bsllx0y68akps](https://aihot.news/items/cmr3epwmy008bsllx0y68akps)

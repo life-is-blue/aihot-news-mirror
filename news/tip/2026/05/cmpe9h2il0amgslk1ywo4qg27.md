@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-20T16:13:20.819Z"
 "source_name": "X：OpenRouter (@OpenRouter)"
 "original_url": "https://x.com/OpenRouter/status/2057128446300737702"
-"canonical_url": "https://aihot.virxact.com/items/cmpe9h2il0amgslk1ywo4qg27"
+"canonical_url": "https://aihot.news/items/cmpe9h2il0amgslk1ywo4qg27"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenRouter会将你的会话固定在一个模型/提供商上，直到缓存过
 
 - **来源**: X：OpenRouter (@OpenRouter)
 - **原文链接**: [https://x.com/OpenRouter/status/2057128446300737702](https://x.com/OpenRouter/status/2057128446300737702)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpe9h2il0amgslk1ywo4qg27](https://aihot.virxact.com/items/cmpe9h2il0amgslk1ywo4qg27)
+- **AIHOT 链接**: [https://aihot.news/items/cmpe9h2il0amgslk1ywo4qg27](https://aihot.news/items/cmpe9h2il0amgslk1ywo4qg27)

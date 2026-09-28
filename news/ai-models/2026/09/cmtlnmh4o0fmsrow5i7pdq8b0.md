@@ -7,7 +7,7 @@
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/introducing-weathernext-3-our-mos\
   t-advanced-and-accurate-global-weather-ai-model"
-"canonical_url": "https://aihot.virxact.com/items/cmtlnmh4o0fmsrow5i7pdq8b0"
+"canonical_url": "https://aihot.news/items/cmtlnmh4o0fmsrow5i7pdq8b0"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google DeepMind 与 Google Research 发布 WeatherNext 3，称其为迄今最先
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model](https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtlnmh4o0fmsrow5i7pdq8b0](https://aihot.virxact.com/items/cmtlnmh4o0fmsrow5i7pdq8b0)
+- **AIHOT 链接**: [https://aihot.news/items/cmtlnmh4o0fmsrow5i7pdq8b0](https://aihot.news/items/cmtlnmh4o0fmsrow5i7pdq8b0)

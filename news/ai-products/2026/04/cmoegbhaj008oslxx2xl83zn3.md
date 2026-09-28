@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-15T09:25:20.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/Hcompany/holotab"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhaj008oslxx2xl83zn3"
+"canonical_url": "https://aihot.news/items/cmoegbhaj008oslxx2xl83zn3"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ H公司在Hugging Face平台发布博客，正式推出AI浏览器伴侣HoloTab�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/Hcompany/holotab](https://huggingface.co/blog/Hcompany/holotab)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhaj008oslxx2xl83zn3](https://aihot.virxact.com/items/cmoegbhaj008oslxx2xl83zn3)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhaj008oslxx2xl83zn3](https://aihot.news/items/cmoegbhaj008oslxx2xl83zn3)

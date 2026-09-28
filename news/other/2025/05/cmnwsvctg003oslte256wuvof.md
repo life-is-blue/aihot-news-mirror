@@ -6,7 +6,7 @@
 "discovered_at": "2025-05-01T04:00:00.000Z"
 "source_name": "Ethan Mollick：One Useful Thing（RSS）"
 "original_url": "https://www.oneusefulthing.org/p/personality-and-persuasion"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsvctg003oslte256wuvof"
+"canonical_url": "https://aihot.news/items/cmnwsvctg003oslte256wuvof"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Ethan Mollick：One Useful Thing（RSS）
 - **原文链接**: [https://www.oneusefulthing.org/p/personality-and-persuasion](https://www.oneusefulthing.org/p/personality-and-persuasion)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsvctg003oslte256wuvof](https://aihot.virxact.com/items/cmnwsvctg003oslte256wuvof)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsvctg003oslte256wuvof](https://aihot.news/items/cmnwsvctg003oslte256wuvof)

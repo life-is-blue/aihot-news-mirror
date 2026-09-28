@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-30T17:28:28.530Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/getting-started-with-loops"
-"canonical_url": "https://aihot.virxact.com/items/cmr0x7y97001yslb3tyb8w4ce"
+"canonical_url": "https://aihot.news/items/cmr0x7y97001yslb3tyb8w4ce"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Code 团队将智能体循环定义为 agent 重复工作直到满足停�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/getting-started-with-loops](https://claude.com/blog/getting-started-with-loops)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr0x7y97001yslb3tyb8w4ce](https://aihot.virxact.com/items/cmr0x7y97001yslb3tyb8w4ce)
+- **AIHOT 链接**: [https://aihot.news/items/cmr0x7y97001yslb3tyb8w4ce](https://aihot.news/items/cmr0x7y97001yslb3tyb8w4ce)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-20T21:35:48.898Z"
 "source_name": "X：Google AI for Developers (@googleaidevs)"
 "original_url": "https://x.com/googleaidevs/status/2057209295763300785"
-"canonical_url": "https://aihot.virxact.com/items/cmpekzpha0dc3slk1bphli6rh"
+"canonical_url": "https://aihot.news/items/cmpekzpha0dc3slk1bphli6rh"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google推出了其AI设计伙伴Stitch的多项重要更新。新功能支持实
 
 - **来源**: X：Google AI for Developers (@googleaidevs)
 - **原文链接**: [https://x.com/googleaidevs/status/2057209295763300785](https://x.com/googleaidevs/status/2057209295763300785)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpekzpha0dc3slk1bphli6rh](https://aihot.virxact.com/items/cmpekzpha0dc3slk1bphli6rh)
+- **AIHOT 链接**: [https://aihot.news/items/cmpekzpha0dc3slk1bphli6rh](https://aihot.news/items/cmpekzpha0dc3slk1bphli6rh)

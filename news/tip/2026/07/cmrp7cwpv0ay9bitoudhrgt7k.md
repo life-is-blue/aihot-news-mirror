@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-17T17:19:05.959Z"
 "source_name": "X：Artificial Analysis (@ArtificialAnlys)"
 "original_url": "https://x.com/ArtificialAnlys/status/2078165665278730490"
-"canonical_url": "https://aihot.virxact.com/items/cmrp7cwpv0ay9bitoudhrgt7k"
+"canonical_url": "https://aihot.news/items/cmrp7cwpv0ay9bitoudhrgt7k"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：Artificial Analysis (@ArtificialAnlys)
 - **原文链接**: [https://x.com/ArtificialAnlys/status/2078165665278730490](https://x.com/ArtificialAnlys/status/2078165665278730490)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrp7cwpv0ay9bitoudhrgt7k](https://aihot.virxact.com/items/cmrp7cwpv0ay9bitoudhrgt7k)
+- **AIHOT 链接**: [https://aihot.news/items/cmrp7cwpv0ay9bitoudhrgt7k](https://aihot.news/items/cmrp7cwpv0ay9bitoudhrgt7k)

@@ -6,7 +6,7 @@
 "discovered_at": "2025-06-29T16:00:00.000Z"
 "source_name": "Suno：Blog（网页）"
 "original_url": "https://suno.com/blog/suno-acquires-wavtool"
-"canonical_url": "https://aihot.virxact.com/items/cmprbc2rf0cjyslnogn63r4ox"
+"canonical_url": "https://aihot.news/items/cmprbc2rf0cjyslnogn63r4ox"
 "score": 55
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Suno：Blog（网页）
 - **原文链接**: [https://suno.com/blog/suno-acquires-wavtool](https://suno.com/blog/suno-acquires-wavtool)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmprbc2rf0cjyslnogn63r4ox](https://aihot.virxact.com/items/cmprbc2rf0cjyslnogn63r4ox)
+- **AIHOT 链接**: [https://aihot.news/items/cmprbc2rf0cjyslnogn63r4ox](https://aihot.news/items/cmprbc2rf0cjyslnogn63r4ox)

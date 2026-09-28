@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-27T01:58:00.000Z"
 "source_name": "公众号：数字生命卡兹克"
 "original_url": "https://mp.weixin.qq.com/s/5kgVdLNABViv8uAnD0M6Ag"
-"canonical_url": "https://aihot.virxact.com/items/cmq2lrvf800l6sl6nnpa71ftm"
+"canonical_url": "https://aihot.news/items/cmq2lrvf800l6sl6nnpa71ftm"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: 公众号：数字生命卡兹克
 - **原文链接**: [https://mp.weixin.qq.com/s/5kgVdLNABViv8uAnD0M6Ag](https://mp.weixin.qq.com/s/5kgVdLNABViv8uAnD0M6Ag)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq2lrvf800l6sl6nnpa71ftm](https://aihot.virxact.com/items/cmq2lrvf800l6sl6nnpa71ftm)
+- **AIHOT 链接**: [https://aihot.news/items/cmq2lrvf800l6sl6nnpa71ftm](https://aihot.news/items/cmq2lrvf800l6sl6nnpa71ftm)

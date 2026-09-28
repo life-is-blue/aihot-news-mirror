@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-27T03:19:20.111Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2605.27235"
-"canonical_url": "https://aihot.virxact.com/items/cmpnhwild0xr0sl01guxfodgi"
+"canonical_url": "https://aihot.news/items/cmpnhwild0xr0sl01guxfodgi"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ MRT是一个20B参数的掩码区域扩散模型，专为多层透明图像生�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2605.27235](https://arxiv.org/abs/2605.27235)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpnhwild0xr0sl01guxfodgi](https://aihot.virxact.com/items/cmpnhwild0xr0sl01guxfodgi)
+- **AIHOT 链接**: [https://aihot.news/items/cmpnhwild0xr0sl01guxfodgi](https://aihot.news/items/cmpnhwild0xr0sl01guxfodgi)

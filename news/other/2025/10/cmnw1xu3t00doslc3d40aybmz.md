@@ -6,7 +6,7 @@
 "discovered_at": "2025-10-29T16:00:00.000Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/building-ai-agents-in-financial-services"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xu3t00doslc3d40aybmz"
+"canonical_url": "https://aihot.news/items/cmnw1xu3t00doslc3d40aybmz"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude 发布金融服务 AI 代理构建指南，分享 NBIM、Brex 等机构�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/building-ai-agents-in-financial-services](https://claude.com/blog/building-ai-agents-in-financial-services)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xu3t00doslc3d40aybmz](https://aihot.virxact.com/items/cmnw1xu3t00doslc3d40aybmz)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xu3t00doslc3d40aybmz](https://aihot.news/items/cmnw1xu3t00doslc3d40aybmz)

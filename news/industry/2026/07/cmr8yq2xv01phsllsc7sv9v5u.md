@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-06T08:33:02.716Z"
 "source_name": "Runway：News（网页）"
 "original_url": "https://runwayml.com/news/announcing-our-paris-office"
-"canonical_url": "https://aihot.virxact.com/items/cmr8yq2xv01phsllsc7sv9v5u"
+"canonical_url": "https://aihot.news/items/cmr8yq2xv01phsllsc7sv9v5u"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Runway：News（网页）
 - **原文链接**: [https://runwayml.com/news/announcing-our-paris-office](https://runwayml.com/news/announcing-our-paris-office)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr8yq2xv01phsllsc7sv9v5u](https://aihot.virxact.com/items/cmr8yq2xv01phsllsc7sv9v5u)
+- **AIHOT 链接**: [https://aihot.news/items/cmr8yq2xv01phsllsc7sv9v5u](https://aihot.news/items/cmr8yq2xv01phsllsc7sv9v5u)

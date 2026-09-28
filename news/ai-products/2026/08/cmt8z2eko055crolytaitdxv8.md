@@ -7,7 +7,7 @@
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/claudes-memory-works-everywhere-and-yo\
   u-decide-whats-in-it"
-"canonical_url": "https://aihot.virxact.com/items/cmt8z2eko055crolytaitdxv8"
+"canonical_url": "https://aihot.news/items/cmt8z2eko055crolytaitdxv8"
 "score": 67
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Claude 即日起将聊天与 Claude Cowork 的记忆统一，用户在任一场�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it](https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt8z2eko055crolytaitdxv8](https://aihot.virxact.com/items/cmt8z2eko055crolytaitdxv8)
+- **AIHOT 链接**: [https://aihot.news/items/cmt8z2eko055crolytaitdxv8](https://aihot.news/items/cmt8z2eko055crolytaitdxv8)

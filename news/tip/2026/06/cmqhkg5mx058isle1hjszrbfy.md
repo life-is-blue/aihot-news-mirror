@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-17T04:23:40.872Z"
 "source_name": "X：Greg Brockman (@gdb)"
 "original_url": "https://x.com/gdb/status/2067100786098831681"
-"canonical_url": "https://aihot.virxact.com/items/cmqhkg5mx058isle1hjszrbfy"
+"canonical_url": "https://aihot.news/items/cmqhkg5mx058isle1hjszrbfy"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Greg Brockman 称 GPT-Realtime-2 是全新事物。@per_simmons_ 体验数周后
 
 - **来源**: X：Greg Brockman (@gdb)
 - **原文链接**: [https://x.com/gdb/status/2067100786098831681](https://x.com/gdb/status/2067100786098831681)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqhkg5mx058isle1hjszrbfy](https://aihot.virxact.com/items/cmqhkg5mx058isle1hjszrbfy)
+- **AIHOT 链接**: [https://aihot.news/items/cmqhkg5mx058isle1hjszrbfy](https://aihot.news/items/cmqhkg5mx058isle1hjszrbfy)

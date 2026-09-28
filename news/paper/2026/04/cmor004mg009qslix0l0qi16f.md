@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-30T00:00:00.000Z"
 "source_name": "Apple Machine Learning Research（RSS）"
 "original_url": "https://machinelearning.apple.com/research/starflow-v-video-modeling"
-"canonical_url": "https://aihot.virxact.com/items/cmor004mg009qslix0l0qi16f"
+"canonical_url": "https://aihot.news/items/cmor004mg009qslix0l0qi16f"
 "score": 63
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Apple Machine Learning Research（RSS）
 - **原文链接**: [https://machinelearning.apple.com/research/starflow-v-video-modeling](https://machinelearning.apple.com/research/starflow-v-video-modeling)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmor004mg009qslix0l0qi16f](https://aihot.virxact.com/items/cmor004mg009qslix0l0qi16f)
+- **AIHOT 链接**: [https://aihot.news/items/cmor004mg009qslix0l0qi16f](https://aihot.news/items/cmor004mg009qslix0l0qi16f)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-15T16:13:02.350Z"
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/nvidia-joins-ai-debt-boom-with-20-billion-bond-sale"
-"canonical_url": "https://aihot.virxact.com/items/cmqfewpje00u4sl2awgrmj4ke"
+"canonical_url": "https://aihot.news/items/cmqfewpje00u4sl2awgrmj4ke"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Nvidia 计划通过自 2021 年以来的首次债券发行筹集至少 200 亿�
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/nvidia-joins-ai-debt-boom-with-20-billion-bond-sale](https://the-decoder.com/nvidia-joins-ai-debt-boom-with-20-billion-bond-sale)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqfewpje00u4sl2awgrmj4ke](https://aihot.virxact.com/items/cmqfewpje00u4sl2awgrmj4ke)
+- **AIHOT 链接**: [https://aihot.news/items/cmqfewpje00u4sl2awgrmj4ke](https://aihot.news/items/cmqfewpje00u4sl2awgrmj4ke)

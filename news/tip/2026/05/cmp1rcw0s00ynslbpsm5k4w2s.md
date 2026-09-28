@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-11T22:13:03.782Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/signals/research/2026q1-update"
-"canonical_url": "https://aihot.virxact.com/items/cmp1rcw0s00ynslbpsm5k4w2s"
+"canonical_url": "https://aihot.news/items/cmp1rcw0s00ynslbpsm5k4w2s"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/signals/research/2026q1-update](https://openai.com/signals/research/2026q1-update)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp1rcw0s00ynslbpsm5k4w2s](https://aihot.virxact.com/items/cmp1rcw0s00ynslbpsm5k4w2s)
+- **AIHOT 链接**: [https://aihot.news/items/cmp1rcw0s00ynslbpsm5k4w2s](https://aihot.news/items/cmp1rcw0s00ynslbpsm5k4w2s)

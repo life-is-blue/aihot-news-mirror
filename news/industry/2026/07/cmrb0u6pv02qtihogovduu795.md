@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases\
   -out-openai-and-anthropic-models-to-cut-costs"
-"canonical_url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795"
+"canonical_url": "https://aihot.news/items/cmrb0u6pv02qtihogovduu795"
 "score": 71
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs](https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795](https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795)
+- **AIHOT 链接**: [https://aihot.news/items/cmrb0u6pv02qtihogovduu795](https://aihot.news/items/cmrb0u6pv02qtihogovduu795)

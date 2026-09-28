@@ -6,7 +6,7 @@
 "discovered_at": "2025-10-23T18:40:34.000Z"
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/introducing-the-gemini-25-computer-use-model"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsdqam004wslag1fpfp4zf"
+"canonical_url": "https://aihot.news/items/cmnwsdqam004wslag1fpfp4zf"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Gemini 2.5 Computer Use 模型基于 Gemini 2.5 Pro 构建，专门用于驱动�
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/introducing-the-gemini-25-computer-use-model](https://deepmind.google/blog/introducing-the-gemini-25-computer-use-model)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsdqam004wslag1fpfp4zf](https://aihot.virxact.com/items/cmnwsdqam004wslag1fpfp4zf)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsdqam004wslag1fpfp4zf](https://aihot.news/items/cmnwsdqam004wslag1fpfp4zf)

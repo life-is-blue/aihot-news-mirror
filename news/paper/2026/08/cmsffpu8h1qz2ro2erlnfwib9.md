@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-05T01:55:06.514Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2608.03316"
-"canonical_url": "https://aihot.virxact.com/items/cmsffpu8h1qz2ro2erlnfwib9"
+"canonical_url": "https://aihot.news/items/cmsffpu8h1qz2ro2erlnfwib9"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Any-OPD 提出首个支持任意异构流匹配生成器对的同策略蒸馏框
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2608.03316](https://arxiv.org/abs/2608.03316)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsffpu8h1qz2ro2erlnfwib9](https://aihot.virxact.com/items/cmsffpu8h1qz2ro2erlnfwib9)
+- **AIHOT 链接**: [https://aihot.news/items/cmsffpu8h1qz2ro2erlnfwib9](https://aihot.news/items/cmsffpu8h1qz2ro2erlnfwib9)

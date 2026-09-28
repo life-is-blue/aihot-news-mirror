@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-09T13:40:30.163Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/reflect-with-claude"
-"canonical_url": "https://aihot.virxact.com/items/cmrdk0zfw04ixih4b84colsmb"
+"canonical_url": "https://aihot.news/items/cmrdk0zfw04ixih4b84colsmb"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 为 Claude 推出一项反思功能（Beta），帮助用户追踪使�
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/reflect-with-claude](https://www.anthropic.com/news/reflect-with-claude)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrdk0zfw04ixih4b84colsmb](https://aihot.virxact.com/items/cmrdk0zfw04ixih4b84colsmb)
+- **AIHOT 链接**: [https://aihot.news/items/cmrdk0zfw04ixih4b84colsmb](https://aihot.news/items/cmrdk0zfw04ixih4b84colsmb)

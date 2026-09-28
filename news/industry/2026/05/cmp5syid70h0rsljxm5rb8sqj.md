@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-14T18:08:48.071Z"
 "source_name": "X：小北 (@frxiaobei)"
 "original_url": "https://x.com/frxiaobei/status/2054981573150449754"
-"canonical_url": "https://aihot.virxact.com/items/cmp5syid70h0rsljxm5rb8sqj"
+"canonical_url": "https://aihot.news/items/cmp5syid70h0rsljxm5rb8sqj"
 "score": 80
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenEvidence已覆盖65%的美国医生，4月单月临床场景使用达2700万
 
 - **来源**: X：小北 (@frxiaobei)
 - **原文链接**: [https://x.com/frxiaobei/status/2054981573150449754](https://x.com/frxiaobei/status/2054981573150449754)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp5syid70h0rsljxm5rb8sqj](https://aihot.virxact.com/items/cmp5syid70h0rsljxm5rb8sqj)
+- **AIHOT 链接**: [https://aihot.news/items/cmp5syid70h0rsljxm5rb8sqj](https://aihot.news/items/cmp5syid70h0rsljxm5rb8sqj)

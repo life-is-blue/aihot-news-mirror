@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-24T16:16:15.000Z"
 "source_name": "LangChain：Blog（RSS）"
 "original_url": "https://www.langchain.com/blog/how-to-give-your-agent-memory"
-"canonical_url": "https://aihot.virxact.com/items/cms3x0dh503b6ro82lztvzt1u"
+"canonical_url": "https://aihot.news/items/cms3x0dh503b6ro82lztvzt1u"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ LangChain 发布了一份关于 AI 智能体记忆构建的实用指南，涵盖
 
 - **来源**: LangChain：Blog（RSS）
 - **原文链接**: [https://www.langchain.com/blog/how-to-give-your-agent-memory](https://www.langchain.com/blog/how-to-give-your-agent-memory)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3x0dh503b6ro82lztvzt1u](https://aihot.virxact.com/items/cms3x0dh503b6ro82lztvzt1u)
+- **AIHOT 链接**: [https://aihot.news/items/cms3x0dh503b6ro82lztvzt1u](https://aihot.news/items/cms3x0dh503b6ro82lztvzt1u)

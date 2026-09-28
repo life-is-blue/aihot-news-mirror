@@ -7,7 +7,7 @@
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/collaborate-with-claude-across-excel-p\
   owerpoint-word-and-outlook"
-"canonical_url": "https://aihot.virxact.com/items/cmovu1k5j00cbslcxfdtkl5tg"
+"canonical_url": "https://aihot.news/items/cmovu1k5j00cbslcxfdtkl5tg"
 "score": 85
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Claude for Excel、PowerPoint和Word现已全面上市，Outlook版本开放公�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook](https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmovu1k5j00cbslcxfdtkl5tg](https://aihot.virxact.com/items/cmovu1k5j00cbslcxfdtkl5tg)
+- **AIHOT 链接**: [https://aihot.news/items/cmovu1k5j00cbslcxfdtkl5tg](https://aihot.news/items/cmovu1k5j00cbslcxfdtkl5tg)

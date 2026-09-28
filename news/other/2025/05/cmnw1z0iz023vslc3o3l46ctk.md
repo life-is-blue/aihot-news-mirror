@@ -6,7 +6,7 @@
 "discovered_at": "2025-05-21T17:19:52.000Z"
 "source_name": "Hacker News：AI 热帖"
 "original_url": "https://github.com/lastmile-ai/mcp-agent/tree/main/examples/mcp_agent_server"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1z0iz023vslc3o3l46ctk"
+"canonical_url": "https://aihot.news/items/cmnw1z0iz023vslc3o3l46ctk"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ MCP Agent Server示例展示了将Agent工作流封装为MCP服务器的"Agent�
 
 - **来源**: Hacker News：AI 热帖
 - **原文链接**: [https://github.com/lastmile-ai/mcp-agent/tree/main/examples/mcp_agent_server](https://github.com/lastmile-ai/mcp-agent/tree/main/examples/mcp_agent_server)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1z0iz023vslc3o3l46ctk](https://aihot.virxact.com/items/cmnw1z0iz023vslc3o3l46ctk)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1z0iz023vslc3o3l46ctk](https://aihot.news/items/cmnw1z0iz023vslc3o3l46ctk)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-04T12:42:52.586Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data"
-"canonical_url": "https://aihot.virxact.com/items/cmpzhk1rp03k5slkpmx3q7mp3"
+"canonical_url": "https://aihot.news/items/cmpzhk1rp03k5slkpmx3q7mp3"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ EVA-Bench Data 2.0 将评估范围从单一企业领域扩展至航空公司客�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/ServiceNow-AI/eva-bench-data](https://huggingface.co/blog/ServiceNow-AI/eva-bench-data)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpzhk1rp03k5slkpmx3q7mp3](https://aihot.virxact.com/items/cmpzhk1rp03k5slkpmx3q7mp3)
+- **AIHOT 链接**: [https://aihot.news/items/cmpzhk1rp03k5slkpmx3q7mp3](https://aihot.news/items/cmpzhk1rp03k5slkpmx3q7mp3)

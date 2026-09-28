@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-12T18:23:01.544Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/grok-4-6"
-"canonical_url": "https://aihot.virxact.com/items/cmsqf39o0015groxvnc7oiwop"
+"canonical_url": "https://aihot.news/items/cmsqf39o0015groxvnc7oiwop"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Cursor 与 SpaceXAI 今日发布 Grok 4.6，重点强化长时运行智能体与
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/grok-4-6](https://cursor.com/blog/grok-4-6)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsqf39o0015groxvnc7oiwop](https://aihot.virxact.com/items/cmsqf39o0015groxvnc7oiwop)
+- **AIHOT 链接**: [https://aihot.news/items/cmsqf39o0015groxvnc7oiwop](https://aihot.news/items/cmsqf39o0015groxvnc7oiwop)

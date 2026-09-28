@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-29T12:00:00.000Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/guardrails"
-"canonical_url": "https://aihot.virxact.com/items/cmq29zxqw00gqslop5o8v04r0"
+"canonical_url": "https://aihot.news/items/cmq29zxqw00gqslop5o8v04r0"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter 推出 Guardrails，一套可配置的安全与治理工具，支持�
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/guardrails](https://openrouter.ai/blog/guardrails)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq29zxqw00gqslop5o8v04r0](https://aihot.virxact.com/items/cmq29zxqw00gqslop5o8v04r0)
+- **AIHOT 链接**: [https://aihot.news/items/cmq29zxqw00gqslop5o8v04r0](https://aihot.news/items/cmq29zxqw00gqslop5o8v04r0)

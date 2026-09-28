@@ -7,7 +7,7 @@
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/introducing-codemender-an-ai-agen\
   t-for-code-security"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsdqal004pslagcgrbm66o"
+"canonical_url": "https://aihot.news/items/cmnwsdqal004pslagcgrbm66o"
 "score": null
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ CodeMender 是一款面向代码安全的 AI 智能体，利用先进 AI 技术�
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/introducing-codemender-an-ai-agent-for-code-security](https://deepmind.google/blog/introducing-codemender-an-ai-agent-for-code-security)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsdqal004pslagcgrbm66o](https://aihot.virxact.com/items/cmnwsdqal004pslagcgrbm66o)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsdqal004pslagcgrbm66o](https://aihot.news/items/cmnwsdqal004pslagcgrbm66o)

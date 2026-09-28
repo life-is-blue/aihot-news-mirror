@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-24T00:13:31.744Z"
 "source_name": "Claude Code：GitHub Releases（RSS）"
 "original_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.119"
-"canonical_url": "https://aihot.virxact.com/items/cmoc5qgu201m0slsjxvkubrde"
+"canonical_url": "https://aihot.news/items/cmoc5qgu201m0slsjxvkubrde"
 "score": 56
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude 代码工具发布 v2.1.119 版本，带来多项功能优化与问题修
 
 - **来源**: Claude Code：GitHub Releases（RSS）
 - **原文链接**: [https://github.com/anthropics/claude-code/releases/tag/v2.1.119](https://github.com/anthropics/claude-code/releases/tag/v2.1.119)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoc5qgu201m0slsjxvkubrde](https://aihot.virxact.com/items/cmoc5qgu201m0slsjxvkubrde)
+- **AIHOT 链接**: [https://aihot.news/items/cmoc5qgu201m0slsjxvkubrde](https://aihot.news/items/cmoc5qgu201m0slsjxvkubrde)

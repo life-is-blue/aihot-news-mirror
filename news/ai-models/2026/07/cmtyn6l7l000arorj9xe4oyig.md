@@ -8,7 +8,7 @@
 "original_url": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-exten\
   ding-open-foundation-models-for-weather-and-earth-system-applications"
 "canonical_url": "https://aihot.news/items/cmtyn6l7l000arorj9xe4oyig"
-"score": 64
+"score": 65
 "content_kind": "news"
 ---
 

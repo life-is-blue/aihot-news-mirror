@@ -8,7 +8,7 @@
 "original_url": "https://www.promptarmor.com/resources/llm-data-exfiltration-vi\
   a-url-previews-(with-openclaw-example-and-test)"
 "canonical_url": "https://aihot.news/items/cmtyqbg7c031kroupdok5vy1d"
-"score": 71
+"score": 72
 "content_kind": "news"
 ---
 

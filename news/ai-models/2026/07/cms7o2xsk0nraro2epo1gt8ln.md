@@ -8,7 +8,7 @@
 "original_url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-rob\
   otics-with-video-understanding-task-orchestration-and-multi-robot-collaborati\
   on"
-"canonical_url": "https://aihot.virxact.com/items/cms7o2xsk0nraro2epo1gt8ln"
+"canonical_url": "https://aihot.news/items/cms7o2xsk0nraro2epo1gt8ln"
 "score": 60
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Google DeepMind 推出 Gemini Robotics ER 2，一个基于 Gemini 的机器人�
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration](https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms7o2xsk0nraro2epo1gt8ln](https://aihot.virxact.com/items/cms7o2xsk0nraro2epo1gt8ln)
+- **AIHOT 链接**: [https://aihot.news/items/cms7o2xsk0nraro2epo1gt8ln](https://aihot.news/items/cms7o2xsk0nraro2epo1gt8ln)

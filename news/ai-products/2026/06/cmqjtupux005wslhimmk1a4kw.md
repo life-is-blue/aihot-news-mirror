@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-18T18:22:28.993Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
-"canonical_url": "https://aihot.virxact.com/items/cmqjtupux005wslhimmk1a4kw"
+"canonical_url": "https://aihot.news/items/cmqjtupux005wslhimmk1a4kw"
 "score": 82
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/improving-health-intelligence-in-chatgpt](https://openai.com/index/improving-health-intelligence-in-chatgpt)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqjtupux005wslhimmk1a4kw](https://aihot.virxact.com/items/cmqjtupux005wslhimmk1a4kw)
+- **AIHOT 链接**: [https://aihot.news/items/cmqjtupux005wslhimmk1a4kw](https://aihot.news/items/cmqjtupux005wslhimmk1a4kw)

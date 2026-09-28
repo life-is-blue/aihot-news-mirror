@@ -7,7 +7,7 @@
 "source_name": "Ars Technica：AI（RSS）"
 "original_url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-mo\
   del-bought-forecasters-an-extra-day"
-"canonical_url": "https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7"
+"canonical_url": "https://aihot.news/items/cmsk9yb97046zrow93i345be7"
 "score": 77
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google DeepMind 与 Google Research 开发的 AI 模型 WeatherNext，在 2025 �
 
 - **来源**: Ars Technica：AI（RSS）
 - **原文链接**: [https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day](https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7](https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7)
+- **AIHOT 链接**: [https://aihot.news/items/cmsk9yb97046zrow93i345be7](https://aihot.news/items/cmsk9yb97046zrow93i345be7)

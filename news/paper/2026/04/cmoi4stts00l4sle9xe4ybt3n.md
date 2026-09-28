@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-28T00:28:13.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging"
-"canonical_url": "https://aihot.virxact.com/items/cmoi4stts00l4sle9xe4ybt3n"
+"canonical_url": "https://aihot.news/items/cmoi4stts00l4sle9xe4ybt3n"
 "score": 58
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ NVIDIA 在 Hugging Face 上发布了一款名为 NV-Raw2Insights-US 的物理信
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging](https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoi4stts00l4sle9xe4ybt3n](https://aihot.virxact.com/items/cmoi4stts00l4sle9xe4ybt3n)
+- **AIHOT 链接**: [https://aihot.news/items/cmoi4stts00l4sle9xe4ybt3n](https://aihot.news/items/cmoi4stts00l4sle9xe4ybt3n)

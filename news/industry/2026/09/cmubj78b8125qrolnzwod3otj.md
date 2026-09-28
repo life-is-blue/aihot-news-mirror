@@ -7,7 +7,7 @@
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
 "canonical_url": "https://aihot.news/items/cmubj78b8125qrolnzwod3otj"
-"score": 75
+"score": 76
 "content_kind": "news"
 ---
 

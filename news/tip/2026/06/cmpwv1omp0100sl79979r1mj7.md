@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-02T16:37:11.932Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://www.tomtunguz.com/the-thriving-ecosystem-of-open-models"
-"canonical_url": "https://aihot.virxact.com/items/cmpwv1omp0100sl79979r1mj7"
+"canonical_url": "https://aihot.news/items/cmpwv1omp0100sl79979r1mj7"
 "score": 61
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://www.tomtunguz.com/the-thriving-ecosystem-of-open-models](https://www.tomtunguz.com/the-thriving-ecosystem-of-open-models)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpwv1omp0100sl79979r1mj7](https://aihot.virxact.com/items/cmpwv1omp0100sl79979r1mj7)
+- **AIHOT 链接**: [https://aihot.news/items/cmpwv1omp0100sl79979r1mj7](https://aihot.news/items/cmpwv1omp0100sl79979r1mj7)

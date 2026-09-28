@@ -7,7 +7,7 @@
 "source_name": "Epoch AI：研究、数据与评测"
 "original_url": "https://epoch.ai/gradient-updates/r-and-d-vs-training-compute"
 "canonical_url": "https://aihot.news/items/cmtyo2t5y03jfrog0zcm8l3fw"
-"score": 60
+"score": 61
 "content_kind": "news"
 ---
 

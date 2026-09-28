@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-10T10:23:31.191Z"
 "source_name": "X：Mark Zuckerberg (@finkd)"
 "original_url": "https://x.com/finkd/status/2086754845218726027"
-"canonical_url": "https://aihot.virxact.com/items/cmsn32xab06ehro8ou4tskajr"
+"canonical_url": "https://aihot.news/items/cmsn32xab06ehro8ou4tskajr"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：Mark Zuckerberg (@finkd)
 - **原文链接**: [https://x.com/finkd/status/2086754845218726027](https://x.com/finkd/status/2086754845218726027)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsn32xab06ehro8ou4tskajr](https://aihot.virxact.com/items/cmsn32xab06ehro8ou4tskajr)
+- **AIHOT 链接**: [https://aihot.news/items/cmsn32xab06ehro8ou4tskajr](https://aihot.news/items/cmsn32xab06ehro8ou4tskajr)

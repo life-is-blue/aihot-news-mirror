@@ -6,7 +6,7 @@
 "discovered_at": "2025-11-27T03:28:17.000Z"
 "source_name": "X：谢赛宁 (@sainingxie)"
 "original_url": "https://x.com/sainingxie/status/1993884556965924901"
-"canonical_url": "https://aihot.virxact.com/items/cmnz6dpf402aosl0fdjpw0kw1"
+"canonical_url": "https://aihot.news/items/cmnz6dpf402aosl0fdjpw0kw1"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Meta研究人员透露，Facebook自2020年起使用TPU训练AI，由Kaiming He�
 
 - **来源**: X：谢赛宁 (@sainingxie)
 - **原文链接**: [https://x.com/sainingxie/status/1993884556965924901](https://x.com/sainingxie/status/1993884556965924901)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnz6dpf402aosl0fdjpw0kw1](https://aihot.virxact.com/items/cmnz6dpf402aosl0fdjpw0kw1)
+- **AIHOT 链接**: [https://aihot.news/items/cmnz6dpf402aosl0fdjpw0kw1](https://aihot.news/items/cmnz6dpf402aosl0fdjpw0kw1)

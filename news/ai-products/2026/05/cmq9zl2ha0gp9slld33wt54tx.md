@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-29T12:00:00.000Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/announcements/guardrails"
-"canonical_url": "https://aihot.virxact.com/items/cmq9zl2ha0gp9slld33wt54tx"
+"canonical_url": "https://aihot.news/items/cmq9zl2ha0gp9slld33wt54tx"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter 发布 Guardrails 可配置安全与治理工具，支持预算执行
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/announcements/guardrails](https://openrouter.ai/blog/announcements/guardrails)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq9zl2ha0gp9slld33wt54tx](https://aihot.virxact.com/items/cmq9zl2ha0gp9slld33wt54tx)
+- **AIHOT 链接**: [https://aihot.news/items/cmq9zl2ha0gp9slld33wt54tx](https://aihot.news/items/cmq9zl2ha0gp9slld33wt54tx)

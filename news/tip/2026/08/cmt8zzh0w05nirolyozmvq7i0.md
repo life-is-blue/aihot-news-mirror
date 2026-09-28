@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-25T18:27:47.839Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/tutorials/video-generation-api"
-"canonical_url": "https://aihot.virxact.com/items/cmt8zzh0w05nirolyozmvq7i0"
+"canonical_url": "https://aihot.news/items/cmt8zzh0w05nirolyozmvq7i0"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter 推出统一的异步视频生成 API，通过 POST /api/v1/videos �
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/tutorials/video-generation-api](https://openrouter.ai/blog/tutorials/video-generation-api)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt8zzh0w05nirolyozmvq7i0](https://aihot.virxact.com/items/cmt8zzh0w05nirolyozmvq7i0)
+- **AIHOT 链接**: [https://aihot.news/items/cmt8zzh0w05nirolyozmvq7i0](https://aihot.news/items/cmt8zzh0w05nirolyozmvq7i0)

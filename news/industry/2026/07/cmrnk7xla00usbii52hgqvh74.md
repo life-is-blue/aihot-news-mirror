@@ -7,7 +7,7 @@
 "source_name": "TechCrunch：AI（RSS）"
 "original_url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-\
   for-launch-in-china-with-alibabas-qwen-ai"
-"canonical_url": "https://aihot.virxact.com/items/cmrnk7xla00usbii52hgqvh74"
+"canonical_url": "https://aihot.news/items/cmrnk7xla00usbii52hgqvh74"
 "score": 77
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai](https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrnk7xla00usbii52hgqvh74](https://aihot.virxact.com/items/cmrnk7xla00usbii52hgqvh74)
+- **AIHOT 链接**: [https://aihot.news/items/cmrnk7xla00usbii52hgqvh74](https://aihot.news/items/cmrnk7xla00usbii52hgqvh74)

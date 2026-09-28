@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-26T17:02:40.777Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude"
-"canonical_url": "https://aihot.virxact.com/items/cmtacdvh50a4aroj2zlw9jnj9"
+"canonical_url": "https://aihot.news/items/cmtacdvh50a4aroj2zlw9jnj9"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Warp 在 Claude 平台上构建了基于 Agent Skills 的自我改进循环，�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude](https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtacdvh50a4aroj2zlw9jnj9](https://aihot.virxact.com/items/cmtacdvh50a4aroj2zlw9jnj9)
+- **AIHOT 链接**: [https://aihot.news/items/cmtacdvh50a4aroj2zlw9jnj9](https://aihot.news/items/cmtacdvh50a4aroj2zlw9jnj9)

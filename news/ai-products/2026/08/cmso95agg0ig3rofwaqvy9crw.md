@@ -7,7 +7,7 @@
 "source_name": "公众号：智谱（GLM）"
 "original_url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247\
   494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9"
-"canonical_url": "https://aihot.virxact.com/items/cmso95agg0ig3rofwaqvy9crw"
+"canonical_url": "https://aihot.news/items/cmso95agg0ig3rofwaqvy9crw"
 "score": 71
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲
 
 - **来源**: 公众号：智谱（GLM）
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9](https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmso95agg0ig3rofwaqvy9crw](https://aihot.virxact.com/items/cmso95agg0ig3rofwaqvy9crw)
+- **AIHOT 链接**: [https://aihot.news/items/cmso95agg0ig3rofwaqvy9crw](https://aihot.news/items/cmso95agg0ig3rofwaqvy9crw)

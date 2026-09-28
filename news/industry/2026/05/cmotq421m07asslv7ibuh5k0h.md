@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-06T07:16:02.176Z"
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/0/946/848.htm"
-"canonical_url": "https://aihot.virxact.com/items/cmotq421m07asslv7ibuh5k0h"
+"canonical_url": "https://aihot.news/items/cmotq421m07asslv7ibuh5k0h"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ PayPal正启动一场由人工智能驱动的转型自救。公司计划在未�
 
 - **来源**: IT之家（RSS）
 - **原文链接**: [https://www.ithome.com/0/946/848.htm](https://www.ithome.com/0/946/848.htm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmotq421m07asslv7ibuh5k0h](https://aihot.virxact.com/items/cmotq421m07asslv7ibuh5k0h)
+- **AIHOT 链接**: [https://aihot.news/items/cmotq421m07asslv7ibuh5k0h](https://aihot.news/items/cmotq421m07asslv7ibuh5k0h)

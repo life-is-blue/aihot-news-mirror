@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-18T20:30:00.860Z"
 "source_name": "X：Claude (@claudeai)"
 "original_url": "https://x.com/claudeai/status/2089806039088517356"
-"canonical_url": "https://aihot.virxact.com/items/cmsz49ptt022qrodp5mc1nt1x"
+"canonical_url": "https://aihot.news/items/cmsz49ptt022qrodp5mc1nt1x"
 "score": 65
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ Claude 现在可以在 Gmail 中发送邮件，并管理 Google Drive 中的文�
 
 - **来源**: X：Claude (@claudeai)
 - **原文链接**: [https://x.com/claudeai/status/2089806039088517356](https://x.com/claudeai/status/2089806039088517356)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsz49ptt022qrodp5mc1nt1x](https://aihot.virxact.com/items/cmsz49ptt022qrodp5mc1nt1x)
+- **AIHOT 链接**: [https://aihot.news/items/cmsz49ptt022qrodp5mc1nt1x](https://aihot.news/items/cmsz49ptt022qrodp5mc1nt1x)

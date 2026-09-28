@@ -7,7 +7,7 @@
 "source_name": "Epoch AI：研究、数据与评测"
 "original_url": "https://epoch.ai/latest/announcing-frontiermath-erdos"
 "canonical_url": "https://aihot.news/items/cmtym46co0006robx58ij66mx"
-"score": 63
+"score": 64
 "content_kind": "news"
 ---
 

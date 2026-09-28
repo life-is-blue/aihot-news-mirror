@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-13T06:36:15.585Z"
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/0/963/834.htm"
-"canonical_url": "https://aihot.virxact.com/items/cmqbzf9h3004dslffhpe65f73"
+"canonical_url": "https://aihot.news/items/cmqbzf9h3004dslffhpe65f73"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ SemiAnalysis 购买了 Anthropic 和 OpenAI 的全部订阅方案，模拟高强
 
 - **来源**: IT之家（RSS）
 - **原文链接**: [https://www.ithome.com/0/963/834.htm](https://www.ithome.com/0/963/834.htm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqbzf9h3004dslffhpe65f73](https://aihot.virxact.com/items/cmqbzf9h3004dslffhpe65f73)
+- **AIHOT 链接**: [https://aihot.news/items/cmqbzf9h3004dslffhpe65f73](https://aihot.news/items/cmqbzf9h3004dslffhpe65f73)

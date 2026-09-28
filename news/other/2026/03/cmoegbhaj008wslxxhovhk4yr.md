@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-31T08:23:44.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/OpenMed/training-mrna-models-25-species"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhaj008wslxxhovhk4yr"
+"canonical_url": "https://aihot.news/items/cmoegbhaj008wslxxhovhk4yr"
 "score": 83
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenMed团队构建了一个覆盖蛋白质结构预测、序列设计和密码�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/OpenMed/training-mrna-models-25-species](https://huggingface.co/blog/OpenMed/training-mrna-models-25-species)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhaj008wslxxhovhk4yr](https://aihot.virxact.com/items/cmoegbhaj008wslxxhovhk4yr)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhaj008wslxxhovhk4yr](https://aihot.news/items/cmoegbhaj008wslxxhovhk4yr)

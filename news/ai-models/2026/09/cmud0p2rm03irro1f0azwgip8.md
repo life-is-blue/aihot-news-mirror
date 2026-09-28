@@ -7,7 +7,7 @@
 "source_name": "X：Sam Altman (@sama)"
 "original_url": "https://x.com/sama/status/2102464201335984392"
 "canonical_url": "https://aihot.news/items/cmud0p2rm03irro1f0azwgip8"
-"score": 72
+"score": 73
 "content_kind": "news"
 ---
 

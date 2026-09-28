@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-10T04:56:02.527Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2606.11052"
-"canonical_url": "https://aihot.virxact.com/items/cmq7lit3f0492sl5wcbuhw0ln"
+"canonical_url": "https://aihot.news/items/cmq7lit3f0492sl5wcbuhw0ln"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ CoT监督微调系统性地降低混合线性注意力模型（如HypeNet、Jet-
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2606.11052](https://arxiv.org/abs/2606.11052)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq7lit3f0492sl5wcbuhw0ln](https://aihot.virxact.com/items/cmq7lit3f0492sl5wcbuhw0ln)
+- **AIHOT 链接**: [https://aihot.news/items/cmq7lit3f0492sl5wcbuhw0ln](https://aihot.news/items/cmq7lit3f0492sl5wcbuhw0ln)

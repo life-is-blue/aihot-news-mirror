@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-12T16:14:59.887Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/anthropic-public-record"
-"canonical_url": "https://aihot.virxact.com/items/cmqb4nt5t0116sl9zke56a7ml"
+"canonical_url": "https://aihot.news/items/cmqb4nt5t0116sl9zke56a7ml"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic对近5.2万美国人调查显示：48%将治愈癌症等疾病列为�
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/anthropic-public-record](https://www.anthropic.com/news/anthropic-public-record)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqb4nt5t0116sl9zke56a7ml](https://aihot.virxact.com/items/cmqb4nt5t0116sl9zke56a7ml)
+- **AIHOT 链接**: [https://aihot.news/items/cmqb4nt5t0116sl9zke56a7ml](https://aihot.news/items/cmqb4nt5t0116sl9zke56a7ml)

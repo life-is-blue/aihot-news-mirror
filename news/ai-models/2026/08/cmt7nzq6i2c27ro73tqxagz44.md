@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-24T20:04:17.547Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/gpt-5-6-in-kiro"
-"canonical_url": "https://aihot.virxact.com/items/cmt7nzq6i2c27ro73tqxagz44"
+"canonical_url": "https://aihot.news/items/cmt7nzq6i2c27ro73tqxagz44"
 "score": 59
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ GPT-5.6 模型家族现已登陆软件开发智能体 Kiro，包含 Sol、Terra 
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/gpt-5-6-in-kiro](https://openai.com/index/gpt-5-6-in-kiro)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt7nzq6i2c27ro73tqxagz44](https://aihot.virxact.com/items/cmt7nzq6i2c27ro73tqxagz44)
+- **AIHOT 链接**: [https://aihot.news/items/cmt7nzq6i2c27ro73tqxagz44](https://aihot.news/items/cmt7nzq6i2c27ro73tqxagz44)

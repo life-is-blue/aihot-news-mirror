@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-28T21:25:04.804Z"
 "source_name": "X：OpenAI (@OpenAI)"
 "original_url": "https://x.com/OpenAI/status/2082208694142730340"
-"canonical_url": "https://aihot.virxact.com/items/cms55zmt000i9roehhn1zqxw3"
+"canonical_url": "https://aihot.news/items/cms55zmt000i9roehhn1zqxw3"
 "score": 73
 "content_kind": "news"
 ---
@@ -23,4 +23,4 @@ http://pacingthefrontier.com
 
 - **来源**: X：OpenAI (@OpenAI)
 - **原文链接**: [https://x.com/OpenAI/status/2082208694142730340](https://x.com/OpenAI/status/2082208694142730340)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms55zmt000i9roehhn1zqxw3](https://aihot.virxact.com/items/cms55zmt000i9roehhn1zqxw3)
+- **AIHOT 链接**: [https://aihot.news/items/cms55zmt000i9roehhn1zqxw3](https://aihot.news/items/cms55zmt000i9roehhn1zqxw3)

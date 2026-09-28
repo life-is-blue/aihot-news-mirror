@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-28T16:00:00.000Z"
 "source_name": "Meta AI：Blog（网页）"
 "original_url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication"
-"canonical_url": "https://aihot.virxact.com/items/cms3dp55g0ak3ro3f690yownt"
+"canonical_url": "https://aihot.news/items/cms3dp55g0ak3ro3f690yownt"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Meta 发布 Brain2Qwerty v2，一种无需手术植入即可从非侵入性脑�
 
 - **来源**: Meta AI：Blog（网页）
 - **原文链接**: [https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3dp55g0ak3ro3f690yownt](https://aihot.virxact.com/items/cms3dp55g0ak3ro3f690yownt)
+- **AIHOT 链接**: [https://aihot.news/items/cms3dp55g0ak3ro3f690yownt](https://aihot.news/items/cms3dp55g0ak3ro3f690yownt)

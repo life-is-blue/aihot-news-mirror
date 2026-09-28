@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-14T16:00:00.000Z"
 "source_name": "Mistral AI：News（网页）"
 "original_url": "https://mistral.ai/news/connectors"
-"canonical_url": "https://aihot.virxact.com/items/cmoejssx4005uslnnrjpf22xl"
+"canonical_url": "https://aihot.news/items/cmoejssx4005uslnnrjpf22xl"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Mistral AI：News（网页）
 - **原文链接**: [https://mistral.ai/news/connectors](https://mistral.ai/news/connectors)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoejssx4005uslnnrjpf22xl](https://aihot.virxact.com/items/cmoejssx4005uslnnrjpf22xl)
+- **AIHOT 链接**: [https://aihot.news/items/cmoejssx4005uslnnrjpf22xl](https://aihot.news/items/cmoejssx4005uslnnrjpf22xl)

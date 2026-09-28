@@ -7,7 +7,7 @@
 "source_name": "TechCrunch：AI（RSS）"
 "original_url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-\
   layoffs-in-2026-where-employers-cited-ai"
-"canonical_url": "https://aihot.virxact.com/items/cmr9kq74q00mkihe8o68fnq9t"
+"canonical_url": "https://aihot.news/items/cmr9kq74q00mkihe8o68fnq9t"
 "score": 78
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai](https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr9kq74q00mkihe8o68fnq9t](https://aihot.virxact.com/items/cmr9kq74q00mkihe8o68fnq9t)
+- **AIHOT 链接**: [https://aihot.news/items/cmr9kq74q00mkihe8o68fnq9t](https://aihot.news/items/cmr9kq74q00mkihe8o68fnq9t)

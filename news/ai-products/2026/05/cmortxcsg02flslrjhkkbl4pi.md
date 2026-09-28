@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-04T23:27:09.654Z"
 "source_name": "X：SpaceXAI (@SpaceXAI)"
 "original_url": "https://x.com/xai/status/2051438210065322244"
-"canonical_url": "https://aihot.virxact.com/items/cmortxcsg02flslrjhkkbl4pi"
+"canonical_url": "https://aihot.news/items/cmortxcsg02flslrjhkkbl4pi"
 "score": 66
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ http://x.ai/news/grok-custom-voices
 
 - **来源**: X：SpaceXAI (@SpaceXAI)
 - **原文链接**: [https://x.com/xai/status/2051438210065322244](https://x.com/xai/status/2051438210065322244)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmortxcsg02flslrjhkkbl4pi](https://aihot.virxact.com/items/cmortxcsg02flslrjhkkbl4pi)
+- **AIHOT 链接**: [https://aihot.news/items/cmortxcsg02flslrjhkkbl4pi](https://aihot.news/items/cmortxcsg02flslrjhkkbl4pi)

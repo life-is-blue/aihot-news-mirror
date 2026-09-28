@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsu\
   it-against-sam-altman-and-openai"
-"canonical_url": "https://aihot.virxact.com/items/cmpbjmbxb17w5slnz70k0vm5l"
+"canonical_url": "https://aihot.news/items/cmpbjmbxb17w5slnz70k0vm5l"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpbjmbxb17w5slnz70k0vm5l](https://aihot.virxact.com/items/cmpbjmbxb17w5slnz70k0vm5l)
+- **AIHOT 链接**: [https://aihot.news/items/cmpbjmbxb17w5slnz70k0vm5l](https://aihot.news/items/cmpbjmbxb17w5slnz70k0vm5l)

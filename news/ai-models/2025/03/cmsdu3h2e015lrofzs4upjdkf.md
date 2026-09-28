@@ -7,7 +7,7 @@
 "source_name": "公众号：DeepSeek（深度求索）"
 "original_url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247\
   485588&idx=1&sn=bd0b603d9eb14ba39030ee41b79bc0e0"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu3h2e015lrofzs4upjdkf"
+"canonical_url": "https://aihot.news/items/cmsdu3h2e015lrofzs4upjdkf"
 "score": 74
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ DeepSeek 发布小版本升级 DeepSeek-V3-0324，在数学、代码类评测集
 
 - **来源**: 公众号：DeepSeek（深度求索）
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485588&idx=1&sn=bd0b603d9eb14ba39030ee41b79bc0e0](https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485588&idx=1&sn=bd0b603d9eb14ba39030ee41b79bc0e0)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu3h2e015lrofzs4upjdkf](https://aihot.virxact.com/items/cmsdu3h2e015lrofzs4upjdkf)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu3h2e015lrofzs4upjdkf](https://aihot.news/items/cmsdu3h2e015lrofzs4upjdkf)

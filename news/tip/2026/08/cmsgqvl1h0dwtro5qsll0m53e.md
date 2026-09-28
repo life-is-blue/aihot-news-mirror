@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-05T23:55:16.971Z"
 "source_name": "Simon Willison 博客"
 "original_url": "https://simonwillison.net/2026/Aug/5/incident-report"
-"canonical_url": "https://aihot.virxact.com/items/cmsgqvl1h0dwtro5qsll0m53e"
+"canonical_url": "https://aihot.news/items/cmsgqvl1h0dwtro5qsll0m53e"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Simon Willison 博客
 - **原文链接**: [https://simonwillison.net/2026/Aug/5/incident-report](https://simonwillison.net/2026/Aug/5/incident-report)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsgqvl1h0dwtro5qsll0m53e](https://aihot.virxact.com/items/cmsgqvl1h0dwtro5qsll0m53e)
+- **AIHOT 链接**: [https://aihot.news/items/cmsgqvl1h0dwtro5qsll0m53e](https://aihot.news/items/cmsgqvl1h0dwtro5qsll0m53e)

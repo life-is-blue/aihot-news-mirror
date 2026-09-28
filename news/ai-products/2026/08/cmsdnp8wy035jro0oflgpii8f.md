@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-03T20:03:03.754Z"
 "source_name": "X：Microsoft Research (@MSFTResearch)"
 "original_url": "https://x.com/MSFTResearch/status/2084364547142418722"
-"canonical_url": "https://aihot.virxact.com/items/cmsdnp8wy035jro0oflgpii8f"
+"canonical_url": "https://aihot.news/items/cmsdnp8wy035jro0oflgpii8f"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Orchard 是一个面向研究社区的开源框架，用于跨任务类型训练
 
 - **来源**: X：Microsoft Research (@MSFTResearch)
 - **原文链接**: [https://x.com/MSFTResearch/status/2084364547142418722](https://x.com/MSFTResearch/status/2084364547142418722)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdnp8wy035jro0oflgpii8f](https://aihot.virxact.com/items/cmsdnp8wy035jro0oflgpii8f)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdnp8wy035jro0oflgpii8f](https://aihot.news/items/cmsdnp8wy035jro0oflgpii8f)

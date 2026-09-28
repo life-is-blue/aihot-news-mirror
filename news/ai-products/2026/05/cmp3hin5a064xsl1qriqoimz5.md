@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-13T03:13:03.663Z"
 "source_name": "X：Tibo (@thsottiaux)"
 "original_url": "https://x.com/thsottiaux/status/2054398093886673260"
-"canonical_url": "https://aihot.virxact.com/items/cmp3hin5a064xsl1qriqoimz5"
+"canonical_url": "https://aihot.news/items/cmp3hin5a064xsl1qriqoimz5"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Codex应用内浏览器功能迎来多项改进，支持在不同视口尺寸下
 
 - **来源**: X：Tibo (@thsottiaux)
 - **原文链接**: [https://x.com/thsottiaux/status/2054398093886673260](https://x.com/thsottiaux/status/2054398093886673260)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp3hin5a064xsl1qriqoimz5](https://aihot.virxact.com/items/cmp3hin5a064xsl1qriqoimz5)
+- **AIHOT 链接**: [https://aihot.news/items/cmp3hin5a064xsl1qriqoimz5](https://aihot.news/items/cmp3hin5a064xsl1qriqoimz5)

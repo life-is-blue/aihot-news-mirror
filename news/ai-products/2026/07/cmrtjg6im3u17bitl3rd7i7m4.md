@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-20T18:08:38.550Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/agent-swarm-model-economics"
-"canonical_url": "https://aihot.virxact.com/items/cmrtjg6im3u17bitl3rd7i7m4"
+"canonical_url": "https://aihot.news/items/cmrtjg6im3u17bitl3rd7i7m4"
 "score": 64
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Cursor 测试了新型 AI 智能体集群，将任务分解为规划者（使用
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/agent-swarm-model-economics](https://cursor.com/blog/agent-swarm-model-economics)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrtjg6im3u17bitl3rd7i7m4](https://aihot.virxact.com/items/cmrtjg6im3u17bitl3rd7i7m4)
+- **AIHOT 链接**: [https://aihot.news/items/cmrtjg6im3u17bitl3rd7i7m4](https://aihot.news/items/cmrtjg6im3u17bitl3rd7i7m4)

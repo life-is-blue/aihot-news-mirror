@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-17T22:23:07.832Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://cursor.com/changelog/origin-code-hosting"
-"canonical_url": "https://aihot.virxact.com/items/cmsxsvb5s0a4troz0z2q2nu3h"
+"canonical_url": "https://aihot.news/items/cmsxsvb5s0a4troz0z2q2nu3h"
 "score": 81
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Cursor 今日起向所有付费计划用户开放 Origin 代码托管的早期�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://cursor.com/changelog/origin-code-hosting](https://cursor.com/changelog/origin-code-hosting)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsxsvb5s0a4troz0z2q2nu3h](https://aihot.virxact.com/items/cmsxsvb5s0a4troz0z2q2nu3h)
+- **AIHOT 链接**: [https://aihot.news/items/cmsxsvb5s0a4troz0z2q2nu3h](https://aihot.news/items/cmsxsvb5s0a4troz0z2q2nu3h)

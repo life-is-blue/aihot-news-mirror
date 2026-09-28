@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-04T20:15:35.940Z"
 "source_name": "X：Claude Devs (@ClaudeDevs)"
 "original_url": "https://x.com/ClaudeDevs/status/2051393709619732758"
-"canonical_url": "https://aihot.virxact.com/items/cmorn2zt900rrslrj9xngm2yn"
+"canonical_url": "https://aihot.news/items/cmorn2zt900rrslrj9xngm2yn"
 "score": 76
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@
 
 - **来源**: X：Claude Devs (@ClaudeDevs)
 - **原文链接**: [https://x.com/ClaudeDevs/status/2051393709619732758](https://x.com/ClaudeDevs/status/2051393709619732758)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmorn2zt900rrslrj9xngm2yn](https://aihot.virxact.com/items/cmorn2zt900rrslrj9xngm2yn)
+- **AIHOT 链接**: [https://aihot.news/items/cmorn2zt900rrslrj9xngm2yn](https://aihot.news/items/cmorn2zt900rrslrj9xngm2yn)

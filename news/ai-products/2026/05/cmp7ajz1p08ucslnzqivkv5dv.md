@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-15T19:09:15.315Z"
 "source_name": "X：Peter Steinberger (@steipete)"
 "original_url": "https://x.com/steipete/status/2055364630709448970"
-"canonical_url": "https://aihot.virxact.com/items/cmp7ajz1p08ucslnzqivkv5dv"
+"canonical_url": "https://aihot.news/items/cmp7ajz1p08ucslnzqivkv5dv"
 "score": 75
 "content_kind": "news"
 ---
@@ -23,4 +23,4 @@ https://clawpatch.ai
 
 - **来源**: X：Peter Steinberger (@steipete)
 - **原文链接**: [https://x.com/steipete/status/2055364630709448970](https://x.com/steipete/status/2055364630709448970)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp7ajz1p08ucslnzqivkv5dv](https://aihot.virxact.com/items/cmp7ajz1p08ucslnzqivkv5dv)
+- **AIHOT 链接**: [https://aihot.news/items/cmp7ajz1p08ucslnzqivkv5dv](https://aihot.news/items/cmp7ajz1p08ucslnzqivkv5dv)

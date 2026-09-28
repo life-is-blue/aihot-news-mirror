@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-23T19:21:22.653Z"
 "source_name": "X：Sky Computing Lab (@haoailab)"
 "original_url": "https://x.com/haoailab/status/2069493820732170695"
-"canonical_url": "https://aihot.virxact.com/items/cmqr15pz20fjzslp5eps5gotw"
+"canonical_url": "https://aihot.news/items/cmqr15pz20fjzslp5eps5gotw"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Sky Computing Lab 发布 FastWan-QAD 视频生成模型系列，基于 FastVideo
 
 - **来源**: X：Sky Computing Lab (@haoailab)
 - **原文链接**: [https://x.com/haoailab/status/2069493820732170695](https://x.com/haoailab/status/2069493820732170695)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqr15pz20fjzslp5eps5gotw](https://aihot.virxact.com/items/cmqr15pz20fjzslp5eps5gotw)
+- **AIHOT 链接**: [https://aihot.news/items/cmqr15pz20fjzslp5eps5gotw](https://aihot.news/items/cmqr15pz20fjzslp5eps5gotw)

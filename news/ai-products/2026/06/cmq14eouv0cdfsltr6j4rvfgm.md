@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-05T16:10:18.959Z"
 "source_name": "X：Replit (@Replit)"
 "original_url": "https://x.com/Replit/status/2062928061914619977"
-"canonical_url": "https://aihot.virxact.com/items/cmq14eouv0cdfsltr6j4rvfgm"
+"canonical_url": "https://aihot.news/items/cmq14eouv0cdfsltr6j4rvfgm"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Replit 上的 Shopify 与新的 SEO Agent
 
 - **来源**: X：Replit (@Replit)
 - **原文链接**: [https://x.com/Replit/status/2062928061914619977](https://x.com/Replit/status/2062928061914619977)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq14eouv0cdfsltr6j4rvfgm](https://aihot.virxact.com/items/cmq14eouv0cdfsltr6j4rvfgm)
+- **AIHOT 链接**: [https://aihot.news/items/cmq14eouv0cdfsltr6j4rvfgm](https://aihot.news/items/cmq14eouv0cdfsltr6j4rvfgm)

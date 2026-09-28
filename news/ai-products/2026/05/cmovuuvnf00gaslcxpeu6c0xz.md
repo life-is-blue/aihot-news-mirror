@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-07T19:04:24.888Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/testing-ads-in-chatgpt"
-"canonical_url": "https://aihot.virxact.com/items/cmovuuvnf00gaslcxpeu6c0xz"
+"canonical_url": "https://aihot.news/items/cmovuuvnf00gaslcxpeu6c0xz"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI开始在ChatGPT中测试广告功能，旨在支持其免费服务的持�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/testing-ads-in-chatgpt](https://openai.com/index/testing-ads-in-chatgpt)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmovuuvnf00gaslcxpeu6c0xz](https://aihot.virxact.com/items/cmovuuvnf00gaslcxpeu6c0xz)
+- **AIHOT 链接**: [https://aihot.news/items/cmovuuvnf00gaslcxpeu6c0xz](https://aihot.news/items/cmovuuvnf00gaslcxpeu6c0xz)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-18T16:22:33.561Z"
 "source_name": "Anthropic：Research（发表成果 · 网页）"
 "original_url": "https://www.anthropic.com/research/project-fetch-phase-two"
-"canonical_url": "https://aihot.virxact.com/items/cmqjpkj4105oqslmh4rmirant"
+"canonical_url": "https://aihot.news/items/cmqjpkj4105oqslmh4rmirant"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 发布 Project Fetch 实验第二阶段结果。在2024年8月原始�
 
 - **来源**: Anthropic：Research（发表成果 · 网页）
 - **原文链接**: [https://www.anthropic.com/research/project-fetch-phase-two](https://www.anthropic.com/research/project-fetch-phase-two)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqjpkj4105oqslmh4rmirant](https://aihot.virxact.com/items/cmqjpkj4105oqslmh4rmirant)
+- **AIHOT 链接**: [https://aihot.news/items/cmqjpkj4105oqslmh4rmirant](https://aihot.news/items/cmqjpkj4105oqslmh4rmirant)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-04T20:16:46.989Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.anthropic.com/institute/recursive-self-improvement"
-"canonical_url": "https://aihot.virxact.com/items/cmpzxrs1v011osltrqb7szijl"
+"canonical_url": "https://aihot.news/items/cmpzxrs1v011osltrqb7szijl"
 "score": 80
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 近日发表文章《当人工智能自我构建：我们在递归式�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.anthropic.com/institute/recursive-self-improvement](https://www.anthropic.com/institute/recursive-self-improvement)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpzxrs1v011osltrqb7szijl](https://aihot.virxact.com/items/cmpzxrs1v011osltrqb7szijl)
+- **AIHOT 链接**: [https://aihot.news/items/cmpzxrs1v011osltrqb7szijl](https://aihot.news/items/cmpzxrs1v011osltrqb7szijl)

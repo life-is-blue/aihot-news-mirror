@@ -7,7 +7,7 @@
 "source_name": "Apple Machine Learning Research（RSS）"
 "original_url": "https://machinelearning.apple.com/research/normalizing-flows-i\
   terative-denoising"
-"canonical_url": "https://aihot.virxact.com/items/cmour1rzq026islv9rklcx62b"
+"canonical_url": "https://aihot.news/items/cmour1rzq026islv9rklcx62b"
 "score": 61
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Apple Machine Learning Research（RSS）
 - **原文链接**: [https://machinelearning.apple.com/research/normalizing-flows-iterative-denoising](https://machinelearning.apple.com/research/normalizing-flows-iterative-denoising)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmour1rzq026islv9rklcx62b](https://aihot.virxact.com/items/cmour1rzq026islv9rklcx62b)
+- **AIHOT 链接**: [https://aihot.news/items/cmour1rzq026islv9rklcx62b](https://aihot.news/items/cmour1rzq026islv9rklcx62b)

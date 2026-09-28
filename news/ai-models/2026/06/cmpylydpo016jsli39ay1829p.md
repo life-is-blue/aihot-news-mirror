@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-03T21:58:12.798Z"
 "source_name": "X：MiniMax (@MiniMax_AI)"
 "original_url": "https://x.com/MiniMax_AI/status/2062288699879252171"
-"canonical_url": "https://aihot.virxact.com/items/cmpylydpo016jsli39ay1829p"
+"canonical_url": "https://aihot.news/items/cmpylydpo016jsli39ay1829p"
 "score": 78
 "content_kind": "news"
 ---
@@ -25,4 +25,4 @@ M3 的 1M token 上下文窗口 + @mem0ai 的记忆层 = 真正记住的 AI 应�
 
 - **来源**: X：MiniMax (@MiniMax_AI)
 - **原文链接**: [https://x.com/MiniMax_AI/status/2062288699879252171](https://x.com/MiniMax_AI/status/2062288699879252171)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpylydpo016jsli39ay1829p](https://aihot.virxact.com/items/cmpylydpo016jsli39ay1829p)
+- **AIHOT 链接**: [https://aihot.news/items/cmpylydpo016jsli39ay1829p](https://aihot.news/items/cmpylydpo016jsli39ay1829p)

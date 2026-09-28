@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-09T21:09:39.188Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis"
-"canonical_url": "https://aihot.virxact.com/items/cmq74v13800b9slopde95ulvq"
+"canonical_url": "https://aihot.news/items/cmq74v13800b9slopde95ulvq"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis](https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq74v13800b9slopde95ulvq](https://aihot.virxact.com/items/cmq74v13800b9slopde95ulvq)
+- **AIHOT 链接**: [https://aihot.news/items/cmq74v13800b9slopde95ulvq](https://aihot.news/items/cmq74v13800b9slopde95ulvq)

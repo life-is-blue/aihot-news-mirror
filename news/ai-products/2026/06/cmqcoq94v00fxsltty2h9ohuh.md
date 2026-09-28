@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-13T18:24:39.586Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://github.com/Paca-AI/paca"
-"canonical_url": "https://aihot.virxact.com/items/cmqcoq94v00fxsltty2h9ohuh"
+"canonical_url": "https://aihot.news/items/cmqcoq94v00fxsltty2h9ohuh"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Paca 是一款面向人类与 AI 智能体协作场景的轻量级项目管理�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://github.com/Paca-AI/paca](https://github.com/Paca-AI/paca)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqcoq94v00fxsltty2h9ohuh](https://aihot.virxact.com/items/cmqcoq94v00fxsltty2h9ohuh)
+- **AIHOT 链接**: [https://aihot.news/items/cmqcoq94v00fxsltty2h9ohuh](https://aihot.news/items/cmqcoq94v00fxsltty2h9ohuh)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-01T16:00:00.000Z"
 "source_name": "Anthropic：Research（发表成果 · 网页）"
 "original_url": "https://www.anthropic.com/research/emotion-concepts-function"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xs4o00aoslc3k8zc7tli"
+"canonical_url": "https://aihot.news/items/cmnw1xs4o00aoslc3k8zc7tli"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 可解释性团队通过 171 个情绪概念词汇测试发现，Claud
 
 - **来源**: Anthropic：Research（发表成果 · 网页）
 - **原文链接**: [https://www.anthropic.com/research/emotion-concepts-function](https://www.anthropic.com/research/emotion-concepts-function)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xs4o00aoslc3k8zc7tli](https://aihot.virxact.com/items/cmnw1xs4o00aoslc3k8zc7tli)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xs4o00aoslc3k8zc7tli](https://aihot.news/items/cmnw1xs4o00aoslc3k8zc7tli)

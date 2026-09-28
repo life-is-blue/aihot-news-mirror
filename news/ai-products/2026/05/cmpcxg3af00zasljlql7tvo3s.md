@@ -7,7 +7,7 @@
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-par\
   tner-to-accelerate-research"
-"canonical_url": "https://aihot.virxact.com/items/cmpcxg3af00zasljlql7tvo3s"
+"canonical_url": "https://aihot.news/items/cmpcxg3af00zasljlql7tvo3s"
 "score": 57
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Co-Scientist 是一款由 Gemini 构建的协作式 AI 助手，旨在帮助科�
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research](https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpcxg3af00zasljlql7tvo3s](https://aihot.virxact.com/items/cmpcxg3af00zasljlql7tvo3s)
+- **AIHOT 链接**: [https://aihot.news/items/cmpcxg3af00zasljlql7tvo3s](https://aihot.news/items/cmpcxg3af00zasljlql7tvo3s)

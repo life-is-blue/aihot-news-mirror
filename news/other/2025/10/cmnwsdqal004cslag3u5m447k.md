@@ -7,7 +7,7 @@
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/gemini-25-flash-lite-is-now-ready\
   -for-scaled-production-use"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsdqal004cslag3u5m447k"
+"canonical_url": "https://aihot.news/items/cmnwsdqal004cslag3u5m447k"
 "score": null
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Gemini 2.5 Flash-Lite 结束预览，达到生产级可用状态。这款高性�
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/gemini-25-flash-lite-is-now-ready-for-scaled-production-use](https://deepmind.google/blog/gemini-25-flash-lite-is-now-ready-for-scaled-production-use)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsdqal004cslag3u5m447k](https://aihot.virxact.com/items/cmnwsdqal004cslag3u5m447k)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsdqal004cslag3u5m447k](https://aihot.news/items/cmnwsdqal004cslag3u5m447k)

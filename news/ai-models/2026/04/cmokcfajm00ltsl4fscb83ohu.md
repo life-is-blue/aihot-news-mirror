@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-29T17:42:55.865Z"
 "source_name": "X：蚂蚁百灵 (@AntLingAGI)"
 "original_url": "https://x.com/AntLingAGI/status/2049540423140643059"
-"canonical_url": "https://aihot.virxact.com/items/cmokcfajm00ltsl4fscb83ohu"
+"canonical_url": "https://aihot.news/items/cmokcfajm00ltsl4fscb83ohu"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ SGLang团队（隶属于LMSYS Org）揭示了其旗舰指令模型实现快速�
 
 - **来源**: X：蚂蚁百灵 (@AntLingAGI)
 - **原文链接**: [https://x.com/AntLingAGI/status/2049540423140643059](https://x.com/AntLingAGI/status/2049540423140643059)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmokcfajm00ltsl4fscb83ohu](https://aihot.virxact.com/items/cmokcfajm00ltsl4fscb83ohu)
+- **AIHOT 链接**: [https://aihot.news/items/cmokcfajm00ltsl4fscb83ohu](https://aihot.news/items/cmokcfajm00ltsl4fscb83ohu)

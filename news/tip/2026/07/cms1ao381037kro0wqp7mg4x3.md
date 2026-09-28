@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-26T04:24:59.751Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://github.com/slvDev/esp32-ai"
-"canonical_url": "https://aihot.virxact.com/items/cms1ao381037kro0wqp7mg4x3"
+"canonical_url": "https://aihot.news/items/cms1ao381037kro0wqp7mg4x3"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://github.com/slvDev/esp32-ai](https://github.com/slvDev/esp32-ai)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms1ao381037kro0wqp7mg4x3](https://aihot.virxact.com/items/cms1ao381037kro0wqp7mg4x3)
+- **AIHOT 链接**: [https://aihot.news/items/cms1ao381037kro0wqp7mg4x3](https://aihot.news/items/cms1ao381037kro0wqp7mg4x3)

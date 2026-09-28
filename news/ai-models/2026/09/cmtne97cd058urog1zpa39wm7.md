@@ -6,8 +6,8 @@
 "discovered_at": "2026-09-04T20:16:00.579Z"
 "source_name": "X：OpenAI (@OpenAI)"
 "original_url": "https://x.com/OpenAI/status/2095968413646737608"
-"canonical_url": "https://aihot.virxact.com/items/cmtne97cd058urog1zpa39wm7"
-"score": 81
+"canonical_url": "https://aihot.news/items/cmtne97cd058urog1zpa39wm7"
+"score": 82
 "content_kind": "news"
 ---
 
@@ -17,4 +17,4 @@ OpenAI 宣布 GPT-6 Astra 现已向所有 Pro、Enterprise 和 Business Premium 
 
 - **来源**: X：OpenAI (@OpenAI)
 - **原文链接**: [https://x.com/OpenAI/status/2095968413646737608](https://x.com/OpenAI/status/2095968413646737608)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtne97cd058urog1zpa39wm7](https://aihot.virxact.com/items/cmtne97cd058urog1zpa39wm7)
+- **AIHOT 链接**: [https://aihot.news/items/cmtne97cd058urog1zpa39wm7](https://aihot.news/items/cmtne97cd058urog1zpa39wm7)

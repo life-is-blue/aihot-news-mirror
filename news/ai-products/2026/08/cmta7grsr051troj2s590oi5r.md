@@ -7,7 +7,7 @@
 "source_name": "公众号：MiniMax（稀宇科技）"
 "original_url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247\
   489087&idx=1&sn=2691288eb8cddac6c2e86483ccff7eb5"
-"canonical_url": "https://aihot.virxact.com/items/cmta7grsr051troj2s590oi5r"
+"canonical_url": "https://aihot.news/items/cmta7grsr051troj2s590oi5r"
 "score": 61
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ MiniMax 推出 MiniMax Design，一款将多模态模型能力转化为生产力
 
 - **来源**: 公众号：MiniMax（稀宇科技）
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489087&idx=1&sn=2691288eb8cddac6c2e86483ccff7eb5](https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489087&idx=1&sn=2691288eb8cddac6c2e86483ccff7eb5)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmta7grsr051troj2s590oi5r](https://aihot.virxact.com/items/cmta7grsr051troj2s590oi5r)
+- **AIHOT 链接**: [https://aihot.news/items/cmta7grsr051troj2s590oi5r](https://aihot.news/items/cmta7grsr051troj2s590oi5r)

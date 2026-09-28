@@ -7,7 +7,7 @@
 "source_name": "MarkTechPost（RSS）"
 "original_url": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotr\
   on-labs-twotower"
-"canonical_url": "https://aihot.virxact.com/items/cmr1ti4v001xlsl8zovi1yoqa"
+"canonical_url": "https://aihot.news/items/cmr1ti4v001xlsl8zovi1yoqa"
 "score": 73
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ NVIDIA 发布 Nemotron-Labs-TwoTower，基于冻结的自回归骨干 Nemotron-3
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower](https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr1ti4v001xlsl8zovi1yoqa](https://aihot.virxact.com/items/cmr1ti4v001xlsl8zovi1yoqa)
+- **AIHOT 链接**: [https://aihot.news/items/cmr1ti4v001xlsl8zovi1yoqa](https://aihot.news/items/cmr1ti4v001xlsl8zovi1yoqa)

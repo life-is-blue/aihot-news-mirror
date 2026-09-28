@@ -8,7 +8,7 @@
 "original_url": "https://claude.com/blog/reducing-cost-and-improving-performanc\
   e-with-claude-platform"
 "canonical_url": "https://aihot.news/items/cmtsz50zn02mtro5w6ywm1xml"
-"score": 66
+"score": 67
 "content_kind": "news"
 ---
 

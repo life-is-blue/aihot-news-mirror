@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-24T04:19:35.480Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/anthropic-nec"
-"canonical_url": "https://aihot.virxact.com/items/cmoceixiq0354slsjiwyc0kmw"
+"canonical_url": "https://aihot.news/items/cmoceixiq0354slsjiwyc0kmw"
 "score": 59
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic与NEC达成战略合作，旨在打造日本规模最大的AI原生工
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/anthropic-nec](https://www.anthropic.com/news/anthropic-nec)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoceixiq0354slsjiwyc0kmw](https://aihot.virxact.com/items/cmoceixiq0354slsjiwyc0kmw)
+- **AIHOT 链接**: [https://aihot.news/items/cmoceixiq0354slsjiwyc0kmw](https://aihot.news/items/cmoceixiq0354slsjiwyc0kmw)

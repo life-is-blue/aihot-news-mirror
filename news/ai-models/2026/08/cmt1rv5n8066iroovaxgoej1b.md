@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-20T17:06:06.252Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark"
-"canonical_url": "https://aihot.virxact.com/items/cmt1rv5n8066iroovaxgoej1b"
+"canonical_url": "https://aihot.news/items/cmt1rv5n8066iroovaxgoej1b"
 "score": 61
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Hugging Face 发布 LFM2.5 系列三款模型的 DSpark 草稿模型检查点，
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/LiquidAI/lfm25-dspark](https://huggingface.co/blog/LiquidAI/lfm25-dspark)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt1rv5n8066iroovaxgoej1b](https://aihot.virxact.com/items/cmt1rv5n8066iroovaxgoej1b)
+- **AIHOT 链接**: [https://aihot.news/items/cmt1rv5n8066iroovaxgoej1b](https://aihot.news/items/cmt1rv5n8066iroovaxgoej1b)

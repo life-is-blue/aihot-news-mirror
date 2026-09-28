@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-19T22:29:54.619Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://openai.com/index/advancing-content-provenance"
-"canonical_url": "https://aihot.virxact.com/items/cmpd7hdyd01ioslk15f13h7ju"
+"canonical_url": "https://aihot.news/items/cmpd7hdyd01ioslk15f13h7ju"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI宣布在其AI生成的图像中集成谷歌的SynthID水印技术，并�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://openai.com/index/advancing-content-provenance](https://openai.com/index/advancing-content-provenance)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpd7hdyd01ioslk15f13h7ju](https://aihot.virxact.com/items/cmpd7hdyd01ioslk15f13h7ju)
+- **AIHOT 链接**: [https://aihot.news/items/cmpd7hdyd01ioslk15f13h7ju](https://aihot.news/items/cmpd7hdyd01ioslk15f13h7ju)

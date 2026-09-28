@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-24T09:54:16.034Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://github.com/izeigerman/claude-thermos"
-"canonical_url": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv"
+"canonical_url": "https://aihot.news/items/cmryrjtlb04ehrolgi1zd6eqv"
 "score": 79
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://github.com/izeigerman/claude-thermos](https://github.com/izeigerman/claude-thermos)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv](https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv)
+- **AIHOT 链接**: [https://aihot.news/items/cmryrjtlb04ehrolgi1zd6eqv](https://aihot.news/items/cmryrjtlb04ehrolgi1zd6eqv)

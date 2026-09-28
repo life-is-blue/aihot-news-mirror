@@ -7,7 +7,7 @@
 "source_name": "Hacker News：AI 热帖"
 "original_url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and"
 "canonical_url": "https://aihot.news/items/cmtud99z117yurofph84r3cio"
-"score": 79
+"score": 80
 "content_kind": "news"
 ---
 

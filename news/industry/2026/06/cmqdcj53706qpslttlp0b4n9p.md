@@ -7,7 +7,7 @@
 "source_name": "TechCrunch：AI（RSS）"
 "original_url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access\
   -to-new-models-india-debates-its-ai-future"
-"canonical_url": "https://aihot.virxact.com/items/cmqdcj53706qpslttlp0b4n9p"
+"canonical_url": "https://aihot.news/items/cmqdcj53706qpslttlp0b4n9p"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Anthropic 暂停了新模型的访问权限，印度科技领袖围绕这一事�
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqdcj53706qpslttlp0b4n9p](https://aihot.virxact.com/items/cmqdcj53706qpslttlp0b4n9p)
+- **AIHOT 链接**: [https://aihot.news/items/cmqdcj53706qpslttlp0b4n9p](https://aihot.news/items/cmqdcj53706qpslttlp0b4n9p)

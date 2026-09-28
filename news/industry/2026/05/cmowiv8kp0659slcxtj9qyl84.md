@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-08T06:16:28.537Z"
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/0/947/647.htm"
-"canonical_url": "https://aihot.virxact.com/items/cmowiv8kp0659slcxtj9qyl84"
+"canonical_url": "https://aihot.news/items/cmowiv8kp0659slcxtj9qyl84"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: IT之家（RSS）
 - **原文链接**: [https://www.ithome.com/0/947/647.htm](https://www.ithome.com/0/947/647.htm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmowiv8kp0659slcxtj9qyl84](https://aihot.virxact.com/items/cmowiv8kp0659slcxtj9qyl84)
+- **AIHOT 链接**: [https://aihot.news/items/cmowiv8kp0659slcxtj9qyl84](https://aihot.news/items/cmowiv8kp0659slcxtj9qyl84)

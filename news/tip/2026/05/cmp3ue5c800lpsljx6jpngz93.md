@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-13T09:13:24.191Z"
 "source_name": "X：硅基流动 SiliconFlow (@SiliconFlowAI)"
 "original_url": "https://x.com/SiliconFlowAI/status/2054484427192050041"
-"canonical_url": "https://aihot.virxact.com/items/cmp3ue5c800lpsljx6jpngz93"
+"canonical_url": "https://aihot.news/items/cmp3ue5c800lpsljx6jpngz93"
 "score": 69
 "content_kind": "news"
 ---
@@ -20,4 +20,4 @@
 
 - **来源**: X：硅基流动 SiliconFlow (@SiliconFlowAI)
 - **原文链接**: [https://x.com/SiliconFlowAI/status/2054484427192050041](https://x.com/SiliconFlowAI/status/2054484427192050041)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp3ue5c800lpsljx6jpngz93](https://aihot.virxact.com/items/cmp3ue5c800lpsljx6jpngz93)
+- **AIHOT 链接**: [https://aihot.news/items/cmp3ue5c800lpsljx6jpngz93](https://aihot.news/items/cmp3ue5c800lpsljx6jpngz93)

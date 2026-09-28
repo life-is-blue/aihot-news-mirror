@@ -7,7 +7,7 @@
 "source_name": "Google Research：Blog（网页）"
 "original_url": "https://research.google/blog/expanding-our-heat-resilience-dat\
   a-to-50-global-cities"
-"canonical_url": "https://aihot.virxact.com/items/cmr5bqxtn00z0slc7ddaykk09"
+"canonical_url": "https://aihot.news/items/cmr5bqxtn00z0slc7ddaykk09"
 "score": 61
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google Research 发布扩展的建筑屋顶反射率数据集，覆盖全球 50 
 
 - **来源**: Google Research：Blog（网页）
 - **原文链接**: [https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities](https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr5bqxtn00z0slc7ddaykk09](https://aihot.virxact.com/items/cmr5bqxtn00z0slc7ddaykk09)
+- **AIHOT 链接**: [https://aihot.news/items/cmr5bqxtn00z0slc7ddaykk09](https://aihot.news/items/cmr5bqxtn00z0slc7ddaykk09)

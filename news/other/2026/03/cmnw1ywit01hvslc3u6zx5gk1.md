@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-24T13:59:55.000Z"
 "source_name": "X：Thariq (@trq212)"
 "original_url": "https://x.com/trq212/status/2036442891346755787"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1ywit01hvslc3u6zx5gk1"
+"canonical_url": "https://aihot.news/items/cmnw1ywit01hvslc3u6zx5gk1"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Figma 发布 MCP 更新，开放测试版已上线。新增 use_figma 工具支�
 
 - **来源**: X：Thariq (@trq212)
 - **原文链接**: [https://x.com/trq212/status/2036442891346755787](https://x.com/trq212/status/2036442891346755787)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1ywit01hvslc3u6zx5gk1](https://aihot.virxact.com/items/cmnw1ywit01hvslc3u6zx5gk1)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1ywit01hvslc3u6zx5gk1](https://aihot.news/items/cmnw1ywit01hvslc3u6zx5gk1)

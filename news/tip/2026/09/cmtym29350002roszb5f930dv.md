@@ -8,7 +8,7 @@
 "original_url": "https://www.augmentcode.com/blog/beyond-ai-coding-agents-how-w\
   e-built-augments-software-factory"
 "canonical_url": "https://aihot.news/items/cmtym29350002roszb5f930dv"
-"score": 68
+"score": 69
 "content_kind": "news"
 ---
 

@@ -7,7 +7,7 @@
 "source_name": "公众号：通义实验室（千问）"
 "original_url": "https://mp.weixin.qq.com/s?__biz=MzkxMTYyMTAzNA%3D%3D&mid=2247\
   501476&idx=1&sn=a9caef85456da041a0bfa3c0d40d0843"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu3gxy0151rofz26y1o8vi"
+"canonical_url": "https://aihot.news/items/cmsdu3gxy0151rofz26y1o8vi"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: 公众号：通义实验室（千问）
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=MzkxMTYyMTAzNA%3D%3D&mid=2247501476&idx=1&sn=a9caef85456da041a0bfa3c0d40d0843](https://mp.weixin.qq.com/s?__biz=MzkxMTYyMTAzNA%3D%3D&mid=2247501476&idx=1&sn=a9caef85456da041a0bfa3c0d40d0843)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu3gxy0151rofz26y1o8vi](https://aihot.virxact.com/items/cmsdu3gxy0151rofz26y1o8vi)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu3gxy0151rofz26y1o8vi](https://aihot.news/items/cmsdu3gxy0151rofz26y1o8vi)

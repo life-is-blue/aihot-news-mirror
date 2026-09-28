@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-22T15:14:30.151Z"
 "source_name": "X：Google DeepMind (@GoogleDeepMind)"
 "original_url": "https://x.com/GoogleDeepMind/status/2057842131142590512"
-"canonical_url": "https://aihot.virxact.com/items/cmph294ju0ko5sljwmb0hxida"
+"canonical_url": "https://aihot.news/items/cmph294ju0ko5sljwmb0hxida"
 "score": 67
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Project Genie 🤝 @GoogleMaps Street View
 
 - **来源**: X：Google DeepMind (@GoogleDeepMind)
 - **原文链接**: [https://x.com/GoogleDeepMind/status/2057842131142590512](https://x.com/GoogleDeepMind/status/2057842131142590512)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmph294ju0ko5sljwmb0hxida](https://aihot.virxact.com/items/cmph294ju0ko5sljwmb0hxida)
+- **AIHOT 链接**: [https://aihot.news/items/cmph294ju0ko5sljwmb0hxida](https://aihot.news/items/cmph294ju0ko5sljwmb0hxida)

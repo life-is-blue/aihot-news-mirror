@@ -7,7 +7,7 @@
 "source_name": "公众号：百度智能云（文心）"
 "original_url": "https://mp.weixin.qq.com/s?__biz=MzA5NTQ5MzE5OQ%3D%3D&mid=2653\
   159192&idx=1&sn=36f7f69db077393dab48eb6677b6b9c3"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu102u00t0rofz3ymx69st"
+"canonical_url": "https://aihot.news/items/cmsdu102u00t0rofz3ymx69st"
 "score": 66
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: 公众号：百度智能云（文心）
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=MzA5NTQ5MzE5OQ%3D%3D&mid=2653159192&idx=1&sn=36f7f69db077393dab48eb6677b6b9c3](https://mp.weixin.qq.com/s?__biz=MzA5NTQ5MzE5OQ%3D%3D&mid=2653159192&idx=1&sn=36f7f69db077393dab48eb6677b6b9c3)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu102u00t0rofz3ymx69st](https://aihot.virxact.com/items/cmsdu102u00t0rofz3ymx69st)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu102u00t0rofz3ymx69st](https://aihot.news/items/cmsdu102u00t0rofz3ymx69st)

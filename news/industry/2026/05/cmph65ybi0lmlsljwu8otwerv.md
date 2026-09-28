@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-22T17:04:07.932Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/cursor-leads-gartner-mq-2026"
-"canonical_url": "https://aihot.virxact.com/items/cmph65ybi0lmlsljwu8otwerv"
+"canonical_url": "https://aihot.news/items/cmph65ybi0lmlsljwu8otwerv"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Gartner 在 2026 年魔力象限报告中，将 Cursor 评为企业级 AI 编码
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/cursor-leads-gartner-mq-2026](https://cursor.com/blog/cursor-leads-gartner-mq-2026)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmph65ybi0lmlsljwu8otwerv](https://aihot.virxact.com/items/cmph65ybi0lmlsljwu8otwerv)
+- **AIHOT 链接**: [https://aihot.news/items/cmph65ybi0lmlsljwu8otwerv](https://aihot.news/items/cmph65ybi0lmlsljwu8otwerv)

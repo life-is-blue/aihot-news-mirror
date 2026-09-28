@@ -8,7 +8,7 @@
 "original_url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-\
   book-piracy-was-illegal"
 "canonical_url": "https://aihot.news/items/cmujmfafc0lsrro9hqdnqg5or"
-"score": 77
+"score": 78
 "content_kind": "news"
 ---
 

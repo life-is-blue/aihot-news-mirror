@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-08T16:00:00.000Z"
 "source_name": "MiniMax：Blog（网页）"
 "original_url": "https://www.minimax.io/blog/minimax-maxproof-math-proof-evolution"
-"canonical_url": "https://aihot.virxact.com/items/cmqadpjwv0kjzslldk3axe95f"
+"canonical_url": "https://aihot.news/items/cmqadpjwv0kjzslldk3axe95f"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ MiniMax M3采用MaxProof框架，在IMO 2025和USAMO 2026两项数学奥赛基�
 
 - **来源**: MiniMax：Blog（网页）
 - **原文链接**: [https://www.minimax.io/blog/minimax-maxproof-math-proof-evolution](https://www.minimax.io/blog/minimax-maxproof-math-proof-evolution)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqadpjwv0kjzslldk3axe95f](https://aihot.virxact.com/items/cmqadpjwv0kjzslldk3axe95f)
+- **AIHOT 链接**: [https://aihot.news/items/cmqadpjwv0kjzslldk3axe95f](https://aihot.news/items/cmqadpjwv0kjzslldk3axe95f)

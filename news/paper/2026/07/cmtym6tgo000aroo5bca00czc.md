@@ -8,7 +8,7 @@
 "original_url": "https://www.promptarmor.com/resources/claude-and-gpt-connector\
   s-change-every-9-minutes"
 "canonical_url": "https://aihot.news/items/cmtym6tgo000aroo5bca00czc"
-"score": 63
+"score": 64
 "content_kind": "news"
 ---
 

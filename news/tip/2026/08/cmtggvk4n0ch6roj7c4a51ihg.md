@@ -6,8 +6,8 @@
 "discovered_at": "2026-08-05T00:00:00.000Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://tomtunguz.com/the-newest-hyperscaler"
-"canonical_url": "https://aihot.virxact.com/items/cmtggvk4n0ch6roj7c4a51ihg"
-"score": 70
+"canonical_url": "https://aihot.news/items/cmtggvk4n0ch6roj7c4a51ihg"
+"score": 71
 "content_kind": "news"
 ---
 
@@ -17,4 +17,4 @@ SpaceXAI 上季度资本开支达 183.7 亿美元，其中 158.3 亿投向 AI，
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://tomtunguz.com/the-newest-hyperscaler](https://tomtunguz.com/the-newest-hyperscaler)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtggvk4n0ch6roj7c4a51ihg](https://aihot.virxact.com/items/cmtggvk4n0ch6roj7c4a51ihg)
+- **AIHOT 链接**: [https://aihot.news/items/cmtggvk4n0ch6roj7c4a51ihg](https://aihot.news/items/cmtggvk4n0ch6roj7c4a51ihg)

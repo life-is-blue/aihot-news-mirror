@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-11T16:13:14.339Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-plugin-marketplace"
-"canonical_url": "https://aihot.virxact.com/items/cmq9p5wcv0dyaslld6pnm1nzy"
+"canonical_url": "https://aihot.news/items/cmq9p5wcv0dyaslld6pnm1nzy"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI 今日发布 Grok Build 内置插件市场。插件将技能、斜杠命令�
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-plugin-marketplace](https://x.ai/news/grok-plugin-marketplace)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq9p5wcv0dyaslld6pnm1nzy](https://aihot.virxact.com/items/cmq9p5wcv0dyaslld6pnm1nzy)
+- **AIHOT 链接**: [https://aihot.news/items/cmq9p5wcv0dyaslld6pnm1nzy](https://aihot.news/items/cmq9p5wcv0dyaslld6pnm1nzy)

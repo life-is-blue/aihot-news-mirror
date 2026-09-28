@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-13T02:10:22.554Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/insights/model-routing"
-"canonical_url": "https://aihot.virxact.com/items/cmqbpxbo703t0slam4t20lwok"
+"canonical_url": "https://aihot.news/items/cmqbpxbo703t0slam4t20lwok"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter 将每个请求路由到 60 多家提供商，用户可自定义提�
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/insights/model-routing](https://openrouter.ai/blog/insights/model-routing)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqbpxbo703t0slam4t20lwok](https://aihot.virxact.com/items/cmqbpxbo703t0slam4t20lwok)
+- **AIHOT 链接**: [https://aihot.news/items/cmqbpxbo703t0slam4t20lwok](https://aihot.news/items/cmqbpxbo703t0slam4t20lwok)

@@ -7,7 +7,7 @@
 "source_name": "公众号：DeepSeek（深度求索）"
 "original_url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247\
   485630&idx=1&sn=2957eed7db6d3ecfc75b1dd18404225d"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu3h2e015jrofz3ds95tqy"
+"canonical_url": "https://aihot.news/items/cmsdu3h2e015jrofz3ds95tqy"
 "score": 80
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ DeepSeek 正式发布 DeepSeek-V3.1，采用混合推理架构，一个模型同
 
 - **来源**: 公众号：DeepSeek（深度求索）
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485630&idx=1&sn=2957eed7db6d3ecfc75b1dd18404225d](https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485630&idx=1&sn=2957eed7db6d3ecfc75b1dd18404225d)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu3h2e015jrofz3ds95tqy](https://aihot.virxact.com/items/cmsdu3h2e015jrofz3ds95tqy)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu3h2e015jrofz3ds95tqy](https://aihot.news/items/cmsdu3h2e015jrofz3ds95tqy)

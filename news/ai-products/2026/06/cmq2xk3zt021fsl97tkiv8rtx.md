@@ -8,7 +8,7 @@
 "original_url": "https://www.marktechpost.com/2026/06/06/googles-new-colab-cli-\
   lets-developers-and-ai-agents-run-python-on-remote-colab-gpus-and-tpus-from-t\
   he-terminal"
-"canonical_url": "https://aihot.virxact.com/items/cmq2xk3zt021fsl97tkiv8rtx"
+"canonical_url": "https://aihot.news/items/cmq2xk3zt021fsl97tkiv8rtx"
 "score": 74
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Google 发布 Colab CLI，允许开发者和 AI 智能体在终端中直接运�
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/06/06/googles-new-colab-cli-lets-developers-and-ai-agents-run-python-on-remote-colab-gpus-and-tpus-from-the-terminal](https://www.marktechpost.com/2026/06/06/googles-new-colab-cli-lets-developers-and-ai-agents-run-python-on-remote-colab-gpus-and-tpus-from-the-terminal)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq2xk3zt021fsl97tkiv8rtx](https://aihot.virxact.com/items/cmq2xk3zt021fsl97tkiv8rtx)
+- **AIHOT 链接**: [https://aihot.news/items/cmq2xk3zt021fsl97tkiv8rtx](https://aihot.news/items/cmq2xk3zt021fsl97tkiv8rtx)

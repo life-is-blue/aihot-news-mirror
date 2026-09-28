@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-05T03:19:12.277Z"
 "source_name": "X：Tibo (@thsottiaux)"
 "original_url": "https://x.com/thsottiaux/status/2062734215494664697"
-"canonical_url": "https://aihot.virxact.com/items/cmq0cv0yt052rsltrh53tw3eb"
+"canonical_url": "https://aihot.news/items/cmq0cv0yt052rsltrh53tw3eb"
 "score": 71
 "content_kind": "news"
 ---
@@ -23,4 +23,4 @@ https://developers.openai.com/codex/sdk#python-library
 
 - **来源**: X：Tibo (@thsottiaux)
 - **原文链接**: [https://x.com/thsottiaux/status/2062734215494664697](https://x.com/thsottiaux/status/2062734215494664697)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq0cv0yt052rsltrh53tw3eb](https://aihot.virxact.com/items/cmq0cv0yt052rsltrh53tw3eb)
+- **AIHOT 链接**: [https://aihot.news/items/cmq0cv0yt052rsltrh53tw3eb](https://aihot.news/items/cmq0cv0yt052rsltrh53tw3eb)

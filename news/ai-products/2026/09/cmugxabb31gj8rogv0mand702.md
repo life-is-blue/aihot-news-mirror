@@ -7,7 +7,7 @@
 "source_name": "X：Satya Nadella (@satyanadella)"
 "original_url": "https://x.com/satyanadella/status/2103455884366188544"
 "canonical_url": "https://aihot.news/items/cmugxabb31gj8rogv0mand702"
-"score": 67
+"score": 68
 "content_kind": "news"
 ---
 

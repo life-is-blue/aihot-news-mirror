@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-14T19:22:48.546Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/claude-text-watermark"
-"canonical_url": "https://aihot.virxact.com/items/cmstc3u8j02xhro0xf5o1ouas"
+"canonical_url": "https://aihot.news/items/cmstc3u8j02xhro0xf5o1ouas"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/claude-text-watermark](https://www.anthropic.com/news/claude-text-watermark)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmstc3u8j02xhro0xf5o1ouas](https://aihot.virxact.com/items/cmstc3u8j02xhro0xf5o1ouas)
+- **AIHOT 链接**: [https://aihot.news/items/cmstc3u8j02xhro0xf5o1ouas](https://aihot.news/items/cmstc3u8j02xhro0xf5o1ouas)

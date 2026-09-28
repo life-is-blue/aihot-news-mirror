@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-09T06:22:29.171Z"
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/0/961/868.htm"
-"canonical_url": "https://aihot.virxact.com/items/cmq69650406cmsl5iwf8zszhp"
+"canonical_url": "https://aihot.news/items/cmq69650406cmsl5iwf8zszhp"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Cursor 将欧洲总部设在伦敦，计划招聘约 200 名员工，并在巴�
 
 - **来源**: IT之家（RSS）
 - **原文链接**: [https://www.ithome.com/0/961/868.htm](https://www.ithome.com/0/961/868.htm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq69650406cmsl5iwf8zszhp](https://aihot.virxact.com/items/cmq69650406cmsl5iwf8zszhp)
+- **AIHOT 链接**: [https://aihot.news/items/cmq69650406cmsl5iwf8zszhp](https://aihot.news/items/cmq69650406cmsl5iwf8zszhp)

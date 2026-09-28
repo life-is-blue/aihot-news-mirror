@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-20T04:05:49.200Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2605.19577"
-"canonical_url": "https://aihot.virxact.com/items/cmpdjhbyu04gqslk1o0dakqxr"
+"canonical_url": "https://aihot.news/items/cmpdjhbyu04gqslk1o0dakqxr"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ GoLongRL是一个全开源的长期上下文强化学习方案，聚焦于使用
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2605.19577](https://arxiv.org/abs/2605.19577)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpdjhbyu04gqslk1o0dakqxr](https://aihot.virxact.com/items/cmpdjhbyu04gqslk1o0dakqxr)
+- **AIHOT 链接**: [https://aihot.news/items/cmpdjhbyu04gqslk1o0dakqxr](https://aihot.news/items/cmpdjhbyu04gqslk1o0dakqxr)

@@ -7,7 +7,7 @@
 "source_name": "X：Tencent WorkBuddy (@WorkBuddy_AI)"
 "original_url": "https://x.com/WorkBuddy_AI/status/2098076348749324362"
 "canonical_url": "https://aihot.news/items/cmtvqbs1q03q9rofb98re4l3n"
-"score": 69
+"score": 70
 "content_kind": "news"
 ---
 

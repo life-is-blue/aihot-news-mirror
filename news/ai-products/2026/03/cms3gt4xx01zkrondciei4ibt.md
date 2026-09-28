@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-13T00:00:00.000Z"
 "source_name": "Claude Platform：开发者版本说明（RSS）"
 "original_url": "https://platform.claude.com/docs/en/release-notes/overview#march-13-2026"
-"canonical_url": "https://aihot.virxact.com/items/cms3gt4xx01zkrondciei4ibt"
+"canonical_url": "https://aihot.news/items/cms3gt4xx01zkrondciei4ibt"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Opus 4.6 和 Sonnet 4.6 的 1M token 上下文窗口现已正式可用，
 
 - **来源**: Claude Platform：开发者版本说明（RSS）
 - **原文链接**: [https://platform.claude.com/docs/en/release-notes/overview#march-13-2026](https://platform.claude.com/docs/en/release-notes/overview#march-13-2026)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3gt4xx01zkrondciei4ibt](https://aihot.virxact.com/items/cms3gt4xx01zkrondciei4ibt)
+- **AIHOT 链接**: [https://aihot.news/items/cms3gt4xx01zkrondciei4ibt](https://aihot.news/items/cms3gt4xx01zkrondciei4ibt)

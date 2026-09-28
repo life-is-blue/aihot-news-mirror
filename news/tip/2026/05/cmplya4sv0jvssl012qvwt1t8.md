@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-26T01:22:14.241Z"
 "source_name": "X：Elon Musk (@elonmusk, xAI)"
 "original_url": "https://x.com/elonmusk/status/2059080740881502364"
-"canonical_url": "https://aihot.virxact.com/items/cmplya4sv0jvssl012qvwt1t8"
+"canonical_url": "https://aihot.news/items/cmplya4sv0jvssl012qvwt1t8"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI发布了面向非技术背景的SuperGrok和X Premium+用户的Grok Build入
 
 - **来源**: X：Elon Musk (@elonmusk, xAI)
 - **原文链接**: [https://x.com/elonmusk/status/2059080740881502364](https://x.com/elonmusk/status/2059080740881502364)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmplya4sv0jvssl012qvwt1t8](https://aihot.virxact.com/items/cmplya4sv0jvssl012qvwt1t8)
+- **AIHOT 链接**: [https://aihot.news/items/cmplya4sv0jvssl012qvwt1t8](https://aihot.news/items/cmplya4sv0jvssl012qvwt1t8)

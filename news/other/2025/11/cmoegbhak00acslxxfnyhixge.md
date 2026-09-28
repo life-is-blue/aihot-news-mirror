@@ -6,7 +6,7 @@
 "discovered_at": "2025-11-24T17:40:14.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/Tavily/tavily-deep-research"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhak00acslxxfnyhixge"
+"canonical_url": "https://aihot.news/items/cmoegbhak00acslxxfnyhixge"
 "score": 83
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Tavily团队因模型迭代重建了深度研究系统，核心是从工作流�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/Tavily/tavily-deep-research](https://huggingface.co/blog/Tavily/tavily-deep-research)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhak00acslxxfnyhixge](https://aihot.virxact.com/items/cmoegbhak00acslxxfnyhixge)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhak00acslxxfnyhixge](https://aihot.news/items/cmoegbhak00acslxxfnyhixge)

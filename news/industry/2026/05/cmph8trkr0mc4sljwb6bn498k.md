@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-22T18:18:31.210Z"
 "source_name": "Google Blog：AI（RSS）"
 "original_url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap"
-"canonical_url": "https://aihot.virxact.com/items/cmph8trkr0mc4sljwb6bn498k"
+"canonical_url": "https://aihot.news/items/cmph8trkr0mc4sljwb6bn498k"
 "score": 56
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Google Blog：AI（RSS）
 - **原文链接**: [https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap](https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmph8trkr0mc4sljwb6bn498k](https://aihot.virxact.com/items/cmph8trkr0mc4sljwb6bn498k)
+- **AIHOT 链接**: [https://aihot.news/items/cmph8trkr0mc4sljwb6bn498k](https://aihot.news/items/cmph8trkr0mc4sljwb6bn498k)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-12T17:33:55.244Z"
 "source_name": "X：OpenAI Developers (@OpenAIDevs)"
 "original_url": "https://x.com/OpenAIDevs/status/2054252221941121035"
-"canonical_url": "https://aihot.virxact.com/items/cmp2wtrgj019zsl1qme5cxcte"
+"canonical_url": "https://aihot.news/items/cmp2wtrgj019zsl1qme5cxcte"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Symphony：每个开放任务都有一个正在运行的Codex智能体
 
 - **来源**: X：OpenAI Developers (@OpenAIDevs)
 - **原文链接**: [https://x.com/OpenAIDevs/status/2054252221941121035](https://x.com/OpenAIDevs/status/2054252221941121035)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp2wtrgj019zsl1qme5cxcte](https://aihot.virxact.com/items/cmp2wtrgj019zsl1qme5cxcte)
+- **AIHOT 链接**: [https://aihot.news/items/cmp2wtrgj019zsl1qme5cxcte](https://aihot.news/items/cmp2wtrgj019zsl1qme5cxcte)

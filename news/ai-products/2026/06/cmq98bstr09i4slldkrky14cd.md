@@ -7,7 +7,7 @@
 "source_name": "The Verge：AI（RSS）"
 "original_url": "https://www.theverge.com/ai-artificial-intelligence/948153/dee\
   zer-ai-music-detector-spotify-apple"
-"canonical_url": "https://aihot.virxact.com/items/cmq98bstr09i4slldkrky14cd"
+"canonical_url": "https://aihot.news/items/cmq98bstr09i4slldkrky14cd"
 "score": 73
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Deezer 将扫描用户在其它流媒体平台的播放列表，检测其中的 
 
 - **来源**: The Verge：AI（RSS）
 - **原文链接**: [https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple](https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq98bstr09i4slldkrky14cd](https://aihot.virxact.com/items/cmq98bstr09i4slldkrky14cd)
+- **AIHOT 链接**: [https://aihot.news/items/cmq98bstr09i4slldkrky14cd](https://aihot.news/items/cmq98bstr09i4slldkrky14cd)

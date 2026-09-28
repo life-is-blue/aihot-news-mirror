@@ -8,7 +8,7 @@
 "original_url": "https://github.blog/news-insights/company-news/github-copilot-\
   individual-plans-introducing-flex-allotments-in-pro-and-pro-and-a-new-max-pla\
   n"
-"canonical_url": "https://aihot.virxact.com/items/cmp2xiymg01fwsl1qwncq1fep"
+"canonical_url": "https://aihot.news/items/cmp2xiymg01fwsl1qwncq1fep"
 "score": 61
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ GitHub 宣布从6月1日起更新 Copilot 个人计划阵容，基于用户反�
 
 - **来源**: GitHub Blog
 - **原文链接**: [https://github.blog/news-insights/company-news/github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and-a-new-max-plan](https://github.blog/news-insights/company-news/github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and-a-new-max-plan)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp2xiymg01fwsl1qwncq1fep](https://aihot.virxact.com/items/cmp2xiymg01fwsl1qwncq1fep)
+- **AIHOT 链接**: [https://aihot.news/items/cmp2xiymg01fwsl1qwncq1fep](https://aihot.news/items/cmp2xiymg01fwsl1qwncq1fep)

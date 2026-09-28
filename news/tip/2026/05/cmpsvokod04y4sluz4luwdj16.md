@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-30T21:43:54.306Z"
 "source_name": "Simon Willison 博客"
 "original_url": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser"
-"canonical_url": "https://aihot.virxact.com/items/cmpsvokod04y4sluz4luwdj16"
+"canonical_url": "https://aihot.news/items/cmpsvokod04y4sluz4luwdj16"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Simon Willison 博客
 - **原文链接**: [https://simonwillison.net/2026/May/30/pyodide-asgi-browser](https://simonwillison.net/2026/May/30/pyodide-asgi-browser)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpsvokod04y4sluz4luwdj16](https://aihot.virxact.com/items/cmpsvokod04y4sluz4luwdj16)
+- **AIHOT 链接**: [https://aihot.news/items/cmpsvokod04y4sluz4luwdj16](https://aihot.news/items/cmpsvokod04y4sluz4luwdj16)

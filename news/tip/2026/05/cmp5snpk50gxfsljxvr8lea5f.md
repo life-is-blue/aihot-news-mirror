@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-14T18:00:00.200Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/the-founders-playbook"
-"canonical_url": "https://aihot.virxact.com/items/cmp5snpk50gxfsljxvr8lea5f"
+"canonical_url": "https://aihot.news/items/cmp5snpk50gxfsljxvr8lea5f"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic公司发布了一份面向AI原生初创企业的实用指南，旨在
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/the-founders-playbook](https://claude.com/blog/the-founders-playbook)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp5snpk50gxfsljxvr8lea5f](https://aihot.virxact.com/items/cmp5snpk50gxfsljxvr8lea5f)
+- **AIHOT 链接**: [https://aihot.news/items/cmp5snpk50gxfsljxvr8lea5f](https://aihot.news/items/cmp5snpk50gxfsljxvr8lea5f)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-18T22:27:36.000Z"
 "source_name": "LangChain：Blog（RSS）"
 "original_url": "https://www.langchain.com/blog/langsmith-agent-builder"
-"canonical_url": "https://aihot.virxact.com/items/cms3x0dh503b7ro82orex40cy"
+"canonical_url": "https://aihot.news/items/cms3x0dh503b7ro82orex40cy"
 "score": 64
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ LangSmith 发布 No Code Agent Builder，允许用户无需编写代码即可创
 
 - **来源**: LangChain：Blog（RSS）
 - **原文链接**: [https://www.langchain.com/blog/langsmith-agent-builder](https://www.langchain.com/blog/langsmith-agent-builder)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3x0dh503b7ro82orex40cy](https://aihot.virxact.com/items/cms3x0dh503b7ro82orex40cy)
+- **AIHOT 链接**: [https://aihot.news/items/cms3x0dh503b7ro82orex40cy](https://aihot.news/items/cms3x0dh503b7ro82orex40cy)

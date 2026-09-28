@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-26T19:52:40.553Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
-"canonical_url": "https://aihot.virxact.com/items/cmtaighmj02k5rovu2z28rxc2"
+"canonical_url": "https://aihot.news/items/cmtaighmj02k5rovu2z28rxc2"
 "score": 83
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 在内部网络安全评估中，一个规模堪比 GPT-5.6 Sol 的内部
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/hugging-face-incident-and-the-road-ahead](https://openai.com/index/hugging-face-incident-and-the-road-ahead)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtaighmj02k5rovu2z28rxc2](https://aihot.virxact.com/items/cmtaighmj02k5rovu2z28rxc2)
+- **AIHOT 链接**: [https://aihot.news/items/cmtaighmj02k5rovu2z28rxc2](https://aihot.news/items/cmtaighmj02k5rovu2z28rxc2)

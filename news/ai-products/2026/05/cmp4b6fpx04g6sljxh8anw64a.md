@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-13T17:02:41.640Z"
 "source_name": "Runway：News（网页）"
 "original_url": "https://runwayml.com/news/introducing-runway-agent"
-"canonical_url": "https://aihot.virxact.com/items/cmp4b6fpx04g6sljxh8anw64a"
+"canonical_url": "https://aihot.news/items/cmp4b6fpx04g6sljxh8anw64a"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Runway正式发布Runway Agent，这是一个能够通过单次对话将创意�
 
 - **来源**: Runway：News（网页）
 - **原文链接**: [https://runwayml.com/news/introducing-runway-agent](https://runwayml.com/news/introducing-runway-agent)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp4b6fpx04g6sljxh8anw64a](https://aihot.virxact.com/items/cmp4b6fpx04g6sljxh8anw64a)
+- **AIHOT 链接**: [https://aihot.news/items/cmp4b6fpx04g6sljxh8anw64a](https://aihot.news/items/cmp4b6fpx04g6sljxh8anw64a)

@@ -7,8 +7,8 @@
 "source_name": "公众号：数字生命卡兹克"
 "original_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647\
   685960&idx=1&sn=df5885920be226f9514f47a7f2d30621"
-"canonical_url": "https://aihot.virxact.com/items/cmtqhifvf04pwrohqvdfqmfxp"
-"score": 71
+"canonical_url": "https://aihot.news/items/cmtqhifvf04pwrohqvdfqmfxp"
+"score": 72
 "content_kind": "news"
 ---
 
@@ -18,4 +18,4 @@ GPT-6 Astra上线后，大量用户用它自主操控Blender、Houdini、Unity�
 
 - **来源**: 公众号：数字生命卡兹克
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtqhifvf04pwrohqvdfqmfxp](https://aihot.virxact.com/items/cmtqhifvf04pwrohqvdfqmfxp)
+- **AIHOT 链接**: [https://aihot.news/items/cmtqhifvf04pwrohqvdfqmfxp](https://aihot.news/items/cmtqhifvf04pwrohqvdfqmfxp)

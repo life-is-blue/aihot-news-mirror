@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-09T22:21:09.153Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://bun.com/blog/bun-in-rust"
-"canonical_url": "https://aihot.virxact.com/items/cmre2mjao00ncihwk7foifcuk"
+"canonical_url": "https://aihot.news/items/cmre2mjao00ncihwk7foifcuk"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Bun 于 2025 年 12 月被 Anthropic 收购，作者使用预发布版 Claude Fa
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://bun.com/blog/bun-in-rust](https://bun.com/blog/bun-in-rust)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmre2mjao00ncihwk7foifcuk](https://aihot.virxact.com/items/cmre2mjao00ncihwk7foifcuk)
+- **AIHOT 链接**: [https://aihot.news/items/cmre2mjao00ncihwk7foifcuk](https://aihot.news/items/cmre2mjao00ncihwk7foifcuk)

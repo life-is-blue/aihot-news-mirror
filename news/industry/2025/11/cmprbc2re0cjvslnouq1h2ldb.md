@@ -7,7 +7,7 @@
 "discovered_at": "2025-11-24T16:00:00.000Z"
 "source_name": "Suno：Blog（网页）"
 "original_url": "https://suno.com/blog/wmg-partnership"
-"canonical_url": "https://aihot.virxact.com/items/cmprbc2re0cjvslnouq1h2ldb"
+"canonical_url": "https://aihot.news/items/cmprbc2re0cjvslnouq1h2ldb"
 "score": 56
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Suno宣布与华纳音乐集团达成合作。Suno已拥有近1亿音乐创作�
 
 - **来源**: Suno：Blog（网页）
 - **原文链接**: [https://suno.com/blog/wmg-partnership](https://suno.com/blog/wmg-partnership)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmprbc2re0cjvslnouq1h2ldb](https://aihot.virxact.com/items/cmprbc2re0cjvslnouq1h2ldb)
+- **AIHOT 链接**: [https://aihot.news/items/cmprbc2re0cjvslnouq1h2ldb](https://aihot.news/items/cmprbc2re0cjvslnouq1h2ldb)

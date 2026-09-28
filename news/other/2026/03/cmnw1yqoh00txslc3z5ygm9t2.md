@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-19T03:12:58.000Z"
 "source_name": "X：Demis Hassabis (@demishassabis)"
 "original_url": "https://x.com/demishassabis/status/2034468142647222331"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yqoh00txslc3z5ygm9t2"
+"canonical_url": "https://aihot.news/items/cmnw1yqoh00txslc3z5ygm9t2"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google 发布 vibe design 平台 Stitch，支持自然语言描述直接生成�
 
 - **来源**: X：Demis Hassabis (@demishassabis)
 - **原文链接**: [https://x.com/demishassabis/status/2034468142647222331](https://x.com/demishassabis/status/2034468142647222331)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yqoh00txslc3z5ygm9t2](https://aihot.virxact.com/items/cmnw1yqoh00txslc3z5ygm9t2)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yqoh00txslc3z5ygm9t2](https://aihot.news/items/cmnw1yqoh00txslc3z5ygm9t2)

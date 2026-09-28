@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-14T20:09:05.511Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/work-with-codex-from-anywhere"
-"canonical_url": "https://aihot.virxact.com/items/cmp5x90ql0i0fsljxa1li1blx"
+"canonical_url": "https://aihot.news/items/cmp5x90ql0i0fsljxa1li1blx"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/work-with-codex-from-anywhere](https://openai.com/index/work-with-codex-from-anywhere)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp5x90ql0i0fsljxa1li1blx](https://aihot.virxact.com/items/cmp5x90ql0i0fsljxa1li1blx)
+- **AIHOT 链接**: [https://aihot.news/items/cmp5x90ql0i0fsljxa1li1blx](https://aihot.news/items/cmp5x90ql0i0fsljxa1li1blx)

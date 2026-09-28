@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-22T16:00:00.000Z"
 "source_name": "Black Forest Labs：Blog（网页）"
 "original_url": "https://bfl.ai/blog/flux-3"
-"canonical_url": "https://aihot.virxact.com/items/cms3dpvqp0aorro3fx8vn2b5w"
+"canonical_url": "https://aihot.news/items/cms3dpvqp0aorro3fx8vn2b5w"
 "score": 59
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Black Forest Labs 发布多模态模型 FLUX 3，面向视频领域，原生支�
 
 - **来源**: Black Forest Labs：Blog（网页）
 - **原文链接**: [https://bfl.ai/blog/flux-3](https://bfl.ai/blog/flux-3)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3dpvqp0aorro3fx8vn2b5w](https://aihot.virxact.com/items/cms3dpvqp0aorro3fx8vn2b5w)
+- **AIHOT 链接**: [https://aihot.news/items/cms3dpvqp0aorro3fx8vn2b5w](https://aihot.news/items/cms3dpvqp0aorro3fx8vn2b5w)

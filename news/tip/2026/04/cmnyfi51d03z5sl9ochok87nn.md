@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/stanfords-ai-index-2026-shows-rapid-pr\
   ogress-growing-safety-concerns-and-declining-public-trust"
-"canonical_url": "https://aihot.virxact.com/items/cmnyfi51d03z5sl9ochok87nn"
+"canonical_url": "https://aihot.news/items/cmnyfi51d03z5sl9ochok87nn"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Stanford HAI 发布的 2026 年 AI 指数报告显示，AI 模型性能实现重
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/stanfords-ai-index-2026-shows-rapid-progress-growing-safety-concerns-and-declining-public-trust](https://the-decoder.com/stanfords-ai-index-2026-shows-rapid-progress-growing-safety-concerns-and-declining-public-trust)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnyfi51d03z5sl9ochok87nn](https://aihot.virxact.com/items/cmnyfi51d03z5sl9ochok87nn)
+- **AIHOT 链接**: [https://aihot.news/items/cmnyfi51d03z5sl9ochok87nn](https://aihot.news/items/cmnyfi51d03z5sl9ochok87nn)

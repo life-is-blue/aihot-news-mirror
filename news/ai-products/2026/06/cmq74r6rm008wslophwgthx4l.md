@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-09T21:06:26.068Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/whats-new-in-claude-managed-agents"
-"canonical_url": "https://aihot.virxact.com/items/cmq74r6rm008wslophwgthx4l"
+"canonical_url": "https://aihot.news/items/cmq74r6rm008wslophwgthx4l"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Managed Agents 今日在 Claude Platform 公开测试两项新功能：�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/whats-new-in-claude-managed-agents](https://claude.com/blog/whats-new-in-claude-managed-agents)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq74r6rm008wslophwgthx4l](https://aihot.virxact.com/items/cmq74r6rm008wslophwgthx4l)
+- **AIHOT 链接**: [https://aihot.news/items/cmq74r6rm008wslophwgthx4l](https://aihot.news/items/cmq74r6rm008wslophwgthx4l)

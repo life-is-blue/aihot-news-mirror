@@ -6,7 +6,7 @@
 "discovered_at": "2025-12-01T19:00:00.000Z"
 "source_name": "OpenAI：Alignment 研究博客（RSS）"
 "original_url": "https://alignment.openai.com/scaling-code-verification"
-"canonical_url": "https://aihot.virxact.com/items/cmoqytjhu006vslbojueo7y8n"
+"canonical_url": "https://aihot.news/items/cmoqytjhu006vslbojueo7y8n"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: OpenAI：Alignment 研究博客（RSS）
 - **原文链接**: [https://alignment.openai.com/scaling-code-verification](https://alignment.openai.com/scaling-code-verification)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoqytjhu006vslbojueo7y8n](https://aihot.virxact.com/items/cmoqytjhu006vslbojueo7y8n)
+- **AIHOT 链接**: [https://aihot.news/items/cmoqytjhu006vslbojueo7y8n](https://aihot.news/items/cmoqytjhu006vslbojueo7y8n)

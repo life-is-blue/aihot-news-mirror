@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-25T09:09:31.809Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/how-agents-are-transforming-work"
-"canonical_url": "https://aihot.virxact.com/items/cmqta6kw701sasl0es975w0zc"
+"canonical_url": "https://aihot.news/items/cmqta6kw701sasl0es975w0zc"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 在2025年8月至2026年6月间观察到，智能体产品 Codex 取代 C
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/how-agents-are-transforming-work](https://openai.com/index/how-agents-are-transforming-work)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqta6kw701sasl0es975w0zc](https://aihot.virxact.com/items/cmqta6kw701sasl0es975w0zc)
+- **AIHOT 链接**: [https://aihot.news/items/cmqta6kw701sasl0es975w0zc](https://aihot.news/items/cmqta6kw701sasl0es975w0zc)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-29T11:13:42.056Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/cybersecurity-in-the-intelligence-age"
-"canonical_url": "https://aihot.virxact.com/items/cmojyipa000ooslz3kovfcw2s"
+"canonical_url": "https://aihot.news/items/cmojyipa000ooslz3kovfcw2s"
 "score": 56
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 发布了一份旨在强化 Intelligence Age 网络安全的五点行动�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/cybersecurity-in-the-intelligence-age](https://openai.com/index/cybersecurity-in-the-intelligence-age)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmojyipa000ooslz3kovfcw2s](https://aihot.virxact.com/items/cmojyipa000ooslz3kovfcw2s)
+- **AIHOT 链接**: [https://aihot.news/items/cmojyipa000ooslz3kovfcw2s](https://aihot.news/items/cmojyipa000ooslz3kovfcw2s)

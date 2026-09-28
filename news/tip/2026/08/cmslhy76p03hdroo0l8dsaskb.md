@@ -8,7 +8,7 @@
 "original_url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysi\
   s-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustne\
   ss-testing-and-semi-supervised-learning"
-"canonical_url": "https://aihot.virxact.com/items/cmslhy76p03hdroo0l8dsaskb"
+"canonical_url": "https://aihot.news/items/cmslhy76p03hdroo0l8dsaskb"
 "score": 70
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning](https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmslhy76p03hdroo0l8dsaskb](https://aihot.virxact.com/items/cmslhy76p03hdroo0l8dsaskb)
+- **AIHOT 链接**: [https://aihot.news/items/cmslhy76p03hdroo0l8dsaskb](https://aihot.news/items/cmslhy76p03hdroo0l8dsaskb)

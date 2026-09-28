@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-24T22:22:25.866Z"
 "source_name": "Midjourney：Updates（RSS）"
 "original_url": "https://updates.midjourney.com/version-8-2"
-"canonical_url": "https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7"
+"canonical_url": "https://aihot.news/items/cmrzi9yew001arop9eruk86n7"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Midjourney 今日推出 V8.2 图像模型，重点提升美学质量、图像创
 
 - **来源**: Midjourney：Updates（RSS）
 - **原文链接**: [https://updates.midjourney.com/version-8-2](https://updates.midjourney.com/version-8-2)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7](https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7)
+- **AIHOT 链接**: [https://aihot.news/items/cmrzi9yew001arop9eruk86n7](https://aihot.news/items/cmrzi9yew001arop9eruk86n7)

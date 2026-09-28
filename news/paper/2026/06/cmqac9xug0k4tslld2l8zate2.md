@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-12T03:00:30.778Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2606.13473"
-"canonical_url": "https://aihot.virxact.com/items/cmqac9xug0k4tslld2l8zate2"
+"canonical_url": "https://aihot.news/items/cmqac9xug0k4tslld2l8zate2"
 "score": 79
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ MaxProof 是为 MiniMax-M3 系列设计的群体级别测试时扩展框架，�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2606.13473](https://arxiv.org/abs/2606.13473)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqac9xug0k4tslld2l8zate2](https://aihot.virxact.com/items/cmqac9xug0k4tslld2l8zate2)
+- **AIHOT 链接**: [https://aihot.news/items/cmqac9xug0k4tslld2l8zate2](https://aihot.news/items/cmqac9xug0k4tslld2l8zate2)

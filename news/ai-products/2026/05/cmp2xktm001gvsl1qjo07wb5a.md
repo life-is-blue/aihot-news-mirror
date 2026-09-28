@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-12T17:54:45.952Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/claude-for-the-legal-industry"
-"canonical_url": "https://aihot.virxact.com/items/cmp2xktm001gvsl1qjo07wb5a"
+"canonical_url": "https://aihot.news/items/cmp2xktm001gvsl1qjo07wb5a"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic公司为法律行业发布20多个新的MCP连接器及12个专用插�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/claude-for-the-legal-industry](https://claude.com/blog/claude-for-the-legal-industry)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp2xktm001gvsl1qjo07wb5a](https://aihot.virxact.com/items/cmp2xktm001gvsl1qjo07wb5a)
+- **AIHOT 链接**: [https://aihot.news/items/cmp2xktm001gvsl1qjo07wb5a](https://aihot.news/items/cmp2xktm001gvsl1qjo07wb5a)

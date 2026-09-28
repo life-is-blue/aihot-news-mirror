@@ -6,7 +6,7 @@
 "discovered_at": "2026-02-11T00:00:00.000Z"
 "source_name": "蚂蚁百灵：Developer Blog（网页）"
 "original_url": "https://developer.ant-ling.com/zh-CN/blogs/ming-flash-omni-2-0-new-vision"
-"canonical_url": "https://aihot.virxact.com/items/cmoecv1p6003ysl19b0ekdsw0"
+"canonical_url": "https://aihot.news/items/cmoecv1p6003ysl19b0ekdsw0"
 "score": 83
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: 蚂蚁百灵：Developer Blog（网页）
 - **原文链接**: [https://developer.ant-ling.com/zh-CN/blogs/ming-flash-omni-2-0-new-vision](https://developer.ant-ling.com/zh-CN/blogs/ming-flash-omni-2-0-new-vision)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoecv1p6003ysl19b0ekdsw0](https://aihot.virxact.com/items/cmoecv1p6003ysl19b0ekdsw0)
+- **AIHOT 链接**: [https://aihot.news/items/cmoecv1p6003ysl19b0ekdsw0](https://aihot.news/items/cmoecv1p6003ysl19b0ekdsw0)

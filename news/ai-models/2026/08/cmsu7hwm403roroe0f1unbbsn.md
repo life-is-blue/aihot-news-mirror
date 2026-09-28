@@ -7,7 +7,7 @@
 "source_name": "公众号：蚂蚁百灵（Ling）"
 "original_url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247\
   487496&idx=1&sn=6486908f50006a356d48168b0b2762f1"
-"canonical_url": "https://aihot.virxact.com/items/cmsu7hwm403roroe0f1unbbsn"
+"canonical_url": "https://aihot.news/items/cmsu7hwm403roroe0f1unbbsn"
 "score": 75
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: 公众号：蚂蚁百灵（Ling）
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487496&idx=1&sn=6486908f50006a356d48168b0b2762f1](https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487496&idx=1&sn=6486908f50006a356d48168b0b2762f1)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsu7hwm403roroe0f1unbbsn](https://aihot.virxact.com/items/cmsu7hwm403roroe0f1unbbsn)
+- **AIHOT 链接**: [https://aihot.news/items/cmsu7hwm403roroe0f1unbbsn](https://aihot.news/items/cmsu7hwm403roroe0f1unbbsn)

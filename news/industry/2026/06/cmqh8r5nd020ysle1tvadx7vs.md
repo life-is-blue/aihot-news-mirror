@@ -7,7 +7,7 @@
 "source_name": "TechCrunch：AI（RSS）"
 "original_url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-\
   the-trump-admin-may-actually-help-it-sales-data-suggests"
-"canonical_url": "https://aihot.virxact.com/items/cmqh8r5nd020ysle1tvadx7vs"
+"canonical_url": "https://aihot.news/items/cmqh8r5nd020ysle1tvadx7vs"
 "score": 73
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Anthropic 5月企业AI订阅市场份额达41%，首次超越OpenAI（39.5%）�
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests](https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqh8r5nd020ysle1tvadx7vs](https://aihot.virxact.com/items/cmqh8r5nd020ysle1tvadx7vs)
+- **AIHOT 链接**: [https://aihot.news/items/cmqh8r5nd020ysle1tvadx7vs](https://aihot.news/items/cmqh8r5nd020ysle1tvadx7vs)

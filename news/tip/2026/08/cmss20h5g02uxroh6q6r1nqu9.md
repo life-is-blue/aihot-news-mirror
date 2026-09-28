@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-13T21:52:28.613Z"
 "source_name": "X：Boris Cherny (@bcherny)"
 "original_url": "https://x.com/bcherny/status/2088014489438621990"
-"canonical_url": "https://aihot.virxact.com/items/cmss20h5g02uxroh6q6r1nqu9"
+"canonical_url": "https://aihot.news/items/cmss20h5g02uxroh6q6r1nqu9"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Boris Cherny 尝试让 Claude 接管其应用的日常维护，通过 Slack 频�
 
 - **来源**: X：Boris Cherny (@bcherny)
 - **原文链接**: [https://x.com/bcherny/status/2088014489438621990](https://x.com/bcherny/status/2088014489438621990)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmss20h5g02uxroh6q6r1nqu9](https://aihot.virxact.com/items/cmss20h5g02uxroh6q6r1nqu9)
+- **AIHOT 链接**: [https://aihot.news/items/cmss20h5g02uxroh6q6r1nqu9](https://aihot.news/items/cmss20h5g02uxroh6q6r1nqu9)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-10T16:28:59.513Z"
 "source_name": "Thinking Machines Lab：官方博客（RSS）"
 "original_url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human"
-"canonical_url": "https://aihot.virxact.com/items/cmrf5hibz009wihg8kzmbzhic"
+"canonical_url": "https://aihot.news/items/cmrf5hibz009wihg8kzmbzhic"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Thinking Machines Lab 在官方博客中阐述其使命：构建能够延伸人�
 
 - **来源**: Thinking Machines Lab：官方博客（RSS）
 - **原文链接**: [https://thinkingmachines.ai/blog/the-future-worth-building-is-human](https://thinkingmachines.ai/blog/the-future-worth-building-is-human)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrf5hibz009wihg8kzmbzhic](https://aihot.virxact.com/items/cmrf5hibz009wihg8kzmbzhic)
+- **AIHOT 链接**: [https://aihot.news/items/cmrf5hibz009wihg8kzmbzhic](https://aihot.news/items/cmrf5hibz009wihg8kzmbzhic)

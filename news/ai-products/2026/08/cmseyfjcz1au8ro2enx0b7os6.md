@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-04T17:51:09.590Z"
 "source_name": "LMSYS：Blog（Chatbot Arena 团队）"
 "original_url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3"
-"canonical_url": "https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6"
+"canonical_url": "https://aihot.news/items/cmseyfjcz1au8ro2enx0b7os6"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ SpecForge v0.3.0 将目标模型推理与草稿模型训练分离，支持 EAGLE
 
 - **来源**: LMSYS：Blog（Chatbot Arena 团队）
 - **原文链接**: [https://www.lmsys.org/blog/2026-08-04-specforge-v0-3](https://www.lmsys.org/blog/2026-08-04-specforge-v0-3)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6](https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6)
+- **AIHOT 链接**: [https://aihot.news/items/cmseyfjcz1au8ro2enx0b7os6](https://aihot.news/items/cmseyfjcz1au8ro2enx0b7os6)

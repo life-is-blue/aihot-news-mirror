@@ -6,7 +6,7 @@
 "discovered_at": "2026-02-24T16:06:43.000Z"
 "source_name": "Nathan Lambert：Interconnects（RSS）"
 "original_url": "https://www.interconnects.ai/p/how-much-does-distillation-really"
-"canonical_url": "https://aihot.virxact.com/items/cmnxjn51m004vsl9obfgdv7e2"
+"canonical_url": "https://aihot.news/items/cmnxjn51m004vsl9obfgdv7e2"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Nathan Lambert：Interconnects（RSS）
 - **原文链接**: [https://www.interconnects.ai/p/how-much-does-distillation-really](https://www.interconnects.ai/p/how-much-does-distillation-really)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnxjn51m004vsl9obfgdv7e2](https://aihot.virxact.com/items/cmnxjn51m004vsl9obfgdv7e2)
+- **AIHOT 链接**: [https://aihot.news/items/cmnxjn51m004vsl9obfgdv7e2](https://aihot.news/items/cmnxjn51m004vsl9obfgdv7e2)

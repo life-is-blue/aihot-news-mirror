@@ -7,7 +7,7 @@
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/how-anthropic-enables-self-service-dat\
   a-analytics-with-claude"
-"canonical_url": "https://aihot.virxact.com/items/cmpyc4uab03qgslaxgjm4awp6"
+"canonical_url": "https://aihot.news/items/cmpyc4uab03qgslaxgjm4awp6"
 "score": 73
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Anthropic 使用 Claude 自动化了 95% 的业务分析查询，整体准确率
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude](https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpyc4uab03qgslaxgjm4awp6](https://aihot.virxact.com/items/cmpyc4uab03qgslaxgjm4awp6)
+- **AIHOT 链接**: [https://aihot.news/items/cmpyc4uab03qgslaxgjm4awp6](https://aihot.news/items/cmpyc4uab03qgslaxgjm4awp6)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-31T16:15:49.021Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://blog.tymscar.com/posts/v100localllm"
-"canonical_url": "https://aihot.virxact.com/items/cmptzehi500cdsla80uvg4kgh"
+"canonical_url": "https://aihot.news/items/cmptzehi500cdsla80uvg4kgh"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://blog.tymscar.com/posts/v100localllm](https://blog.tymscar.com/posts/v100localllm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmptzehi500cdsla80uvg4kgh](https://aihot.virxact.com/items/cmptzehi500cdsla80uvg4kgh)
+- **AIHOT 链接**: [https://aihot.news/items/cmptzehi500cdsla80uvg4kgh](https://aihot.news/items/cmptzehi500cdsla80uvg4kgh)

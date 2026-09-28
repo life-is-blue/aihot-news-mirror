@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-21T18:44:46.391Z"
 "source_name": "X：Sundar Pichai (@sundarpichai)"
 "original_url": "https://x.com/sundarpichai/status/2057529838026854640"
-"canonical_url": "https://aihot.virxact.com/items/cmpfubju709s5sljwwjrn5j72"
+"canonical_url": "https://aihot.news/items/cmpfubju709s5sljwwjrn5j72"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：Sundar Pichai (@sundarpichai)
 - **原文链接**: [https://x.com/sundarpichai/status/2057529838026854640](https://x.com/sundarpichai/status/2057529838026854640)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpfubju709s5sljwwjrn5j72](https://aihot.virxact.com/items/cmpfubju709s5sljwwjrn5j72)
+- **AIHOT 链接**: [https://aihot.news/items/cmpfubju709s5sljwwjrn5j72](https://aihot.news/items/cmpfubju709s5sljwwjrn5j72)

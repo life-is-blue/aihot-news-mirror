@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a\
   -wide-margin-on-cyber-exploits-and-distillation-may-explain-why"
-"canonical_url": "https://aihot.virxact.com/items/cmryrih7804c9rolge6wdk3v8"
+"canonical_url": "https://aihot.news/items/cmryrih7804c9rolge6wdk3v8"
 "score": 73
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why](https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmryrih7804c9rolge6wdk3v8](https://aihot.virxact.com/items/cmryrih7804c9rolge6wdk3v8)
+- **AIHOT 链接**: [https://aihot.news/items/cmryrih7804c9rolge6wdk3v8](https://aihot.news/items/cmryrih7804c9rolge6wdk3v8)

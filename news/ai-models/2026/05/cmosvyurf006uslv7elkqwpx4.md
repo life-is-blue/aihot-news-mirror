@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-05T17:12:12.080Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/gpt-5-5-instant"
-"canonical_url": "https://aihot.virxact.com/items/cmosvyurf006uslv7elkqwpx4"
+"canonical_url": "https://aihot.news/items/cmosvyurf006uslv7elkqwpx4"
 "score": 82
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ ChatGPT的默认模型已更新为GPT-5.5 Instant。新版模型能提供更智�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/gpt-5-5-instant](https://openai.com/index/gpt-5-5-instant)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmosvyurf006uslv7elkqwpx4](https://aihot.virxact.com/items/cmosvyurf006uslv7elkqwpx4)
+- **AIHOT 链接**: [https://aihot.news/items/cmosvyurf006uslv7elkqwpx4](https://aihot.news/items/cmosvyurf006uslv7elkqwpx4)

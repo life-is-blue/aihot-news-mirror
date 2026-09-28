@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-14T14:45:23.686Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/continuous_async"
-"canonical_url": "https://aihot.virxact.com/items/cmp5lopxg0fafsljxgkro5pka"
+"canonical_url": "https://aihot.news/items/cmp5lopxg0fafsljxgkro5pka"
 "score": 59
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/continuous_async](https://huggingface.co/blog/continuous_async)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp5lopxg0fafsljxgkro5pka](https://aihot.virxact.com/items/cmp5lopxg0fafsljxgkro5pka)
+- **AIHOT 链接**: [https://aihot.news/items/cmp5lopxg0fafsljxgkro5pka](https://aihot.news/items/cmp5lopxg0fafsljxgkro5pka)

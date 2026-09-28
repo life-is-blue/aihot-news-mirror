@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-17T16:37:55.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhaj0091slxxzq3rel55"
+"canonical_url": "https://aihot.news/items/cmoegbhaj0091slxxzq3rel55"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Hugging Face发布了一篇关于其平台开源生态的博客文章。该文�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026](https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhaj0091slxxzq3rel55](https://aihot.virxact.com/items/cmoegbhaj0091slxxzq3rel55)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhaj0091slxxzq3rel55](https://aihot.news/items/cmoegbhaj0091slxxzq3rel55)

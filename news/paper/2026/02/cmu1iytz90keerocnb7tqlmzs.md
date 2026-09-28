@@ -7,7 +7,7 @@
 "source_name": "Together AI 研究与产品博客（RSS）"
 "original_url": "https://www.together.ai/blog/how-speech-models-fail"
 "canonical_url": "https://aihot.news/items/cmu1iytz90keerocnb7tqlmzs"
-"score": 62
+"score": 63
 "content_kind": "news"
 ---
 

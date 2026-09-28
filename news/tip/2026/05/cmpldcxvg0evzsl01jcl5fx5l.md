@@ -7,7 +7,7 @@
 "source_name": "TechCrunch：AI（RSS）"
 "original_url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt\
   -really-about-ai"
-"canonical_url": "https://aihot.virxact.com/items/cmpldcxvg0evzsl01jcl5fx5l"
+"canonical_url": "https://aihot.news/items/cmpldcxvg0evzsl01jcl5fx5l"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai](https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpldcxvg0evzsl01jcl5fx5l](https://aihot.virxact.com/items/cmpldcxvg0evzsl01jcl5fx5l)
+- **AIHOT 链接**: [https://aihot.news/items/cmpldcxvg0evzsl01jcl5fx5l](https://aihot.news/items/cmpldcxvg0evzsl01jcl5fx5l)

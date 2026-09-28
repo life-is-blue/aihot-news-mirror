@@ -7,7 +7,7 @@
 "source_name": "Ars Technica：AI（RSS）"
 "original_url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok\
   -makes-csam-anymore-so-its-suing-users"
-"canonical_url": "https://aihot.virxact.com/items/cmrnz309k00f0biq1v5egac59"
+"canonical_url": "https://aihot.news/items/cmrnz309k00f0biq1v5egac59"
 "score": 87
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ xAI 首次对一名 Grok 用户提起诉讼，指控其利用该模型制作儿�
 
 - **来源**: Ars Technica：AI（RSS）
 - **原文链接**: [https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users](https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrnz309k00f0biq1v5egac59](https://aihot.virxact.com/items/cmrnz309k00f0biq1v5egac59)
+- **AIHOT 链接**: [https://aihot.news/items/cmrnz309k00f0biq1v5egac59](https://aihot.news/items/cmrnz309k00f0biq1v5egac59)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-28T16:06:25.372Z"
 "source_name": "X：商汤 SenseTime (@SenseTime_AI)"
 "original_url": "https://x.com/SenseTime_AI/status/2060024608099860988"
-"canonical_url": "https://aihot.virxact.com/items/cmppor39p020aslvydbhn8uov"
+"canonical_url": "https://aihot.news/items/cmppor39p020aslvydbhn8uov"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ SenseNova-U1-8B-MoT-Infographic 是一个升级后的8B参数信息图表生成�
 
 - **来源**: X：商汤 SenseTime (@SenseTime_AI)
 - **原文链接**: [https://x.com/SenseTime_AI/status/2060024608099860988](https://x.com/SenseTime_AI/status/2060024608099860988)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmppor39p020aslvydbhn8uov](https://aihot.virxact.com/items/cmppor39p020aslvydbhn8uov)
+- **AIHOT 链接**: [https://aihot.news/items/cmppor39p020aslvydbhn8uov](https://aihot.news/items/cmppor39p020aslvydbhn8uov)

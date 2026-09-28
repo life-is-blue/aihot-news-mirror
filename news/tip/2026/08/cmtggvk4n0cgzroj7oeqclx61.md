@@ -6,8 +6,8 @@
 "discovered_at": "2026-08-18T00:00:00.000Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://tomtunguz.com/birds-dont-fly-like-planes-neither-does-ai"
-"canonical_url": "https://aihot.virxact.com/items/cmtggvk4n0cgzroj7oeqclx61"
-"score": 64
+"canonical_url": "https://aihot.news/items/cmtggvk4n0cgzroj7oeqclx61"
+"score": 65
 "content_kind": "news"
 ---
 
@@ -17,4 +17,4 @@
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://tomtunguz.com/birds-dont-fly-like-planes-neither-does-ai](https://tomtunguz.com/birds-dont-fly-like-planes-neither-does-ai)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtggvk4n0cgzroj7oeqclx61](https://aihot.virxact.com/items/cmtggvk4n0cgzroj7oeqclx61)
+- **AIHOT 链接**: [https://aihot.news/items/cmtggvk4n0cgzroj7oeqclx61](https://aihot.news/items/cmtggvk4n0cgzroj7oeqclx61)

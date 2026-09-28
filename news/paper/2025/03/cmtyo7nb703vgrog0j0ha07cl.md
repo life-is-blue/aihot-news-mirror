@@ -7,7 +7,7 @@
 "source_name": "METR：Research（网页）"
 "original_url": "https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks"
 "canonical_url": "https://aihot.news/items/cmtyo7nb703vgrog0j0ha07cl"
-"score": 74
+"score": 75
 "content_kind": "news"
 ---
 

@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-22T21:39:26.423Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/introducing-chatgpt-images-2-0"
-"canonical_url": "https://aihot.virxact.com/items/cmoaksgvi02nvsl1y6abimhl3"
+"canonical_url": "https://aihot.news/items/cmoaksgvi02nvsl1y6abimhl3"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ ChatGPT Images 2.0 推出了一个先进的图像生成模型，该模型在文�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/introducing-chatgpt-images-2-0](https://openai.com/index/introducing-chatgpt-images-2-0)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoaksgvi02nvsl1y6abimhl3](https://aihot.virxact.com/items/cmoaksgvi02nvsl1y6abimhl3)
+- **AIHOT 链接**: [https://aihot.news/items/cmoaksgvi02nvsl1y6abimhl3](https://aihot.news/items/cmoaksgvi02nvsl1y6abimhl3)

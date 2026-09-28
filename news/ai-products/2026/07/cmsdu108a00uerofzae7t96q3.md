@@ -7,7 +7,7 @@
 "source_name": "公众号：小红书技术（dots.llm）"
 "original_url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247\
   495684&idx=1&sn=deb67718827fbed405fd2dd6978aef7b"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu108a00uerofzae7t96q3"
+"canonical_url": "https://aihot.news/items/cmsdu108a00uerofzae7t96q3"
 "score": 76
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: 公众号：小红书技术（dots.llm）
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247495684&idx=1&sn=deb67718827fbed405fd2dd6978aef7b](https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247495684&idx=1&sn=deb67718827fbed405fd2dd6978aef7b)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu108a00uerofzae7t96q3](https://aihot.virxact.com/items/cmsdu108a00uerofzae7t96q3)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu108a00uerofzae7t96q3](https://aihot.news/items/cmsdu108a00uerofzae7t96q3)

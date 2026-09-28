@@ -7,7 +7,7 @@
 "source_name": "Ars Technica：AI（RSS）"
 "original_url": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gav\
   e-hackers-access-to-notable-instagram-accounts"
-"canonical_url": "https://aihot.virxact.com/items/cmpvpgtta00iosluke9oshwcg"
+"canonical_url": "https://aihot.news/items/cmpvpgtta00iosluke9oshwcg"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Ars Technica：AI（RSS）
 - **原文链接**: [https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts](https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpvpgtta00iosluke9oshwcg](https://aihot.virxact.com/items/cmpvpgtta00iosluke9oshwcg)
+- **AIHOT 链接**: [https://aihot.news/items/cmpvpgtta00iosluke9oshwcg](https://aihot.news/items/cmpvpgtta00iosluke9oshwcg)

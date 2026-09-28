@@ -6,7 +6,7 @@
 "discovered_at": "2025-08-24T16:00:00.000Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/claude-for-chrome"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xu3t00drslc3o03jsqr5"
+"canonical_url": "https://aihot.news/items/cmnw1xu3t00drslc3o03jsqr5"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic正式发布Claude for Chrome扩展，允许AI在浏览器中执行点�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/claude-for-chrome](https://claude.com/blog/claude-for-chrome)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xu3t00drslc3o03jsqr5](https://aihot.virxact.com/items/cmnw1xu3t00drslc3o03jsqr5)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xu3t00drslc3o03jsqr5](https://aihot.news/items/cmnw1xu3t00drslc3o03jsqr5)

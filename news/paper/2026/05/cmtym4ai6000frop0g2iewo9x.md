@@ -8,7 +8,7 @@
 "original_url": "https://www.goodfire.com/research/verbalized-eval-awareness-in\
   flates-measured-safety"
 "canonical_url": "https://aihot.news/items/cmtym4ai6000frop0g2iewo9x"
-"score": 68
+"score": 69
 "content_kind": "news"
 ---
 

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-04T02:42:34.022Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2606.04527"
-"canonical_url": "https://aihot.virxact.com/items/cmpyw41ob03vvsli3998nmc40"
+"canonical_url": "https://aihot.news/items/cmpyw41ob03vvsli3998nmc40"
 "score": 79
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Echo-Infinity 是一个自回归（AR）框架，用于实时无限视频生成�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2606.04527](https://arxiv.org/abs/2606.04527)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpyw41ob03vvsli3998nmc40](https://aihot.virxact.com/items/cmpyw41ob03vvsli3998nmc40)
+- **AIHOT 链接**: [https://aihot.news/items/cmpyw41ob03vvsli3998nmc40](https://aihot.news/items/cmpyw41ob03vvsli3998nmc40)

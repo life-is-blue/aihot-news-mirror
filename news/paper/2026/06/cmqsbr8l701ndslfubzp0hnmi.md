@@ -7,7 +7,7 @@
 "source_name": "Google Research：Blog（网页）"
 "original_url": "https://research.google/blog/thinking-to-recall-how-reasoning-\
   unlocks-parametric-knowledge-in-llms"
-"canonical_url": "https://aihot.virxact.com/items/cmqsbr8l701ndslfubzp0hnmi"
+"canonical_url": "https://aihot.news/items/cmqsbr8l701ndslfubzp0hnmi"
 "score": 69
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google Research研究发现，推理（chain-of-thought）能帮助大语言模�
 
 - **来源**: Google Research：Blog（网页）
 - **原文链接**: [https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms](https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqsbr8l701ndslfubzp0hnmi](https://aihot.virxact.com/items/cmqsbr8l701ndslfubzp0hnmi)
+- **AIHOT 链接**: [https://aihot.news/items/cmqsbr8l701ndslfubzp0hnmi](https://aihot.news/items/cmqsbr8l701ndslfubzp0hnmi)

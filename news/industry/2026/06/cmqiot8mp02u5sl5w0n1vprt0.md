@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-\
   openai-is-losing-billions-of-dollars-a-year"
-"canonical_url": "https://aihot.virxact.com/items/cmqiot8mp02u5sl5w0n1vprt0"
+"canonical_url": "https://aihot.news/items/cmqiot8mp02u5sl5w0n1vprt0"
 "score": 78
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenAI 2025年营收130.7亿美元（2024年37亿），但研发成本达191.8�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year](https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqiot8mp02u5sl5w0n1vprt0](https://aihot.virxact.com/items/cmqiot8mp02u5sl5w0n1vprt0)
+- **AIHOT 链接**: [https://aihot.news/items/cmqiot8mp02u5sl5w0n1vprt0](https://aihot.news/items/cmqiot8mp02u5sl5w0n1vprt0)

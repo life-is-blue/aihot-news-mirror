@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-05T10:00:00.000Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xr50007hslc3mut34meo"
+"canonical_url": "https://aihot.news/items/cmnw1xr50007hslc3mut34meo"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 发布 CoT-Control 研究，发现推理模型难以操控自身思维链
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/reasoning-models-chain-of-thought-controllability](https://openai.com/index/reasoning-models-chain-of-thought-controllability)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xr50007hslc3mut34meo](https://aihot.virxact.com/items/cmnw1xr50007hslc3mut34meo)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xr50007hslc3mut34meo](https://aihot.news/items/cmnw1xr50007hslc3mut34meo)

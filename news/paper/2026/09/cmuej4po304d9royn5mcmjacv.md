@@ -7,7 +7,7 @@
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/introducing-mentalhealthbench"
 "canonical_url": "https://aihot.news/items/cmuej4po304d9royn5mcmjacv"
-"score": 62
+"score": 63
 "content_kind": "news"
 ---
 

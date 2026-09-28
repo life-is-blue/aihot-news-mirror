@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-21T22:17:00.000Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/spacex-model-training"
-"canonical_url": "https://aihot.virxact.com/items/cmosbbgu4006zslojcbq0lcdk"
+"canonical_url": "https://aihot.news/items/cmosbbgu4006zslojcbq0lcdk"
 "score": 68
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/spacex-model-training](https://cursor.com/blog/spacex-model-training)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmosbbgu4006zslojcbq0lcdk](https://aihot.virxact.com/items/cmosbbgu4006zslojcbq0lcdk)
+- **AIHOT 链接**: [https://aihot.news/items/cmosbbgu4006zslojcbq0lcdk](https://aihot.news/items/cmosbbgu4006zslojcbq0lcdk)

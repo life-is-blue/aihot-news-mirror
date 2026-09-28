@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-14T09:10:24.661Z"
 "source_name": "公众号：卡尔的AI沃茨"
 "original_url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw"
-"canonical_url": "https://aihot.virxact.com/items/cmrkfkw2x01hnbizsa1eat1ib"
+"canonical_url": "https://aihot.news/items/cmrkfkw2x01hnbizsa1eat1ib"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ LibTV推出Agent功能并内置Skill Hub，提供100多个覆盖武侠电影、�
 
 - **来源**: 公众号：卡尔的AI沃茨
 - **原文链接**: [https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw](https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrkfkw2x01hnbizsa1eat1ib](https://aihot.virxact.com/items/cmrkfkw2x01hnbizsa1eat1ib)
+- **AIHOT 链接**: [https://aihot.news/items/cmrkfkw2x01hnbizsa1eat1ib](https://aihot.news/items/cmrkfkw2x01hnbizsa1eat1ib)

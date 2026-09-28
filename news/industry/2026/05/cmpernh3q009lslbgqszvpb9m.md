@@ -7,7 +7,7 @@
 "source_name": "TechCrunch：AI（RSS）"
 "original_url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-\
   billion-per-month-for-compute"
-"canonical_url": "https://aihot.virxact.com/items/cmpernh3q009lslbgqszvpb9m"
+"canonical_url": "https://aihot.news/items/cmpernh3q009lslbgqszvpb9m"
 "score": 73
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute](https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpernh3q009lslbgqszvpb9m](https://aihot.virxact.com/items/cmpernh3q009lslbgqszvpb9m)
+- **AIHOT 链接**: [https://aihot.news/items/cmpernh3q009lslbgqszvpb9m](https://aihot.news/items/cmpernh3q009lslbgqszvpb9m)

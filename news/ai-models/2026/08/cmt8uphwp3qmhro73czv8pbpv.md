@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-25T16:00:00.902Z"
 "source_name": "X：Google AI (@GoogleAI)"
 "original_url": "https://x.com/GoogleAI/status/2092275116503707733"
-"canonical_url": "https://aihot.virxact.com/items/cmt8uphwp3qmhro73czv8pbpv"
+"canonical_url": "https://aihot.news/items/cmt8uphwp3qmhro73czv8pbpv"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google AI 发布 WeatherNext 气旋预测模型，可同时预测风暴路径、
 
 - **来源**: X：Google AI (@GoogleAI)
 - **原文链接**: [https://x.com/GoogleAI/status/2092275116503707733](https://x.com/GoogleAI/status/2092275116503707733)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt8uphwp3qmhro73czv8pbpv](https://aihot.virxact.com/items/cmt8uphwp3qmhro73czv8pbpv)
+- **AIHOT 链接**: [https://aihot.news/items/cmt8uphwp3qmhro73czv8pbpv](https://aihot.news/items/cmt8uphwp3qmhro73czv8pbpv)

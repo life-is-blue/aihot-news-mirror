@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-16T02:47:30.925Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2604.14148"
-"canonical_url": "https://aihot.virxact.com/items/cmo0vpnos02w5sli2drnkba57"
+"canonical_url": "https://aihot.news/items/cmo0vpnos02w5sli2drnkba57"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Seedance 2.0于2026年2月初在国内发布，作为原生多模态音视频生
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2604.14148](https://arxiv.org/abs/2604.14148)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmo0vpnos02w5sli2drnkba57](https://aihot.virxact.com/items/cmo0vpnos02w5sli2drnkba57)
+- **AIHOT 链接**: [https://aihot.news/items/cmo0vpnos02w5sli2drnkba57](https://aihot.news/items/cmo0vpnos02w5sli2drnkba57)

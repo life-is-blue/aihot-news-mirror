@@ -6,7 +6,7 @@
 "discovered_at": "2025-06-12T16:00:00.000Z"
 "source_name": "Anthropic：Engineering（事故复盘 + 工程实践 · 网页）"
 "original_url": "https://www.anthropic.com/engineering/multi-agent-research-system"
-"canonical_url": "https://aihot.virxact.com/items/cmorb7ml1008oslhfira08k2z"
+"canonical_url": "https://aihot.news/items/cmorb7ml1008oslhfira08k2z"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude的多智能体研究系统采用协调器-工作者架构，一个主导�
 
 - **来源**: Anthropic：Engineering（事故复盘 + 工程实践 · 网页）
 - **原文链接**: [https://www.anthropic.com/engineering/multi-agent-research-system](https://www.anthropic.com/engineering/multi-agent-research-system)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmorb7ml1008oslhfira08k2z](https://aihot.virxact.com/items/cmorb7ml1008oslhfira08k2z)
+- **AIHOT 链接**: [https://aihot.news/items/cmorb7ml1008oslhfira08k2z](https://aihot.news/items/cmorb7ml1008oslhfira08k2z)

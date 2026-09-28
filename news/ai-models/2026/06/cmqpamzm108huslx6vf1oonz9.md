@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-22T14:11:12.964Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6"
-"canonical_url": "https://aihot.virxact.com/items/cmqpamzm108huslx6vf1oonz9"
+"canonical_url": "https://aihot.news/items/cmqpamzm108huslx6vf1oonz9"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ PP-OCRv6 是 PaddleOCR 最新一代通用 OCR 模型族，提供 tiny（1.5M）�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/PaddlePaddle/pp-ocrv6](https://huggingface.co/blog/PaddlePaddle/pp-ocrv6)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqpamzm108huslx6vf1oonz9](https://aihot.virxact.com/items/cmqpamzm108huslx6vf1oonz9)
+- **AIHOT 链接**: [https://aihot.news/items/cmqpamzm108huslx6vf1oonz9](https://aihot.news/items/cmqpamzm108huslx6vf1oonz9)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-01-29T00:00:00.000Z"
 "source_name": "Claude Platform：开发者版本说明（RSS）"
 "original_url": "https://platform.claude.com/docs/en/release-notes/overview#january-29-2026"
-"canonical_url": "https://aihot.virxact.com/items/cms3gt4xx01zprondmnxiu1rn"
+"canonical_url": "https://aihot.news/items/cms3gt4xx01zprondmnxiu1rn"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude API 结构化输出功能现已对 Claude Sonnet 4.5、Claude Opus 4.5 �
 
 - **来源**: Claude Platform：开发者版本说明（RSS）
 - **原文链接**: [https://platform.claude.com/docs/en/release-notes/overview#january-29-2026](https://platform.claude.com/docs/en/release-notes/overview#january-29-2026)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3gt4xx01zprondmnxiu1rn](https://aihot.virxact.com/items/cms3gt4xx01zprondmnxiu1rn)
+- **AIHOT 链接**: [https://aihot.news/items/cms3gt4xx01zprondmnxiu1rn](https://aihot.news/items/cms3gt4xx01zprondmnxiu1rn)

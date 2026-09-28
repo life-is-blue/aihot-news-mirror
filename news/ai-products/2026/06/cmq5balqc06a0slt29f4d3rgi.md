@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-08T14:34:10.684Z"
 "source_name": "X：Kimi.ai (@Kimi_Moonshot)"
 "original_url": "https://x.com/Kimi_Moonshot/status/2063990409903112344"
-"canonical_url": "https://aihot.virxact.com/items/cmq5balqc06a0slt29f4d3rgi"
+"canonical_url": "https://aihot.news/items/cmq5balqc06a0slt29f4d3rgi"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Kimi发布Kimi Work，一款本地运行的桌面AI智能体。支持最多300�
 
 - **来源**: X：Kimi.ai (@Kimi_Moonshot)
 - **原文链接**: [https://x.com/Kimi_Moonshot/status/2063990409903112344](https://x.com/Kimi_Moonshot/status/2063990409903112344)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq5balqc06a0slt29f4d3rgi](https://aihot.virxact.com/items/cmq5balqc06a0slt29f4d3rgi)
+- **AIHOT 链接**: [https://aihot.news/items/cmq5balqc06a0slt29f4d3rgi](https://aihot.news/items/cmq5balqc06a0slt29f4d3rgi)

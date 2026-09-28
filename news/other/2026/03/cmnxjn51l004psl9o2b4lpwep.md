@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-22T19:39:40.000Z"
 "source_name": "Nathan Lambert：Interconnects（RSS）"
 "original_url": "https://www.interconnects.ai/p/lossy-self-improvement"
-"canonical_url": "https://aihot.virxact.com/items/cmnxjn51l004psl9o2b4lpwep"
+"canonical_url": "https://aihot.news/items/cmnxjn51l004psl9o2b4lpwep"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Nathan Lambert：Interconnects（RSS）
 - **原文链接**: [https://www.interconnects.ai/p/lossy-self-improvement](https://www.interconnects.ai/p/lossy-self-improvement)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnxjn51l004psl9o2b4lpwep](https://aihot.virxact.com/items/cmnxjn51l004psl9o2b4lpwep)
+- **AIHOT 链接**: [https://aihot.news/items/cmnxjn51l004psl9o2b4lpwep](https://aihot.news/items/cmnxjn51l004psl9o2b4lpwep)

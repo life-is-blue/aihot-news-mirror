@@ -6,7 +6,7 @@
 "discovered_at": "2025-11-25T00:00:00.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/continuous_batching"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhak00abslxxskaw1vzu"
+"canonical_url": "https://aihot.news/items/cmoegbhak00abslxxskaw1vzu"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/continuous_batching](https://huggingface.co/blog/continuous_batching)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhak00abslxxskaw1vzu](https://aihot.virxact.com/items/cmoegbhak00abslxxskaw1vzu)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhak00abslxxskaw1vzu](https://aihot.news/items/cmoegbhak00abslxxskaw1vzu)

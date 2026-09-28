@@ -8,7 +8,7 @@
 "original_url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven\
   -financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-de\
   liverables"
-"canonical_url": "https://aihot.virxact.com/items/cms3k7su000n8roiytkztsme7"
+"canonical_url": "https://aihot.news/items/cms3k7su000n8roiytkztsme7"
 "score": 72
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables](https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3k7su000n8roiytkztsme7](https://aihot.virxact.com/items/cms3k7su000n8roiytkztsme7)
+- **AIHOT 链接**: [https://aihot.news/items/cms3k7su000n8roiytkztsme7](https://aihot.news/items/cms3k7su000n8roiytkztsme7)

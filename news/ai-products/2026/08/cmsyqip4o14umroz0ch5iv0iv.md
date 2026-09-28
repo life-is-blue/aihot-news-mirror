@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-18T14:05:05.620Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/multi-vector-encoder"
-"canonical_url": "https://aihot.virxact.com/items/cmsyqip4o14umroz0ch5iv0iv"
+"canonical_url": "https://aihot.news/items/cmsyqip4o14umroz0ch5iv0iv"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Sentence Transformers v6.0 新增第四种模型类型 MultiVectorEncoder，可�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/multi-vector-encoder](https://huggingface.co/blog/multi-vector-encoder)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsyqip4o14umroz0ch5iv0iv](https://aihot.virxact.com/items/cmsyqip4o14umroz0ch5iv0iv)
+- **AIHOT 链接**: [https://aihot.news/items/cmsyqip4o14umroz0ch5iv0iv](https://aihot.news/items/cmsyqip4o14umroz0ch5iv0iv)

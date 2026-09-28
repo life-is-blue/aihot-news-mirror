@@ -6,7 +6,7 @@
 "discovered_at": "2026-02-26T20:15:37.000Z"
 "source_name": "X：谢赛宁 (@sainingxie)"
 "original_url": "https://x.com/sainingxie/status/2027115356318474661"
-"canonical_url": "https://aihot.virxact.com/items/cmnz6dpf302adsl0ff3olpcnz"
+"canonical_url": "https://aihot.news/items/cmnz6dpf302adsl0ff3olpcnz"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Project Solaris提出世界建模的本质在于全局共享状态而非局部�
 
 - **来源**: X：谢赛宁 (@sainingxie)
 - **原文链接**: [https://x.com/sainingxie/status/2027115356318474661](https://x.com/sainingxie/status/2027115356318474661)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnz6dpf302adsl0ff3olpcnz](https://aihot.virxact.com/items/cmnz6dpf302adsl0ff3olpcnz)
+- **AIHOT 链接**: [https://aihot.news/items/cmnz6dpf302adsl0ff3olpcnz](https://aihot.news/items/cmnz6dpf302adsl0ff3olpcnz)

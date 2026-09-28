@@ -6,7 +6,7 @@
 "discovered_at": "2024-04-15T00:00:00.000Z"
 "source_name": "Anthropic：Transformer Circuits（可解释性研究）"
 "original_url": "https://transformer-circuits.pub/2024/april-update/index.html"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbh730070slxx0lm696ln"
+"canonical_url": "https://aihot.news/items/cmoegbh730070slxx0lm696ln"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic可解释性团队分享了2024年4月的研究进展与招聘规划。
 
 - **来源**: Anthropic：Transformer Circuits（可解释性研究）
 - **原文链接**: [https://transformer-circuits.pub/2024/april-update/index.html](https://transformer-circuits.pub/2024/april-update/index.html)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbh730070slxx0lm696ln](https://aihot.virxact.com/items/cmoegbh730070slxx0lm696ln)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbh730070slxx0lm696ln](https://aihot.news/items/cmoegbh730070slxx0lm696ln)

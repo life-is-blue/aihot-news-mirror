@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-08T20:48:51.203Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/human-oversight-eu-ai-act-compliance-agent-sdk"
-"canonical_url": "https://aihot.virxact.com/items/cmq5oofrd00x3sl5iadjbb59k"
+"canonical_url": "https://aihot.news/items/cmq5oofrd00x3sl5iadjbb59k"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/human-oversight-eu-ai-act-compliance-agent-sdk](https://openrouter.ai/blog/human-oversight-eu-ai-act-compliance-agent-sdk)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq5oofrd00x3sl5iadjbb59k](https://aihot.virxact.com/items/cmq5oofrd00x3sl5iadjbb59k)
+- **AIHOT 链接**: [https://aihot.news/items/cmq5oofrd00x3sl5iadjbb59k](https://aihot.news/items/cmq5oofrd00x3sl5iadjbb59k)

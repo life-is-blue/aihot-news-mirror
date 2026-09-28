@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-26T15:49:37.177Z"
 "source_name": "Nathan Lambert：Interconnects（RSS）"
 "original_url": "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may"
-"canonical_url": "https://aihot.virxact.com/items/cmpmt9jei0rnwsl016h1v6av1"
+"canonical_url": "https://aihot.news/items/cmpmt9jei0rnwsl016h1v6av1"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Nathan Lambert：Interconnects（RSS）
 - **原文链接**: [https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may](https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpmt9jei0rnwsl016h1v6av1](https://aihot.virxact.com/items/cmpmt9jei0rnwsl016h1v6av1)
+- **AIHOT 链接**: [https://aihot.news/items/cmpmt9jei0rnwsl016h1v6av1](https://aihot.news/items/cmpmt9jei0rnwsl016h1v6av1)

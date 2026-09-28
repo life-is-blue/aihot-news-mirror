@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-24T15:59:47.708Z"
 "source_name": "Mistral AI：News（网页）"
 "original_url": "https://mistral.ai/news/more-control-over-connectors"
-"canonical_url": "https://aihot.virxact.com/items/cmqs9eic7012cslfuu3w4io4c"
+"canonical_url": "https://aihot.news/items/cmqs9eic7012cslfuu3w4io4c"
 "score": 62
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Mistral AI：News（网页）
 - **原文链接**: [https://mistral.ai/news/more-control-over-connectors](https://mistral.ai/news/more-control-over-connectors)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqs9eic7012cslfuu3w4io4c](https://aihot.virxact.com/items/cmqs9eic7012cslfuu3w4io4c)
+- **AIHOT 链接**: [https://aihot.news/items/cmqs9eic7012cslfuu3w4io4c](https://aihot.news/items/cmqs9eic7012cslfuu3w4io4c)

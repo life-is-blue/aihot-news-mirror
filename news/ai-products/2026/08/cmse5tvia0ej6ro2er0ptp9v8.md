@@ -7,7 +7,7 @@
 "source_name": "公众号：面壁智能（MiniCPM）"
 "original_url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247\
   498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78"
-"canonical_url": "https://aihot.virxact.com/items/cmse5tvia0ej6ro2er0ptp9v8"
+"canonical_url": "https://aihot.news/items/cmse5tvia0ej6ro2er0ptp9v8"
 "score": 78
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: 公众号：面壁智能（MiniCPM）
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78](https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmse5tvia0ej6ro2er0ptp9v8](https://aihot.virxact.com/items/cmse5tvia0ej6ro2er0ptp9v8)
+- **AIHOT 链接**: [https://aihot.news/items/cmse5tvia0ej6ro2er0ptp9v8](https://aihot.news/items/cmse5tvia0ej6ro2er0ptp9v8)

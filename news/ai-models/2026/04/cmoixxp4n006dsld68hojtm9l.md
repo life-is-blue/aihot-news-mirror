@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-28T15:51:15.000Z"
 "source_name": "X：蚂蚁百灵 (@AntLingAGI)"
 "original_url": "https://x.com/AntLingAGI/status/2049154484836917396"
-"canonical_url": "https://aihot.virxact.com/items/cmoixxp4n006dsld68hojtm9l"
+"canonical_url": "https://aihot.news/items/cmoixxp4n006dsld68hojtm9l"
 "score": 62
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ AntLingAGI与SGLang团队合作，正式推出Ling-2.6-flash（亦称Elephant-al
 
 - **来源**: X：蚂蚁百灵 (@AntLingAGI)
 - **原文链接**: [https://x.com/AntLingAGI/status/2049154484836917396](https://x.com/AntLingAGI/status/2049154484836917396)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoixxp4n006dsld68hojtm9l](https://aihot.virxact.com/items/cmoixxp4n006dsld68hojtm9l)
+- **AIHOT 链接**: [https://aihot.news/items/cmoixxp4n006dsld68hojtm9l](https://aihot.news/items/cmoixxp4n006dsld68hojtm9l)

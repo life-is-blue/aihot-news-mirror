@@ -7,7 +7,7 @@
 "source_name": "Ars Technica：AI（RSS）"
 "original_url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-\
   more-memory-chip-production-and-humanoid-robots"
-"canonical_url": "https://aihot.virxact.com/items/cmqzql6ax008zslkingvxpujc"
+"canonical_url": "https://aihot.news/items/cmqzql6ax008zslkingvxpujc"
 "score": 75
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Ars Technica：AI（RSS）
 - **原文链接**: [https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots](https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqzql6ax008zslkingvxpujc](https://aihot.virxact.com/items/cmqzql6ax008zslkingvxpujc)
+- **AIHOT 链接**: [https://aihot.news/items/cmqzql6ax008zslkingvxpujc](https://aihot.news/items/cmqzql6ax008zslkingvxpujc)

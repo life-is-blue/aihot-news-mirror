@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-01T23:48:15.725Z"
 "source_name": "X：小北 (@frxiaobei)"
 "original_url": "https://x.com/frxiaobei/status/2050360857650171975"
-"canonical_url": "https://aihot.virxact.com/items/cmonkcson0grqsll9ogyk382a"
+"canonical_url": "https://aihot.news/items/cmonkcson0grqsll9ogyk382a"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：小北 (@frxiaobei)
 - **原文链接**: [https://x.com/frxiaobei/status/2050360857650171975](https://x.com/frxiaobei/status/2050360857650171975)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmonkcson0grqsll9ogyk382a](https://aihot.virxact.com/items/cmonkcson0grqsll9ogyk382a)
+- **AIHOT 链接**: [https://aihot.news/items/cmonkcson0grqsll9ogyk382a](https://aihot.news/items/cmonkcson0grqsll9ogyk382a)

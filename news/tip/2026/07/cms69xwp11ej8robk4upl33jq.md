@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-29T16:03:19.873Z"
 "source_name": "Dwarkesh Patel：Podcast & Blog（RSS）"
 "original_url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive"
-"canonical_url": "https://aihot.virxact.com/items/cms69xwp11ej8robk4upl33jq"
+"canonical_url": "https://aihot.news/items/cms69xwp11ej8robk4upl33jq"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ AI 算力现货价格自 2 月低点已上涨 40% 以上，Google 和 Anthropic 
 
 - **来源**: Dwarkesh Patel：Podcast & Blog（RSS）
 - **原文链接**: [https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive](https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms69xwp11ej8robk4upl33jq](https://aihot.virxact.com/items/cms69xwp11ej8robk4upl33jq)
+- **AIHOT 链接**: [https://aihot.news/items/cms69xwp11ej8robk4upl33jq](https://aihot.news/items/cms69xwp11ej8robk4upl33jq)

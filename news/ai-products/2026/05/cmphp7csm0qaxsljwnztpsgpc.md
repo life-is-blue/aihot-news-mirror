@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-23T01:57:06.004Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://github.com/anomalyco/models.dev"
-"canonical_url": "https://aihot.virxact.com/items/cmphp7csm0qaxsljwnztpsgpc"
+"canonical_url": "https://aihot.news/items/cmphp7csm0qaxsljwnztpsgpc"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://github.com/anomalyco/models.dev](https://github.com/anomalyco/models.dev)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmphp7csm0qaxsljwnztpsgpc](https://aihot.virxact.com/items/cmphp7csm0qaxsljwnztpsgpc)
+- **AIHOT 链接**: [https://aihot.news/items/cmphp7csm0qaxsljwnztpsgpc](https://aihot.news/items/cmphp7csm0qaxsljwnztpsgpc)

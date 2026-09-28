@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-wo\
   rm-could-target-any-online-device"
-"canonical_url": "https://aihot.virxact.com/items/cmpy9g1te030hslaxvq0to69i"
+"canonical_url": "https://aihot.news/items/cmpy9g1te030hslaxvq0to69i"
 "score": 78
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device](https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpy9g1te030hslaxvq0to69i](https://aihot.virxact.com/items/cmpy9g1te030hslaxvq0to69i)
+- **AIHOT 链接**: [https://aihot.news/items/cmpy9g1te030hslaxvq0to69i](https://aihot.news/items/cmpy9g1te030hslaxvq0to69i)

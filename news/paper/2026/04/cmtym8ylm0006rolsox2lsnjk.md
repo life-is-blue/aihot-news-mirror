@@ -7,7 +7,7 @@
 "source_name": "METR：Notes（网页）"
 "original_url": "https://metr.org/notes/2026-04-21-ai-rd-nanogpt-progress"
 "canonical_url": "https://aihot.news/items/cmtym8ylm0006rolsox2lsnjk"
-"score": 61
+"score": 62
 "content_kind": "news"
 ---
 

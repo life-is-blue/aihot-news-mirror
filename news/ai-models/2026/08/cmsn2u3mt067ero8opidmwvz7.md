@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-10T10:16:39.953Z"
 "source_name": "X：AI at Meta (@AIatMeta)"
 "original_url": "https://x.com/AIatMeta/status/2086757844544811485"
-"canonical_url": "https://aihot.virxact.com/items/cmsn2u3mt067ero8opidmwvz7"
+"canonical_url": "https://aihot.news/items/cmsn2u3mt067ero8opidmwvz7"
 "score": 58
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@
 
 - **来源**: X：AI at Meta (@AIatMeta)
 - **原文链接**: [https://x.com/AIatMeta/status/2086757844544811485](https://x.com/AIatMeta/status/2086757844544811485)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsn2u3mt067ero8opidmwvz7](https://aihot.virxact.com/items/cmsn2u3mt067ero8opidmwvz7)
+- **AIHOT 链接**: [https://aihot.news/items/cmsn2u3mt067ero8opidmwvz7](https://aihot.news/items/cmsn2u3mt067ero8opidmwvz7)

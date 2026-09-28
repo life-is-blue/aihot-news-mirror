@@ -6,7 +6,7 @@
 "discovered_at": "2026-01-14T10:44:57.000Z"
 "source_name": "美团 LongCat：HuggingFace 新模型"
 "original_url": "https://huggingface.co/meituan-longcat/LongCat-HeavyMode-Summary"
-"canonical_url": "https://aihot.virxact.com/items/cmocymrfh005fslqlo4pd84be"
+"canonical_url": "https://aihot.news/items/cmocymrfh005fslqlo4pd84be"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: 美团 LongCat：HuggingFace 新模型
 - **原文链接**: [https://huggingface.co/meituan-longcat/LongCat-HeavyMode-Summary](https://huggingface.co/meituan-longcat/LongCat-HeavyMode-Summary)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmocymrfh005fslqlo4pd84be](https://aihot.virxact.com/items/cmocymrfh005fslqlo4pd84be)
+- **AIHOT 链接**: [https://aihot.news/items/cmocymrfh005fslqlo4pd84be](https://aihot.news/items/cmocymrfh005fslqlo4pd84be)

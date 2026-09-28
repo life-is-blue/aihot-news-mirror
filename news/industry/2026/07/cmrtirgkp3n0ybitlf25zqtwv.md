@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/district-9-director-neill-blomkamp-rel\
   eases-first-short-film-made-entirely-with-ai-video-generation"
-"canonical_url": "https://aihot.virxact.com/items/cmrtirgkp3n0ybitlf25zqtwv"
+"canonical_url": "https://aihot.news/items/cmrtirgkp3n0ybitlf25zqtwv"
 "score": 76
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Neill Blomkamp发布了13分钟科幻恐怖短片《Nightborne》，完全使用
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation](https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrtirgkp3n0ybitlf25zqtwv](https://aihot.virxact.com/items/cmrtirgkp3n0ybitlf25zqtwv)
+- **AIHOT 链接**: [https://aihot.news/items/cmrtirgkp3n0ybitlf25zqtwv](https://aihot.news/items/cmrtirgkp3n0ybitlf25zqtwv)

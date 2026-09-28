@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-28T17:03:24.002Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://github.com/itsthelore/wayfinder-router"
-"canonical_url": "https://aihot.virxact.com/items/cmqy1fj3003cislwfljtykjvx"
+"canonical_url": "https://aihot.news/items/cmqy1fj3003cislwfljtykjvx"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Wayfinder Router 通过分析提示词的结构（长度、标题、列表、代
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://github.com/itsthelore/wayfinder-router](https://github.com/itsthelore/wayfinder-router)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqy1fj3003cislwfljtykjvx](https://aihot.virxact.com/items/cmqy1fj3003cislwfljtykjvx)
+- **AIHOT 链接**: [https://aihot.news/items/cmqy1fj3003cislwfljtykjvx](https://aihot.news/items/cmqy1fj3003cislwfljtykjvx)

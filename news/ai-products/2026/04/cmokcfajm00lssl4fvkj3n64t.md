@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-29T17:42:55.865Z"
 "source_name": "X：蚂蚁百灵 (@AntLingAGI)"
 "original_url": "https://x.com/AntLingAGI/status/2049541795344961725"
-"canonical_url": "https://aihot.virxact.com/items/cmokcfajm00lssl4fvkj3n64t"
+"canonical_url": "https://aihot.news/items/cmokcfajm00lssl4fvkj3n64t"
 "score": 61
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ AntLingAGI 开源了 Ling-2.6-1T 模型，这是一个面向现实世界智能�
 
 - **来源**: X：蚂蚁百灵 (@AntLingAGI)
 - **原文链接**: [https://x.com/AntLingAGI/status/2049541795344961725](https://x.com/AntLingAGI/status/2049541795344961725)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmokcfajm00lssl4fvkj3n64t](https://aihot.virxact.com/items/cmokcfajm00lssl4fvkj3n64t)
+- **AIHOT 链接**: [https://aihot.news/items/cmokcfajm00lssl4fvkj3n64t](https://aihot.news/items/cmokcfajm00lssl4fvkj3n64t)

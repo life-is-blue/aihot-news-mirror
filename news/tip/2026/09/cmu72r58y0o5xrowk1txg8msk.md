@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload"
 "canonical_url": "https://aihot.news/items/cmu72r58y0o5xrowk1txg8msk"
-"score": 77
+"score": 78
 "content_kind": "news"
 ---
 

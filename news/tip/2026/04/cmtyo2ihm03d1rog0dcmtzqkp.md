@@ -8,7 +8,7 @@
 "original_url": "https://cognition.com/blog/how-devin-is-modernizing-cobol-at-f\
   ortune-500-companies"
 "canonical_url": "https://aihot.news/items/cmtyo2ihm03d1rog0dcmtzqkp"
-"score": 62
+"score": 63
 "content_kind": "news"
 ---
 

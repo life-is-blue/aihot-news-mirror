@@ -7,7 +7,7 @@
 "source_name": "Google Research：Blog（网页）"
 "original_url": "https://research.google/blog/the-next-chapter-in-flood-resilie\
   nce-open-sourcing-googles-hydrology-framework"
-"canonical_url": "https://aihot.virxact.com/items/cmpyf82jy04juslax1zjpx7gd"
+"canonical_url": "https://aihot.news/items/cmpyf82jy04juslax1zjpx7gd"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google Research 在 GitHub 开源了其水文建模框架，这是一个基于 P
 
 - **来源**: Google Research：Blog（网页）
 - **原文链接**: [https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework](https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpyf82jy04juslax1zjpx7gd](https://aihot.virxact.com/items/cmpyf82jy04juslax1zjpx7gd)
+- **AIHOT 链接**: [https://aihot.news/items/cmpyf82jy04juslax1zjpx7gd](https://aihot.news/items/cmpyf82jy04juslax1zjpx7gd)

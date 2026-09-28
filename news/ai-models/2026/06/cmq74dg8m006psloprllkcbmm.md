@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-09T20:55:59.053Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code"
-"canonical_url": "https://aihot.virxact.com/items/cmq74dg8m006psloprllkcbmm"
+"canonical_url": "https://aihot.news/items/cmq74dg8m006psloprllkcbmm"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Cohere发布North Mini Code，一款30B参数MoE模型（3B活跃参数），Apa
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/CohereLabs/introducing-north-mini-code](https://huggingface.co/blog/CohereLabs/introducing-north-mini-code)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq74dg8m006psloprllkcbmm](https://aihot.virxact.com/items/cmq74dg8m006psloprllkcbmm)
+- **AIHOT 链接**: [https://aihot.news/items/cmq74dg8m006psloprllkcbmm](https://aihot.news/items/cmq74dg8m006psloprllkcbmm)

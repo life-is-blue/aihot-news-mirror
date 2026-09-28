@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-05T19:12:22.889Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://www.tomtunguz.com/optimizing-software-factories"
-"canonical_url": "https://aihot.virxact.com/items/cmot09eed01aqslv7yjpzy1mk"
+"canonical_url": "https://aihot.news/items/cmot09eed01aqslv7yjpzy1mk"
 "score": 55
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://www.tomtunguz.com/optimizing-software-factories](https://www.tomtunguz.com/optimizing-software-factories)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmot09eed01aqslv7yjpzy1mk](https://aihot.virxact.com/items/cmot09eed01aqslv7yjpzy1mk)
+- **AIHOT 链接**: [https://aihot.news/items/cmot09eed01aqslv7yjpzy1mk](https://aihot.news/items/cmot09eed01aqslv7yjpzy1mk)

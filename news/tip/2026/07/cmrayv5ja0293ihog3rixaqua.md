@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-ag\
   entic-ai-social-media"
-"canonical_url": "https://aihot.virxact.com/items/cmrayv5ja0293ihog3rixaqua"
+"canonical_url": "https://aihot.news/items/cmrayv5ja0293ihog3rixaqua"
 "score": 73
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Y Combinator CEO Garry Tan在X上宣称，他与AI编码代理每天在五个项
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media](https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrayv5ja0293ihog3rixaqua](https://aihot.virxact.com/items/cmrayv5ja0293ihog3rixaqua)
+- **AIHOT 链接**: [https://aihot.news/items/cmrayv5ja0293ihog3rixaqua](https://aihot.news/items/cmrayv5ja0293ihog3rixaqua)

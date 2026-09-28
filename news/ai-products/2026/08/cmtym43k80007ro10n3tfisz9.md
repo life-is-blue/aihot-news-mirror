@@ -7,7 +7,7 @@
 "source_name": "Prime Intellect（网页）"
 "original_url": "https://www.primeintellect.ai/blog/prime-agent"
 "canonical_url": "https://aihot.news/items/cmtym43k80007ro10n3tfisz9"
-"score": 71
+"score": 72
 "content_kind": "news"
 ---
 

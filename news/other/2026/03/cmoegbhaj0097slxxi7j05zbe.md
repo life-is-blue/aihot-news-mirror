@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-05T14:16:49.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhaj0097slxxi7j05zbe"
+"canonical_url": "https://aihot.news/items/cmoegbhaj0097slxxi7j05zbe"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ NXP在Hugging Face发布技术博客，详细介绍了将视觉语言动作模�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms](https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhaj0097slxxi7j05zbe](https://aihot.virxact.com/items/cmoegbhaj0097slxxi7j05zbe)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhaj0097slxxi7j05zbe](https://aihot.news/items/cmoegbhaj0097slxxi7j05zbe)

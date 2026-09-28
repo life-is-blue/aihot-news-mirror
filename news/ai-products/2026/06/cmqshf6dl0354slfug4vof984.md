@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-24T19:44:23.701Z"
 "source_name": "X：Perplexity (@perplexity_ai)"
 "original_url": "https://x.com/perplexity_ai/status/2069866668671766804"
-"canonical_url": "https://aihot.virxact.com/items/cmqshf6dl0354slfug4vof984"
+"canonical_url": "https://aihot.news/items/cmqshf6dl0354slfug4vof984"
 "score": 65
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ Computer 现在连接了律师日常使用的研究数据库、文档工具和�
 
 - **来源**: X：Perplexity (@perplexity_ai)
 - **原文链接**: [https://x.com/perplexity_ai/status/2069866668671766804](https://x.com/perplexity_ai/status/2069866668671766804)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqshf6dl0354slfug4vof984](https://aihot.virxact.com/items/cmqshf6dl0354slfug4vof984)
+- **AIHOT 链接**: [https://aihot.news/items/cmqshf6dl0354slfug4vof984](https://aihot.news/items/cmqshf6dl0354slfug4vof984)

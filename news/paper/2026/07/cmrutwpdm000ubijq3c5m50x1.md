@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-21T15:49:12.055Z"
 "source_name": "OpenAI：Alignment 研究博客（RSS）"
 "original_url": "https://alignment.openai.com/measuring-reward-seeking"
-"canonical_url": "https://aihot.virxact.com/items/cmrutwpdm000ubijq3c5m50x1"
+"canonical_url": "https://aihot.news/items/cmrutwpdm000ubijq3c5m50x1"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 与 Apollo Research 开发了 Contrastive SDF 测试，通过向模型植
 
 - **来源**: OpenAI：Alignment 研究博客（RSS）
 - **原文链接**: [https://alignment.openai.com/measuring-reward-seeking](https://alignment.openai.com/measuring-reward-seeking)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrutwpdm000ubijq3c5m50x1](https://aihot.virxact.com/items/cmrutwpdm000ubijq3c5m50x1)
+- **AIHOT 链接**: [https://aihot.news/items/cmrutwpdm000ubijq3c5m50x1](https://aihot.news/items/cmrutwpdm000ubijq3c5m50x1)

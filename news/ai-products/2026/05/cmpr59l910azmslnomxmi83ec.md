@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-29T16:36:39.104Z"
 "source_name": "X：OpenRouter (@OpenRouter)"
 "original_url": "https://x.com/OpenRouter/status/2060395056196936054"
-"canonical_url": "https://aihot.virxact.com/items/cmpr59l910azmslnomxmi83ec"
+"canonical_url": "https://aihot.news/items/cmpr59l910azmslnomxmi83ec"
 "score": 72
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ OpenRouter 现已支持 "apply_patch"，这是一个服务器工具，允许任�
 
 - **来源**: X：OpenRouter (@OpenRouter)
 - **原文链接**: [https://x.com/OpenRouter/status/2060395056196936054](https://x.com/OpenRouter/status/2060395056196936054)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpr59l910azmslnomxmi83ec](https://aihot.virxact.com/items/cmpr59l910azmslnomxmi83ec)
+- **AIHOT 链接**: [https://aihot.news/items/cmpr59l910azmslnomxmi83ec](https://aihot.news/items/cmpr59l910azmslnomxmi83ec)

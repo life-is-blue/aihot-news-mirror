@@ -6,7 +6,7 @@
 "discovered_at": "2026-09-02T15:48:59.424Z"
 "source_name": "Google AI：DEV 作者专属（RSS）"
 "original_url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0"
-"canonical_url": "https://aihot.virxact.com/items/cmtk9u4ga01hwrompqmqchjqj"
+"canonical_url": "https://aihot.news/items/cmtk9u4ga01hwrompqmqchjqj"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google 员工 Shir Meir Lador 介绍 harness 工程，即用确定性组件包�
 
 - **来源**: Google AI：DEV 作者专属（RSS）
 - **原文链接**: [https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0](https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtk9u4ga01hwrompqmqchjqj](https://aihot.virxact.com/items/cmtk9u4ga01hwrompqmqchjqj)
+- **AIHOT 链接**: [https://aihot.news/items/cmtk9u4ga01hwrompqmqchjqj](https://aihot.news/items/cmtk9u4ga01hwrompqmqchjqj)

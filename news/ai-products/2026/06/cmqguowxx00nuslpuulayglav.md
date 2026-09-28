@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-16T16:22:38.806Z"
 "source_name": "X：Satya Nadella (@satyanadella)"
 "original_url": "https://x.com/satyanadella/status/2066911399494963335"
-"canonical_url": "https://aihot.virxact.com/items/cmqguowxx00nuslpuulayglav"
+"canonical_url": "https://aihot.news/items/cmqguowxx00nuslpuulayglav"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Copilot Cowork 现已全球正式可用，并支持多模型！
 
 - **来源**: X：Satya Nadella (@satyanadella)
 - **原文链接**: [https://x.com/satyanadella/status/2066911399494963335](https://x.com/satyanadella/status/2066911399494963335)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqguowxx00nuslpuulayglav](https://aihot.virxact.com/items/cmqguowxx00nuslpuulayglav)
+- **AIHOT 链接**: [https://aihot.news/items/cmqguowxx00nuslpuulayglav](https://aihot.news/items/cmqguowxx00nuslpuulayglav)

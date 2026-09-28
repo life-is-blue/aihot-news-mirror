@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-11T17:22:08.016Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/claude-platform-on-aws"
-"canonical_url": "https://aihot.virxact.com/items/cmp1gyyur0y1psllh19l4dlbm"
+"canonical_url": "https://aihot.news/items/cmp1gyyur0y1psllh19l4dlbm"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic公司正式在AWS上推出Claude平台，为AWS客户提供了通过�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/claude-platform-on-aws](https://claude.com/blog/claude-platform-on-aws)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp1gyyur0y1psllh19l4dlbm](https://aihot.virxact.com/items/cmp1gyyur0y1psllh19l4dlbm)
+- **AIHOT 链接**: [https://aihot.news/items/cmp1gyyur0y1psllh19l4dlbm](https://aihot.news/items/cmp1gyyur0y1psllh19l4dlbm)

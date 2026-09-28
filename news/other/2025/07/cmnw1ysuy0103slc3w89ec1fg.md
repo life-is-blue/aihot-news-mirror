@@ -6,7 +6,7 @@
 "discovered_at": "2025-07-19T15:30:25.000Z"
 "source_name": "X：Jim Fan (@DrJimFan)"
 "original_url": "https://x.com/DrJimFan/status/1946593477460189340"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1ysuy0103slc3w89ec1fg"
+"canonical_url": "https://aihot.news/items/cmnw1ysuy0103slc3w89ec1fg"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ AGI 的门槛不是赢得诺贝尔奖，而是能去任何人家中烹饪任意�
 
 - **来源**: X：Jim Fan (@DrJimFan)
 - **原文链接**: [https://x.com/DrJimFan/status/1946593477460189340](https://x.com/DrJimFan/status/1946593477460189340)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1ysuy0103slc3w89ec1fg](https://aihot.virxact.com/items/cmnw1ysuy0103slc3w89ec1fg)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1ysuy0103slc3w89ec1fg](https://aihot.news/items/cmnw1ysuy0103slc3w89ec1fg)

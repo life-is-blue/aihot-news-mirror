@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-14T22:35:21.382Z"
 "source_name": "X：Luma AI (@LumaLabsAI)"
 "original_url": "https://x.com/LumaLabsAI/status/2055046873740984429"
-"canonical_url": "https://aihot.virxact.com/items/cmp62hdob0j66sljxs1zvpeyf"
+"canonical_url": "https://aihot.news/items/cmp62hdob0j66sljxs1zvpeyf"
 "score": 75
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@
 
 - **来源**: X：Luma AI (@LumaLabsAI)
 - **原文链接**: [https://x.com/LumaLabsAI/status/2055046873740984429](https://x.com/LumaLabsAI/status/2055046873740984429)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp62hdob0j66sljxs1zvpeyf](https://aihot.virxact.com/items/cmp62hdob0j66sljxs1zvpeyf)
+- **AIHOT 链接**: [https://aihot.news/items/cmp62hdob0j66sljxs1zvpeyf](https://aihot.news/items/cmp62hdob0j66sljxs1zvpeyf)

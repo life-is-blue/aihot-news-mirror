@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-17T15:49:46.145Z"
 "source_name": "X：Yuchen Jin (@Yuchenj_UW)"
 "original_url": "https://x.com/Yuchenj_UW/status/2067273020352380950"
-"canonical_url": "https://aihot.virxact.com/items/cmqi8ygw106qpslf0farqmsq7"
+"canonical_url": "https://aihot.news/items/cmqi8ygw106qpslf0farqmsq7"
 "score": 77
 "content_kind": "news"
 ---
@@ -23,4 +23,4 @@ Omnigent让你在一个实时会话中运行一个智能体团队：Claude Code�
 
 - **来源**: X：Yuchen Jin (@Yuchenj_UW)
 - **原文链接**: [https://x.com/Yuchenj_UW/status/2067273020352380950](https://x.com/Yuchenj_UW/status/2067273020352380950)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqi8ygw106qpslf0farqmsq7](https://aihot.virxact.com/items/cmqi8ygw106qpslf0farqmsq7)
+- **AIHOT 链接**: [https://aihot.news/items/cmqi8ygw106qpslf0farqmsq7](https://aihot.news/items/cmqi8ygw106qpslf0farqmsq7)

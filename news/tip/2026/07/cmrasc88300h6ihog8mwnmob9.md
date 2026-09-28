@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-07T15:09:52.912Z"
 "source_name": "X：Elvis Saravia (@omarsar0, DAIR.AI)"
 "original_url": "https://x.com/omarsar0/status/2074506169352180108"
-"canonical_url": "https://aihot.virxact.com/items/cmrasc88300h6ihog8mwnmob9"
+"canonical_url": "https://aihot.news/items/cmrasc88300h6ihog8mwnmob9"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Elvis Saravia 介绍使用 human-in-the-loop（HITL）来提升 agentic loops �
 
 - **来源**: X：Elvis Saravia (@omarsar0, DAIR.AI)
 - **原文链接**: [https://x.com/omarsar0/status/2074506169352180108](https://x.com/omarsar0/status/2074506169352180108)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrasc88300h6ihog8mwnmob9](https://aihot.virxact.com/items/cmrasc88300h6ihog8mwnmob9)
+- **AIHOT 链接**: [https://aihot.news/items/cmrasc88300h6ihog8mwnmob9](https://aihot.news/items/cmrasc88300h6ihog8mwnmob9)

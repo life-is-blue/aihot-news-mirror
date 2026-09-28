@@ -7,7 +7,7 @@
 "source_name": "LangChain：Blog（RSS）"
 "original_url": "https://www.langchain.com/blog/introducing-open-swe-an-open-so\
   urce-asynchronous-coding-agent"
-"canonical_url": "https://aihot.virxact.com/items/cms3x0dh603bgro82yht298zp"
+"canonical_url": "https://aihot.news/items/cms3x0dh603bgro82yht298zp"
 "score": 64
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ LangChain 推出 Open SWE，一个开源、云端托管的编码智能体，可�
 
 - **来源**: LangChain：Blog（RSS）
 - **原文链接**: [https://www.langchain.com/blog/introducing-open-swe-an-open-source-asynchronous-coding-agent](https://www.langchain.com/blog/introducing-open-swe-an-open-source-asynchronous-coding-agent)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3x0dh603bgro82yht298zp](https://aihot.virxact.com/items/cms3x0dh603bgro82yht298zp)
+- **AIHOT 链接**: [https://aihot.news/items/cms3x0dh603bgro82yht298zp](https://aihot.news/items/cms3x0dh603bgro82yht298zp)

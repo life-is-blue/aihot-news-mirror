@@ -7,7 +7,7 @@
 "source_name": "Google Developers Blog（RSS）"
 "original_url": "https://developers.googleblog.com/announcing-the-agentic-resou\
   rce-discovery-specification"
-"canonical_url": "https://aihot.virxact.com/items/cmqi9mvca06wuslf0gcpfh1hv"
+"canonical_url": "https://aihot.news/items/cmqi9mvca06wuslf0gcpfh1hv"
 "score": 63
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Agentic Resource Discovery（ARD）是一项开放规范，用于在Web上发布
 
 - **来源**: Google Developers Blog（RSS）
 - **原文链接**: [https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification](https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqi9mvca06wuslf0gcpfh1hv](https://aihot.virxact.com/items/cmqi9mvca06wuslf0gcpfh1hv)
+- **AIHOT 链接**: [https://aihot.news/items/cmqi9mvca06wuslf0gcpfh1hv](https://aihot.news/items/cmqi9mvca06wuslf0gcpfh1hv)

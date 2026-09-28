@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-14T18:31:42.997Z"
 "source_name": "Anthropic：Research（发表成果 · 网页）"
 "original_url": "https://www.anthropic.com/research/2028-ai-leadership"
-"canonical_url": "https://aihot.virxact.com/items/cmp5tryc60h69sljx0rydaqzn"
+"canonical_url": "https://aihot.news/items/cmp5tryc60h69sljx0rydaqzn"
 "score": 58
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Anthropic：Research（发表成果 · 网页）
 - **原文链接**: [https://www.anthropic.com/research/2028-ai-leadership](https://www.anthropic.com/research/2028-ai-leadership)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp5tryc60h69sljx0rydaqzn](https://aihot.virxact.com/items/cmp5tryc60h69sljx0rydaqzn)
+- **AIHOT 链接**: [https://aihot.news/items/cmp5tryc60h69sljx0rydaqzn](https://aihot.news/items/cmp5tryc60h69sljx0rydaqzn)

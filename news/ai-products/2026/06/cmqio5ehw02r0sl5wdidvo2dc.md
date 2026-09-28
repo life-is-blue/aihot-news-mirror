@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-17T22:55:03.383Z"
 "source_name": "Claude Code：GitHub Releases（RSS）"
 "original_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.181"
-"canonical_url": "https://aihot.virxact.com/items/cmqio5ehw02r0sl5wdidvo2dc"
+"canonical_url": "https://aihot.news/items/cmqio5ehw02r0sl5wdidvo2dc"
 "score": 57
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Code v2.1.181 发布，新增 `/config key=value` 语法允许在提示�
 
 - **来源**: Claude Code：GitHub Releases（RSS）
 - **原文链接**: [https://github.com/anthropics/claude-code/releases/tag/v2.1.181](https://github.com/anthropics/claude-code/releases/tag/v2.1.181)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqio5ehw02r0sl5wdidvo2dc](https://aihot.virxact.com/items/cmqio5ehw02r0sl5wdidvo2dc)
+- **AIHOT 链接**: [https://aihot.news/items/cmqio5ehw02r0sl5wdidvo2dc](https://aihot.news/items/cmqio5ehw02r0sl5wdidvo2dc)

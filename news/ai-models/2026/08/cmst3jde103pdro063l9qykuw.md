@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-14T15:22:56.018Z"
 "source_name": "X：智谱 Z.ai (@Zai_org)"
 "original_url": "https://x.com/Zai_org/status/2088280509474320693"
-"canonical_url": "https://aihot.virxact.com/items/cmst3jde103pdro063l9qykuw"
+"canonical_url": "https://aihot.news/items/cmst3jde103pdro063l9qykuw"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：智谱 Z.ai (@Zai_org)
 - **原文链接**: [https://x.com/Zai_org/status/2088280509474320693](https://x.com/Zai_org/status/2088280509474320693)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmst3jde103pdro063l9qykuw](https://aihot.virxact.com/items/cmst3jde103pdro063l9qykuw)
+- **AIHOT 链接**: [https://aihot.news/items/cmst3jde103pdro063l9qykuw](https://aihot.news/items/cmst3jde103pdro063l9qykuw)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-22T05:09:17.223Z"
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/0/953/832.htm"
-"canonical_url": "https://aihot.virxact.com/items/cmpggmof80f99sljw4fsa94ek"
+"canonical_url": "https://aihot.news/items/cmpggmof80f99sljw4fsa94ek"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ DeepSeek正推进700亿元人民币的巨额融资，估值约450亿美元。创
 
 - **来源**: IT之家（RSS）
 - **原文链接**: [https://www.ithome.com/0/953/832.htm](https://www.ithome.com/0/953/832.htm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpggmof80f99sljw4fsa94ek](https://aihot.virxact.com/items/cmpggmof80f99sljw4fsa94ek)
+- **AIHOT 链接**: [https://aihot.news/items/cmpggmof80f99sljw4fsa94ek](https://aihot.news/items/cmpggmof80f99sljw4fsa94ek)

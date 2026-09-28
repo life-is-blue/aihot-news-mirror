@@ -7,7 +7,7 @@
 "source_name": "The Verge：AI（RSS）"
 "original_url": "https://www.theverge.com/ai-artificial-intelligence/988261/ope\
   nai-tumbler-ridge-shooting-lawsuit-aiding-abetting"
-"canonical_url": "https://aihot.virxact.com/items/cmtkaa7gs01v5romp7lhz3mwj"
+"canonical_url": "https://aihot.news/items/cmtkaa7gs01v5romp7lhz3mwj"
 "score": 77
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenAI 及 CEO Sam Altman 面临 30 起新诉讼，指控其为加拿大 Tumbler
 
 - **来源**: The Verge：AI（RSS）
 - **原文链接**: [https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting](https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtkaa7gs01v5romp7lhz3mwj](https://aihot.virxact.com/items/cmtkaa7gs01v5romp7lhz3mwj)
+- **AIHOT 链接**: [https://aihot.news/items/cmtkaa7gs01v5romp7lhz3mwj](https://aihot.news/items/cmtkaa7gs01v5romp7lhz3mwj)

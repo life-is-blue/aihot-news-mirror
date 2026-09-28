@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-27T00:00:00.000Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/announcements/opus-47-tokenizer-analysis"
-"canonical_url": "https://aihot.virxact.com/items/cmor004i8006qslix1xe61sdx"
+"canonical_url": "https://aihot.news/items/cmor004i8006qslix1xe61sdx"
 "score": 57
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic在Claude Opus 4.7版本中更新了分词器。通过对比4.6到4.7�
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/announcements/opus-47-tokenizer-analysis](https://openrouter.ai/announcements/opus-47-tokenizer-analysis)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmor004i8006qslix1xe61sdx](https://aihot.virxact.com/items/cmor004i8006qslix1xe61sdx)
+- **AIHOT 链接**: [https://aihot.news/items/cmor004i8006qslix1xe61sdx](https://aihot.news/items/cmor004i8006qslix1xe61sdx)

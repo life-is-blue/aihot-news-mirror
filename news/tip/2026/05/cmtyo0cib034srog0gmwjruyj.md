@@ -8,7 +8,7 @@
 "original_url": "https://www.llamaindex.ai/blog/building-a-financial-due-dilige\
   nce-agent-with-liteparse"
 "canonical_url": "https://aihot.news/items/cmtyo0cib034srog0gmwjruyj"
-"score": 63
+"score": 64
 "content_kind": "news"
 ---
 

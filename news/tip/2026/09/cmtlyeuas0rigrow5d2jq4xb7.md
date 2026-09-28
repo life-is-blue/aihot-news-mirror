@@ -6,7 +6,7 @@
 "discovered_at": "2026-09-03T20:04:44.581Z"
 "source_name": "X：Francois Chollet (@fchollet)"
 "original_url": "https://x.com/fchollet/status/2095598451115614371"
-"canonical_url": "https://aihot.virxact.com/items/cmtlyeuas0rigrow5d2jq4xb7"
+"canonical_url": "https://aihot.news/items/cmtlyeuas0rigrow5d2jq4xb7"
 "score": 81
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ François Chollet 发文称 GPT-6 Astra 在交互式推理任务上带来阶跃�
 
 - **来源**: X：Francois Chollet (@fchollet)
 - **原文链接**: [https://x.com/fchollet/status/2095598451115614371](https://x.com/fchollet/status/2095598451115614371)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtlyeuas0rigrow5d2jq4xb7](https://aihot.virxact.com/items/cmtlyeuas0rigrow5d2jq4xb7)
+- **AIHOT 链接**: [https://aihot.news/items/cmtlyeuas0rigrow5d2jq4xb7](https://aihot.news/items/cmtlyeuas0rigrow5d2jq4xb7)

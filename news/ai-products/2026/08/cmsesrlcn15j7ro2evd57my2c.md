@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-04T15:12:36.927Z"
 "source_name": "NVIDIA Blog（RSS）"
 "original_url": "https://blogs.nvidia.com/blog/ai-storage-fms"
-"canonical_url": "https://aihot.virxact.com/items/cmsesrlcn15j7ro2evd57my2c"
+"canonical_url": "https://aihot.news/items/cmsesrlcn15j7ro2evd57my2c"
 "score": 62
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ NVIDIA 在 FMS 大会上宣布开源 cuFile API 及底层存储软件栈，让 G
 
 - **来源**: NVIDIA Blog（RSS）
 - **原文链接**: [https://blogs.nvidia.com/blog/ai-storage-fms](https://blogs.nvidia.com/blog/ai-storage-fms)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsesrlcn15j7ro2evd57my2c](https://aihot.virxact.com/items/cmsesrlcn15j7ro2evd57my2c)
+- **AIHOT 链接**: [https://aihot.news/items/cmsesrlcn15j7ro2evd57my2c](https://aihot.news/items/cmsesrlcn15j7ro2evd57my2c)

@@ -7,7 +7,7 @@
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/how-our-partners-are-putting-opus-to-w\
   ork-for-cybersecurity"
-"canonical_url": "https://aihot.virxact.com/items/cmpfs4pdm097psljw3p8uqz54"
+"canonical_url": "https://aihot.news/items/cmpfs4pdm097psljw3p8uqz54"
 "score": 74
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity](https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpfs4pdm097psljw3p8uqz54](https://aihot.virxact.com/items/cmpfs4pdm097psljw3p8uqz54)
+- **AIHOT 链接**: [https://aihot.news/items/cmpfs4pdm097psljw3p8uqz54](https://aihot.news/items/cmpfs4pdm097psljw3p8uqz54)

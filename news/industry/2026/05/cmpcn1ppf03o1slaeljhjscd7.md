@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-19T12:57:47.968Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/anthropic-kpmg"
-"canonical_url": "https://aihot.virxact.com/items/cmpcn1ppf03o1slaeljhjscd7"
+"canonical_url": "https://aihot.news/items/cmpcn1ppf03o1slaeljhjscd7"
 "score": 62
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/anthropic-kpmg](https://www.anthropic.com/news/anthropic-kpmg)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpcn1ppf03o1slaeljhjscd7](https://aihot.virxact.com/items/cmpcn1ppf03o1slaeljhjscd7)
+- **AIHOT 链接**: [https://aihot.news/items/cmpcn1ppf03o1slaeljhjscd7](https://aihot.news/items/cmpcn1ppf03o1slaeljhjscd7)

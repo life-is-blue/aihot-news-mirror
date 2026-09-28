@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-10T15:44:34.992Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router"
-"canonical_url": "https://aihot.virxact.com/items/cmsnejv4i042qrohff64pz0jh"
+"canonical_url": "https://aihot.news/items/cmsnejv4i042qrohff64pz0jh"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter 基于每周超 55T token 的社区消费数据，推出新版 Auto �
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/announcements/introducing-the-new-auto-router](https://openrouter.ai/blog/announcements/introducing-the-new-auto-router)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsnejv4i042qrohff64pz0jh](https://aihot.virxact.com/items/cmsnejv4i042qrohff64pz0jh)
+- **AIHOT 链接**: [https://aihot.news/items/cmsnejv4i042qrohff64pz0jh](https://aihot.news/items/cmsnejv4i042qrohff64pz0jh)

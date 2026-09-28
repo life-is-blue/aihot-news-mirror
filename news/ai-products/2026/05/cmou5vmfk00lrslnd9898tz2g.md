@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-06T14:37:15.998Z"
 "source_name": "X：Perplexity (@perplexity_ai)"
 "original_url": "https://x.com/perplexity_ai/status/2052028012313649194"
-"canonical_url": "https://aihot.virxact.com/items/cmou5vmfk00lrslnd9898tz2g"
+"canonical_url": "https://aihot.news/items/cmou5vmfk00lrslnd9898tz2g"
 "score": 71
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Perplexity Agent API 现已提供金融搜索功能。
 
 - **来源**: X：Perplexity (@perplexity_ai)
 - **原文链接**: [https://x.com/perplexity_ai/status/2052028012313649194](https://x.com/perplexity_ai/status/2052028012313649194)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmou5vmfk00lrslnd9898tz2g](https://aihot.virxact.com/items/cmou5vmfk00lrslnd9898tz2g)
+- **AIHOT 链接**: [https://aihot.news/items/cmou5vmfk00lrslnd9898tz2g](https://aihot.news/items/cmou5vmfk00lrslnd9898tz2g)

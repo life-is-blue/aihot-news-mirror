@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-17T17:35:49.174Z"
 "source_name": "X：Midjourney (@midjourney)"
 "original_url": "https://x.com/midjourney/status/2067292710063800483"
-"canonical_url": "https://aihot.virxact.com/items/cmqicquyv07r4slf034rwxcfu"
+"canonical_url": "https://aihot.news/items/cmqicquyv07r4slf034rwxcfu"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：Midjourney (@midjourney)
 - **原文链接**: [https://x.com/midjourney/status/2067292710063800483](https://x.com/midjourney/status/2067292710063800483)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqicquyv07r4slf034rwxcfu](https://aihot.virxact.com/items/cmqicquyv07r4slf034rwxcfu)
+- **AIHOT 链接**: [https://aihot.news/items/cmqicquyv07r4slf034rwxcfu](https://aihot.news/items/cmqicquyv07r4slf034rwxcfu)

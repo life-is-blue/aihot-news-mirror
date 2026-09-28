@@ -6,7 +6,7 @@
 "discovered_at": "2025-10-29T16:00:00.000Z"
 "source_name": "MiniMax：Blog（网页）"
 "original_url": "https://www.minimax.io/news/minimax-speech-26"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1zatl027bslc3y6bgjvnw"
+"canonical_url": "https://aihot.news/items/cmnw1zatl027bslc3y6bgjvnw"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ MiniMax发布语音模型Speech 2.6，端到端延迟降至250毫秒内，支持
 
 - **来源**: MiniMax：Blog（网页）
 - **原文链接**: [https://www.minimax.io/news/minimax-speech-26](https://www.minimax.io/news/minimax-speech-26)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1zatl027bslc3y6bgjvnw](https://aihot.virxact.com/items/cmnw1zatl027bslc3y6bgjvnw)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1zatl027bslc3y6bgjvnw](https://aihot.news/items/cmnw1zatl027bslc3y6bgjvnw)

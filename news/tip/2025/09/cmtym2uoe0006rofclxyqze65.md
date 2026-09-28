@@ -8,7 +8,7 @@
 "original_url": "https://www.tensorzero.com/blog/is-openai-reinforcement-fine-t\
   uning-rft-worth-it"
 "canonical_url": "https://aihot.news/items/cmtym2uoe0006rofclxyqze65"
-"score": 62
+"score": 63
 "content_kind": "news"
 ---
 

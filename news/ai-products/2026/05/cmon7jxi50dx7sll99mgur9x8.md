@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-01T17:49:53.191Z"
 "source_name": "X：Runway (@runwayml)"
 "original_url": "https://x.com/runwayml/status/2050270993487212712"
-"canonical_url": "https://aihot.virxact.com/items/cmon7jxi50dx7sll99mgur9x8"
+"canonical_url": "https://aihot.news/items/cmon7jxi50dx7sll99mgur9x8"
 "score": 68
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@
 
 - **来源**: X：Runway (@runwayml)
 - **原文链接**: [https://x.com/runwayml/status/2050270993487212712](https://x.com/runwayml/status/2050270993487212712)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmon7jxi50dx7sll99mgur9x8](https://aihot.virxact.com/items/cmon7jxi50dx7sll99mgur9x8)
+- **AIHOT 链接**: [https://aihot.news/items/cmon7jxi50dx7sll99mgur9x8](https://aihot.news/items/cmon7jxi50dx7sll99mgur9x8)

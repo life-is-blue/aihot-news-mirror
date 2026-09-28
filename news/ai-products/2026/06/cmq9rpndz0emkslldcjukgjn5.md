@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-11T17:24:51.755Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/auto-review"
-"canonical_url": "https://aihot.virxact.com/items/cmq9rpndz0emkslldcjukgjn5"
+"canonical_url": "https://aihot.news/items/cmq9rpndz0emkslldcjukgjn5"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Cursor 近日推出 Auto-review，通过一个专门的分类器智能体在工�
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/auto-review](https://cursor.com/blog/auto-review)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq9rpndz0emkslldcjukgjn5](https://aihot.virxact.com/items/cmq9rpndz0emkslldcjukgjn5)
+- **AIHOT 链接**: [https://aihot.news/items/cmq9rpndz0emkslldcjukgjn5](https://aihot.news/items/cmq9rpndz0emkslldcjukgjn5)

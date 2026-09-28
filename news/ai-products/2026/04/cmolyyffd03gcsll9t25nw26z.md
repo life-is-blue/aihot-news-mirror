@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-30T21:01:28.130Z"
 "source_name": "Midjourney：Updates（RSS）"
 "original_url": "https://updates.midjourney.com/v8-1-updates"
-"canonical_url": "https://aihot.virxact.com/items/cmolyyffd03gcsll9t25nw26z"
+"canonical_url": "https://aihot.news/items/cmolyyffd03gcsll9t25nw26z"
 "score": 56
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Midjourney V8.1 版本现已登陆 Discord 平台及其官方网站。本次更�
 
 - **来源**: Midjourney：Updates（RSS）
 - **原文链接**: [https://updates.midjourney.com/v8-1-updates](https://updates.midjourney.com/v8-1-updates)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmolyyffd03gcsll9t25nw26z](https://aihot.virxact.com/items/cmolyyffd03gcsll9t25nw26z)
+- **AIHOT 链接**: [https://aihot.news/items/cmolyyffd03gcsll9t25nw26z](https://aihot.news/items/cmolyyffd03gcsll9t25nw26z)

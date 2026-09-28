@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-22T17:05:27.759Z"
 "source_name": "X：SemiAnalysis (@SemiAnalysis_)"
 "original_url": "https://x.com/SemiAnalysis_/status/2057869518295249373"
-"canonical_url": "https://aihot.virxact.com/items/cmph67qxj0ln6sljwnbeo7vwe"
+"canonical_url": "https://aihot.news/items/cmph67qxj0ln6sljwnbeo7vwe"
 "score": 82
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：SemiAnalysis (@SemiAnalysis_)
 - **原文链接**: [https://x.com/SemiAnalysis_/status/2057869518295249373](https://x.com/SemiAnalysis_/status/2057869518295249373)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmph67qxj0ln6sljwnbeo7vwe](https://aihot.virxact.com/items/cmph67qxj0ln6sljwnbeo7vwe)
+- **AIHOT 链接**: [https://aihot.news/items/cmph67qxj0ln6sljwnbeo7vwe](https://aihot.news/items/cmph67qxj0ln6sljwnbeo7vwe)

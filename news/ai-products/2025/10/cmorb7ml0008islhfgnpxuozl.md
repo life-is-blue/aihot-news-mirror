@@ -6,7 +6,7 @@
 "discovered_at": "2025-10-19T16:00:00.000Z"
 "source_name": "Anthropic：Engineering（事故复盘 + 工程实践 · 网页）"
 "original_url": "https://www.anthropic.com/engineering/claude-code-sandboxing"
-"canonical_url": "https://aihot.virxact.com/items/cmorb7ml0008islhfgnpxuozl"
+"canonical_url": "https://aihot.news/items/cmorb7ml0008islhfgnpxuozl"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Code引入沙盒化技术，通过文件系统与网络双重隔离来增
 
 - **来源**: Anthropic：Engineering（事故复盘 + 工程实践 · 网页）
 - **原文链接**: [https://www.anthropic.com/engineering/claude-code-sandboxing](https://www.anthropic.com/engineering/claude-code-sandboxing)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmorb7ml0008islhfgnpxuozl](https://aihot.virxact.com/items/cmorb7ml0008islhfgnpxuozl)
+- **AIHOT 链接**: [https://aihot.news/items/cmorb7ml0008islhfgnpxuozl](https://aihot.news/items/cmorb7ml0008islhfgnpxuozl)

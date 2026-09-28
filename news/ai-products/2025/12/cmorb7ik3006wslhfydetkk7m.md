@@ -6,7 +6,7 @@
 "discovered_at": "2025-12-03T13:45:41.000Z"
 "source_name": "蚂蚁 inclusionAI：GitHub 新仓库"
 "original_url": "https://github.com/inclusionAI/asystem-astate"
-"canonical_url": "https://aihot.virxact.com/items/cmorb7ik3006wslhfydetkk7m"
+"canonical_url": "https://aihot.news/items/cmorb7ik3006wslhfydetkk7m"
 "score": 63
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: 蚂蚁 inclusionAI：GitHub 新仓库
 - **原文链接**: [https://github.com/inclusionAI/asystem-astate](https://github.com/inclusionAI/asystem-astate)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmorb7ik3006wslhfydetkk7m](https://aihot.virxact.com/items/cmorb7ik3006wslhfydetkk7m)
+- **AIHOT 链接**: [https://aihot.news/items/cmorb7ik3006wslhfydetkk7m](https://aihot.news/items/cmorb7ik3006wslhfydetkk7m)

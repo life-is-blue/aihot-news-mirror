@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-30T17:32:06.724Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/claude-science-ai-workbench"
-"canonical_url": "https://aihot.virxact.com/items/cmr0xc7sg0040slb3yenz5k02"
+"canonical_url": "https://aihot.news/items/cmr0xc7sg0040slb3yenz5k02"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 推出 AI 科研工作台 Claude Science，整合常用工具与计算
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/claude-science-ai-workbench](https://www.anthropic.com/news/claude-science-ai-workbench)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr0xc7sg0040slb3yenz5k02](https://aihot.virxact.com/items/cmr0xc7sg0040slb3yenz5k02)
+- **AIHOT 链接**: [https://aihot.news/items/cmr0xc7sg0040slb3yenz5k02](https://aihot.news/items/cmr0xc7sg0040slb3yenz5k02)

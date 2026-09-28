@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-09T17:30:29.756Z"
 "source_name": "X：OpenAI Developers (@OpenAIDevs)"
 "original_url": "https://x.com/OpenAIDevs/status/2064395155688616153"
-"canonical_url": "https://aihot.virxact.com/items/cmq6x171500clslbherqa4dhg"
+"canonical_url": "https://aihot.news/items/cmq6x171500clslbherqa4dhg"
 "score": 76
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Responses API 中的网页搜索现在除了文本结果外，还支持图片结
 
 - **来源**: X：OpenAI Developers (@OpenAIDevs)
 - **原文链接**: [https://x.com/OpenAIDevs/status/2064395155688616153](https://x.com/OpenAIDevs/status/2064395155688616153)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq6x171500clslbherqa4dhg](https://aihot.virxact.com/items/cmq6x171500clslbherqa4dhg)
+- **AIHOT 链接**: [https://aihot.news/items/cmq6x171500clslbherqa4dhg](https://aihot.news/items/cmq6x171500clslbherqa4dhg)

@@ -7,7 +7,7 @@
 "source_name": "X：Unsloth (@UnslothAI)"
 "original_url": "https://x.com/UnslothAI/status/2087177146662072546"
 "canonical_url": "https://aihot.news/items/cmtyjea9s000iro10ua3isvob"
-"score": 67
+"score": 68
 "content_kind": "news"
 ---
 

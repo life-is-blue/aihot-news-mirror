@@ -7,8 +7,8 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion\
   -in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk"
-"canonical_url": "https://aihot.virxact.com/items/cmtrkorpo07jdrotnozlrlyx2"
-"score": 76
+"canonical_url": "https://aihot.news/items/cmtrkorpo07jdrotnozlrlyx2"
+"score": 77
 "content_kind": "news"
 ---
 
@@ -18,4 +18,4 @@
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk](https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtrkorpo07jdrotnozlrlyx2](https://aihot.virxact.com/items/cmtrkorpo07jdrotnozlrlyx2)
+- **AIHOT 链接**: [https://aihot.news/items/cmtrkorpo07jdrotnozlrlyx2](https://aihot.news/items/cmtrkorpo07jdrotnozlrlyx2)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-14T17:03:50.091Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/introducing-routines-in-claude-code"
-"canonical_url": "https://aihot.virxact.com/items/cmnyvf7zv00y2sl0fc75gp20a"
+"canonical_url": "https://aihot.news/items/cmnyvf7zv00y2sl0fc75gp20a"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Code 发布 routines 研究预览版，支持配置包含提示词、代�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/introducing-routines-in-claude-code](https://claude.com/blog/introducing-routines-in-claude-code)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnyvf7zv00y2sl0fc75gp20a](https://aihot.virxact.com/items/cmnyvf7zv00y2sl0fc75gp20a)
+- **AIHOT 链接**: [https://aihot.news/items/cmnyvf7zv00y2sl0fc75gp20a](https://aihot.news/items/cmnyvf7zv00y2sl0fc75gp20a)

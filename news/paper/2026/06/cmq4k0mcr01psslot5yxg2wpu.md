@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-05T00:00:00.000Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2606.07080"
-"canonical_url": "https://aihot.virxact.com/items/cmq4k0mcr01psslot5yxg2wpu"
+"canonical_url": "https://aihot.news/items/cmq4k0mcr01psslot5yxg2wpu"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ dots.tts 是一个 2B 参数的连续自回归 TTS 基座模型，在连续潜�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2606.07080](https://arxiv.org/abs/2606.07080)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq4k0mcr01psslot5yxg2wpu](https://aihot.virxact.com/items/cmq4k0mcr01psslot5yxg2wpu)
+- **AIHOT 链接**: [https://aihot.news/items/cmq4k0mcr01psslot5yxg2wpu](https://aihot.news/items/cmq4k0mcr01psslot5yxg2wpu)

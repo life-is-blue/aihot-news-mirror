@@ -6,8 +6,8 @@
 "discovered_at": "2026-09-04T23:07:37.383Z"
 "source_name": "X：Sam Altman (@sama)"
 "original_url": "https://x.com/sama/status/2096008528834244741"
-"canonical_url": "https://aihot.virxact.com/items/cmtnkdx8y031qroqs79optcp2"
-"score": 79
+"canonical_url": "https://aihot.news/items/cmtnkdx8y031qroqs79optcp2"
+"score": 80
 "content_kind": "news"
 ---
 
@@ -17,4 +17,4 @@ Sam Altman 宣布 GPT-6 Astra 现已向所有 Plus 和 Business 用户推出。�
 
 - **来源**: X：Sam Altman (@sama)
 - **原文链接**: [https://x.com/sama/status/2096008528834244741](https://x.com/sama/status/2096008528834244741)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtnkdx8y031qroqs79optcp2](https://aihot.virxact.com/items/cmtnkdx8y031qroqs79optcp2)
+- **AIHOT 链接**: [https://aihot.news/items/cmtnkdx8y031qroqs79optcp2](https://aihot.news/items/cmtnkdx8y031qroqs79optcp2)

@@ -7,7 +7,7 @@
 "source_name": "Qwen：Blog Retrieval（API）"
 "original_url": "https://qwen.ai/blog?id=qwen3.8-omni-flash"
 "canonical_url": "https://aihot.news/items/cmu5smj860insroqokcuh0u9v"
-"score": 77
+"score": 78
 "content_kind": "news"
 ---
 

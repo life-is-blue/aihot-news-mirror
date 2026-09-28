@@ -7,7 +7,7 @@
 "source_name": "Trail of Bits：AI安全研究"
 "original_url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai"
 "canonical_url": "https://aihot.news/items/cmu6w30lt0dnhrowkh7qwiped"
-"score": 67
+"score": 68
 "content_kind": "news"
 ---
 

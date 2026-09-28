@@ -6,7 +6,7 @@
 "discovered_at": "2025-08-28T00:00:00.000Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-code-fast-1"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsvjeh005nsltegjoer6uc"
+"canonical_url": "https://aihot.news/items/cmnwsvjeh005nsltegjoer6uc"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI发布轻量级编程模型Grok Code Fast 1，采用全新架构，基于真�
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-code-fast-1](https://x.ai/news/grok-code-fast-1)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsvjeh005nsltegjoer6uc](https://aihot.virxact.com/items/cmnwsvjeh005nsltegjoer6uc)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsvjeh005nsltegjoer6uc](https://aihot.news/items/cmnwsvjeh005nsltegjoer6uc)

@@ -7,7 +7,7 @@
 "source_name": "Apple：Newsroom（RSS）"
 "original_url": "https://www.apple.com/newsroom/2026/05/apple-manufacturing-aca\
   demy-accelerates-ai-use-in-us-supply-chains"
-"canonical_url": "https://aihot.virxact.com/items/cmosnx5e90091slkve4ojtxbv"
+"canonical_url": "https://aihot.news/items/cmosnx5e90091slkve4ojtxbv"
 "score": 55
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Apple：Newsroom（RSS）
 - **原文链接**: [https://www.apple.com/newsroom/2026/05/apple-manufacturing-academy-accelerates-ai-use-in-us-supply-chains](https://www.apple.com/newsroom/2026/05/apple-manufacturing-academy-accelerates-ai-use-in-us-supply-chains)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmosnx5e90091slkve4ojtxbv](https://aihot.virxact.com/items/cmosnx5e90091slkve4ojtxbv)
+- **AIHOT 链接**: [https://aihot.news/items/cmosnx5e90091slkve4ojtxbv](https://aihot.news/items/cmosnx5e90091slkve4ojtxbv)

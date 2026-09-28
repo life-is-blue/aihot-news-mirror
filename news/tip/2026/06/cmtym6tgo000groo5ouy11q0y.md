@@ -7,7 +7,7 @@
 "source_name": "PromptArmor：Threat Intelligence"
 "original_url": "https://www.promptarmor.com/resources/agentic-auto-review-approves-malware"
 "canonical_url": "https://aihot.news/items/cmtym6tgo000groo5ouy11q0y"
-"score": 69
+"score": 70
 "content_kind": "news"
 ---
 

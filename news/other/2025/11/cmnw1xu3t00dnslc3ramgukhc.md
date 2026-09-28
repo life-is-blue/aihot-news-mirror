@@ -6,7 +6,7 @@
 "discovered_at": "2025-11-11T16:00:00.000Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/improving-frontend-design-through-skills"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xu3t00dnslc3ramgukhc"
+"canonical_url": "https://aihot.news/items/cmnw1xu3t00dnslc3ramgukhc"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ LLM 生成界面常因"分布收敛"而陷入 Inter 字体配紫色渐变的同�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/improving-frontend-design-through-skills](https://claude.com/blog/improving-frontend-design-through-skills)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xu3t00dnslc3ramgukhc](https://aihot.virxact.com/items/cmnw1xu3t00dnslc3ramgukhc)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xu3t00dnslc3ramgukhc](https://aihot.news/items/cmnw1xu3t00dnslc3ramgukhc)

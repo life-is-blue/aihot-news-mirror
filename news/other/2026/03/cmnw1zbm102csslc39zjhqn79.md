@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-29T20:00:00.000Z"
 "source_name": "Qwen：Blog Retrieval（API）"
 "original_url": "https://qwen.ai/blog?id=qwen3.5-omni"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1zbm102csslc39zjhqn79"
+"canonical_url": "https://aihot.news/items/cmnw1zbm102csslc39zjhqn79"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Qwen Studio 发布，集成聊天机器人、图像视频理解、图像生成�
 
 - **来源**: Qwen：Blog Retrieval（API）
 - **原文链接**: [https://qwen.ai/blog?id=qwen3.5-omni](https://qwen.ai/blog?id=qwen3.5-omni)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1zbm102csslc39zjhqn79](https://aihot.virxact.com/items/cmnw1zbm102csslc39zjhqn79)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1zbm102csslc39zjhqn79](https://aihot.news/items/cmnw1zbm102csslc39zjhqn79)

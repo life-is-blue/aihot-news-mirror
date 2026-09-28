@@ -7,7 +7,7 @@
 "source_name": "Meta Engineering Blog（RSS）"
 "original_url": "https://engineering.fb.com/2026/03/30/data-center-engineering/\
   ai-for-american-produced-cement-and-concrete"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbgzp005uslxxrq9m04ua"
+"canonical_url": "https://aihot.news/items/cmoegbgzp005uslxxrq9m04ua"
 "score": 71
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Meta发布了名为贝叶斯优化的新AI模型，用于设计混凝土配比�
 
 - **来源**: Meta Engineering Blog（RSS）
 - **原文链接**: [https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbgzp005uslxxrq9m04ua](https://aihot.virxact.com/items/cmoegbgzp005uslxxrq9m04ua)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbgzp005uslxxrq9m04ua](https://aihot.news/items/cmoegbgzp005uslxxrq9m04ua)

@@ -8,7 +8,7 @@
 "original_url": "https://www.augmentcode.com/blog/auggie-cli-harness-rebuild-53\
   -percent-cheaper"
 "canonical_url": "https://aihot.news/items/cmtym29350005rosz86ekphh6"
-"score": 63
+"score": 64
 "content_kind": "news"
 ---
 

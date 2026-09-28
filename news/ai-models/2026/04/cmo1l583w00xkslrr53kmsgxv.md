@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-16T14:39:27.514Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b"
-"canonical_url": "https://aihot.virxact.com/items/cmo1l583w00xkslrr53kmsgxv"
+"canonical_url": "https://aihot.news/items/cmo1l583w00xkslrr53kmsgxv"
 "score": 84
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://qwen.ai/blog?id=qwen3.6-35b-a3b](https://qwen.ai/blog?id=qwen3.6-35b-a3b)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmo1l583w00xkslrr53kmsgxv](https://aihot.virxact.com/items/cmo1l583w00xkslrr53kmsgxv)
+- **AIHOT 链接**: [https://aihot.news/items/cmo1l583w00xkslrr53kmsgxv](https://aihot.news/items/cmo1l583w00xkslrr53kmsgxv)

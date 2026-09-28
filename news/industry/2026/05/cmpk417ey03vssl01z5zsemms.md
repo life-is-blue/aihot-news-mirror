@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to\
   -make-permanent-75-discount-on-flagship-ai-model"
-"canonical_url": "https://aihot.virxact.com/items/cmpk417ey03vssl01z5zsemms"
+"canonical_url": "https://aihot.news/items/cmpk417ey03vssl01z5zsemms"
 "score": 74
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ DeepSeek 宣布将旗舰模型 V4-Pro 的 75% 折扣永久化，开发者价格�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model](https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpk417ey03vssl01z5zsemms](https://aihot.virxact.com/items/cmpk417ey03vssl01z5zsemms)
+- **AIHOT 链接**: [https://aihot.news/items/cmpk417ey03vssl01z5zsemms](https://aihot.news/items/cmpk417ey03vssl01z5zsemms)

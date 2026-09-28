@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-11T18:52:06.456Z"
 "source_name": "Claude Code：GitHub Releases（RSS）"
 "original_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.139"
-"canonical_url": "https://aihot.virxact.com/items/cmp1k6fzy0097sl8bma8psq7c"
+"canonical_url": "https://aihot.news/items/cmp1k6fzy0097sl8bma8psq7c"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Claude Code：GitHub Releases（RSS）
 - **原文链接**: [https://github.com/anthropics/claude-code/releases/tag/v2.1.139](https://github.com/anthropics/claude-code/releases/tag/v2.1.139)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp1k6fzy0097sl8bma8psq7c](https://aihot.virxact.com/items/cmp1k6fzy0097sl8bma8psq7c)
+- **AIHOT 链接**: [https://aihot.news/items/cmp1k6fzy0097sl8bma8psq7c](https://aihot.news/items/cmp1k6fzy0097sl8bma8psq7c)

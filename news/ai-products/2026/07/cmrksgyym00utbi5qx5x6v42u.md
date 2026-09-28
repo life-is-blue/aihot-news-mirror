@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-14T15:11:11.440Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/claude-for-teachers"
-"canonical_url": "https://aihot.virxact.com/items/cmrksgyym00utbi5qx5x6v42u"
+"canonical_url": "https://aihot.news/items/cmrksgyym00utbi5qx5x6v42u"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 发布 Claude for Teachers，为美国认证的 K-12 教师免费提�
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/claude-for-teachers](https://www.anthropic.com/news/claude-for-teachers)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrksgyym00utbi5qx5x6v42u](https://aihot.virxact.com/items/cmrksgyym00utbi5qx5x6v42u)
+- **AIHOT 链接**: [https://aihot.news/items/cmrksgyym00utbi5qx5x6v42u](https://aihot.news/items/cmrksgyym00utbi5qx5x6v42u)

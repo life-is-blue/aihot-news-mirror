@@ -6,7 +6,7 @@
 "discovered_at": "2025-08-20T16:00:00.000Z"
 "source_name": "DeepSeek：API 更新日志"
 "original_url": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2025-08-21"
-"canonical_url": "https://aihot.virxact.com/items/cms8mb361000urof1vtf3w4jm"
+"canonical_url": "https://aihot.news/items/cms8mb361000urof1vtf3w4jm"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ DeepSeek-V3.1 正式发布，deepseek-chat 与 deepseek-reasoner 分别对应其
 
 - **来源**: DeepSeek：API 更新日志
 - **原文链接**: [https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2025-08-21](https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2025-08-21)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms8mb361000urof1vtf3w4jm](https://aihot.virxact.com/items/cms8mb361000urof1vtf3w4jm)
+- **AIHOT 链接**: [https://aihot.news/items/cms8mb361000urof1vtf3w4jm](https://aihot.news/items/cms8mb361000urof1vtf3w4jm)

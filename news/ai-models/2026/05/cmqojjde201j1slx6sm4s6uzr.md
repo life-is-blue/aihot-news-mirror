@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-25T07:25:28.000Z"
 "source_name": "蚂蚁 inclusionAI：GitHub 新仓库"
 "original_url": "https://github.com/inclusionAI/Sing-Guard"
-"canonical_url": "https://aihot.virxact.com/items/cmqojjde201j1slx6sm4s6uzr"
+"canonical_url": "https://aihot.news/items/cmqojjde201j1slx6sm4s6uzr"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ SingGuard 是蚂蚁 inclusionAI 开源的多模态安全护栏模型族，提供
 
 - **来源**: 蚂蚁 inclusionAI：GitHub 新仓库
 - **原文链接**: [https://github.com/inclusionAI/Sing-Guard](https://github.com/inclusionAI/Sing-Guard)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqojjde201j1slx6sm4s6uzr](https://aihot.virxact.com/items/cmqojjde201j1slx6sm4s6uzr)
+- **AIHOT 链接**: [https://aihot.news/items/cmqojjde201j1slx6sm4s6uzr](https://aihot.news/items/cmqojjde201j1slx6sm4s6uzr)

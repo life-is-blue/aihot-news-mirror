@@ -7,7 +7,7 @@
 "source_name": "Hacker News：AI 热帖"
 "original_url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive"
 "canonical_url": "https://aihot.news/items/cmu1amg9d06bbro7zn6v1kszh"
-"score": 83
+"score": 84
 "content_kind": "news"
 ---
 

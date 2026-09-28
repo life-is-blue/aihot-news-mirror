@@ -7,7 +7,7 @@
 "source_name": "公众号：数字生命卡兹克"
 "original_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647\
   685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6"
-"canonical_url": "https://aihot.virxact.com/items/cmtoba1tm047nroxh3vml7on9"
+"canonical_url": "https://aihot.news/items/cmtoba1tm047nroxh3vml7on9"
 "score": 77
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ GPT-6 Astra正式向所有订阅用户推送，作者实测后认为其综合能
 
 - **来源**: 公众号：数字生命卡兹克
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtoba1tm047nroxh3vml7on9](https://aihot.virxact.com/items/cmtoba1tm047nroxh3vml7on9)
+- **AIHOT 链接**: [https://aihot.news/items/cmtoba1tm047nroxh3vml7on9](https://aihot.news/items/cmtoba1tm047nroxh3vml7on9)

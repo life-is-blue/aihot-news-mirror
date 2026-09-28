@@ -1,23 +1,23 @@
 ---
-"title": "not getting into a philosophical debate， but this book really changed
-  how I see the topic and made m…"
+"title": "not getting into a philosophical debate, but this book really changed
+  how I see the topic and made m..."
 "aihot_id": "cmnz6dpf302aksl0fh5j5was5"
 "aihot_category": null
 "published_at": "2025-12-22T19:57:29.000Z"
 "discovered_at": "2025-12-22T19:57:29.000Z"
 "source_name": "X：谢赛宁 (@sainingxie)"
 "original_url": "https://x.com/sainingxie/status/2003193193656135855"
-"canonical_url": "https://aihot.virxact.com/items/cmnz6dpf302aksl0fh5j5was5"
+"canonical_url": "https://aihot.news/items/cmnz6dpf302aksl0fh5j5was5"
 "score": null
 "content_kind": "news"
 ---
 
-# not getting into a philosophical debate， but this book really changed how I see the topic and made m…
+# not getting into a philosophical debate, but this book really changed how I see the topic and made m...
 
 不想陷入哲学辩论，但这本书确实改变了我对这个话题的看法，让我更加谦逊。人类智能令人印象深刻，但称其为"通用"并不太客观。我的猫会不同意。
 在我看来，人类智能更应被视为社会驱动的认知适应，而且我们仍不理解、也远未用当前 AI 复现的智能领域还有巨大 WORLD。
 
-【引用 @demishassabis】：Yann 在这里完全错了，他把通用智能和 universal intelligence 混淆了。
+[引用 @demishassabis]：Yann 在这里完全错了，他把通用智能和 universal intelligence 混淆了。
 
 大脑是我们在宇宙中所知最精致、最复杂的现象（迄今为止），而且它们实际上极其通用。
 
@@ -29,4 +29,4 @@
 
 - **来源**: X：谢赛宁 (@sainingxie)
 - **原文链接**: [https://x.com/sainingxie/status/2003193193656135855](https://x.com/sainingxie/status/2003193193656135855)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnz6dpf302aksl0fh5j5was5](https://aihot.virxact.com/items/cmnz6dpf302aksl0fh5j5was5)
+- **AIHOT 链接**: [https://aihot.news/items/cmnz6dpf302aksl0fh5j5was5](https://aihot.news/items/cmnz6dpf302aksl0fh5j5was5)

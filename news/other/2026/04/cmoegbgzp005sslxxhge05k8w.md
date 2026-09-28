@@ -7,7 +7,7 @@
 "source_name": "Meta Engineering Blog（RSS）"
 "original_url": "https://engineering.fb.com/2026/04/02/developer-tools/kernelev\
   olve-how-metas-ranking-engineer-agent-optimizes-ai-infrastructure"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbgzp005sslxxhge05k8w"
+"canonical_url": "https://aihot.news/items/cmoegbgzp005sslxxhge05k8w"
 "score": 82
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Meta的Ranking Engineer Agent系列博客第二篇，聚焦其底层基础设施
 
 - **来源**: Meta Engineering Blog（RSS）
 - **原文链接**: [https://engineering.fb.com/2026/04/02/developer-tools/kernelevolve-how-metas-ranking-engineer-agent-optimizes-ai-infrastructure](https://engineering.fb.com/2026/04/02/developer-tools/kernelevolve-how-metas-ranking-engineer-agent-optimizes-ai-infrastructure)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbgzp005sslxxhge05k8w](https://aihot.virxact.com/items/cmoegbgzp005sslxxhge05k8w)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbgzp005sslxxhge05k8w](https://aihot.news/items/cmoegbgzp005sslxxhge05k8w)

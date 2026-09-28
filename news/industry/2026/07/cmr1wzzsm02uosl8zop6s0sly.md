@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro\
   -models-breaking-with-single-top-tier-strategy"
-"canonical_url": "https://aihot.virxact.com/items/cmr1wzzsm02uosl8zop6s0sly"
+"canonical_url": "https://aihot.news/items/cmr1wzzsm02uosl8zop6s0sly"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenAI论文首次列出GPT-5.6的三个Pro变体：Luna Pro、Terra Pro和Sol P
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy](https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr1wzzsm02uosl8zop6s0sly](https://aihot.virxact.com/items/cmr1wzzsm02uosl8zop6s0sly)
+- **AIHOT 链接**: [https://aihot.news/items/cmr1wzzsm02uosl8zop6s0sly](https://aihot.news/items/cmr1wzzsm02uosl8zop6s0sly)

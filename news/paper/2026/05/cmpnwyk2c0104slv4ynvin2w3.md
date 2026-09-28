@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-27T10:20:45.691Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2605.27295"
-"canonical_url": "https://aihot.virxact.com/items/cmpnwyk2c0104slv4ynvin2w3"
+"canonical_url": "https://aihot.news/items/cmpnwyk2c0104slv4ynvin2w3"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google DeepMind推出Gemini Embedding 2，这是一款原生多模态嵌入模�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2605.27295](https://arxiv.org/abs/2605.27295)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpnwyk2c0104slv4ynvin2w3](https://aihot.virxact.com/items/cmpnwyk2c0104slv4ynvin2w3)
+- **AIHOT 链接**: [https://aihot.news/items/cmpnwyk2c0104slv4ynvin2w3](https://aihot.news/items/cmpnwyk2c0104slv4ynvin2w3)

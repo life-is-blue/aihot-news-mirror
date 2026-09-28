@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-03T19:03:00.000Z"
 "source_name": "X：OpenAI (@OpenAI)"
 "original_url": "https://x.com/OpenAI/status/2028909019977703752"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yuaa0160slc3x92k7al0"
+"canonical_url": "https://aihot.news/items/cmnw1yuaa0160slc3x92k7al0"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：OpenAI (@OpenAI)
 - **原文链接**: [https://x.com/OpenAI/status/2028909019977703752](https://x.com/OpenAI/status/2028909019977703752)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yuaa0160slc3x92k7al0](https://aihot.virxact.com/items/cmnw1yuaa0160slc3x92k7al0)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yuaa0160slc3x92k7al0](https://aihot.news/items/cmnw1yuaa0160slc3x92k7al0)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-17T14:14:00.565Z"
 "source_name": "X：美团 LongCat (@Meituan_LongCat)"
 "original_url": "https://x.com/Meituan_LongCat/status/2078119654632124547"
-"canonical_url": "https://aihot.virxact.com/items/cmrp0qw3s090ybitorwj6diwi"
+"canonical_url": "https://aihot.news/items/cmrp0qw3s090ybitorwj6diwi"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：美团 LongCat (@Meituan_LongCat)
 - **原文链接**: [https://x.com/Meituan_LongCat/status/2078119654632124547](https://x.com/Meituan_LongCat/status/2078119654632124547)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrp0qw3s090ybitorwj6diwi](https://aihot.virxact.com/items/cmrp0qw3s090ybitorwj6diwi)
+- **AIHOT 链接**: [https://aihot.news/items/cmrp0qw3s090ybitorwj6diwi](https://aihot.news/items/cmrp0qw3s090ybitorwj6diwi)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-28T04:03:12.524Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://github.com/kageroumado/adrafinil"
-"canonical_url": "https://aihot.virxact.com/items/cmqx9k72u0425slp05ijlfezl"
+"canonical_url": "https://aihot.news/items/cmqx9k72u0425slp05ijlfezl"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Adrafinil 是一款 macOS 菜单栏应用，仅在 Claude Code、Codex、Cursor�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://github.com/kageroumado/adrafinil](https://github.com/kageroumado/adrafinil)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqx9k72u0425slp05ijlfezl](https://aihot.virxact.com/items/cmqx9k72u0425slp05ijlfezl)
+- **AIHOT 链接**: [https://aihot.news/items/cmqx9k72u0425slp05ijlfezl](https://aihot.news/items/cmqx9k72u0425slp05ijlfezl)

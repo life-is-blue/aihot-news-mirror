@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-03T21:58:48.901Z"
 "source_name": "Claude Code：GitHub Releases（RSS）"
 "original_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.162"
-"canonical_url": "https://aihot.virxact.com/items/cmpylz564016zsli3lkuy3oo0"
+"canonical_url": "https://aihot.news/items/cmpylz564016zsli3lkuy3oo0"
 "score": 59
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Code v2.1.162 发布，主要包含 Bug 修复和体验优化。`claude a
 
 - **来源**: Claude Code：GitHub Releases（RSS）
 - **原文链接**: [https://github.com/anthropics/claude-code/releases/tag/v2.1.162](https://github.com/anthropics/claude-code/releases/tag/v2.1.162)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpylz564016zsli3lkuy3oo0](https://aihot.virxact.com/items/cmpylz564016zsli3lkuy3oo0)
+- **AIHOT 链接**: [https://aihot.news/items/cmpylz564016zsli3lkuy3oo0](https://aihot.news/items/cmpylz564016zsli3lkuy3oo0)

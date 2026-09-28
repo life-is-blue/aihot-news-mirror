@@ -7,7 +7,7 @@
 "source_name": "X：OpenAI Developers (@OpenAIDevs)"
 "original_url": "https://x.com/OpenAIDevs/status/2097399255975813387"
 "canonical_url": "https://aihot.news/items/cmtt1vfws018zrowaez22xu5e"
-"score": 58
+"score": 59
 "content_kind": "news"
 ---
 

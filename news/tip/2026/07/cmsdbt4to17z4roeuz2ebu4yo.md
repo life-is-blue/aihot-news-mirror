@@ -7,7 +7,7 @@
 "source_name": "Google AI：DEV 作者专属（RSS）"
 "original_url": "https://dev.to/googleai/7-times-faster-and-cheaper-gemini-35-f\
   lash-lite-and-gemini-36-flash-in-google-cloud-databases-57lf"
-"canonical_url": "https://aihot.virxact.com/items/cmsdbt4to17z4roeuz2ebu4yo"
+"canonical_url": "https://aihot.news/items/cmsdbt4to17z4roeuz2ebu4yo"
 "score": 68
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google Cloud 数据库现已支持 Gemini 3.6 Flash，该模型知识截止日�
 
 - **来源**: Google AI：DEV 作者专属（RSS）
 - **原文链接**: [https://dev.to/googleai/7-times-faster-and-cheaper-gemini-35-flash-lite-and-gemini-36-flash-in-google-cloud-databases-57lf](https://dev.to/googleai/7-times-faster-and-cheaper-gemini-35-flash-lite-and-gemini-36-flash-in-google-cloud-databases-57lf)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdbt4to17z4roeuz2ebu4yo](https://aihot.virxact.com/items/cmsdbt4to17z4roeuz2ebu4yo)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdbt4to17z4roeuz2ebu4yo](https://aihot.news/items/cmsdbt4to17z4roeuz2ebu4yo)

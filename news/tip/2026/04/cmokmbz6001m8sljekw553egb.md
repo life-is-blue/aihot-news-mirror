@@ -7,7 +7,7 @@
 "source_name": "Google Research：Blog（网页）"
 "original_url": "https://research.google/blog/four-ways-google-research-scienti\
   sts-have-been-using-empirical-research-assistance"
-"canonical_url": "https://aihot.virxact.com/items/cmokmbz6001m8sljekw553egb"
+"canonical_url": "https://aihot.news/items/cmokmbz6001m8sljekw553egb"
 "score": 57
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Google Research：Blog（网页）
 - **原文链接**: [https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance](https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmokmbz6001m8sljekw553egb](https://aihot.virxact.com/items/cmokmbz6001m8sljekw553egb)
+- **AIHOT 链接**: [https://aihot.news/items/cmokmbz6001m8sljekw553egb](https://aihot.news/items/cmokmbz6001m8sljekw553egb)

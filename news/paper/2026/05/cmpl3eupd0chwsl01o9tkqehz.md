@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solv\
   es-decades-old-math-problems-for-a-few-hundred-dollars"
-"canonical_url": "https://aihot.virxact.com/items/cmpl3eupd0chwsl01o9tkqehz"
+"canonical_url": "https://aihot.news/items/cmpl3eupd0chwsl01o9tkqehz"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google DeepMind 的 AlphaProof Nexus 自主解决了 9 个开放的 Erdős 问�
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/google-deepminds-alphaproof-nexus-solves-decades-old-math-problems-for-a-few-hundred-dollars](https://the-decoder.com/google-deepminds-alphaproof-nexus-solves-decades-old-math-problems-for-a-few-hundred-dollars)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpl3eupd0chwsl01o9tkqehz](https://aihot.virxact.com/items/cmpl3eupd0chwsl01o9tkqehz)
+- **AIHOT 链接**: [https://aihot.news/items/cmpl3eupd0chwsl01o9tkqehz](https://aihot.news/items/cmpl3eupd0chwsl01o9tkqehz)

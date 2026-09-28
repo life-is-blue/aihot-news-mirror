@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-12T20:49:24.018Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos"
-"canonical_url": "https://aihot.virxact.com/items/cmqbegjf700snslamrczkovyv"
+"canonical_url": "https://aihot.news/items/cmqbegjf700snslamrczkovyv"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos](https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqbegjf700snslamrczkovyv](https://aihot.virxact.com/items/cmqbegjf700snslamrczkovyv)
+- **AIHOT 链接**: [https://aihot.news/items/cmqbegjf700snslamrczkovyv](https://aihot.news/items/cmqbegjf700snslamrczkovyv)

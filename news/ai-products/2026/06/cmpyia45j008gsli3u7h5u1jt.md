@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-03T20:15:22.420Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/organizations"
-"canonical_url": "https://aihot.virxact.com/items/cmpyia45j008gsli3u7h5u1jt"
+"canonical_url": "https://aihot.news/items/cmpyia45j008gsli3u7h5u1jt"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Cursor Enterprise 正式推出 Organizations 结构，允许企业在统一面�
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/organizations](https://cursor.com/blog/organizations)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpyia45j008gsli3u7h5u1jt](https://aihot.virxact.com/items/cmpyia45j008gsli3u7h5u1jt)
+- **AIHOT 链接**: [https://aihot.news/items/cmpyia45j008gsli3u7h5u1jt](https://aihot.news/items/cmpyia45j008gsli3u7h5u1jt)

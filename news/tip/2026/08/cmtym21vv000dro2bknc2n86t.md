@@ -7,7 +7,7 @@
 "source_name": "Together AI 研究与产品博客（RSS）"
 "original_url": "https://www.together.ai/blog/kimi-k3-guide"
 "canonical_url": "https://aihot.news/items/cmtym21vv000dro2bknc2n86t"
-"score": 81
+"score": 82
 "content_kind": "news"
 ---
 

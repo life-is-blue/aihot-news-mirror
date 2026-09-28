@@ -6,8 +6,8 @@
 "discovered_at": "2026-09-08T05:58:27.839Z"
 "source_name": "Mistral AI：News（网页）"
 "original_url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier"
-"canonical_url": "https://aihot.virxact.com/items/cmts9dr2m029hrobq86wrny37"
-"score": 72
+"canonical_url": "https://aihot.news/items/cmts9dr2m029hrobq86wrny37"
+"score": 73
 "content_kind": "news"
 ---
 
@@ -17,4 +17,4 @@ Mistral 宣布完成 30 亿欧元 D 轮融资，投后估值超过 210 亿欧元
 
 - **来源**: Mistral AI：News（网页）
 - **原文链接**: [https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmts9dr2m029hrobq86wrny37](https://aihot.virxact.com/items/cmts9dr2m029hrobq86wrny37)
+- **AIHOT 链接**: [https://aihot.news/items/cmts9dr2m029hrobq86wrny37](https://aihot.news/items/cmts9dr2m029hrobq86wrny37)

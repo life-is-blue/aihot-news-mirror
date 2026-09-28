@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-08T16:54:46.730Z"
 "source_name": "X：Perplexity (@perplexity_ai)"
 "original_url": "https://x.com/perplexity_ai/status/2052786858774630665"
-"canonical_url": "https://aihot.virxact.com/items/cmox5o2ra00cxsl5shmovcf65"
+"canonical_url": "https://aihot.news/items/cmox5o2ra00cxsl5shmovcf65"
 "score": 78
 "content_kind": "news"
 ---
@@ -20,4 +20,4 @@ https://research.perplexity.ai/articles/designing-refining-and-maintaining-agent
 
 - **来源**: X：Perplexity (@perplexity_ai)
 - **原文链接**: [https://x.com/perplexity_ai/status/2052786858774630665](https://x.com/perplexity_ai/status/2052786858774630665)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmox5o2ra00cxsl5shmovcf65](https://aihot.virxact.com/items/cmox5o2ra00cxsl5shmovcf65)
+- **AIHOT 链接**: [https://aihot.news/items/cmox5o2ra00cxsl5shmovcf65](https://aihot.news/items/cmox5o2ra00cxsl5shmovcf65)

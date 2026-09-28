@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-28T20:42:43.993Z"
 "source_name": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
 "original_url": "https://x.com/ClementDelangue/status/2082201245813514613"
-"canonical_url": "https://aihot.virxact.com/items/cms54h60d003troehb9tvgl3z"
+"canonical_url": "https://aihot.news/items/cms54h60d003troehb9tvgl3z"
 "score": 83
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ https://huggingface.co/blog/agent-intrusion-technical-timeline
 
 - **来源**: X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)
 - **原文链接**: [https://x.com/ClementDelangue/status/2082201245813514613](https://x.com/ClementDelangue/status/2082201245813514613)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms54h60d003troehb9tvgl3z](https://aihot.virxact.com/items/cms54h60d003troehb9tvgl3z)
+- **AIHOT 链接**: [https://aihot.news/items/cms54h60d003troehb9tvgl3z](https://aihot.news/items/cms54h60d003troehb9tvgl3z)

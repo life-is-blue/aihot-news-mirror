@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-26T16:00:00.000Z"
 "source_name": "MiniMax：Blog（网页）"
 "original_url": "https://www.minimax.io/blog/minimax-agent-team-long-running-1779893953"
-"canonical_url": "https://aihot.virxact.com/items/cmpunu0g50003slbr6n7p2gqa"
+"canonical_url": "https://aihot.news/items/cmpunu0g50003slbr6n7p2gqa"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ MiniMax对其Agent Team进行了整体升级并更名为Mavis。本次更新的�
 
 - **来源**: MiniMax：Blog（网页）
 - **原文链接**: [https://www.minimax.io/blog/minimax-agent-team-long-running-1779893953](https://www.minimax.io/blog/minimax-agent-team-long-running-1779893953)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpunu0g50003slbr6n7p2gqa](https://aihot.virxact.com/items/cmpunu0g50003slbr6n7p2gqa)
+- **AIHOT 链接**: [https://aihot.news/items/cmpunu0g50003slbr6n7p2gqa](https://aihot.news/items/cmpunu0g50003slbr6n7p2gqa)

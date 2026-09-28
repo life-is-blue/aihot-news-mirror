@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-05T04:16:38.131Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/openai-pwc-finance-collaboration"
-"canonical_url": "https://aihot.virxact.com/items/cmos49izq04u8slrj0fixm8tb"
+"canonical_url": "https://aihot.news/items/cmos49izq04u8slrj0fixm8tb"
 "score": 62
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 与普华永道宣布合作，旨在通过AI智能体帮助企业自动�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/openai-pwc-finance-collaboration](https://openai.com/index/openai-pwc-finance-collaboration)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmos49izq04u8slrj0fixm8tb](https://aihot.virxact.com/items/cmos49izq04u8slrj0fixm8tb)
+- **AIHOT 链接**: [https://aihot.news/items/cmos49izq04u8slrj0fixm8tb](https://aihot.news/items/cmos49izq04u8slrj0fixm8tb)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-09T14:33:44.761Z"
 "source_name": "Mistral AI：News（网页）"
 "original_url": "https://mistral.ai/news/manage-prompts-and-skills-in-studio"
-"canonical_url": "https://aihot.virxact.com/items/cmrdlxidv0522ih4b6xv8iolk"
+"canonical_url": "https://aihot.news/items/cmrdlxidv0522ih4b6xv8iolk"
 "score": 55
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Mistral 今日推出 Studio，为 AI 提示词和技能提供集中式系统记�
 
 - **来源**: Mistral AI：News（网页）
 - **原文链接**: [https://mistral.ai/news/manage-prompts-and-skills-in-studio](https://mistral.ai/news/manage-prompts-and-skills-in-studio)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrdlxidv0522ih4b6xv8iolk](https://aihot.virxact.com/items/cmrdlxidv0522ih4b6xv8iolk)
+- **AIHOT 链接**: [https://aihot.news/items/cmrdlxidv0522ih4b6xv8iolk](https://aihot.news/items/cmrdlxidv0522ih4b6xv8iolk)

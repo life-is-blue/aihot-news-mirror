@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-06T19:50:04.457Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2"
-"canonical_url": "https://aihot.virxact.com/items/cmq2rp55c00hlsl97h98gkd14"
+"canonical_url": "https://aihot.news/items/cmq2rp55c00hlsl97h98gkd14"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Thousand Token Wood v2使用四个不同实验室的小模型（gpt-oss-20b、Mi
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq2rp55c00hlsl97h98gkd14](https://aihot.virxact.com/items/cmq2rp55c00hlsl97h98gkd14)
+- **AIHOT 链接**: [https://aihot.news/items/cmq2rp55c00hlsl97h98gkd14](https://aihot.news/items/cmq2rp55c00hlsl97h98gkd14)

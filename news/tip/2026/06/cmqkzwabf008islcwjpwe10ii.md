@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-19T13:59:26.179Z"
 "source_name": "Nathan Lambert：Interconnects（RSS）"
 "original_url": "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a"
-"canonical_url": "https://aihot.virxact.com/items/cmqkzwabf008islcwjpwe10ii"
+"canonical_url": "https://aihot.news/items/cmqkzwabf008islcwjpwe10ii"
 "score": 56
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Nathan Lambert：Interconnects（RSS）
 - **原文链接**: [https://www.interconnects.ai/p/banning-open-source-ai-would-be-a](https://www.interconnects.ai/p/banning-open-source-ai-would-be-a)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqkzwabf008islcwjpwe10ii](https://aihot.virxact.com/items/cmqkzwabf008islcwjpwe10ii)
+- **AIHOT 链接**: [https://aihot.news/items/cmqkzwabf008islcwjpwe10ii](https://aihot.news/items/cmqkzwabf008islcwjpwe10ii)

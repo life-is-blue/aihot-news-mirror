@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-26T00:00:00.000Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/real-time-rl-for-composer"
-"canonical_url": "https://aihot.virxact.com/items/cmosbbgu40077slojavnrbfuj"
+"canonical_url": "https://aihot.news/items/cmosbbgu40077slojavnrbfuj"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Cursor团队将实时强化学习技术应用于Composer编码模型，利用真
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/real-time-rl-for-composer](https://cursor.com/blog/real-time-rl-for-composer)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmosbbgu40077slojavnrbfuj](https://aihot.virxact.com/items/cmosbbgu40077slojavnrbfuj)
+- **AIHOT 链接**: [https://aihot.news/items/cmosbbgu40077slojavnrbfuj](https://aihot.news/items/cmosbbgu40077slojavnrbfuj)

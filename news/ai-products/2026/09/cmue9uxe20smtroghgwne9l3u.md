@@ -7,7 +7,7 @@
 "source_name": "vLLM 官方博客（RSS）"
 "original_url": "https://vllm.ai/blog/2026-09-22-vllm-metal-v0-28-0"
 "canonical_url": "https://aihot.news/items/cmue9uxe20smtroghgwne9l3u"
-"score": 73
+"score": 74
 "content_kind": "news"
 ---
 

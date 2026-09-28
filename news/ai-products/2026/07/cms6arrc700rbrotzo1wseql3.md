@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-29T16:26:41.196Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://github.com/drumih/turbo-fieldfare"
-"canonical_url": "https://aihot.virxact.com/items/cms6arrc700rbrotzo1wseql3"
+"canonical_url": "https://aihot.news/items/cms6arrc700rbrotzo1wseql3"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://github.com/drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms6arrc700rbrotzo1wseql3](https://aihot.virxact.com/items/cms6arrc700rbrotzo1wseql3)
+- **AIHOT 链接**: [https://aihot.news/items/cms6arrc700rbrotzo1wseql3](https://aihot.news/items/cms6arrc700rbrotzo1wseql3)

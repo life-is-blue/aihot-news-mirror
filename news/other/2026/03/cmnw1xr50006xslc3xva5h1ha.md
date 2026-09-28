@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-24T09:00:00.000Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/powering-product-discovery-in-chatgpt"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xr50006xslc3xva5h1ha"
+"canonical_url": "https://aihot.news/items/cmnw1xr50006xslc3xva5h1ha"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ ChatGPT 上线基于 Agentic Commerce Protocol 的全新购物功能，提供更
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/powering-product-discovery-in-chatgpt](https://openai.com/index/powering-product-discovery-in-chatgpt)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xr50006xslc3xva5h1ha](https://aihot.virxact.com/items/cmnw1xr50006xslc3xva5h1ha)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xr50006xslc3xva5h1ha](https://aihot.news/items/cmnw1xr50006xslc3xva5h1ha)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-21T16:05:30.181Z"
 "source_name": "X：Replit (@Replit)"
 "original_url": "https://x.com/Replit/status/2057491954825674942"
-"canonical_url": "https://aihot.virxact.com/items/cmpfomtzp0898sljw1vinxid3"
+"canonical_url": "https://aihot.news/items/cmpfomtzp0898sljw1vinxid3"
 "score": 73
 "content_kind": "news"
 ---
@@ -15,13 +15,13 @@
 
 Replit Enterprise现已支持自助服务！
 
-几分钟内即可：
-- 购买Replit Enterprise
-- 配置SSO + SCIM
-- 与团队开始协作开发
+几分钟内即可：  
+- 购买Replit Enterprise  
+- 配置SSO + SCIM  
+- 与团队开始协作开发  
 
 无需合同谈判，无需等待。
 
 - **来源**: X：Replit (@Replit)
 - **原文链接**: [https://x.com/Replit/status/2057491954825674942](https://x.com/Replit/status/2057491954825674942)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpfomtzp0898sljw1vinxid3](https://aihot.virxact.com/items/cmpfomtzp0898sljw1vinxid3)
+- **AIHOT 链接**: [https://aihot.news/items/cmpfomtzp0898sljw1vinxid3](https://aihot.news/items/cmpfomtzp0898sljw1vinxid3)

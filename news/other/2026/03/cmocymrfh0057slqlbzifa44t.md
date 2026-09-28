@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-30T03:25:12.000Z"
 "source_name": "美团 LongCat：HuggingFace 新模型"
 "original_url": "https://huggingface.co/meituan-longcat/LongCat-AudioDiT-1B"
-"canonical_url": "https://aihot.virxact.com/items/cmocymrfh0057slqlbzifa44t"
+"canonical_url": "https://aihot.news/items/cmocymrfh0057slqlbzifa44t"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: 美团 LongCat：HuggingFace 新模型
 - **原文链接**: [https://huggingface.co/meituan-longcat/LongCat-AudioDiT-1B](https://huggingface.co/meituan-longcat/LongCat-AudioDiT-1B)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmocymrfh0057slqlbzifa44t](https://aihot.virxact.com/items/cmocymrfh0057slqlbzifa44t)
+- **AIHOT 链接**: [https://aihot.news/items/cmocymrfh0057slqlbzifa44t](https://aihot.news/items/cmocymrfh0057slqlbzifa44t)

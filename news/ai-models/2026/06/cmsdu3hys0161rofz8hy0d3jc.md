@@ -7,7 +7,7 @@
 "source_name": "公众号：MiniMax（稀宇科技）"
 "original_url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247\
   488528&idx=1&sn=1093c7eca0f891c923fa66d4f00d23db"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu3hys0161rofz8hy0d3jc"
+"canonical_url": "https://aihot.news/items/cmsdu3hys0161rofz8hy0d3jc"
 "score": 78
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ MiniMax 发布 M3 模型，采用全新稀疏注意力架构 MSA，支持 1M 上
 
 - **来源**: 公众号：MiniMax（稀宇科技）
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247488528&idx=1&sn=1093c7eca0f891c923fa66d4f00d23db](https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247488528&idx=1&sn=1093c7eca0f891c923fa66d4f00d23db)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu3hys0161rofz8hy0d3jc](https://aihot.virxact.com/items/cmsdu3hys0161rofz8hy0d3jc)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu3hys0161rofz8hy0d3jc](https://aihot.news/items/cmsdu3hys0161rofz8hy0d3jc)

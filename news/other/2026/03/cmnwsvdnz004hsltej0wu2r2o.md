@@ -7,7 +7,7 @@
 "source_name": "Google Research：Blog（网页）"
 "original_url": "https://research.google/blog/vibe-coding-xr-accelerating-ai-xr\
   -prototyping-with-xr-blocks-and-gemini"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsvdnz004hsltej0wu2r2o"
+"canonical_url": "https://aihot.news/items/cmnwsvdnz004hsltej0wu2r2o"
 "score": null
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google XR 团队推出 Vibe Coding XR 工作流，结合 Gemini Canvas 与开源
 
 - **来源**: Google Research：Blog（网页）
 - **原文链接**: [https://research.google/blog/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini](https://research.google/blog/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsvdnz004hsltej0wu2r2o](https://aihot.virxact.com/items/cmnwsvdnz004hsltej0wu2r2o)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsvdnz004hsltej0wu2r2o](https://aihot.news/items/cmnwsvdnz004hsltej0wu2r2o)

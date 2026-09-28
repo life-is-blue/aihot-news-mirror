@@ -7,7 +7,7 @@
 "source_name": "LlamaIndex：产品、工程与评测"
 "original_url": "https://www.llamaindex.ai/blog/llamaindex-is-more-than-a-rag-framework"
 "canonical_url": "https://aihot.news/items/cmtyo0cic035erog024rqyo6t"
-"score": 60
+"score": 61
 "content_kind": "news"
 ---
 

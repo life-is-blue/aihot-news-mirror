@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-26T10:13:50.860Z"
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/0/955/563.htm"
-"canonical_url": "https://aihot.virxact.com/items/cmpmh9qz30oonsl01ee1xgzlj"
+"canonical_url": "https://aihot.news/items/cmpmh9qz30oonsl01ee1xgzlj"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Uber 在 2026 年仅过去四个月就耗尽全年人工智能预算，总裁兼
 
 - **来源**: IT之家（RSS）
 - **原文链接**: [https://www.ithome.com/0/955/563.htm](https://www.ithome.com/0/955/563.htm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpmh9qz30oonsl01ee1xgzlj](https://aihot.virxact.com/items/cmpmh9qz30oonsl01ee1xgzlj)
+- **AIHOT 链接**: [https://aihot.news/items/cmpmh9qz30oonsl01ee1xgzlj](https://aihot.news/items/cmpmh9qz30oonsl01ee1xgzlj)

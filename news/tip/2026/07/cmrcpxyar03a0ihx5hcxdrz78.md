@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-08T23:38:20.484Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://www.tomtunguz.com/the-ai-preflight-check"
-"canonical_url": "https://aihot.virxact.com/items/cmrcpxyar03a0ihx5hcxdrz78"
+"canonical_url": "https://aihot.news/items/cmrcpxyar03a0ihx5hcxdrz78"
 "score": 57
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://www.tomtunguz.com/the-ai-preflight-check](https://www.tomtunguz.com/the-ai-preflight-check)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrcpxyar03a0ihx5hcxdrz78](https://aihot.virxact.com/items/cmrcpxyar03a0ihx5hcxdrz78)
+- **AIHOT 链接**: [https://aihot.news/items/cmrcpxyar03a0ihx5hcxdrz78](https://aihot.news/items/cmrcpxyar03a0ihx5hcxdrz78)

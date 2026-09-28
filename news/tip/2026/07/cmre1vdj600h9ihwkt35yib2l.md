@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-09T22:00:01.806Z"
 "source_name": "TechCrunch：AI（RSS）"
 "original_url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question"
-"canonical_url": "https://aihot.virxact.com/items/cmre1vdj600h9ihwkt35yib2l"
+"canonical_url": "https://aihot.news/items/cmre1vdj600h9ihwkt35yib2l"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Sequoia 合伙人 David Cahn 更新 AI 基础设施支出估算：2026 年全球
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question](https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmre1vdj600h9ihwkt35yib2l](https://aihot.virxact.com/items/cmre1vdj600h9ihwkt35yib2l)
+- **AIHOT 链接**: [https://aihot.news/items/cmre1vdj600h9ihwkt35yib2l](https://aihot.news/items/cmre1vdj600h9ihwkt35yib2l)

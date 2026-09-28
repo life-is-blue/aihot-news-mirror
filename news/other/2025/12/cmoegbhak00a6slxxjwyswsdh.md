@@ -6,7 +6,7 @@
 "discovered_at": "2025-12-05T00:00:00.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/swift-huggingface"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhak00a6slxxjwyswsdh"
+"canonical_url": "https://aihot.news/items/cmoegbhak00a6slxxjwyswsdh"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ swift-huggingface 是一个全新的 Swift 客户端，旨在彻底解决旧库�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/swift-huggingface](https://huggingface.co/blog/swift-huggingface)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhak00a6slxxjwyswsdh](https://aihot.virxact.com/items/cmoegbhak00a6slxxjwyswsdh)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhak00a6slxxjwyswsdh](https://aihot.news/items/cmoegbhak00a6slxxjwyswsdh)

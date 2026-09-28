@@ -6,7 +6,7 @@
 "discovered_at": "2025-11-02T16:00:00.000Z"
 "source_name": "LMSYS：Blog（Chatbot Arena 团队）"
 "original_url": "https://www.lmsys.org/blog/2025-11-03-gpt-oss-on-nvidia-dgx-spark"
-"canonical_url": "https://aihot.virxact.com/items/cmnxbjke50071sln0fe680fef"
+"canonical_url": "https://aihot.news/items/cmnxbjke50071sln0fe680fef"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: LMSYS：Blog（Chatbot Arena 团队）
 - **原文链接**: [https://www.lmsys.org/blog/2025-11-03-gpt-oss-on-nvidia-dgx-spark](https://www.lmsys.org/blog/2025-11-03-gpt-oss-on-nvidia-dgx-spark)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnxbjke50071sln0fe680fef](https://aihot.virxact.com/items/cmnxbjke50071sln0fe680fef)
+- **AIHOT 链接**: [https://aihot.news/items/cmnxbjke50071sln0fe680fef](https://aihot.news/items/cmnxbjke50071sln0fe680fef)

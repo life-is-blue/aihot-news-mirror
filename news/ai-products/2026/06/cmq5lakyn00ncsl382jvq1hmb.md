@@ -7,7 +7,7 @@
 "source_name": "Apple：Newsroom（RSS）"
 "original_url": "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-a\
   i-a-profoundly-more-capable-and-personal-assistant"
-"canonical_url": "https://aihot.virxact.com/items/cmq5lakyn00ncsl382jvq1hmb"
+"canonical_url": "https://aihot.news/items/cmq5lakyn00ncsl382jvq1hmb"
 "score": 66
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Apple 发布了 Siri AI，一款由 Apple Intelligence 驱动的个人助理，�
 
 - **来源**: Apple：Newsroom（RSS）
 - **原文链接**: [https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant](https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq5lakyn00ncsl382jvq1hmb](https://aihot.virxact.com/items/cmq5lakyn00ncsl382jvq1hmb)
+- **AIHOT 链接**: [https://aihot.news/items/cmq5lakyn00ncsl382jvq1hmb](https://aihot.news/items/cmq5lakyn00ncsl382jvq1hmb)

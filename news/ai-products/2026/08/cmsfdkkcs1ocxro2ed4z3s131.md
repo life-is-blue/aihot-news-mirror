@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-05T00:55:01.452Z"
 "source_name": "Simon Willison 博客"
 "original_url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm"
-"canonical_url": "https://aihot.virxact.com/items/cmsfdkkcs1ocxro2ed4z3s131"
+"canonical_url": "https://aihot.news/items/cmsfdkkcs1ocxro2ed4z3s131"
 "score": 79
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Simon Willison 发布 LLM 0.32，这是该项目自启动以来最重要的新�
 
 - **来源**: Simon Willison 博客
 - **原文链接**: [https://simonwillison.net/2026/Aug/4/new-release-of-llm](https://simonwillison.net/2026/Aug/4/new-release-of-llm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsfdkkcs1ocxro2ed4z3s131](https://aihot.virxact.com/items/cmsfdkkcs1ocxro2ed4z3s131)
+- **AIHOT 链接**: [https://aihot.news/items/cmsfdkkcs1ocxro2ed4z3s131](https://aihot.news/items/cmsfdkkcs1ocxro2ed4z3s131)

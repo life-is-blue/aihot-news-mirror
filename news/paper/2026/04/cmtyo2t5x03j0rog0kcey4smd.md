@@ -7,7 +7,7 @@
 "source_name": "Epoch AI：研究、数据与评测"
 "original_url": "https://epoch.ai/data/ai-chip-components-documentation/methodology"
 "canonical_url": "https://aihot.news/items/cmtyo2t5x03j0rog0kcey4smd"
-"score": 61
+"score": 62
 "content_kind": "news"
 ---
 

@@ -6,7 +6,7 @@
 "discovered_at": "2026-02-25T10:02:45.000Z"
 "source_name": "Hacker News：AI 热帖"
 "original_url": "https://llmskirmish.com/"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1z0iz023oslc3xuv89mjk"
+"canonical_url": "https://aihot.news/items/cmnw1z0iz023oslc3xuv89mjk"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ LLM Skirmish 是一个让大语言模型通过编写代码进行1v1实时战略�
 
 - **来源**: Hacker News：AI 热帖
 - **原文链接**: [https://llmskirmish.com/](https://llmskirmish.com/)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1z0iz023oslc3xuv89mjk](https://aihot.virxact.com/items/cmnw1z0iz023oslc3xuv89mjk)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1z0iz023oslc3xuv89mjk](https://aihot.news/items/cmnw1z0iz023oslc3xuv89mjk)

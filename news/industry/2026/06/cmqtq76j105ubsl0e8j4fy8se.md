@@ -8,7 +8,7 @@
 "original_url": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-gene\
   ral-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-wor\
   ld"
-"canonical_url": "https://aihot.virxact.com/items/cmqtq76j105ubsl0e8j4fy8se"
+"canonical_url": "https://aihot.news/items/cmqtq76j105ubsl0e8j4fy8se"
 "score": 71
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ General Intuition 以 23 亿美元估值完成 3.2 亿美元融资，累计披�
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world](https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqtq76j105ubsl0e8j4fy8se](https://aihot.virxact.com/items/cmqtq76j105ubsl0e8j4fy8se)
+- **AIHOT 链接**: [https://aihot.news/items/cmqtq76j105ubsl0e8j4fy8se](https://aihot.news/items/cmqtq76j105ubsl0e8j4fy8se)

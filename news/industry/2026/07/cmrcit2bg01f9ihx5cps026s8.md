@@ -7,7 +7,7 @@
 "source_name": "Ars Technica：AI（RSS）"
 "original_url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-\
   made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt"
-"canonical_url": "https://aihot.virxact.com/items/cmrcit2bg01f9ihx5cps026s8"
+"canonical_url": "https://aihot.news/items/cmrcit2bg01f9ihx5cps026s8"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Ars Technica：AI（RSS）
 - **原文链接**: [https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt](https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrcit2bg01f9ihx5cps026s8](https://aihot.virxact.com/items/cmrcit2bg01f9ihx5cps026s8)
+- **AIHOT 链接**: [https://aihot.news/items/cmrcit2bg01f9ihx5cps026s8](https://aihot.news/items/cmrcit2bg01f9ihx5cps026s8)

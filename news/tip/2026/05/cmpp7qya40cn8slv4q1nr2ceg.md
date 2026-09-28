@@ -8,7 +8,7 @@
 "original_url": "https://www.marktechpost.com/2026/05/28/a-coding-guide-to-impl\
   ement-a-pgvector-powered-semantic-hybrid-sparse-and-quantized-vector-search-s\
   ystem"
-"canonical_url": "https://aihot.virxact.com/items/cmpp7qya40cn8slv4q1nr2ceg"
+"canonical_url": "https://aihot.news/items/cmpp7qya40cn8slv4q1nr2ceg"
 "score": 70
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/05/28/a-coding-guide-to-implement-a-pgvector-powered-semantic-hybrid-sparse-and-quantized-vector-search-system](https://www.marktechpost.com/2026/05/28/a-coding-guide-to-implement-a-pgvector-powered-semantic-hybrid-sparse-and-quantized-vector-search-system)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpp7qya40cn8slv4q1nr2ceg](https://aihot.virxact.com/items/cmpp7qya40cn8slv4q1nr2ceg)
+- **AIHOT 链接**: [https://aihot.news/items/cmpp7qya40cn8slv4q1nr2ceg](https://aihot.news/items/cmpp7qya40cn8slv4q1nr2ceg)

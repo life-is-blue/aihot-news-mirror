@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-18T15:52:45.723Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers"
-"canonical_url": "https://aihot.virxact.com/items/cmpbdurfq16k7slnzyvoy9g0z"
+"canonical_url": "https://aihot.news/items/cmpbdurfq16k7slnzyvoy9g0z"
 "score": 68
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ PaddleOCR 发布 3.5 版本，正式将 Transformers 确立为运行 PP-OCRv5 �
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers](https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpbdurfq16k7slnzyvoy9g0z](https://aihot.virxact.com/items/cmpbdurfq16k7slnzyvoy9g0z)
+- **AIHOT 链接**: [https://aihot.news/items/cmpbdurfq16k7slnzyvoy9g0z](https://aihot.news/items/cmpbdurfq16k7slnzyvoy9g0z)

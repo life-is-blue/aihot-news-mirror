@@ -8,7 +8,7 @@
 "original_url": "https://www.marktechpost.com/2026/06/24/dflash-speculative-dec\
   oding-drafts-whole-token-blocks-in-parallel-for-up-to-15x-higher-throughput-o\
   n-nvidia-blackwell"
-"canonical_url": "https://aihot.virxact.com/items/cmqrrgnay0n08slp5phvdk394"
+"canonical_url": "https://aihot.news/items/cmqrrgnay0n08slp5phvdk394"
 "score": 74
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ DFlash 由 UC San Diego 团队提出，是一种用于投机解码的轻量块�
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/06/24/dflash-speculative-decoding-drafts-whole-token-blocks-in-parallel-for-up-to-15x-higher-throughput-on-nvidia-blackwell](https://www.marktechpost.com/2026/06/24/dflash-speculative-decoding-drafts-whole-token-blocks-in-parallel-for-up-to-15x-higher-throughput-on-nvidia-blackwell)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqrrgnay0n08slp5phvdk394](https://aihot.virxact.com/items/cmqrrgnay0n08slp5phvdk394)
+- **AIHOT 链接**: [https://aihot.news/items/cmqrrgnay0n08slp5phvdk394](https://aihot.news/items/cmqrrgnay0n08slp5phvdk394)

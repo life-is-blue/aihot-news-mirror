@@ -7,7 +7,7 @@
 "source_name": "公众号：数字生命卡兹克"
 "original_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647\
   684857&idx=1&sn=03c84df8bc0389c4ceb8f50f6c0015e3"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu10dl00vwrofzxoufabkl"
+"canonical_url": "https://aihot.news/items/cmsdu10dl00vwrofzxoufabkl"
 "score": 69
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ MiniMax 发布 AI 视频模型 H3，并宣布开源。该模型主打视觉包�
 
 - **来源**: 公众号：数字生命卡兹克
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684857&idx=1&sn=03c84df8bc0389c4ceb8f50f6c0015e3](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684857&idx=1&sn=03c84df8bc0389c4ceb8f50f6c0015e3)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu10dl00vwrofzxoufabkl](https://aihot.virxact.com/items/cmsdu10dl00vwrofzxoufabkl)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu10dl00vwrofzxoufabkl](https://aihot.news/items/cmsdu10dl00vwrofzxoufabkl)

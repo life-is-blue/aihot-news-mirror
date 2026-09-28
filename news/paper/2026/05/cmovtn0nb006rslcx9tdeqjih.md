@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-07T18:30:18.964Z"
 "source_name": "OpenAI：Alignment 研究博客（RSS）"
 "original_url": "https://alignment.openai.com/accidental-cot-grading"
-"canonical_url": "https://aihot.virxact.com/items/cmovtn0nb006rslcx9tdeqjih"
+"canonical_url": "https://aihot.news/items/cmovtn0nb006rslcx9tdeqjih"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: OpenAI：Alignment 研究博客（RSS）
 - **原文链接**: [https://alignment.openai.com/accidental-cot-grading](https://alignment.openai.com/accidental-cot-grading)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmovtn0nb006rslcx9tdeqjih](https://aihot.virxact.com/items/cmovtn0nb006rslcx9tdeqjih)
+- **AIHOT 链接**: [https://aihot.news/items/cmovtn0nb006rslcx9tdeqjih](https://aihot.news/items/cmovtn0nb006rslcx9tdeqjih)

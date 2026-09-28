@@ -6,7 +6,7 @@
 "discovered_at": "2025-01-29T16:15:09.000Z"
 "source_name": "X：Dario Amodei (@DarioAmodei)"
 "original_url": "https://x.com/DarioAmodei/status/1884636410839535967"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yogb00gpslc3olu3ai1a"
+"canonical_url": "https://aihot.news/items/cmnw1yogb00gpslc3olu3ai1a"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Dario Amodei 针对 DeepSeek 事件评析对华 AI 出口管制政策，指出�
 
 - **来源**: X：Dario Amodei (@DarioAmodei)
 - **原文链接**: [https://x.com/DarioAmodei/status/1884636410839535967](https://x.com/DarioAmodei/status/1884636410839535967)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yogb00gpslc3olu3ai1a](https://aihot.virxact.com/items/cmnw1yogb00gpslc3olu3ai1a)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yogb00gpslc3olu3ai1a](https://aihot.news/items/cmnw1yogb00gpslc3olu3ai1a)

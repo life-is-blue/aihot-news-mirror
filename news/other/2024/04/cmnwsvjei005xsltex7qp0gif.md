@@ -6,7 +6,7 @@
 "discovered_at": "2024-05-25T16:00:00.000Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-1.5v"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsvjei005xsltex7qp0gif"
+"canonical_url": "https://aihot.news/items/cmnwsvjei005xsltex7qp0gif"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI 发布 Grok-1.5 Vision 预览版，新增视觉理解能力，可处理图�
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-1.5v](https://x.ai/news/grok-1.5v)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsvjei005xsltex7qp0gif](https://aihot.virxact.com/items/cmnwsvjei005xsltex7qp0gif)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsvjei005xsltex7qp0gif](https://aihot.news/items/cmnwsvjei005xsltex7qp0gif)

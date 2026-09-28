@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-30T17:28:01.400Z"
 "source_name": "X：Claude (@claudeai)"
 "original_url": "https://x.com/claudeai/status/2072002740830842899"
-"canonical_url": "https://aihot.virxact.com/items/cmr0x6w9l0019slb3jnckkfm3"
+"canonical_url": "https://aihot.news/items/cmr0x6w9l0019slb3jnckkfm3"
 "score": 76
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@
 
 - **来源**: X：Claude (@claudeai)
 - **原文链接**: [https://x.com/claudeai/status/2072002740830842899](https://x.com/claudeai/status/2072002740830842899)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr0x6w9l0019slb3jnckkfm3](https://aihot.virxact.com/items/cmr0x6w9l0019slb3jnckkfm3)
+- **AIHOT 链接**: [https://aihot.news/items/cmr0x6w9l0019slb3jnckkfm3](https://aihot.news/items/cmr0x6w9l0019slb3jnckkfm3)

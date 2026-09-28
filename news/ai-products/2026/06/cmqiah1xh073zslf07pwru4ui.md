@@ -7,7 +7,7 @@
 "source_name": "TechCrunch：AI（RSS）"
 "original_url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-rei\
   nvent-the-smart-home-speaker"
-"canonical_url": "https://aihot.virxact.com/items/cmqiah1xh073zslf07pwru4ui"
+"canonical_url": "https://aihot.news/items/cmqiah1xh073zslf07pwru4ui"
 "score": 76
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google推出首款专为Gemini打造的智能音箱Google Home Speaker，售价9
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker](https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqiah1xh073zslf07pwru4ui](https://aihot.virxact.com/items/cmqiah1xh073zslf07pwru4ui)
+- **AIHOT 链接**: [https://aihot.news/items/cmqiah1xh073zslf07pwru4ui](https://aihot.news/items/cmqiah1xh073zslf07pwru4ui)

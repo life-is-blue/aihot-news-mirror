@@ -7,7 +7,7 @@
 "source_name": "Apple Machine Learning Research（RSS）"
 "original_url": "https://machinelearning.apple.com/research/introducing-third-g\
   eneration-of-apple-foundation-models"
-"canonical_url": "https://aihot.virxact.com/items/cmq5pmqqc0166sl5icnriem6v"
+"canonical_url": "https://aihot.news/items/cmq5pmqqc0166sl5icnriem6v"
 "score": 79
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Apple Machine Learning Research（RSS）
 - **原文链接**: [https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models](https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq5pmqqc0166sl5icnriem6v](https://aihot.virxact.com/items/cmq5pmqqc0166sl5icnriem6v)
+- **AIHOT 链接**: [https://aihot.news/items/cmq5pmqqc0166sl5icnriem6v](https://aihot.news/items/cmq5pmqqc0166sl5icnriem6v)

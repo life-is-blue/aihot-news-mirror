@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-23T07:13:17.759Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2606.22778"
-"canonical_url": "https://aihot.virxact.com/items/cmqqb5ey4088oslp5vvpveegf"
+"canonical_url": "https://aihot.news/items/cmqqb5ey4088oslp5vvpveegf"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ HAKARI-Bench 是一个轻量级检索基准，将现有检索套件重建为小�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2606.22778](https://arxiv.org/abs/2606.22778)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqqb5ey4088oslp5vvpveegf](https://aihot.virxact.com/items/cmqqb5ey4088oslp5vvpveegf)
+- **AIHOT 链接**: [https://aihot.news/items/cmqqb5ey4088oslp5vvpveegf](https://aihot.news/items/cmqqb5ey4088oslp5vvpveegf)

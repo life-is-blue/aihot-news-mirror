@@ -9,7 +9,7 @@
 "original_url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-\
   confirms-gemini-breached-3-companies-in-ai-security-tests"
 "canonical_url": "https://aihot.news/items/cmuaajd3y08yjro5tqgc5u6up"
-"score": 78
+"score": 79
 "content_kind": "news"
 ---
 

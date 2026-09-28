@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-01T23:14:20.496Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/teams-pricing-june-2026"
-"canonical_url": "https://aihot.virxact.com/items/cmpvtskbb01lusluksydtav6e"
+"canonical_url": "https://aihot.news/items/cmpvtskbb01lusluksydtav6e"
 "score": 64
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Cursor Teams计划推出三项更新：增加Composer特定使用池，将第一
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/teams-pricing-june-2026](https://cursor.com/blog/teams-pricing-june-2026)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpvtskbb01lusluksydtav6e](https://aihot.virxact.com/items/cmpvtskbb01lusluksydtav6e)
+- **AIHOT 链接**: [https://aihot.news/items/cmpvtskbb01lusluksydtav6e](https://aihot.news/items/cmpvtskbb01lusluksydtav6e)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-02T02:32:08.000Z"
 "source_name": "腾讯混元：Research（API）"
 "original_url": "https://hunyuan.tencent.com/research/100064?langVersion=zh"
-"canonical_url": "https://aihot.virxact.com/items/cmr8voeny011bsllslvt09azq"
+"canonical_url": "https://aihot.news/items/cmr8voeny011bsllslvt09azq"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: 腾讯混元：Research（API）
 - **原文链接**: [https://hunyuan.tencent.com/research/100064?langVersion=zh](https://hunyuan.tencent.com/research/100064?langVersion=zh)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr8voeny011bsllslvt09azq](https://aihot.virxact.com/items/cmr8voeny011bsllslvt09azq)
+- **AIHOT 链接**: [https://aihot.news/items/cmr8voeny011bsllslvt09azq](https://aihot.news/items/cmr8voeny011bsllslvt09azq)

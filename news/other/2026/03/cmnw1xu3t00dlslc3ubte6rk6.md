@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-11T16:00:00.000Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/claude-builds-visuals"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xu3t00dlslc3ubte6rk6"
+"canonical_url": "https://aihot.news/items/cmnw1xu3t00dlslc3ubte6rk6"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude 推出可视化功能测试版，支持在对话中实时生成交互式�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/claude-builds-visuals](https://claude.com/blog/claude-builds-visuals)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xu3t00dlslc3ubte6rk6](https://aihot.virxact.com/items/cmnw1xu3t00dlslc3ubte6rk6)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xu3t00dlslc3ubte6rk6](https://aihot.news/items/cmnw1xu3t00dlslc3ubte6rk6)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-27T07:51:26.272Z"
 "source_name": "Berkeley RDI：Blog（AI 安全与评测）"
 "original_url": "https://rdi.berkeley.edu/blog/auto-software-dev"
-"canonical_url": "https://aihot.virxact.com/items/cms2xhfev05moro3ff9bjgnct"
+"canonical_url": "https://aihot.news/items/cms2xhfev05moro3ff9bjgnct"
 "score": 64
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Berkeley RDI等机构提出三级软件自主开发框架：代码自主（AI完
 
 - **来源**: Berkeley RDI：Blog（AI 安全与评测）
 - **原文链接**: [https://rdi.berkeley.edu/blog/auto-software-dev](https://rdi.berkeley.edu/blog/auto-software-dev)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms2xhfev05moro3ff9bjgnct](https://aihot.virxact.com/items/cms2xhfev05moro3ff9bjgnct)
+- **AIHOT 链接**: [https://aihot.news/items/cms2xhfev05moro3ff9bjgnct](https://aihot.news/items/cms2xhfev05moro3ff9bjgnct)

@@ -6,8 +6,8 @@
 "discovered_at": "2026-09-02T02:48:18.699Z"
 "source_name": "X：Rohan Paul (@rohanpaul_ai)"
 "original_url": "https://x.com/rohanpaul_ai/status/2094975190468010368"
-"canonical_url": "https://aihot.virxact.com/items/cmtjhy5ze07gorobv62fpf0wi"
-"score": 82
+"canonical_url": "https://aihot.news/items/cmtjhy5ze07gorobv62fpf0wi"
+"score": 83
 "content_kind": "news"
 ---
 
@@ -17,4 +17,4 @@ Bloomberg 报道 Nvidia 正接近以约 129 亿美元收购 Hugging Face，交�
 
 - **来源**: X：Rohan Paul (@rohanpaul_ai)
 - **原文链接**: [https://x.com/rohanpaul_ai/status/2094975190468010368](https://x.com/rohanpaul_ai/status/2094975190468010368)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtjhy5ze07gorobv62fpf0wi](https://aihot.virxact.com/items/cmtjhy5ze07gorobv62fpf0wi)
+- **AIHOT 链接**: [https://aihot.news/items/cmtjhy5ze07gorobv62fpf0wi](https://aihot.news/items/cmtjhy5ze07gorobv62fpf0wi)

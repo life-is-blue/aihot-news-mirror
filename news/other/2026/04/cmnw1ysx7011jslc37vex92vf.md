@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-04T16:28:35.000Z"
 "source_name": "X：Greg Brockman (@gdb)"
 "original_url": "https://x.com/gdb/status/2040466572158869832"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1ysx7011jslc37vex92vf"
+"canonical_url": "https://aihot.news/items/cmnw1ysx7011jslc37vex92vf"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：Greg Brockman (@gdb)
 - **原文链接**: [https://x.com/gdb/status/2040466572158869832](https://x.com/gdb/status/2040466572158869832)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1ysx7011jslc37vex92vf](https://aihot.virxact.com/items/cmnw1ysx7011jslc37vex92vf)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1ysx7011jslc37vex92vf](https://aihot.news/items/cmnw1ysx7011jslc37vex92vf)

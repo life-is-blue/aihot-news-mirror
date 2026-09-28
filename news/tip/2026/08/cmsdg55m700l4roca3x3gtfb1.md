@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-03T16:31:27.516Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://github.com/lyogavin/airllm"
-"canonical_url": "https://aihot.virxact.com/items/cmsdg55m700l4roca3x3gtfb1"
+"canonical_url": "https://aihot.news/items/cmsdg55m700l4roca3x3gtfb1"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ AirLLM 项目支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://github.com/lyogavin/airllm](https://github.com/lyogavin/airllm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdg55m700l4roca3x3gtfb1](https://aihot.virxact.com/items/cmsdg55m700l4roca3x3gtfb1)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdg55m700l4roca3x3gtfb1](https://aihot.news/items/cmsdg55m700l4roca3x3gtfb1)

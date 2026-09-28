@@ -7,7 +7,7 @@
 "source_name": "Microsoft：Official Blog（RSS）"
 "original_url": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-chan\
   ge-your-business-the-system-running-it-will"
-"canonical_url": "https://aihot.virxact.com/items/cms3drt3p0b6fro3feuhudxw5"
+"canonical_url": "https://aihot.news/items/cms3drt3p0b6fro3feuhudxw5"
 "score": 66
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Microsoft：Official Blog（RSS）
 - **原文链接**: [https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will](https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3drt3p0b6fro3feuhudxw5](https://aihot.virxact.com/items/cms3drt3p0b6fro3feuhudxw5)
+- **AIHOT 链接**: [https://aihot.news/items/cms3drt3p0b6fro3feuhudxw5](https://aihot.news/items/cms3drt3p0b6fro3feuhudxw5)

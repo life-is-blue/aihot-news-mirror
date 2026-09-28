@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://law.stanford.edu/press/ai-outperforms-law-professors-i\
   n-stanford-law-study"
-"canonical_url": "https://aihot.virxact.com/items/cmpxhi7gs041mslcksl8he9vu"
+"canonical_url": "https://aihot.news/items/cmpxhi7gs041mslcksl8he9vu"
 "score": 71
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpxhi7gs041mslcksl8he9vu](https://aihot.virxact.com/items/cmpxhi7gs041mslcksl8he9vu)
+- **AIHOT 链接**: [https://aihot.news/items/cmpxhi7gs041mslcksl8he9vu](https://aihot.news/items/cmpxhi7gs041mslcksl8he9vu)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-03T22:35:38.041Z"
 "source_name": "X：Greg Brockman (@gdb)"
 "original_url": "https://x.com/gdb/status/2084405421041963356"
-"canonical_url": "https://aihot.virxact.com/items/cmsdt5gom0130rojfwd72clkl"
+"canonical_url": "https://aihot.news/items/cmsdt5gom0130rojfwd72clkl"
 "score": 66
 "content_kind": "news"
 ---
@@ -23,4 +23,4 @@ GPT-Live 可以在说话的同时聆听。
 
 - **来源**: X：Greg Brockman (@gdb)
 - **原文链接**: [https://x.com/gdb/status/2084405421041963356](https://x.com/gdb/status/2084405421041963356)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdt5gom0130rojfwd72clkl](https://aihot.virxact.com/items/cmsdt5gom0130rojfwd72clkl)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdt5gom0130rojfwd72clkl](https://aihot.news/items/cmsdt5gom0130rojfwd72clkl)

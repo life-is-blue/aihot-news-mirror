@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-31T15:10:41.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/ibm-granite/granite-4-vision"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhaj008vslxx5djnvvrl"
+"canonical_url": "https://aihot.news/items/cmoegbhaj008vslxx5djnvvrl"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ IBM Granite团队发布了Granite 4.0 3B Vision模型，这是一个专为企业
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/ibm-granite/granite-4-vision](https://huggingface.co/blog/ibm-granite/granite-4-vision)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhaj008vslxx5djnvvrl](https://aihot.virxact.com/items/cmoegbhaj008vslxx5djnvvrl)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhaj008vslxx5djnvvrl](https://aihot.news/items/cmoegbhaj008vslxx5djnvvrl)

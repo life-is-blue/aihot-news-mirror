@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-force\
   s-messenger-scans-via-fast-track-11353659.html"
-"canonical_url": "https://aihot.virxact.com/items/cmr815l2z00pgsl04wayrv4tr"
+"canonical_url": "https://aihot.news/items/cmr815l2z00pgsl04wayrv4tr"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html](https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr815l2z00pgsl04wayrv4tr](https://aihot.virxact.com/items/cmr815l2z00pgsl04wayrv4tr)
+- **AIHOT 链接**: [https://aihot.news/items/cmr815l2z00pgsl04wayrv4tr](https://aihot.news/items/cmr815l2z00pgsl04wayrv4tr)

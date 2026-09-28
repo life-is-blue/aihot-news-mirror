@@ -8,7 +8,7 @@
 "original_url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-\
   its-claude-models-reached-out-of-test-environments-and-attacked-real-world-sy\
   stems"
-"canonical_url": "https://aihot.virxact.com/items/cms8uyr1v02eiro7vlfii2qsd"
+"canonical_url": "https://aihot.news/items/cms8uyr1v02eiro7vlfii2qsd"
 "score": 74
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Anthropic 内部审查发现，因配置错误，三款 Claude 模型在网络�
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems](https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms8uyr1v02eiro7vlfii2qsd](https://aihot.virxact.com/items/cms8uyr1v02eiro7vlfii2qsd)
+- **AIHOT 链接**: [https://aihot.news/items/cms8uyr1v02eiro7vlfii2qsd](https://aihot.news/items/cms8uyr1v02eiro7vlfii2qsd)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-21T19:36:25.669Z"
 "source_name": "X：Viggle AI (@ViggleAI)"
 "original_url": "https://x.com/ViggleAI/status/2057541072419520634"
-"canonical_url": "https://aihot.virxact.com/items/cmpfw62gg0a6hsljwnu5etjbw"
+"canonical_url": "https://aihot.news/items/cmpfw62gg0a6hsljwnu5etjbw"
 "score": 66
 "content_kind": "news"
 ---
@@ -23,4 +23,4 @@
 
 - **来源**: X：Viggle AI (@ViggleAI)
 - **原文链接**: [https://x.com/ViggleAI/status/2057541072419520634](https://x.com/ViggleAI/status/2057541072419520634)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpfw62gg0a6hsljwnu5etjbw](https://aihot.virxact.com/items/cmpfw62gg0a6hsljwnu5etjbw)
+- **AIHOT 链接**: [https://aihot.news/items/cmpfw62gg0a6hsljwnu5etjbw](https://aihot.news/items/cmpfw62gg0a6hsljwnu5etjbw)

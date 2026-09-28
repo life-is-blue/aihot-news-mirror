@@ -7,7 +7,7 @@
 "source_name": "Google Developers Blog（RSS）"
 "original_url": "https://developers.googleblog.com/unlocking-the-next-era-of-on\
   -device-ai-with-google-tensor-and-pixel"
-"canonical_url": "https://aihot.virxact.com/items/cmrkw3h0101xtbi5qs4nj3sxa"
+"canonical_url": "https://aihot.news/items/cmrkw3h0101xtbi5qs4nj3sxa"
 "score": 58
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Google Developers Blog（RSS）
 - **原文链接**: [https://developers.googleblog.com/unlocking-the-next-era-of-on-device-ai-with-google-tensor-and-pixel](https://developers.googleblog.com/unlocking-the-next-era-of-on-device-ai-with-google-tensor-and-pixel)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrkw3h0101xtbi5qs4nj3sxa](https://aihot.virxact.com/items/cmrkw3h0101xtbi5qs4nj3sxa)
+- **AIHOT 链接**: [https://aihot.news/items/cmrkw3h0101xtbi5qs4nj3sxa](https://aihot.news/items/cmrkw3h0101xtbi5qs4nj3sxa)

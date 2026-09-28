@@ -7,7 +7,7 @@
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/transformers-llama-cpp-quants"
 "canonical_url": "https://aihot.news/items/cmuckj3gv09kiroed6m91iyre"
-"score": 72
+"score": 73
 "content_kind": "news"
 ---
 

@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpe\
   cted-return-of-Chat-Control-1-0-11356680.html"
-"canonical_url": "https://aihot.virxact.com/items/cmravndzc01f2ihoguc3yeuug"
+"canonical_url": "https://aihot.news/items/cmravndzc01f2ihoguc3yeuug"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html](https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmravndzc01f2ihoguc3yeuug](https://aihot.virxact.com/items/cmravndzc01f2ihoguc3yeuug)
+- **AIHOT 链接**: [https://aihot.news/items/cmravndzc01f2ihoguc3yeuug](https://aihot.news/items/cmravndzc01f2ihoguc3yeuug)

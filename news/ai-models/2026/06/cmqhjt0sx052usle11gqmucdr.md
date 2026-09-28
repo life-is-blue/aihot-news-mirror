@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-17T04:05:39.865Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-imagine-video-1-5"
-"canonical_url": "https://aihot.virxact.com/items/cmqhjt0sx052usle11gqmucdr"
+"canonical_url": "https://aihot.news/items/cmqhjt0sx052usle11gqmucdr"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI 将 Grok Imagine Video 1.5 从预览转为全面可用，在 Imagine API 上
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-imagine-video-1-5](https://x.ai/news/grok-imagine-video-1-5)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqhjt0sx052usle11gqmucdr](https://aihot.virxact.com/items/cmqhjt0sx052usle11gqmucdr)
+- **AIHOT 链接**: [https://aihot.news/items/cmqhjt0sx052usle11gqmucdr](https://aihot.news/items/cmqhjt0sx052usle11gqmucdr)

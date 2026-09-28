@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-07T17:30:18.904Z"
 "source_name": "Apple Machine Learning Research（RSS）"
 "original_url": "https://machinelearning.apple.com/research/compression"
-"canonical_url": "https://aihot.virxact.com/items/cmovrhvbg00l5slotlwprjsqv"
+"canonical_url": "https://aihot.news/items/cmovrhvbg00l5slotlwprjsqv"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Apple Machine Learning Research（RSS）
 - **原文链接**: [https://machinelearning.apple.com/research/compression](https://machinelearning.apple.com/research/compression)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmovrhvbg00l5slotlwprjsqv](https://aihot.virxact.com/items/cmovrhvbg00l5slotlwprjsqv)
+- **AIHOT 链接**: [https://aihot.news/items/cmovrhvbg00l5slotlwprjsqv](https://aihot.news/items/cmovrhvbg00l5slotlwprjsqv)

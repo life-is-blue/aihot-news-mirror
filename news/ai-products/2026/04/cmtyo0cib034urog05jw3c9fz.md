@@ -8,7 +8,7 @@
 "original_url": "https://www.llamaindex.ai/blog/llamaparse-mcp-the-tooling-laye\
   r-for-your-document-agents"
 "canonical_url": "https://aihot.news/items/cmtyo0cib034urog05jw3c9fz"
-"score": 61
+"score": 62
 "content_kind": "news"
 ---
 

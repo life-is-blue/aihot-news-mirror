@@ -7,7 +7,7 @@
 "source_name": "Anthropic：The Institute（旗舰研究长文 · 网页）"
 "original_url": "https://www.anthropic.com/institute/econ-scenarios"
 "canonical_url": "https://aihot.news/items/cmtu4vcfo0zj1rofpcmeg65vo"
-"score": 63
+"score": 64
 "content_kind": "news"
 ---
 

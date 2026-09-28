@@ -7,7 +7,7 @@
 "source_name": "ARC Prize：官方博客"
 "original_url": "https://arcprize.org/blog/announcing-arc-agi-2-and-arc-prize-2025"
 "canonical_url": "https://aihot.news/items/cmtyo2p2s03g7rog0zm42djwy"
-"score": 69
+"score": 70
 "content_kind": "news"
 ---
 

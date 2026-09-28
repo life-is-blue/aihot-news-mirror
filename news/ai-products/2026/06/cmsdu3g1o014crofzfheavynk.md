@@ -7,7 +7,7 @@
 "source_name": "公众号：豆包（字节）"
 "original_url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY2MzMzMQ%3D%3D&mid=2247\
   486534&idx=1&sn=b8c333bd431a86419d3f79bce4ebf2f7"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu3g1o014crofzfheavynk"
+"canonical_url": "https://aihot.news/items/cmsdu3g1o014crofzfheavynk"
 "score": 64
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: 公众号：豆包（字节）
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=MzkzMTY2MzMzMQ%3D%3D&mid=2247486534&idx=1&sn=b8c333bd431a86419d3f79bce4ebf2f7](https://mp.weixin.qq.com/s?__biz=MzkzMTY2MzMzMQ%3D%3D&mid=2247486534&idx=1&sn=b8c333bd431a86419d3f79bce4ebf2f7)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu3g1o014crofzfheavynk](https://aihot.virxact.com/items/cmsdu3g1o014crofzfheavynk)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu3g1o014crofzfheavynk](https://aihot.news/items/cmsdu3g1o014crofzfheavynk)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-18T19:26:09.114Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/introducing-word-addin"
-"canonical_url": "https://aihot.virxact.com/items/cmqjw516300uqslhirb12dvrf"
+"canonical_url": "https://aihot.news/items/cmqjw516300uqslhirb12dvrf"
 "score": 61
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI 将 Grok 引入 Microsoft Word，推出免费 365 插件。用户可将笔�
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/introducing-word-addin](https://x.ai/news/introducing-word-addin)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqjw516300uqslhirb12dvrf](https://aihot.virxact.com/items/cmqjw516300uqslhirb12dvrf)
+- **AIHOT 链接**: [https://aihot.news/items/cmqjw516300uqslhirb12dvrf](https://aihot.news/items/cmqjw516300uqslhirb12dvrf)

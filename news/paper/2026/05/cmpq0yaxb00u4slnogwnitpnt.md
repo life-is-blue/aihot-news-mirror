@@ -7,7 +7,7 @@
 "source_name": "Ars Technica：AI（RSS）"
 "original_url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statemen\
   ts-even-after-explicit-warnings-that-theyre-false"
-"canonical_url": "https://aihot.virxact.com/items/cmpq0yaxb00u4slnogwnitpnt"
+"canonical_url": "https://aihot.news/items/cmpq0yaxb00u4slnogwnitpnt"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Ars Technica：AI（RSS）
 - **原文链接**: [https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false](https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpq0yaxb00u4slnogwnitpnt](https://aihot.virxact.com/items/cmpq0yaxb00u4slnogwnitpnt)
+- **AIHOT 链接**: [https://aihot.news/items/cmpq0yaxb00u4slnogwnitpnt](https://aihot.news/items/cmpq0yaxb00u4slnogwnitpnt)

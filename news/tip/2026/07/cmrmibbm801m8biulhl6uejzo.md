@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-15T20:02:28.987Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://turntrout.com/why-i-left-google-deepmind"
-"canonical_url": "https://aihot.virxact.com/items/cmrmibbm801m8biulhl6uejzo"
+"canonical_url": "https://aihot.news/items/cmrmibbm801m8biulhl6uejzo"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://turntrout.com/why-i-left-google-deepmind](https://turntrout.com/why-i-left-google-deepmind)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrmibbm801m8biulhl6uejzo](https://aihot.virxact.com/items/cmrmibbm801m8biulhl6uejzo)
+- **AIHOT 链接**: [https://aihot.news/items/cmrmibbm801m8biulhl6uejzo](https://aihot.news/items/cmrmibbm801m8biulhl6uejzo)

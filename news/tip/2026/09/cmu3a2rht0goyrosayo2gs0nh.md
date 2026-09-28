@@ -7,7 +7,7 @@
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://tomtunguz.com/single-digit-thousand-dollar-ai-sdr"
 "canonical_url": "https://aihot.news/items/cmu3a2rht0goyrosayo2gs0nh"
-"score": 60
+"score": 61
 "content_kind": "news"
 ---
 

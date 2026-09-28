@@ -6,7 +6,7 @@
 "discovered_at": "2017-12-07T16:56:28.000Z"
 "source_name": "Sam Altman：Blog（RSS）"
 "original_url": "https://blog.samaltman.com/the-merge"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xr1p004qslc3gkehargo"
+"canonical_url": "https://aihot.news/items/cmnw1xr1p004qslc3gkehargo"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Sam Altman：Blog（RSS）
 - **原文链接**: [https://blog.samaltman.com/the-merge](https://blog.samaltman.com/the-merge)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xr1p004qslc3gkehargo](https://aihot.virxact.com/items/cmnw1xr1p004qslc3gkehargo)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xr1p004qslc3gkehargo](https://aihot.news/items/cmnw1xr1p004qslc3gkehargo)

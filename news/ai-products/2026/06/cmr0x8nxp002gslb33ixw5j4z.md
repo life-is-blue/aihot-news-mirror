@@ -7,7 +7,7 @@
 "source_name": "Apple：Newsroom（RSS）"
 "original_url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-ge\
   ts-smarter-faster-and-more-connected"
-"canonical_url": "https://aihot.virxact.com/items/cmr0x8nxp002gslb33ixw5j4z"
+"canonical_url": "https://aihot.news/items/cmr0x8nxp002gslb33ixw5j4z"
 "score": 66
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Apple Creator Studio 推出多项 AI 增强更新。Final Cut Pro 新增 on-devi
 
 - **来源**: Apple：Newsroom（RSS）
 - **原文链接**: [https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected](https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr0x8nxp002gslb33ixw5j4z](https://aihot.virxact.com/items/cmr0x8nxp002gslb33ixw5j4z)
+- **AIHOT 链接**: [https://aihot.news/items/cmr0x8nxp002gslb33ixw5j4z](https://aihot.news/items/cmr0x8nxp002gslb33ixw5j4z)

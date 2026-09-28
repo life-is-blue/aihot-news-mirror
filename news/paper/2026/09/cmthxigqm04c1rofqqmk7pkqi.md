@@ -6,8 +6,8 @@
 "discovered_at": "2026-09-01T00:28:28.757Z"
 "source_name": "X：Anthropic (@AnthropicAI)"
 "original_url": "https://x.com/AnthropicAI/status/2094577944056430865"
-"canonical_url": "https://aihot.virxact.com/items/cmthxigqm04c1rofqqmk7pkqi"
-"score": 73
+"canonical_url": "https://aihot.news/items/cmthxigqm04c1rofqqmk7pkqi"
+"score": 74
 "content_kind": "news"
 ---
 
@@ -17,4 +17,4 @@ Anthropic 发布新研究 Training a Misaligned Reward Seeker，探究奖励作�
 
 - **来源**: X：Anthropic (@AnthropicAI)
 - **原文链接**: [https://x.com/AnthropicAI/status/2094577944056430865](https://x.com/AnthropicAI/status/2094577944056430865)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmthxigqm04c1rofqqmk7pkqi](https://aihot.virxact.com/items/cmthxigqm04c1rofqqmk7pkqi)
+- **AIHOT 链接**: [https://aihot.news/items/cmthxigqm04c1rofqqmk7pkqi](https://aihot.news/items/cmthxigqm04c1rofqqmk7pkqi)

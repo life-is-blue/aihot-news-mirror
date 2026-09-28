@@ -7,7 +7,7 @@
 "source_name": "公众号：智谱（GLM）"
 "original_url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247\
   493760&idx=1&sn=210b1dc4710096a98516e2a92b505e07"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu107800u6rofzsif5d5ug"
+"canonical_url": "https://aihot.news/items/cmsdu107800u6rofzsif5d5ug"
 "score": 64
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ AutoClaw（澳龙）正式上线自进化机制与Skill商店，每轮对话后�
 
 - **来源**: 公众号：智谱（GLM）
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247493760&idx=1&sn=210b1dc4710096a98516e2a92b505e07](https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247493760&idx=1&sn=210b1dc4710096a98516e2a92b505e07)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu107800u6rofzsif5d5ug](https://aihot.virxact.com/items/cmsdu107800u6rofzsif5d5ug)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu107800u6rofzsif5d5ug](https://aihot.news/items/cmsdu107800u6rofzsif5d5ug)

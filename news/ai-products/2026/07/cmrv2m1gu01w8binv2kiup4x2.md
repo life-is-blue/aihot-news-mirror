@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-21T19:52:48.087Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://ads.openai.com/"
-"canonical_url": "https://aihot.virxact.com/items/cmrv2m1gu01w8binv2kiup4x2"
+"canonical_url": "https://aihot.news/items/cmrv2m1gu01w8binv2kiup4x2"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 在 ChatGPT 中推出原生广告服务，允许广告主在用户探索�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://ads.openai.com/](https://ads.openai.com/)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrv2m1gu01w8binv2kiup4x2](https://aihot.virxact.com/items/cmrv2m1gu01w8binv2kiup4x2)
+- **AIHOT 链接**: [https://aihot.news/items/cmrv2m1gu01w8binv2kiup4x2](https://aihot.news/items/cmrv2m1gu01w8binv2kiup4x2)

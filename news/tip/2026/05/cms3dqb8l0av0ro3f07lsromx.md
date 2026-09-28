@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-05T00:00:00.000Z"
 "source_name": "OpenAI Developers（RSS）"
 "original_url": "https://platform.openai.com/docs/guides/realtime-models-prompting"
-"canonical_url": "https://aihot.virxact.com/items/cms3dqb8l0av0ro3f07lsromx"
+"canonical_url": "https://aihot.news/items/cms3dqb8l0av0ro3f07lsromx"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 发布 Realtime Prompting Guide，指导如何为实时语音智能体编
 
 - **来源**: OpenAI Developers（RSS）
 - **原文链接**: [https://platform.openai.com/docs/guides/realtime-models-prompting](https://platform.openai.com/docs/guides/realtime-models-prompting)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3dqb8l0av0ro3f07lsromx](https://aihot.virxact.com/items/cms3dqb8l0av0ro3f07lsromx)
+- **AIHOT 链接**: [https://aihot.news/items/cms3dqb8l0av0ro3f07lsromx](https://aihot.news/items/cms3dqb8l0av0ro3f07lsromx)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-16T17:32:26.540Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/ai-code-migration"
-"canonical_url": "https://aihot.virxact.com/items/cmrnse7qy002tbixy7gnolvr3"
+"canonical_url": "https://aihot.news/items/cmrnse7qy002tbixy7gnolvr3"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 工程师用 Claude Code 在两周内将 Bun 的百万行 Zig 代码�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/ai-code-migration](https://claude.com/blog/ai-code-migration)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrnse7qy002tbixy7gnolvr3](https://aihot.virxact.com/items/cmrnse7qy002tbixy7gnolvr3)
+- **AIHOT 链接**: [https://aihot.news/items/cmrnse7qy002tbixy7gnolvr3](https://aihot.news/items/cmrnse7qy002tbixy7gnolvr3)

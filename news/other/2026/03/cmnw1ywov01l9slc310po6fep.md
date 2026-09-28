@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-10T14:43:14.000Z"
 "source_name": "X：Sundar Pichai (@sundarpichai)"
 "original_url": "https://x.com/sundarpichai/status/2031380361696129261"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1ywov01l9slc310po6fep"
+"canonical_url": "https://aihot.news/items/cmnw1ywov01l9slc310po6fep"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Gemini 为 Google Workspace 推出多项 AI 功能：支持选择来源秒级生
 
 - **来源**: X：Sundar Pichai (@sundarpichai)
 - **原文链接**: [https://x.com/sundarpichai/status/2031380361696129261](https://x.com/sundarpichai/status/2031380361696129261)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1ywov01l9slc310po6fep](https://aihot.virxact.com/items/cmnw1ywov01l9slc310po6fep)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1ywov01l9slc310po6fep](https://aihot.news/items/cmnw1ywov01l9slc310po6fep)

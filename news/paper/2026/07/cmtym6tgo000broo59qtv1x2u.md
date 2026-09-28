@@ -7,7 +7,7 @@
 "source_name": "PromptArmor：Threat Intelligence"
 "original_url": "https://www.promptarmor.com/resources/2-in-5-connectors-call-external-ai"
 "canonical_url": "https://aihot.news/items/cmtym6tgo000broo59qtv1x2u"
-"score": 60
+"score": 61
 "content_kind": "news"
 ---
 

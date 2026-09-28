@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-01T00:20:45.624Z"
 "source_name": "公众号：数字生命卡兹克"
 "original_url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw"
-"canonical_url": "https://aihot.virxact.com/items/cmr1bxokg01eoslnlem278yfq"
+"canonical_url": "https://aihot.news/items/cmr1bxokg01eoslnlem278yfq"
 "score": 84
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic在Claude Code中植入隐写术：读取本地时区（Asia/Shanghai�
 
 - **来源**: 公众号：数字生命卡兹克
 - **原文链接**: [https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw](https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr1bxokg01eoslnlem278yfq](https://aihot.virxact.com/items/cmr1bxokg01eoslnlem278yfq)
+- **AIHOT 链接**: [https://aihot.news/items/cmr1bxokg01eoslnlem278yfq](https://aihot.news/items/cmr1bxokg01eoslnlem278yfq)

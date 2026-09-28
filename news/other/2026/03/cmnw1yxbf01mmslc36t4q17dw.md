@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-10T07:19:28.000Z"
 "source_name": "X：Yann LeCun (@ylecun)"
 "original_url": "https://x.com/ylecun/status/2031268686984527936"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yxbf01mmslc36t4q17dw"
+"canonical_url": "https://aihot.news/items/cmnw1yxbf01mmslc36t4q17dw"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ AMI Labs 宣布获 10.3 亿美元种子轮融资，由 Cathay Innovation、Bezos
 
 - **来源**: X：Yann LeCun (@ylecun)
 - **原文链接**: [https://x.com/ylecun/status/2031268686984527936](https://x.com/ylecun/status/2031268686984527936)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yxbf01mmslc36t4q17dw](https://aihot.virxact.com/items/cmnw1yxbf01mmslc36t4q17dw)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yxbf01mmslc36t4q17dw](https://aihot.news/items/cmnw1yxbf01mmslc36t4q17dw)

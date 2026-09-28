@@ -7,7 +7,7 @@
 "source_name": "Google Developers Blog（RSS）"
 "original_url": "https://developers.googleblog.com/agent-plugins-package-your-s\
   kills-tools-and-more"
-"canonical_url": "https://aihot.virxact.com/items/cmshra4es0oycronk0wcvjv03"
+"canonical_url": "https://aihot.news/items/cmshra4es0oycronk0wcvjv03"
 "score": 75
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Agent Plugins 1.0.0 是一项由谷歌、亚马逊、微软等支持的中立目
 
 - **来源**: Google Developers Blog（RSS）
 - **原文链接**: [https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more](https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmshra4es0oycronk0wcvjv03](https://aihot.virxact.com/items/cmshra4es0oycronk0wcvjv03)
+- **AIHOT 链接**: [https://aihot.news/items/cmshra4es0oycronk0wcvjv03](https://aihot.news/items/cmshra4es0oycronk0wcvjv03)

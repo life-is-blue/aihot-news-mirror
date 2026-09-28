@@ -6,7 +6,7 @@
 "discovered_at": "2025-10-19T16:00:00.000Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/claude-code-on-the-web"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xu3t00dpslc3x0glfy41"
+"canonical_url": "https://aihot.news/items/cmnw1xu3t00dpslc3x0glfy41"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 推出网页版 Claude Code，以研究预览形式向 Pro、Max 及�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/claude-code-on-the-web](https://claude.com/blog/claude-code-on-the-web)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xu3t00dpslc3x0glfy41](https://aihot.virxact.com/items/cmnw1xu3t00dpslc3x0glfy41)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xu3t00dpslc3x0glfy41](https://aihot.news/items/cmnw1xu3t00dpslc3x0glfy41)

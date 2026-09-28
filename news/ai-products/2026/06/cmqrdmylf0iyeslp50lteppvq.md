@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-24T01:10:43.110Z"
 "source_name": "公众号：豆包（字节）"
 "original_url": "https://mp.weixin.qq.com/s/Sb-NMXTrWFQES1EDO_Gr2g"
-"canonical_url": "https://aihot.virxact.com/items/cmqrdmylf0iyeslp50lteppvq"
+"canonical_url": "https://aihot.news/items/cmqrdmylf0iyeslp50lteppvq"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: 公众号：豆包（字节）
 - **原文链接**: [https://mp.weixin.qq.com/s/Sb-NMXTrWFQES1EDO_Gr2g](https://mp.weixin.qq.com/s/Sb-NMXTrWFQES1EDO_Gr2g)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqrdmylf0iyeslp50lteppvq](https://aihot.virxact.com/items/cmqrdmylf0iyeslp50lteppvq)
+- **AIHOT 链接**: [https://aihot.news/items/cmqrdmylf0iyeslp50lteppvq](https://aihot.news/items/cmqrdmylf0iyeslp50lteppvq)

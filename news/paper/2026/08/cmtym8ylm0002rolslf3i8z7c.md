@@ -7,7 +7,7 @@
 "source_name": "METR：Notes（网页）"
 "original_url": "https://metr.org/notes/2026-08-14-llm-contribution-to-discoveries"
 "canonical_url": "https://aihot.news/items/cmtym8ylm0002rolslf3i8z7c"
-"score": 68
+"score": 69
 "content_kind": "news"
 ---
 

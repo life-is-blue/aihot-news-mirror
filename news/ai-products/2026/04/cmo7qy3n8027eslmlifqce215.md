@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-20T22:08:29.942Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://github.com/Luce-Org/lucebox-hub"
-"canonical_url": "https://aihot.virxact.com/items/cmo7qy3n8027eslmlifqce215"
+"canonical_url": "https://aihot.news/items/cmo7qy3n8027eslmlifqce215"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://github.com/Luce-Org/lucebox-hub](https://github.com/Luce-Org/lucebox-hub)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmo7qy3n8027eslmlifqce215](https://aihot.virxact.com/items/cmo7qy3n8027eslmlifqce215)
+- **AIHOT 链接**: [https://aihot.news/items/cmo7qy3n8027eslmlifqce215](https://aihot.news/items/cmo7qy3n8027eslmlifqce215)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-13T18:24:12.780Z"
 "source_name": "X：OpenRouter (@OpenRouter)"
 "original_url": "https://x.com/OpenRouter/status/2065856853989270011"
-"canonical_url": "https://aihot.virxact.com/items/cmqcopoix00f8slttxcyouu31"
+"canonical_url": "https://aihot.news/items/cmqcopoix00f8slttxcyouu31"
 "score": 70
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ Fusion以一半的价格实现Fable级别的智能。
 
 - **来源**: X：OpenRouter (@OpenRouter)
 - **原文链接**: [https://x.com/OpenRouter/status/2065856853989270011](https://x.com/OpenRouter/status/2065856853989270011)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqcopoix00f8slttxcyouu31](https://aihot.virxact.com/items/cmqcopoix00f8slttxcyouu31)
+- **AIHOT 链接**: [https://aihot.news/items/cmqcopoix00f8slttxcyouu31](https://aihot.news/items/cmqcopoix00f8slttxcyouu31)

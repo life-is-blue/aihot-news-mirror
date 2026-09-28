@@ -6,7 +6,7 @@
 "discovered_at": "2025-12-15T16:01:04.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhak00a3slxxbzym5g09"
+"canonical_url": "https://aihot.news/items/cmoegbhak00a3slxxbzym5g09"
 "score": 83
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/ibm-research/cuga-on-hugging-face](https://huggingface.co/blog/ibm-research/cuga-on-hugging-face)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhak00a3slxxbzym5g09](https://aihot.virxact.com/items/cmoegbhak00a3slxxbzym5g09)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhak00a3slxxbzym5g09](https://aihot.news/items/cmoegbhak00a3slxxbzym5g09)

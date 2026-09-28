@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-27T16:20:48.637Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/local-reachy-mini-conversation"
-"canonical_url": "https://aihot.virxact.com/items/cmpo9tiih0478slv4blj1ms6a"
+"canonical_url": "https://aihot.news/items/cmpo9tiih0478slv4blj1ms6a"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Reachy Mini 机器人现可通过 `speech-to-speech` 库实现完全本地化的
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/local-reachy-mini-conversation](https://huggingface.co/blog/local-reachy-mini-conversation)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpo9tiih0478slv4blj1ms6a](https://aihot.virxact.com/items/cmpo9tiih0478slv4blj1ms6a)
+- **AIHOT 链接**: [https://aihot.news/items/cmpo9tiih0478slv4blj1ms6a](https://aihot.news/items/cmpo9tiih0478slv4blj1ms6a)

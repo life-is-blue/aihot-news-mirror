@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-04T16:53:01.234Z"
 "source_name": "LMSYS：Blog（Chatbot Arena 团队）"
 "original_url": "https://www.lmsys.org/blog/2026-06-04-higgs-audio-v3-tts"
-"canonical_url": "https://aihot.virxact.com/items/cmpzqhv5y0607slkptes62n17"
+"canonical_url": "https://aihot.news/items/cmpzqhv5y0607slkptes62n17"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Boson AI 与 LMSYS 联合推出基于 SGLang-Omni 推理框架的 Higgs Audio v3
 
 - **来源**: LMSYS：Blog（Chatbot Arena 团队）
 - **原文链接**: [https://www.lmsys.org/blog/2026-06-04-higgs-audio-v3-tts](https://www.lmsys.org/blog/2026-06-04-higgs-audio-v3-tts)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpzqhv5y0607slkptes62n17](https://aihot.virxact.com/items/cmpzqhv5y0607slkptes62n17)
+- **AIHOT 链接**: [https://aihot.news/items/cmpzqhv5y0607slkptes62n17](https://aihot.news/items/cmpzqhv5y0607slkptes62n17)

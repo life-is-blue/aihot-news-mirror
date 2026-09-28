@@ -7,7 +7,7 @@
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/advancing-voice-intelligence-with-new\
   -models-in-the-api"
-"canonical_url": "https://aihot.virxact.com/items/cmovr364j00j9slotqnozmpjp"
+"canonical_url": "https://aihot.news/items/cmovr364j00j9slotqnozmpjp"
 "score": 86
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenAI API 推出了新的实时语音模型，能够进行推理、翻译和语
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api](https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmovr364j00j9slotqnozmpjp](https://aihot.virxact.com/items/cmovr364j00j9slotqnozmpjp)
+- **AIHOT 链接**: [https://aihot.news/items/cmovr364j00j9slotqnozmpjp](https://aihot.news/items/cmovr364j00j9slotqnozmpjp)

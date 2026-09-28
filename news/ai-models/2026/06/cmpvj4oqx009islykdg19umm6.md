@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-01T18:15:29.090Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/composer-2-5"
-"canonical_url": "https://aihot.virxact.com/items/cmpvj4oqx009islykdg19umm6"
+"canonical_url": "https://aihot.news/items/cmpvj4oqx009islykdg19umm6"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI的最新编程模型Composer 2.5现已在Grok Build中可用，用户可通�
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/composer-2-5](https://x.ai/news/composer-2-5)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpvj4oqx009islykdg19umm6](https://aihot.virxact.com/items/cmpvj4oqx009islykdg19umm6)
+- **AIHOT 链接**: [https://aihot.news/items/cmpvj4oqx009islykdg19umm6](https://aihot.news/items/cmpvj4oqx009islykdg19umm6)

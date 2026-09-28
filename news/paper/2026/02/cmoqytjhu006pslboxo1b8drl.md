@@ -6,7 +6,7 @@
 "discovered_at": "2026-02-06T19:00:00.000Z"
 "source_name": "OpenAI：Alignment 研究博客（RSS）"
 "original_url": "https://alignment.openai.com/ai-discovered-unknowns"
-"canonical_url": "https://aihot.virxact.com/items/cmoqytjhu006pslboxo1b8drl"
+"canonical_url": "https://aihot.news/items/cmoqytjhu006pslboxo1b8drl"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: OpenAI：Alignment 研究博客（RSS）
 - **原文链接**: [https://alignment.openai.com/ai-discovered-unknowns](https://alignment.openai.com/ai-discovered-unknowns)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoqytjhu006pslboxo1b8drl](https://aihot.virxact.com/items/cmoqytjhu006pslboxo1b8drl)
+- **AIHOT 链接**: [https://aihot.news/items/cmoqytjhu006pslboxo1b8drl](https://aihot.news/items/cmoqytjhu006pslboxo1b8drl)

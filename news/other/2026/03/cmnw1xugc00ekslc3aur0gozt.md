@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-10T16:00:00.000Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/the-anthropic-institute"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xugc00ekslc3aur0gozt"
+"canonical_url": "https://aihot.news/items/cmnw1xugc00ekslc3aur0gozt"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 宣布成立 The Anthropic Institute，由联合创始人 Jack Clark �
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/the-anthropic-institute](https://www.anthropic.com/news/the-anthropic-institute)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xugc00ekslc3aur0gozt](https://aihot.virxact.com/items/cmnw1xugc00ekslc3aur0gozt)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xugc00ekslc3aur0gozt](https://aihot.news/items/cmnw1xugc00ekslc3aur0gozt)

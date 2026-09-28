@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-09T19:17:03.561Z"
 "source_name": "X：Rohan Paul (@rohanpaul_ai)"
 "original_url": "https://x.com/rohanpaul_ai/status/2064425086409679358"
-"canonical_url": "https://aihot.virxact.com/items/cmq70u8g501f3slbh9ljxnmoy"
+"canonical_url": "https://aihot.news/items/cmq70u8g501f3slbh9ljxnmoy"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Thariq（Claude Code 团队）提出十条建议，核心转变是：从检查 C
 
 - **来源**: X：Rohan Paul (@rohanpaul_ai)
 - **原文链接**: [https://x.com/rohanpaul_ai/status/2064425086409679358](https://x.com/rohanpaul_ai/status/2064425086409679358)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq70u8g501f3slbh9ljxnmoy](https://aihot.virxact.com/items/cmq70u8g501f3slbh9ljxnmoy)
+- **AIHOT 链接**: [https://aihot.news/items/cmq70u8g501f3slbh9ljxnmoy](https://aihot.news/items/cmq70u8g501f3slbh9ljxnmoy)

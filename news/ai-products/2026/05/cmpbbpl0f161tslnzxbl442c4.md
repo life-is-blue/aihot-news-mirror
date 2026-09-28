@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-18T14:52:44.891Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard"
-"canonical_url": "https://aihot.virxact.com/items/cmpbbpl0f161tslnzxbl442c4"
+"canonical_url": "https://aihot.news/items/cmpbbpl0f161tslnzxbl442c4"
 "score": 64
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Hugging Face 发布开放 AI 智能体排行榜，用于比较完整智能体系
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/ibm-research/open-agent-leaderboard](https://huggingface.co/blog/ibm-research/open-agent-leaderboard)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpbbpl0f161tslnzxbl442c4](https://aihot.virxact.com/items/cmpbbpl0f161tslnzxbl442c4)
+- **AIHOT 链接**: [https://aihot.news/items/cmpbbpl0f161tslnzxbl442c4](https://aihot.news/items/cmpbbpl0f161tslnzxbl442c4)

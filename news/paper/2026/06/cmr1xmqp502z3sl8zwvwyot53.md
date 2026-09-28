@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-23T00:00:00.000Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2606.08671"
-"canonical_url": "https://aihot.virxact.com/items/cmr1xmqp502z3sl8zwvwyot53"
+"canonical_url": "https://aihot.news/items/cmr1xmqp502z3sl8zwvwyot53"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ SkillHone 通过持久决策历史将技能修订与评估证据配对，记录�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2606.08671](https://arxiv.org/abs/2606.08671)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr1xmqp502z3sl8zwvwyot53](https://aihot.virxact.com/items/cmr1xmqp502z3sl8zwvwyot53)
+- **AIHOT 链接**: [https://aihot.news/items/cmr1xmqp502z3sl8zwvwyot53](https://aihot.news/items/cmr1xmqp502z3sl8zwvwyot53)

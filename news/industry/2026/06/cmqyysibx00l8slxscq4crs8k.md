@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-\
   chip-investment-as-ai-demand-sends-memory-prices-soaring"
-"canonical_url": "https://aihot.virxact.com/items/cmqyysibx00l8slxscq4crs8k"
+"canonical_url": "https://aihot.news/items/cmqyysibx00l8slxscq4crs8k"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring](https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqyysibx00l8slxscq4crs8k](https://aihot.virxact.com/items/cmqyysibx00l8slxscq4crs8k)
+- **AIHOT 链接**: [https://aihot.news/items/cmqyysibx00l8slxscq4crs8k](https://aihot.news/items/cmqyysibx00l8slxscq4crs8k)

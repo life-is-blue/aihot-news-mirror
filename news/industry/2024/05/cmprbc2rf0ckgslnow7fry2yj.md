@@ -6,7 +6,7 @@
 "discovered_at": "2024-05-20T16:00:00.000Z"
 "source_name": "Suno：Blog（网页）"
 "original_url": "https://suno.com/blog/fundraising-announcement-may-2024"
-"canonical_url": "https://aihot.virxact.com/items/cmprbc2rf0ckgslnow7fry2yj"
+"canonical_url": "https://aihot.news/items/cmprbc2rf0ckgslnow7fry2yj"
 "score": 57
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Suno：Blog（网页）
 - **原文链接**: [https://suno.com/blog/fundraising-announcement-may-2024](https://suno.com/blog/fundraising-announcement-may-2024)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmprbc2rf0ckgslnow7fry2yj](https://aihot.virxact.com/items/cmprbc2rf0ckgslnow7fry2yj)
+- **AIHOT 链接**: [https://aihot.news/items/cmprbc2rf0ckgslnow7fry2yj](https://aihot.news/items/cmprbc2rf0ckgslnow7fry2yj)

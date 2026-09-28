@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-27T17:41:13.450Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/election-safeguards-2026"
-"canonical_url": "https://aihot.virxact.com/items/cmpocoz6704yxslv4wth0r0jw"
+"canonical_url": "https://aihot.news/items/cmpocoz6704yxslv4wth0r0jw"
 "score": 58
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/election-safeguards-2026](https://openai.com/index/election-safeguards-2026)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpocoz6704yxslv4wth0r0jw](https://aihot.virxact.com/items/cmpocoz6704yxslv4wth0r0jw)
+- **AIHOT 链接**: [https://aihot.news/items/cmpocoz6704yxslv4wth0r0jw](https://aihot.news/items/cmpocoz6704yxslv4wth0r0jw)

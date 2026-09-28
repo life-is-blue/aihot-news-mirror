@@ -7,7 +7,7 @@
 "source_name": "Google Cloud：Databases（RSS）"
 "original_url": "https://cloud.google.com/blog/products/databases/deep-dive-on-\
   new-ai-powered-database-agents"
-"canonical_url": "https://aihot.virxact.com/items/cmsevo5m118dmro2e9d1ven6v"
+"canonical_url": "https://aihot.news/items/cmsevo5m118dmro2e9d1ven6v"
 "score": 60
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google Cloud 在 Agentic Data Cloud 发布中推出两款 AI 数据库智能体�
 
 - **来源**: Google Cloud：Databases（RSS）
 - **原文链接**: [https://cloud.google.com/blog/products/databases/deep-dive-on-new-ai-powered-database-agents](https://cloud.google.com/blog/products/databases/deep-dive-on-new-ai-powered-database-agents)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsevo5m118dmro2e9d1ven6v](https://aihot.virxact.com/items/cmsevo5m118dmro2e9d1ven6v)
+- **AIHOT 链接**: [https://aihot.news/items/cmsevo5m118dmro2e9d1ven6v](https://aihot.news/items/cmsevo5m118dmro2e9d1ven6v)

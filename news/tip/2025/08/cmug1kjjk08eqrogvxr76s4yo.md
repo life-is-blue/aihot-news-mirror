@@ -7,7 +7,7 @@
 "source_name": "OpenAI Developers（RSS）"
 "original_url": "https://developers.openai.com/cookbook/articles/gpt-oss/run-locally-ollama"
 "canonical_url": "https://aihot.news/items/cmug1kjjk08eqrogvxr76s4yo"
-"score": 78
+"score": 79
 "content_kind": "news"
 ---
 

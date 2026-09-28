@@ -7,7 +7,7 @@
 "source_name": "TechCrunch：AI（RSS）"
 "original_url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becomi\
   ng-a-safety-risk"
-"canonical_url": "https://aihot.virxact.com/items/cmslwy8bl04pdro0w7f4ogv7t"
+"canonical_url": "https://aihot.news/items/cmslwy8bl04pdro0w7f4ogv7t"
 "score": 79
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk](https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmslwy8bl04pdro0w7f4ogv7t](https://aihot.virxact.com/items/cmslwy8bl04pdro0w7f4ogv7t)
+- **AIHOT 链接**: [https://aihot.news/items/cmslwy8bl04pdro0w7f4ogv7t](https://aihot.news/items/cmslwy8bl04pdro0w7f4ogv7t)

@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-\
   an-open-30b-model-that-tops-benchmarks-in-both-english-and-german"
-"canonical_url": "https://aihot.virxact.com/items/cmrj6actv0651bilkm5pfz6ub"
+"canonical_url": "https://aihot.news/items/cmrj6actv0651bilkm5pfz6ub"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german](https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrj6actv0651bilkm5pfz6ub](https://aihot.virxact.com/items/cmrj6actv0651bilkm5pfz6ub)
+- **AIHOT 链接**: [https://aihot.news/items/cmrj6actv0651bilkm5pfz6ub](https://aihot.news/items/cmrj6actv0651bilkm5pfz6ub)

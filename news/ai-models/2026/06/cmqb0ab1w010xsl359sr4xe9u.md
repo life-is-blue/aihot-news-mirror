@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-12T14:12:33.314Z"
 "source_name": "X：MiniMax (@MiniMax_AI)"
 "original_url": "https://x.com/MiniMax_AI/status/2065436935188058208"
-"canonical_url": "https://aihot.virxact.com/items/cmqb0ab1w010xsl359sr4xe9u"
+"canonical_url": "https://aihot.news/items/cmqb0ab1w010xsl359sr4xe9u"
 "score": 81
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ MiniMax 发布开源权重模型 M3，约 428B 总参数、23B 激活参数，�
 
 - **来源**: X：MiniMax (@MiniMax_AI)
 - **原文链接**: [https://x.com/MiniMax_AI/status/2065436935188058208](https://x.com/MiniMax_AI/status/2065436935188058208)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqb0ab1w010xsl359sr4xe9u](https://aihot.virxact.com/items/cmqb0ab1w010xsl359sr4xe9u)
+- **AIHOT 链接**: [https://aihot.news/items/cmqb0ab1w010xsl359sr4xe9u](https://aihot.news/items/cmqb0ab1w010xsl359sr4xe9u)

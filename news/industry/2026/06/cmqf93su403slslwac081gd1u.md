@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-15T13:30:35.837Z"
 "source_name": "X：Rohan Paul (@rohanpaul_ai)"
 "original_url": "https://x.com/rohanpaul_ai/status/2066513228218150988"
-"canonical_url": "https://aihot.virxact.com/items/cmqf93su403slslwac081gd1u"
+"canonical_url": "https://aihot.news/items/cmqf93su403slslwac081gd1u"
 "score": 87
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Semafor报道称，美国白宫因担忧中国关联团体访问Anthropic的Myth
 
 - **来源**: X：Rohan Paul (@rohanpaul_ai)
 - **原文链接**: [https://x.com/rohanpaul_ai/status/2066513228218150988](https://x.com/rohanpaul_ai/status/2066513228218150988)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqf93su403slslwac081gd1u](https://aihot.virxact.com/items/cmqf93su403slslwac081gd1u)
+- **AIHOT 链接**: [https://aihot.news/items/cmqf93su403slslwac081gd1u](https://aihot.news/items/cmqf93su403slslwac081gd1u)

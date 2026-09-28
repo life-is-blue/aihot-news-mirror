@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-22T14:00:54.664Z"
 "source_name": "Gary Marcus：The Road to AI We Can Trust（RSS）"
 "original_url": "https://garymarcus.substack.com/p/this-one-weird-trick-might-cost-your"
-"canonical_url": "https://aihot.virxact.com/items/cmpgzmbtk0k0qsljwspb7j99d"
+"canonical_url": "https://aihot.news/items/cmpgzmbtk0k0qsljwspb7j99d"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Gary Marcus：The Road to AI We Can Trust（RSS）
 - **原文链接**: [https://garymarcus.substack.com/p/this-one-weird-trick-might-cost-your](https://garymarcus.substack.com/p/this-one-weird-trick-might-cost-your)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpgzmbtk0k0qsljwspb7j99d](https://aihot.virxact.com/items/cmpgzmbtk0k0qsljwspb7j99d)
+- **AIHOT 链接**: [https://aihot.news/items/cmpgzmbtk0k0qsljwspb7j99d](https://aihot.news/items/cmpgzmbtk0k0qsljwspb7j99d)

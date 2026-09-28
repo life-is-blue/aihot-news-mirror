@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-14T17:03:50.091Z"
 "source_name": "Google Blog：AI（RSS）"
 "original_url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome"
-"canonical_url": "https://aihot.virxact.com/items/cmnyvf72s00xysl0fnp2jpyo4"
+"canonical_url": "https://aihot.news/items/cmnyvf72s00xysl0fnp2jpyo4"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Chrome 浏览器新增 Skills 功能，支持用户发现、保存和重新组�
 
 - **来源**: Google Blog：AI（RSS）
 - **原文链接**: [https://blog.google/products-and-platforms/products/chrome/skills-in-chrome](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnyvf72s00xysl0fnp2jpyo4](https://aihot.virxact.com/items/cmnyvf72s00xysl0fnp2jpyo4)
+- **AIHOT 链接**: [https://aihot.news/items/cmnyvf72s00xysl0fnp2jpyo4](https://aihot.news/items/cmnyvf72s00xysl0fnp2jpyo4)

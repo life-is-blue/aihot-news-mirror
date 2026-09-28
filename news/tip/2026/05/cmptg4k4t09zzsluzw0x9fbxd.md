@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-31T07:16:11.712Z"
 "source_name": "X：阶跃星辰 StepFun (@StepFun_ai)"
 "original_url": "https://x.com/StepFun_ai/status/2060977545672335816"
-"canonical_url": "https://aihot.virxact.com/items/cmptg4k4t09zzsluzw0x9fbxd"
+"canonical_url": "https://aihot.news/items/cmptg4k4t09zzsluzw0x9fbxd"
 "score": 80
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：阶跃星辰 StepFun (@StepFun_ai)
 - **原文链接**: [https://x.com/StepFun_ai/status/2060977545672335816](https://x.com/StepFun_ai/status/2060977545672335816)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmptg4k4t09zzsluzw0x9fbxd](https://aihot.virxact.com/items/cmptg4k4t09zzsluzw0x9fbxd)
+- **AIHOT 链接**: [https://aihot.news/items/cmptg4k4t09zzsluzw0x9fbxd](https://aihot.news/items/cmptg4k4t09zzsluzw0x9fbxd)

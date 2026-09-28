@@ -6,7 +6,7 @@
 "discovered_at": "2026-01-21T17:05:15.000Z"
 "source_name": "Nathan Lambert：Interconnects（RSS）"
 "original_url": "https://www.interconnects.ai/p/get-good-at-agents"
-"canonical_url": "https://aihot.virxact.com/items/cmnxjn51n0052sl9o08wry8m8"
+"canonical_url": "https://aihot.news/items/cmnxjn51n0052sl9o08wry8m8"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ AI Agents 的能力正逼近关键临界点，其性能飞跃已超出传统工�
 
 - **来源**: Nathan Lambert：Interconnects（RSS）
 - **原文链接**: [https://www.interconnects.ai/p/get-good-at-agents](https://www.interconnects.ai/p/get-good-at-agents)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnxjn51n0052sl9o08wry8m8](https://aihot.virxact.com/items/cmnxjn51n0052sl9o08wry8m8)
+- **AIHOT 链接**: [https://aihot.news/items/cmnxjn51n0052sl9o08wry8m8](https://aihot.news/items/cmnxjn51n0052sl9o08wry8m8)

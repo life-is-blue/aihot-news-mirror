@@ -6,7 +6,7 @@
 "discovered_at": "2026-02-04T18:00:28.000Z"
 "source_name": "Nathan Lambert：Interconnects（RSS）"
 "original_url": "https://www.interconnects.ai/p/why-nvidia-builds-open-models-with"
-"canonical_url": "https://aihot.virxact.com/items/cmnxjn51m004ysl9owebb90vp"
+"canonical_url": "https://aihot.news/items/cmnxjn51m004ysl9owebb90vp"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Interconnects 第17期访谈中，Nvidia 副总裁 Bryan Catanzaro 系统回顾�
 
 - **来源**: Nathan Lambert：Interconnects（RSS）
 - **原文链接**: [https://www.interconnects.ai/p/why-nvidia-builds-open-models-with](https://www.interconnects.ai/p/why-nvidia-builds-open-models-with)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnxjn51m004ysl9owebb90vp](https://aihot.virxact.com/items/cmnxjn51m004ysl9owebb90vp)
+- **AIHOT 链接**: [https://aihot.news/items/cmnxjn51m004ysl9owebb90vp](https://aihot.news/items/cmnxjn51m004ysl9owebb90vp)

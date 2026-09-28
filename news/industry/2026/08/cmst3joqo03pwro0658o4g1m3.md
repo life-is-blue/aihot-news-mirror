@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-14T15:23:09.332Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/joining-spacex"
-"canonical_url": "https://aihot.virxact.com/items/cmst3joqo03pwro0658o4g1m3"
+"canonical_url": "https://aihot.news/items/cmst3joqo03pwro0658o4g1m3"
 "score": 68
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。合�
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/joining-spacex](https://cursor.com/blog/joining-spacex)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmst3joqo03pwro0658o4g1m3](https://aihot.virxact.com/items/cmst3joqo03pwro0658o4g1m3)
+- **AIHOT 链接**: [https://aihot.news/items/cmst3joqo03pwro0658o4g1m3](https://aihot.news/items/cmst3joqo03pwro0658o4g1m3)

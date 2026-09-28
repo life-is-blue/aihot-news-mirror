@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-03T19:40:20.155Z"
 "source_name": "X：Sundar Pichai (@sundarpichai)"
 "original_url": "https://x.com/sundarpichai/status/2062257242645393889"
-"canonical_url": "https://aihot.virxact.com/items/cmpyh12f30530slaxaxtiyhf3"
+"canonical_url": "https://aihot.news/items/cmpyh12f30530slaxaxtiyhf3"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Gemma 4 系列累计下载量突破1.5亿次，Google随之推出新成员Gemma 
 
 - **来源**: X：Sundar Pichai (@sundarpichai)
 - **原文链接**: [https://x.com/sundarpichai/status/2062257242645393889](https://x.com/sundarpichai/status/2062257242645393889)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpyh12f30530slaxaxtiyhf3](https://aihot.virxact.com/items/cmpyh12f30530slaxaxtiyhf3)
+- **AIHOT 链接**: [https://aihot.news/items/cmpyh12f30530slaxaxtiyhf3](https://aihot.news/items/cmpyh12f30530slaxaxtiyhf3)

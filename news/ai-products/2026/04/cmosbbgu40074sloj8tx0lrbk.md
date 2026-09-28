@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-08T12:00:00.000Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/bugbot-learning"
-"canonical_url": "https://aihot.virxact.com/items/cmosbbgu40074sloj8tx0lrbk"
+"canonical_url": "https://aihot.news/items/cmosbbgu40074sloj8tx0lrbk"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Bugbot 的 bug 解决率已从 2025 年 7 月正式推出时的 52% 提升至近
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/bugbot-learning](https://cursor.com/blog/bugbot-learning)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmosbbgu40074sloj8tx0lrbk](https://aihot.virxact.com/items/cmosbbgu40074sloj8tx0lrbk)
+- **AIHOT 链接**: [https://aihot.news/items/cmosbbgu40074sloj8tx0lrbk](https://aihot.news/items/cmosbbgu40074sloj8tx0lrbk)

@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/softbank-plans-ipo-for-new-ai-and-robo\
   tics-company-valued-at-up-to-100-billion"
-"canonical_url": "https://aihot.virxact.com/items/cmolg1knw02yjslc5cpn8uv6k"
+"canonical_url": "https://aihot.news/items/cmolg1knw02yjslc5cpn8uv6k"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/softbank-plans-ipo-for-new-ai-and-robotics-company-valued-at-up-to-100-billion](https://the-decoder.com/softbank-plans-ipo-for-new-ai-and-robotics-company-valued-at-up-to-100-billion)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmolg1knw02yjslc5cpn8uv6k](https://aihot.virxact.com/items/cmolg1knw02yjslc5cpn8uv6k)
+- **AIHOT 链接**: [https://aihot.news/items/cmolg1knw02yjslc5cpn8uv6k](https://aihot.news/items/cmolg1knw02yjslc5cpn8uv6k)

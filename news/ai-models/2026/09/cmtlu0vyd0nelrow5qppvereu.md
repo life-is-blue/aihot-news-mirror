@@ -7,7 +7,7 @@
 "source_name": "TechCrunch：AI（RSS）"
 "original_url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-po\
   werful-and-controversial-new-model"
-"canonical_url": "https://aihot.virxact.com/items/cmtlu0vyd0nelrow5qppvereu"
+"canonical_url": "https://aihot.news/items/cmtlu0vyd0nelrow5qppvereu"
 "score": 81
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenAI 发布最新模型 Astra，称其为迄今最强大模型，主打计算�
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model](https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtlu0vyd0nelrow5qppvereu](https://aihot.virxact.com/items/cmtlu0vyd0nelrow5qppvereu)
+- **AIHOT 链接**: [https://aihot.news/items/cmtlu0vyd0nelrow5qppvereu](https://aihot.news/items/cmtlu0vyd0nelrow5qppvereu)

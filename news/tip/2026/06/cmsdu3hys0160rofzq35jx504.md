@@ -7,7 +7,7 @@
 "source_name": "公众号：MiniMax（稀宇科技）"
 "original_url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247\
   488831&idx=1&sn=9dedbe83e4ba0b27e3853808e1a8dbbb"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu3hys0160rofzq35jx504"
+"canonical_url": "https://aihot.news/items/cmsdu3hys0160rofzq35jx504"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ MiniMax 上周五开源 M3 模型权重，并发布 MSA 稀疏注意力技术论
 
 - **来源**: 公众号：MiniMax（稀宇科技）
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247488831&idx=1&sn=9dedbe83e4ba0b27e3853808e1a8dbbb](https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247488831&idx=1&sn=9dedbe83e4ba0b27e3853808e1a8dbbb)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu3hys0160rofzq35jx504](https://aihot.virxact.com/items/cmsdu3hys0160rofzq35jx504)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu3hys0160rofzq35jx504](https://aihot.news/items/cmsdu3hys0160rofzq35jx504)

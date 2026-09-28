@@ -6,7 +6,7 @@
 "discovered_at": "2026-02-25T16:00:00.000Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/statement-department-of-war"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xugc00epslc3rhd1mynu"
+"canonical_url": "https://aihot.news/items/cmnw1xugc00epslc3rhd1mynu"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic CEO Dario Amodei声明，尽管Claude已广泛用于美军情报分析
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/statement-department-of-war](https://www.anthropic.com/news/statement-department-of-war)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xugc00epslc3rhd1mynu](https://aihot.virxact.com/items/cmnw1xugc00epslc3rhd1mynu)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xugc00epslc3rhd1mynu](https://aihot.news/items/cmnw1xugc00epslc3rhd1mynu)

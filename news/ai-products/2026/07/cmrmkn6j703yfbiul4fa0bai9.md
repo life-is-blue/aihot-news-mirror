@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-15T21:07:41.894Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-build-open-source"
-"canonical_url": "https://aihot.virxact.com/items/cmrmkn6j703yfbiul4fa0bai9"
+"canonical_url": "https://aihot.news/items/cmrmkn6j703yfbiul4fa0bai9"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI 已将 Grok Build 的源代码在 GitHub 上开源。Grok Build 是 SpaceXAI
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-build-open-source](https://x.ai/news/grok-build-open-source)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrmkn6j703yfbiul4fa0bai9](https://aihot.virxact.com/items/cmrmkn6j703yfbiul4fa0bai9)
+- **AIHOT 链接**: [https://aihot.news/items/cmrmkn6j703yfbiul4fa0bai9](https://aihot.news/items/cmrmkn6j703yfbiul4fa0bai9)

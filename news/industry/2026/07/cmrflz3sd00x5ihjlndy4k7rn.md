@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-11T00:10:33.917Z"
 "source_name": "The Verge：AI（RSS）"
 "original_url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes"
-"canonical_url": "https://aihot.virxact.com/items/cmrflz3sd00x5ihjlndy4k7rn"
+"canonical_url": "https://aihot.news/items/cmrflz3sd00x5ihjlndy4k7rn"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: The Verge：AI（RSS）
 - **原文链接**: [https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes](https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrflz3sd00x5ihjlndy4k7rn](https://aihot.virxact.com/items/cmrflz3sd00x5ihjlndy4k7rn)
+- **AIHOT 链接**: [https://aihot.news/items/cmrflz3sd00x5ihjlndy4k7rn](https://aihot.news/items/cmrflz3sd00x5ihjlndy4k7rn)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-15T00:00:00.000Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/canvas"
-"canonical_url": "https://aihot.virxact.com/items/cmosbbgu40072sloj9wolpbdp"
+"canonical_url": "https://aihot.news/items/cmosbbgu40072sloj9wolpbdp"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Cursor新增画布功能，可将信息转化为可视化、可交互的界面�
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/canvas](https://cursor.com/blog/canvas)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmosbbgu40072sloj9wolpbdp](https://aihot.virxact.com/items/cmosbbgu40072sloj9wolpbdp)
+- **AIHOT 链接**: [https://aihot.news/items/cmosbbgu40072sloj9wolpbdp](https://aihot.news/items/cmosbbgu40072sloj9wolpbdp)

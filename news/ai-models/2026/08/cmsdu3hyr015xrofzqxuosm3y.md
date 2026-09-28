@@ -7,7 +7,7 @@
 "source_name": "公众号：MiniMax（稀宇科技）"
 "original_url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247\
   488931&idx=1&sn=0506e1d52edd5166becf35f5ebd83a07"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu3hyr015xrofzqxuosm3y"
+"canonical_url": "https://aihot.news/items/cmsdu3hyr015xrofzqxuosm3y"
 "score": 75
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ MiniMax 正式开源新一代通用视频模型 H3，可统一理解文本、图
 
 - **来源**: 公众号：MiniMax（稀宇科技）
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247488931&idx=1&sn=0506e1d52edd5166becf35f5ebd83a07](https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247488931&idx=1&sn=0506e1d52edd5166becf35f5ebd83a07)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu3hyr015xrofzqxuosm3y](https://aihot.virxact.com/items/cmsdu3hyr015xrofzqxuosm3y)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu3hyr015xrofzqxuosm3y](https://aihot.news/items/cmsdu3hyr015xrofzqxuosm3y)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-07T12:00:00.000Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/announcements/agentic-web-tools"
-"canonical_url": "https://aihot.virxact.com/items/cmq9zl2hb0gpcslldo641g33f"
+"canonical_url": "https://aihot.news/items/cmq9zl2hb0gpcslldo641g33f"
 "score": 56
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter 向所有支持工具调用的模型开放自主网络搜索与页面
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/announcements/agentic-web-tools](https://openrouter.ai/blog/announcements/agentic-web-tools)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq9zl2hb0gpcslldo641g33f](https://aihot.virxact.com/items/cmq9zl2hb0gpcslldo641g33f)
+- **AIHOT 链接**: [https://aihot.news/items/cmq9zl2hb0gpcslldo641g33f](https://aihot.news/items/cmq9zl2hb0gpcslldo641g33f)

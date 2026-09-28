@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-05T15:19:02.961Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/finance-agents"
-"canonical_url": "https://aihot.virxact.com/items/cmosrxflg00yoslpl1a1yr8y9"
+"canonical_url": "https://aihot.news/items/cmosrxflg00yoslpl1a1yr8y9"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic发布了十个针对金融服务耗时任务的预置智能体模板�
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/finance-agents](https://www.anthropic.com/news/finance-agents)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmosrxflg00yoslpl1a1yr8y9](https://aihot.virxact.com/items/cmosrxflg00yoslpl1a1yr8y9)
+- **AIHOT 链接**: [https://aihot.news/items/cmosrxflg00yoslpl1a1yr8y9](https://aihot.news/items/cmosrxflg00yoslpl1a1yr8y9)

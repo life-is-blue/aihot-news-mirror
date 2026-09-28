@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-28T18:35:40.238Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/series-h"
-"canonical_url": "https://aihot.virxact.com/items/cmppu2sce013dslm6rliijffw"
+"canonical_url": "https://aihot.news/items/cmppu2sce013dslm6rliijffw"
 "score": 81
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 宣布完成由 Altimeter Capital 等领投的 650 亿美元 H 轮融�
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/series-h](https://www.anthropic.com/news/series-h)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmppu2sce013dslm6rliijffw](https://aihot.virxact.com/items/cmppu2sce013dslm6rliijffw)
+- **AIHOT 链接**: [https://aihot.news/items/cmppu2sce013dslm6rliijffw](https://aihot.news/items/cmppu2sce013dslm6rliijffw)

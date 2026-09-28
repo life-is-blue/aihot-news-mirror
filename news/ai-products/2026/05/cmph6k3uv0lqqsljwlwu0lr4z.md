@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-22T17:15:04.487Z"
 "source_name": "X：Google AI (@GoogleAI)"
 "original_url": "https://x.com/GoogleAI/status/2057871583843135978"
-"canonical_url": "https://aihot.virxact.com/items/cmph6k3uv0lqqsljwlwu0lr4z"
+"canonical_url": "https://aihot.news/items/cmph6k3uv0lqqsljwlwu0lr4z"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：Google AI (@GoogleAI)
 - **原文链接**: [https://x.com/GoogleAI/status/2057871583843135978](https://x.com/GoogleAI/status/2057871583843135978)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmph6k3uv0lqqsljwlwu0lr4z](https://aihot.virxact.com/items/cmph6k3uv0lqqsljwlwu0lr4z)
+- **AIHOT 链接**: [https://aihot.news/items/cmph6k3uv0lqqsljwlwu0lr4z](https://aihot.news/items/cmph6k3uv0lqqsljwlwu0lr4z)

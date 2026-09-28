@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-24T18:35:00.940Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/building-effective-human-agent-teams"
-"canonical_url": "https://aihot.virxact.com/items/cmqsey8zk02hdslfu9oh70135"
+"canonical_url": "https://aihot.news/items/cmqsey8zk02hdslfu9oh70135"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 推出 Claude Tag，支持多用户与同一 AI 智能体在同一工�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/building-effective-human-agent-teams](https://claude.com/blog/building-effective-human-agent-teams)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqsey8zk02hdslfu9oh70135](https://aihot.virxact.com/items/cmqsey8zk02hdslfu9oh70135)
+- **AIHOT 链接**: [https://aihot.news/items/cmqsey8zk02hdslfu9oh70135](https://aihot.news/items/cmqsey8zk02hdslfu9oh70135)

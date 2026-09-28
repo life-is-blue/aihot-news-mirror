@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-24T03:50:39.495Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2607.21461"
-"canonical_url": "https://aihot.virxact.com/items/cmryek7m200akrolgoaqospqi"
+"canonical_url": "https://aihot.news/items/cmryek7m200akrolgoaqospqi"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ AREX 是一系列递归自改进（RSI）深度研究智能体，通过内层研
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2607.21461](https://arxiv.org/abs/2607.21461)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmryek7m200akrolgoaqospqi](https://aihot.virxact.com/items/cmryek7m200akrolgoaqospqi)
+- **AIHOT 链接**: [https://aihot.news/items/cmryek7m200akrolgoaqospqi](https://aihot.news/items/cmryek7m200akrolgoaqospqi)

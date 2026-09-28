@@ -6,7 +6,7 @@
 "discovered_at": "2025-12-01T10:52:21.000Z"
 "source_name": "公众号：DeepSeek（深度求索）"
 "original_url": "https://mp.weixin.qq.com/s/ohsU1xRrYu9xcVD7qu5lNw"
-"canonical_url": "https://aihot.virxact.com/items/cmq2otygj01qksl6n32u2h0y3"
+"canonical_url": "https://aihot.news/items/cmq2otygj01qksl6n32u2h0y3"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ DeepSeek 发布正式版 V3.2 与长思考增强版 V3.2-Speciale。V3.2 在推�
 
 - **来源**: 公众号：DeepSeek（深度求索）
 - **原文链接**: [https://mp.weixin.qq.com/s/ohsU1xRrYu9xcVD7qu5lNw](https://mp.weixin.qq.com/s/ohsU1xRrYu9xcVD7qu5lNw)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq2otygj01qksl6n32u2h0y3](https://aihot.virxact.com/items/cmq2otygj01qksl6n32u2h0y3)
+- **AIHOT 链接**: [https://aihot.news/items/cmq2otygj01qksl6n32u2h0y3](https://aihot.news/items/cmq2otygj01qksl6n32u2h0y3)

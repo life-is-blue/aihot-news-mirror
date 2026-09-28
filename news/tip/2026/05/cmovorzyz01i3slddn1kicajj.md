@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-07T16:14:13.567Z"
 "source_name": "Nathan Lambert：Interconnects（RSS）"
 "original_url": "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs"
-"canonical_url": "https://aihot.virxact.com/items/cmovorzyz01i3slddn1kicajj"
+"canonical_url": "https://aihot.news/items/cmovorzyz01i3slddn1kicajj"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Nathan Lambert：Interconnects（RSS）
 - **原文链接**: [https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs](https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmovorzyz01i3slddn1kicajj](https://aihot.virxact.com/items/cmovorzyz01i3slddn1kicajj)
+- **AIHOT 链接**: [https://aihot.news/items/cmovorzyz01i3slddn1kicajj](https://aihot.news/items/cmovorzyz01i3slddn1kicajj)

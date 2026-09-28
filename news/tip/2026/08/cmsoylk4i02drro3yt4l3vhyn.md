@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-11T17:53:35.360Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://www.tomtunguz.com/a-winner-in-every-category"
-"canonical_url": "https://aihot.virxact.com/items/cmsoylk4i02drro3yt4l3vhyn"
+"canonical_url": "https://aihot.news/items/cmsoylk4i02drro3yt4l3vhyn"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ SaaS 估值整体承压，但每个细分赛道都跑出了 AI 龙头：CrowdStr
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://www.tomtunguz.com/a-winner-in-every-category](https://www.tomtunguz.com/a-winner-in-every-category)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsoylk4i02drro3yt4l3vhyn](https://aihot.virxact.com/items/cmsoylk4i02drro3yt4l3vhyn)
+- **AIHOT 链接**: [https://aihot.news/items/cmsoylk4i02drro3yt4l3vhyn](https://aihot.news/items/cmsoylk4i02drro3yt4l3vhyn)

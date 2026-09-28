@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-19T15:31:13.212Z"
 "source_name": "X：OpenRouter (@OpenRouter)"
 "original_url": "https://x.com/OpenRouter/status/2056758698400452705"
-"canonical_url": "https://aihot.virxact.com/items/cmpcsj6sz050yslae7rv43rvq"
+"canonical_url": "https://aihot.news/items/cmpcsj6sz050yslae7rv43rvq"
 "score": 68
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ OpenRouter上的任何工具调用模型现在都可以自主调用网络搜索�
 
 - **来源**: X：OpenRouter (@OpenRouter)
 - **原文链接**: [https://x.com/OpenRouter/status/2056758698400452705](https://x.com/OpenRouter/status/2056758698400452705)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpcsj6sz050yslae7rv43rvq](https://aihot.virxact.com/items/cmpcsj6sz050yslae7rv43rvq)
+- **AIHOT 链接**: [https://aihot.news/items/cmpcsj6sz050yslae7rv43rvq](https://aihot.news/items/cmpcsj6sz050yslae7rv43rvq)

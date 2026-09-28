@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-17T05:05:39.753Z"
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/0/965/335.htm"
-"canonical_url": "https://aihot.virxact.com/items/cmqhly7hf0068slf0ujjfjo0x"
+"canonical_url": "https://aihot.news/items/cmqhly7hf0068slf0ujjfjo0x"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 在 2026 年第一季度现金消耗达 37 亿美元，超过同期 57 �
 
 - **来源**: IT之家（RSS）
 - **原文链接**: [https://www.ithome.com/0/965/335.htm](https://www.ithome.com/0/965/335.htm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqhly7hf0068slf0ujjfjo0x](https://aihot.virxact.com/items/cmqhly7hf0068slf0ujjfjo0x)
+- **AIHOT 链接**: [https://aihot.news/items/cmqhly7hf0068slf0ujjfjo0x](https://aihot.news/items/cmqhly7hf0068slf0ujjfjo0x)

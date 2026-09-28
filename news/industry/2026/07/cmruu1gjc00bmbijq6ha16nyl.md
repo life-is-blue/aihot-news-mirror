@@ -7,7 +7,7 @@
 "source_name": "TechCrunch：AI（RSS）"
 "original_url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-again\
   st-chinese-ai-models-over-ip-theft"
-"canonical_url": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl"
+"canonical_url": "https://aihot.news/items/cmruu1gjc00bmbijq6ha16nyl"
 "score": 74
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft](https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl](https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl)
+- **AIHOT 链接**: [https://aihot.news/items/cmruu1gjc00bmbijq6ha16nyl](https://aihot.news/items/cmruu1gjc00bmbijq6ha16nyl)

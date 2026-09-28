@@ -6,8 +6,8 @@
 "discovered_at": "2026-09-02T17:01:34.540Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents"
-"canonical_url": "https://aihot.virxact.com/items/cmtkcffah018zrog0zokk6s30"
-"score": 78
+"canonical_url": "https://aihot.news/items/cmtkcffah018zrog0zokk6s30"
+"score": 79
 "content_kind": "news"
 ---
 
@@ -17,4 +17,4 @@ Anthropic 发布构建电商智能体的指南，总结架构、延迟与成本�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/the-anatomy-of-effective-commerce-agents](https://claude.com/blog/the-anatomy-of-effective-commerce-agents)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtkcffah018zrog0zokk6s30](https://aihot.virxact.com/items/cmtkcffah018zrog0zokk6s30)
+- **AIHOT 链接**: [https://aihot.news/items/cmtkcffah018zrog0zokk6s30](https://aihot.news/items/cmtkcffah018zrog0zokk6s30)

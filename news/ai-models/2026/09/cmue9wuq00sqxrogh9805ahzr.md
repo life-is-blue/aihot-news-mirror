@@ -8,7 +8,7 @@
 "source_name": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
 "original_url": "https://x.com/AravSrinivas/status/2102780186202972254"
 "canonical_url": "https://aihot.news/items/cmue9wuq00sqxrogh9805ahzr"
-"score": 68
+"score": 69
 "content_kind": "news"
 ---
 

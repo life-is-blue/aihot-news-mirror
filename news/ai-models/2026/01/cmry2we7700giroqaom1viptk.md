@@ -6,7 +6,7 @@
 "discovered_at": "2026-01-16T03:11:22.000Z"
 "source_name": "X：百川智能 (@BaichuanAI)"
 "original_url": "https://x.com/BaichuanAI/status/2011999690938859745"
-"canonical_url": "https://aihot.virxact.com/items/cmry2we7700giroqaom1viptk"
+"canonical_url": "https://aihot.news/items/cmry2we7700giroqaom1viptk"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：百川智能 (@BaichuanAI)
 - **原文链接**: [https://x.com/BaichuanAI/status/2011999690938859745](https://x.com/BaichuanAI/status/2011999690938859745)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmry2we7700giroqaom1viptk](https://aihot.virxact.com/items/cmry2we7700giroqaom1viptk)
+- **AIHOT 链接**: [https://aihot.news/items/cmry2we7700giroqaom1viptk](https://aihot.news/items/cmry2we7700giroqaom1viptk)

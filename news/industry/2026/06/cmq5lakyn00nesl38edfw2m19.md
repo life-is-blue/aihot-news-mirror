@@ -7,7 +7,7 @@
 "source_name": "Apple：Newsroom（RSS）"
 "original_url": "https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-dela\
   yed-in-eu-for-ios-27-and-ipados-27"
-"canonical_url": "https://aihot.virxact.com/items/cmq5lakyn00nesl38edfw2m19"
+"canonical_url": "https://aihot.news/items/cmq5lakyn00nesl38edfw2m19"
 "score": 69
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Apple：Newsroom（RSS）
 - **原文链接**: [https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27](https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq5lakyn00nesl38edfw2m19](https://aihot.virxact.com/items/cmq5lakyn00nesl38edfw2m19)
+- **AIHOT 链接**: [https://aihot.news/items/cmq5lakyn00nesl38edfw2m19](https://aihot.news/items/cmq5lakyn00nesl38edfw2m19)

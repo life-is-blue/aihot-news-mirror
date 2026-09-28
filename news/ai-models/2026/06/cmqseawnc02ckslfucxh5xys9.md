@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-24T18:17:05.354Z"
 "source_name": "X：Greg Brockman (@gdb)"
 "original_url": "https://x.com/gdb/status/2069845493199597944"
-"canonical_url": "https://aihot.virxact.com/items/cmqseawnc02ckslfucxh5xys9"
+"canonical_url": "https://aihot.news/items/cmqseawnc02ckslfucxh5xys9"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 推出 GPT-5.5 Instant 新版本，能更好理解问题意图、处理�
 
 - **来源**: X：Greg Brockman (@gdb)
 - **原文链接**: [https://x.com/gdb/status/2069845493199597944](https://x.com/gdb/status/2069845493199597944)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqseawnc02ckslfucxh5xys9](https://aihot.virxact.com/items/cmqseawnc02ckslfucxh5xys9)
+- **AIHOT 链接**: [https://aihot.news/items/cmqseawnc02ckslfucxh5xys9](https://aihot.news/items/cmqseawnc02ckslfucxh5xys9)

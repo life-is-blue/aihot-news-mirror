@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-27T16:46:29.000Z"
 "source_name": "CMU：Machine Learning Blog"
 "original_url": "https://blog.ml.cmu.edu/2026/04/27/arfbench"
-"canonical_url": "https://aihot.virxact.com/items/cmoi4t62r00q0sle9i02ni14q"
+"canonical_url": "https://aihot.news/items/cmoi4t62r00q0sle9i02ni14q"
 "score": 58
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: CMU：Machine Learning Blog
 - **原文链接**: [https://blog.ml.cmu.edu/2026/04/27/arfbench](https://blog.ml.cmu.edu/2026/04/27/arfbench)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoi4t62r00q0sle9i02ni14q](https://aihot.virxact.com/items/cmoi4t62r00q0sle9i02ni14q)
+- **AIHOT 链接**: [https://aihot.news/items/cmoi4t62r00q0sle9i02ni14q](https://aihot.news/items/cmoi4t62r00q0sle9i02ni14q)

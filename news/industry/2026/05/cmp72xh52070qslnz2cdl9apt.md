@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-15T15:35:47.004Z"
 "source_name": "X：Microsoft Research (@MSFTResearch)"
 "original_url": "https://x.com/MSFTResearch/status/2055303919497089337"
-"canonical_url": "https://aihot.virxact.com/items/cmp72xh52070qslnz2cdl9apt"
+"canonical_url": "https://aihot.news/items/cmp72xh52070qslnz2cdl9apt"
 "score": 67
 "content_kind": "news"
 ---
@@ -24,4 +24,4 @@
 
 - **来源**: X：Microsoft Research (@MSFTResearch)
 - **原文链接**: [https://x.com/MSFTResearch/status/2055303919497089337](https://x.com/MSFTResearch/status/2055303919497089337)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp72xh52070qslnz2cdl9apt](https://aihot.virxact.com/items/cmp72xh52070qslnz2cdl9apt)
+- **AIHOT 链接**: [https://aihot.news/items/cmp72xh52070qslnz2cdl9apt](https://aihot.news/items/cmp72xh52070qslnz2cdl9apt)

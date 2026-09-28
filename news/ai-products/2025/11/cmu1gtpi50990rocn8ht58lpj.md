@@ -8,7 +8,7 @@
 "original_url": "https://www.together.ai/blog/flux-2-multi-reference-image-gene\
   ration-now-available-on-together-ai"
 "canonical_url": "https://aihot.news/items/cmu1gtpi50990rocn8ht58lpj"
-"score": 63
+"score": 64
 "content_kind": "news"
 ---
 

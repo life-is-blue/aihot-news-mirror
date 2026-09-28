@@ -7,7 +7,7 @@
 "source_name": "公众号：小米 MiMo"
 "original_url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247\
   484770&idx=1&sn=d73555bb9ccb345204f0e86cb567c361"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu2j0400yjrofzgcmscgat"
+"canonical_url": "https://aihot.news/items/cmsdu2j0400yjrofzgcmscgat"
 "score": 84
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Xiaomi MiMo-V2.5-Pro 的 UltraSpeed 模式与 TileRT 联合发布，让 1T 参�
 
 - **来源**: 公众号：小米 MiMo
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484770&idx=1&sn=d73555bb9ccb345204f0e86cb567c361](https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484770&idx=1&sn=d73555bb9ccb345204f0e86cb567c361)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu2j0400yjrofzgcmscgat](https://aihot.virxact.com/items/cmsdu2j0400yjrofzgcmscgat)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu2j0400yjrofzgcmscgat](https://aihot.news/items/cmsdu2j0400yjrofzgcmscgat)

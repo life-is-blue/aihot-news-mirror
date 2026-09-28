@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-14T15:33:18.756Z"
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/gemini-robotics-er-1-6"
-"canonical_url": "https://aihot.virxact.com/items/cmnys6sen00iwsl0foeekwbol"
+"canonical_url": "https://aihot.news/items/cmnys6sen00iwsl0foeekwbol"
 "score": 68
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Gemini Robotics-ER 1.6 正式发布，通过增强具身推理能力为真实世
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/gemini-robotics-er-1-6](https://deepmind.google/blog/gemini-robotics-er-1-6)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnys6sen00iwsl0foeekwbol](https://aihot.virxact.com/items/cmnys6sen00iwsl0foeekwbol)
+- **AIHOT 链接**: [https://aihot.news/items/cmnys6sen00iwsl0foeekwbol](https://aihot.news/items/cmnys6sen00iwsl0foeekwbol)

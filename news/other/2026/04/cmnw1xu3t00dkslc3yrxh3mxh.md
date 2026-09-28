@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-01T16:00:00.000Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/harnessing-claudes-intelligence"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xu3t00dkslc3yrxh3mxh"
+"canonical_url": "https://aihot.news/items/cmnw1xu3t00dkslc3yrxh3mxh"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 分享构建 Claude 应用的三大实践：使用 Claude 已掌握的
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/harnessing-claudes-intelligence](https://claude.com/blog/harnessing-claudes-intelligence)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xu3t00dkslc3yrxh3mxh](https://aihot.virxact.com/items/cmnw1xu3t00dkslc3yrxh3mxh)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xu3t00dkslc3yrxh3mxh](https://aihot.news/items/cmnw1xu3t00dkslc3yrxh3mxh)

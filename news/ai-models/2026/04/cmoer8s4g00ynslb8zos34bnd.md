@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-25T19:51:10.511Z"
 "source_name": "X：swyx (@swyx)"
 "original_url": "https://x.com/swyx/status/2048126046487322835"
-"canonical_url": "https://aihot.virxact.com/items/cmoer8s4g00ynslb8zos34bnd"
+"canonical_url": "https://aihot.news/items/cmoer8s4g00ynslb8zos34bnd"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ DeepSeek团队正式推出并开源了DeepSeek-V4预览版模型，标志着高�
 
 - **来源**: X：swyx (@swyx)
 - **原文链接**: [https://x.com/swyx/status/2048126046487322835](https://x.com/swyx/status/2048126046487322835)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoer8s4g00ynslb8zos34bnd](https://aihot.virxact.com/items/cmoer8s4g00ynslb8zos34bnd)
+- **AIHOT 链接**: [https://aihot.news/items/cmoer8s4g00ynslb8zos34bnd](https://aihot.news/items/cmoer8s4g00ynslb8zos34bnd)

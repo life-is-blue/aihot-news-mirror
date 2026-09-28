@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-11T18:25:29.000Z"
 "source_name": "Linear：Now（RSS）"
 "original_url": "https://linear.app/now/coding-sessions-for-linear-agent"
-"canonical_url": "https://aihot.virxact.com/items/cms3dr22l0azuro3faln281vt"
+"canonical_url": "https://aihot.news/items/cms3dr22l0azuro3faln281vt"
 "score": 65
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Linear Agent 推出编码会话、自动分类和 Diffs 代码审查，使智能
 
 - **来源**: Linear：Now（RSS）
 - **原文链接**: [https://linear.app/now/coding-sessions-for-linear-agent](https://linear.app/now/coding-sessions-for-linear-agent)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3dr22l0azuro3faln281vt](https://aihot.virxact.com/items/cms3dr22l0azuro3faln281vt)
+- **AIHOT 链接**: [https://aihot.news/items/cms3dr22l0azuro3faln281vt](https://aihot.news/items/cms3dr22l0azuro3faln281vt)

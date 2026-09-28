@@ -6,7 +6,7 @@
 "discovered_at": "2026-02-03T17:40:14.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhak009kslxx02nr6zfs"
+"canonical_url": "https://aihot.news/items/cmoegbhak009kslxx02nr6zfs"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ H公司在Hugging Face发布博客，正式推出新一代模型Holo2。该模�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b](https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhak009kslxx02nr6zfs](https://aihot.virxact.com/items/cmoegbhak009kslxx02nr6zfs)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhak009kslxx02nr6zfs](https://aihot.news/items/cmoegbhak009kslxx02nr6zfs)

@@ -7,7 +7,7 @@
 "source_name": "Google Blog：AI（RSS）"
 "original_url": "https://blog.google/innovation-and-ai/models-and-research/goog\
   le-deepmind/tips-prompt-writing-project-genie"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsxt6m0083sltebptj7eyb"
+"canonical_url": "https://aihot.news/items/cmnwsxt6m0083sltebptj7eyb"
 "score": null
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google DeepMind 分享 Project Genie 使用指南，提供 4 个提示词写作�
 
 - **来源**: Google Blog：AI（RSS）
 - **原文链接**: [https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsxt6m0083sltebptj7eyb](https://aihot.virxact.com/items/cmnwsxt6m0083sltebptj7eyb)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsxt6m0083sltebptj7eyb](https://aihot.news/items/cmnwsxt6m0083sltebptj7eyb)

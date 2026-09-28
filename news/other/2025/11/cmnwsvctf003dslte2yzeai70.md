@@ -6,7 +6,7 @@
 "discovered_at": "2025-11-12T02:46:43.000Z"
 "source_name": "Ethan Mollick：One Useful Thing（RSS）"
 "original_url": "https://www.oneusefulthing.org/p/giving-your-ai-a-job-interview"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsvctf003dslte2yzeai70"
+"canonical_url": "https://aihot.news/items/cmnwsvctf003dslte2yzeai70"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ AI建议愈发关键，亟需建立系统化评估机制。通过工作面试般
 
 - **来源**: Ethan Mollick：One Useful Thing（RSS）
 - **原文链接**: [https://www.oneusefulthing.org/p/giving-your-ai-a-job-interview](https://www.oneusefulthing.org/p/giving-your-ai-a-job-interview)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsvctf003dslte2yzeai70](https://aihot.virxact.com/items/cmnwsvctf003dslte2yzeai70)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsvctf003dslte2yzeai70](https://aihot.news/items/cmnwsvctf003dslte2yzeai70)

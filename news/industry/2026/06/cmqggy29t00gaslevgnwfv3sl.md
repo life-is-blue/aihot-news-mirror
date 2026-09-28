@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/deepseek-takes-outside-money-for-the-f\
   irst-time-at-a-50-billion-valuation"
-"canonical_url": "https://aihot.virxact.com/items/cmqggy29t00gaslevgnwfv3sl"
+"canonical_url": "https://aihot.news/items/cmqggy29t00gaslevgnwfv3sl"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/deepseek-takes-outside-money-for-the-first-time-at-a-50-billion-valuation](https://the-decoder.com/deepseek-takes-outside-money-for-the-first-time-at-a-50-billion-valuation)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqggy29t00gaslevgnwfv3sl](https://aihot.virxact.com/items/cmqggy29t00gaslevgnwfv3sl)
+- **AIHOT 链接**: [https://aihot.news/items/cmqggy29t00gaslevgnwfv3sl](https://aihot.news/items/cmqggy29t00gaslevgnwfv3sl)

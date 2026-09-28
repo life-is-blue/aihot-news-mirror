@@ -1,6 +1,5 @@
 ---
-"title": "Microsoft Research 开源 Orchard 智能体框架，Orchard-SWE 以约 3B 激活参数在 SWE-bench
-  Verified 达 69.7%"
+"title": "微软开源 Orchard 框架：小参数模型在 SWE-bench 逼近前沿性能"
 "aihot_id": "cmtyn6l7j0006rorjc3gpsi9j"
 "aihot_category": "ai-models"
 "published_at": "2026-08-03T16:00:00.000Z"
@@ -9,13 +8,13 @@
 "original_url": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-\
   framework-for-scalable-agentic-ai"
 "canonical_url": "https://aihot.news/items/cmtyn6l7j0006rorjc3gpsi9j"
-"score": 65
+"score": 82
 "content_kind": "news"
 ---
 
-# Microsoft Research 开源 Orchard 智能体框架，Orchard-SWE 以约 3B 激活参数在 SWE-bench Verified 达 69.7%
+# 微软开源 Orchard 框架：小参数模型在 SWE-bench 逼近前沿性能
 
-Microsoft Research 发布开源智能体框架 Orchard，核心是可复用的 Kubernetes 环境服务 Orchard Env，支持软件工程、网页导航和个人助理三类智能体的数据蒸馏、强化学习与评估，并可直接在 Codex、OpenClaw、ZeroClaw 等真实部署 harness 内训练。
+微软研究院推出开源智能体框架 Orchard，核心组件为可复用的环境服务 Orchard Env。该框架支持在 Codex、OpenClaw 等真实部署环境中直接训练和评估智能体。发布的三个领域配方中，Orchard-SWE 仅使用约 30 亿活跃参数的开源权重模型，在 SWE-bench Verified 基准上达到 69.7%（结合价值模型重排序可达 73.0%），接近参数量大 10 倍以上的前沿系统。项目同时开放了训练数据与评估方法。
 
 - **来源**: Microsoft Research 博客（RSS）
 - **原文链接**: [https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai](https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai)

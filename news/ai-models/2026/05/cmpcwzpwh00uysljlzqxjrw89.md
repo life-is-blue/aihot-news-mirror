@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-19T17:36:05.756Z"
 "source_name": "X：Testing Catalog (@testingcatalog)"
 "original_url": "https://x.com/testingcatalog/status/2056787680944406538"
-"canonical_url": "https://aihot.virxact.com/items/cmpcwzpwh00uysljlzqxjrw89"
+"canonical_url": "https://aihot.news/items/cmpcwzpwh00uysljlzqxjrw89"
 "score": 75
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ GEMINI OMNI PRO 即将推出 🤩
 
 - **来源**: X：Testing Catalog (@testingcatalog)
 - **原文链接**: [https://x.com/testingcatalog/status/2056787680944406538](https://x.com/testingcatalog/status/2056787680944406538)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpcwzpwh00uysljlzqxjrw89](https://aihot.virxact.com/items/cmpcwzpwh00uysljlzqxjrw89)
+- **AIHOT 链接**: [https://aihot.news/items/cmpcwzpwh00uysljlzqxjrw89](https://aihot.news/items/cmpcwzpwh00uysljlzqxjrw89)

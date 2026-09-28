@@ -7,7 +7,7 @@
 "source_name": "DeepSeek：API 更新日志"
 "original_url": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-09-10"
 "canonical_url": "https://aihot.news/items/cmtv48yni0oq5rorpf4o74549"
-"score": 79
+"score": 80
 "content_kind": "news"
 ---
 

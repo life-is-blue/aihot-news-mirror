@@ -7,7 +7,7 @@
 "source_name": "Google Cloud：Databases（RSS）"
 "original_url": "https://cloud.google.com/blog/products/data-analytics/new-data\
   -agents-across-the-agentic-data-cloud"
-"canonical_url": "https://aihot.virxact.com/items/cms3dqo6t0axlro3fan11wlgb"
+"canonical_url": "https://aihot.news/items/cms3dqo6t0axlro3fan11wlgb"
 "score": 61
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google Cloud 发布一系列 Data Agent 新工具，帮助开发者利用企业�
 
 - **来源**: Google Cloud：Databases（RSS）
 - **原文链接**: [https://cloud.google.com/blog/products/data-analytics/new-data-agents-across-the-agentic-data-cloud](https://cloud.google.com/blog/products/data-analytics/new-data-agents-across-the-agentic-data-cloud)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3dqo6t0axlro3fan11wlgb](https://aihot.virxact.com/items/cms3dqo6t0axlro3fan11wlgb)
+- **AIHOT 链接**: [https://aihot.news/items/cms3dqo6t0axlro3fan11wlgb](https://aihot.news/items/cms3dqo6t0axlro3fan11wlgb)

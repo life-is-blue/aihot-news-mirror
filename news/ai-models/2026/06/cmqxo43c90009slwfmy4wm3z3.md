@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-28T10:50:34.403Z"
 "source_name": "X：Elon Musk (@elonmusk, xAI)"
 "original_url": "https://x.com/elonmusk/status/2071184354756477041"
-"canonical_url": "https://aihot.virxact.com/items/cmqxo43c90009slwfmy4wm3z3"
+"canonical_url": "https://aihot.news/items/cmqxo43c90009slwfmy4wm3z3"
 "score": 70
 "content_kind": "news"
 ---
@@ -23,4 +23,4 @@ Grok 4.5，基于我们的1.5T V9基础模型，并在补充训练中加入Curso
 
 - **来源**: X：Elon Musk (@elonmusk, xAI)
 - **原文链接**: [https://x.com/elonmusk/status/2071184354756477041](https://x.com/elonmusk/status/2071184354756477041)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqxo43c90009slwfmy4wm3z3](https://aihot.virxact.com/items/cmqxo43c90009slwfmy4wm3z3)
+- **AIHOT 链接**: [https://aihot.news/items/cmqxo43c90009slwfmy4wm3z3](https://aihot.news/items/cmqxo43c90009slwfmy4wm3z3)

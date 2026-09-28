@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-15T18:09:53.040Z"
 "source_name": "X：Thinking Machines (@thinkymachines)"
 "original_url": "https://x.com/thinkymachines/status/2077454609551921208"
-"canonical_url": "https://aihot.virxact.com/items/cmrmeaixl05bdbivcipzbkgk8"
+"canonical_url": "https://aihot.news/items/cmrmeaixl05bdbivcipzbkgk8"
 "score": 70
 "content_kind": "news"
 ---
@@ -23,4 +23,4 @@ https://thinkingmachines.ai/news/introducing-inkling/
 
 - **来源**: X：Thinking Machines (@thinkymachines)
 - **原文链接**: [https://x.com/thinkymachines/status/2077454609551921208](https://x.com/thinkymachines/status/2077454609551921208)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrmeaixl05bdbivcipzbkgk8](https://aihot.virxact.com/items/cmrmeaixl05bdbivcipzbkgk8)
+- **AIHOT 链接**: [https://aihot.news/items/cmrmeaixl05bdbivcipzbkgk8](https://aihot.news/items/cmrmeaixl05bdbivcipzbkgk8)

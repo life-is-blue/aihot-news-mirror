@@ -7,8 +7,8 @@
 "source_name": "Google Developers Blog（RSS）"
 "original_url": "https://developers.googleblog.com/4-engineering-patterns-behin\
   d-the-strongest-ai-agents-challenge-submissions"
-"canonical_url": "https://aihot.virxact.com/items/cmtkbbn6q01j6roz54e8g5zec"
-"score": 61
+"canonical_url": "https://aihot.news/items/cmtkbbn6q01j6roz54e8g5zec"
+"score": 62
 "content_kind": "news"
 ---
 
@@ -18,4 +18,4 @@ Google 复盘 AI Agents Challenge 赛事，从各赛道头部提交中提炼出�
 
 - **来源**: Google Developers Blog（RSS）
 - **原文链接**: [https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions](https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtkbbn6q01j6roz54e8g5zec](https://aihot.virxact.com/items/cmtkbbn6q01j6roz54e8g5zec)
+- **AIHOT 链接**: [https://aihot.news/items/cmtkbbn6q01j6roz54e8g5zec](https://aihot.news/items/cmtkbbn6q01j6roz54e8g5zec)

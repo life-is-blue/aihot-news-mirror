@@ -7,7 +7,7 @@
 "source_name": "公众号：智谱（GLM）"
 "original_url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247\
   493980&idx=1&sn=995ae194e71d723b6110fb8c621e618c"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu107700txrofzpix9er1c"
+"canonical_url": "https://aihot.news/items/cmsdu107700txrofzpix9er1c"
 "score": 84
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: 公众号：智谱（GLM）
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247493980&idx=1&sn=995ae194e71d723b6110fb8c621e618c](https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247493980&idx=1&sn=995ae194e71d723b6110fb8c621e618c)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu107700txrofzpix9er1c](https://aihot.virxact.com/items/cmsdu107700txrofzpix9er1c)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu107700txrofzpix9er1c](https://aihot.news/items/cmsdu107700txrofzpix9er1c)

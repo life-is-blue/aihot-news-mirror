@@ -8,7 +8,7 @@
 "original_url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching\
   -benchmark-is-misleading"
 "canonical_url": "https://aihot.news/items/cmu2lqodj08k0rovqocv9r3z3"
-"score": 60
+"score": 61
 "content_kind": "news"
 ---
 

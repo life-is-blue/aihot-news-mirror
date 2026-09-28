@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-avai\
   lable-in-github-copilot"
-"canonical_url": "https://aihot.virxact.com/items/cmr397vx001s3sly0t7mkh3fh"
+"canonical_url": "https://aihot.news/items/cmr397vx001s3sly0t7mkh3fh"
 "score": 71
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Kimi K2.7 Code 开源权重模型已在 GitHub Copilot 中正式可用，成为 
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr397vx001s3sly0t7mkh3fh](https://aihot.virxact.com/items/cmr397vx001s3sly0t7mkh3fh)
+- **AIHOT 链接**: [https://aihot.news/items/cmr397vx001s3sly0t7mkh3fh](https://aihot.news/items/cmr397vx001s3sly0t7mkh3fh)

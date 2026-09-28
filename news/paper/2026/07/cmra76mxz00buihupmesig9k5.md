@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-07T05:17:39.179Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2607.05391"
-"canonical_url": "https://aihot.virxact.com/items/cmra76mxz00buihupmesig9k5"
+"canonical_url": "https://aihot.news/items/cmra76mxz00buihupmesig9k5"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ LLM-as-a-Verifier 是一种无需额外训练的通用验证框架，通过计�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2607.05391](https://arxiv.org/abs/2607.05391)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmra76mxz00buihupmesig9k5](https://aihot.virxact.com/items/cmra76mxz00buihupmesig9k5)
+- **AIHOT 链接**: [https://aihot.news/items/cmra76mxz00buihupmesig9k5](https://aihot.news/items/cmra76mxz00buihupmesig9k5)

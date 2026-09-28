@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-21T17:58:29.461Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders"
-"canonical_url": "https://aihot.virxact.com/items/cmt396dpw0kj0ro6tdktqkp8s"
+"canonical_url": "https://aihot.news/items/cmt396dpw0kj0ro6tdktqkp8s"
 "score": 61
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 宣布 Claude Mythos 5 现已集成至 Claude Security，并即将登�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders](https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt396dpw0kj0ro6tdktqkp8s](https://aihot.virxact.com/items/cmt396dpw0kj0ro6tdktqkp8s)
+- **AIHOT 链接**: [https://aihot.news/items/cmt396dpw0kj0ro6tdktqkp8s](https://aihot.news/items/cmt396dpw0kj0ro6tdktqkp8s)

@@ -7,7 +7,7 @@
 "source_name": "Modal 官方工程博客（RSS）"
 "original_url": "https://modal.com/blog/trillion-tokens-trillion-parameters"
 "canonical_url": "https://aihot.news/items/cmueg56ob04iqrovxup3jp0ly"
-"score": 61
+"score": 62
 "content_kind": "news"
 ---
 

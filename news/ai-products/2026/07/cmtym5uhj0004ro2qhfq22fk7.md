@@ -7,7 +7,7 @@
 "source_name": "通义 QwenAudio：原创语音项目"
 "original_url": "https://github.com/QwenAudio/qwen-audio-agent"
 "canonical_url": "https://aihot.news/items/cmtym5uhj0004ro2qhfq22fk7"
-"score": 65
+"score": 66
 "content_kind": "news"
 ---
 

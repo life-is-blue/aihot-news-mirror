@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-03T00:19:09.468Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework"
-"canonical_url": "https://aihot.virxact.com/items/cmr46rbvk012esl3ggltylooc"
+"canonical_url": "https://aihot.news/items/cmr46rbvk012esl3ggltylooc"
 "score": 64
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 重新部署 Claude Fable 5 并向全球用户开放，同步披露了
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/fable-safeguards-jailbreak-framework](https://www.anthropic.com/news/fable-safeguards-jailbreak-framework)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr46rbvk012esl3ggltylooc](https://aihot.virxact.com/items/cmr46rbvk012esl3ggltylooc)
+- **AIHOT 链接**: [https://aihot.news/items/cmr46rbvk012esl3ggltylooc](https://aihot.news/items/cmr46rbvk012esl3ggltylooc)

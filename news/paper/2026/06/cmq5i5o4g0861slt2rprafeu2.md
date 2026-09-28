@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-08T17:46:10.323Z"
 "source_name": "Anthropic：Research（发表成果 · 网页）"
 "original_url": "https://www.anthropic.com/research/agents-in-biology"
-"canonical_url": "https://aihot.virxact.com/items/cmq5i5o4g0861slt2rprafeu2"
+"canonical_url": "https://aihot.news/items/cmq5i5o4g0861slt2rprafeu2"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Anthropic：Research（发表成果 · 网页）
 - **原文链接**: [https://www.anthropic.com/research/agents-in-biology](https://www.anthropic.com/research/agents-in-biology)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq5i5o4g0861slt2rprafeu2](https://aihot.virxact.com/items/cmq5i5o4g0861slt2rprafeu2)
+- **AIHOT 链接**: [https://aihot.news/items/cmq5i5o4g0861slt2rprafeu2](https://aihot.news/items/cmq5i5o4g0861slt2rprafeu2)

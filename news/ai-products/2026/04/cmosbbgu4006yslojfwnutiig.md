@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-29T12:00:00.000Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/typescript-sdk"
-"canonical_url": "https://aihot.virxact.com/items/cmosbbgu4006yslojfwnutiig"
+"canonical_url": "https://aihot.news/items/cmosbbgu4006yslojfwnutiig"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Cursor 正式推出 SDK 公开测试版，开发者仅需几行 TypeScript 代�
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/typescript-sdk](https://cursor.com/blog/typescript-sdk)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmosbbgu4006yslojfwnutiig](https://aihot.virxact.com/items/cmosbbgu4006yslojfwnutiig)
+- **AIHOT 链接**: [https://aihot.news/items/cmosbbgu4006yslojfwnutiig](https://aihot.news/items/cmosbbgu4006yslojfwnutiig)

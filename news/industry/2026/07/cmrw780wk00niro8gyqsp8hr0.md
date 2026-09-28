@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-22T14:49:37.969Z"
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/0/980/322.htm"
-"canonical_url": "https://aihot.virxact.com/items/cmrw780wk00niro8gyqsp8hr0"
+"canonical_url": "https://aihot.news/items/cmrw780wk00niro8gyqsp8hr0"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 计划在佐治亚州萨凡纳附近建设一座超大规模数据中心�
 
 - **来源**: IT之家（RSS）
 - **原文链接**: [https://www.ithome.com/0/980/322.htm](https://www.ithome.com/0/980/322.htm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrw780wk00niro8gyqsp8hr0](https://aihot.virxact.com/items/cmrw780wk00niro8gyqsp8hr0)
+- **AIHOT 链接**: [https://aihot.news/items/cmrw780wk00niro8gyqsp8hr0](https://aihot.news/items/cmrw780wk00niro8gyqsp8hr0)

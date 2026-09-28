@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-11T18:45:27.714Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm"
-"canonical_url": "https://aihot.virxact.com/items/cmsp0g9v20242rort4zh7mzx0"
+"canonical_url": "https://aihot.news/items/cmsp0g9v20242rort4zh7mzx0"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm](https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsp0g9v20242rort4zh7mzx0](https://aihot.virxact.com/items/cmsp0g9v20242rort4zh7mzx0)
+- **AIHOT 链接**: [https://aihot.news/items/cmsp0g9v20242rort4zh7mzx0](https://aihot.news/items/cmsp0g9v20242rort4zh7mzx0)

@@ -8,7 +8,7 @@
 "original_url": "https://developers.googleblog.com/introducing-support-for-loca\
   l-ai-models-in-the-antigravity-sdk"
 "canonical_url": "https://aihot.news/items/cmued0oy602x2rommk0l8lw6q"
-"score": 70
+"score": 71
 "content_kind": "news"
 ---
 

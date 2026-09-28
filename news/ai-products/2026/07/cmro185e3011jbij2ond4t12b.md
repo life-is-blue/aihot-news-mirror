@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-16T21:39:40.165Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-automations"
-"canonical_url": "https://aihot.virxact.com/items/cmro185e3011jbij2ond4t12b"
+"canonical_url": "https://aihot.news/items/cmro185e3011jbij2ond4t12b"
 "score": 85
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI 为 Grok 引入 Automations 功能，用户可描述一次任务，让 Grok 
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-automations](https://x.ai/news/grok-automations)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmro185e3011jbij2ond4t12b](https://aihot.virxact.com/items/cmro185e3011jbij2ond4t12b)
+- **AIHOT 链接**: [https://aihot.news/items/cmro185e3011jbij2ond4t12b](https://aihot.news/items/cmro185e3011jbij2ond4t12b)

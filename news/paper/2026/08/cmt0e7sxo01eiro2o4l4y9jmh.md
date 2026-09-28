@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-19T17:56:13.817Z"
 "source_name": "LMSYS：Blog（Chatbot Arena 团队）"
 "original_url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20"
-"canonical_url": "https://aihot.virxact.com/items/cmt0e7sxo01eiro2o4l4y9jmh"
+"canonical_url": "https://aihot.news/items/cmt0e7sxo01eiro2o4l4y9jmh"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ LMSYS 团队针对 1.6 万亿参数的 MoE 模型 DeepSeek-V4-Pro，在 H20 GPU 
 
 - **来源**: LMSYS：Blog（Chatbot Arena 团队）
 - **原文链接**: [https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20](https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmt0e7sxo01eiro2o4l4y9jmh](https://aihot.virxact.com/items/cmt0e7sxo01eiro2o4l4y9jmh)
+- **AIHOT 链接**: [https://aihot.news/items/cmt0e7sxo01eiro2o4l4y9jmh](https://aihot.news/items/cmt0e7sxo01eiro2o4l4y9jmh)

@@ -7,7 +7,7 @@
 "source_name": "Google Blog：AI（RSS）"
 "original_url": "https://blog.google/innovation-and-ai/models-and-research/gemi\
   ni-models/gemini-3-1-flash-tts"
-"canonical_url": "https://aihot.virxact.com/items/cmo08uf1000ausli2z1kht3w4"
+"canonical_url": "https://aihot.news/items/cmo08uf1000ausli2z1kht3w4"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google正式发布Gemini 3.1 Flash TTS，作为下一代表现力AI语音技术�
 
 - **来源**: Google Blog：AI（RSS）
 - **原文链接**: [https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmo08uf1000ausli2z1kht3w4](https://aihot.virxact.com/items/cmo08uf1000ausli2z1kht3w4)
+- **AIHOT 链接**: [https://aihot.news/items/cmo08uf1000ausli2z1kht3w4](https://aihot.news/items/cmo08uf1000ausli2z1kht3w4)

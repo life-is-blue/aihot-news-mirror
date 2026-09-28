@@ -6,7 +6,7 @@
 "discovered_at": "2026-09-03T18:01:59.106Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://ifm.ai/blog/k2"
-"canonical_url": "https://aihot.virxact.com/items/cmtlu0yka0neurow5as9e6jtu"
+"canonical_url": "https://aihot.news/items/cmtlu0yka0neurow5as9e6jtu"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ IFM 发布 K2 Horizon 模型系列，共六个模型：375B-A23B、36B-A4B、32B
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://ifm.ai/blog/k2](https://ifm.ai/blog/k2)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtlu0yka0neurow5as9e6jtu](https://aihot.virxact.com/items/cmtlu0yka0neurow5as9e6jtu)
+- **AIHOT 链接**: [https://aihot.news/items/cmtlu0yka0neurow5as9e6jtu](https://aihot.news/items/cmtlu0yka0neurow5as9e6jtu)

@@ -7,7 +7,7 @@
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/making-it-easier-to-understand-ho\
   w-content-was-created-and-edited"
-"canonical_url": "https://aihot.virxact.com/items/cmpcxg3af00z2sljl1q8g525n"
+"canonical_url": "https://aihot.news/items/cmpcxg3af00z2sljl1q8g525n"
 "score": 63
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited](https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpcxg3af00z2sljl1q8g525n](https://aihot.virxact.com/items/cmpcxg3af00z2sljl1q8g525n)
+- **AIHOT 链接**: [https://aihot.news/items/cmpcxg3af00z2sljl1q8g525n](https://aihot.news/items/cmpcxg3af00z2sljl1q8g525n)

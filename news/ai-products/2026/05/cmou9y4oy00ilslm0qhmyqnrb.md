@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-06T16:31:17.047Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/higher-limits-spacex"
-"canonical_url": "https://aihot.virxact.com/items/cmou9y4oy00ilslm0qhmyqnrb"
+"canonical_url": "https://aihot.news/items/cmou9y4oy00ilslm0qhmyqnrb"
 "score": 81
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic与SpaceX达成合作，获得其Colossus 1数据中心超300兆瓦（�
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/higher-limits-spacex](https://www.anthropic.com/news/higher-limits-spacex)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmou9y4oy00ilslm0qhmyqnrb](https://aihot.virxact.com/items/cmou9y4oy00ilslm0qhmyqnrb)
+- **AIHOT 链接**: [https://aihot.news/items/cmou9y4oy00ilslm0qhmyqnrb](https://aihot.news/items/cmou9y4oy00ilslm0qhmyqnrb)

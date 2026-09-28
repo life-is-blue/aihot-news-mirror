@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-21T18:08:46.648Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-opencode"
-"canonical_url": "https://aihot.virxact.com/items/cmpft1pi009fusljwl6sy69na"
+"canonical_url": "https://aihot.news/items/cmpft1pi009fusljwl6sy69na"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI宣布，其SuperGrok或X Premium订阅用户现可在开源编程工具OpenC
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-opencode](https://x.ai/news/grok-opencode)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpft1pi009fusljwl6sy69na](https://aihot.virxact.com/items/cmpft1pi009fusljwl6sy69na)
+- **AIHOT 链接**: [https://aihot.news/items/cmpft1pi009fusljwl6sy69na](https://aihot.news/items/cmpft1pi009fusljwl6sy69na)

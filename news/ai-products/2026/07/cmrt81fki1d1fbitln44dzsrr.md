@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-20T12:49:14.184Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://github.com/Saivineeth147/lora-speedrun"
-"canonical_url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr"
+"canonical_url": "https://aihot.news/items/cmrt81fki1d1fbitln44dzsrr"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ LoRA Speedrun项目推出公开排行榜，在固定硬件（单张L40S）上比
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://github.com/Saivineeth147/lora-speedrun](https://github.com/Saivineeth147/lora-speedrun)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr](https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr)
+- **AIHOT 链接**: [https://aihot.news/items/cmrt81fki1d1fbitln44dzsrr](https://aihot.news/items/cmrt81fki1d1fbitln44dzsrr)

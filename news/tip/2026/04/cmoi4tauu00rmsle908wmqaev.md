@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-28T04:34:22.496Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://www.tomtunguz.com/b200-gpu-pricing-spot-market-model-releases"
-"canonical_url": "https://aihot.virxact.com/items/cmoi4tauu00rmsle908wmqaev"
+"canonical_url": "https://aihot.news/items/cmoi4tauu00rmsle908wmqaev"
 "score": 64
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://www.tomtunguz.com/b200-gpu-pricing-spot-market-model-releases](https://www.tomtunguz.com/b200-gpu-pricing-spot-market-model-releases)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoi4tauu00rmsle908wmqaev](https://aihot.virxact.com/items/cmoi4tauu00rmsle908wmqaev)
+- **AIHOT 链接**: [https://aihot.news/items/cmoi4tauu00rmsle908wmqaev](https://aihot.news/items/cmoi4tauu00rmsle908wmqaev)

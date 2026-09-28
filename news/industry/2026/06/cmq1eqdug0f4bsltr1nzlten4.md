@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-05T20:59:21.101Z"
 "source_name": "X：Rohan Paul (@rohanpaul_ai)"
 "original_url": "https://x.com/rohanpaul_ai/status/2063000834045313314"
-"canonical_url": "https://aihot.virxact.com/items/cmq1eqdug0f4bsltr1nzlten4"
+"canonical_url": "https://aihot.news/items/cmq1eqdug0f4bsltr1nzlten4"
 "score": 77
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ Google 将每月向 SpaceX 支付 9.2 亿美元（约合每年 110 亿美元）�
 
 - **来源**: X：Rohan Paul (@rohanpaul_ai)
 - **原文链接**: [https://x.com/rohanpaul_ai/status/2063000834045313314](https://x.com/rohanpaul_ai/status/2063000834045313314)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq1eqdug0f4bsltr1nzlten4](https://aihot.virxact.com/items/cmq1eqdug0f4bsltr1nzlten4)
+- **AIHOT 链接**: [https://aihot.news/items/cmq1eqdug0f4bsltr1nzlten4](https://aihot.news/items/cmq1eqdug0f4bsltr1nzlten4)

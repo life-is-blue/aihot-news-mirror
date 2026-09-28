@@ -7,7 +7,7 @@
 "source_name": "METR：Research（网页）"
 "original_url": "https://metr.org/blog/2023-03-18-update-on-recent-evals"
 "canonical_url": "https://aihot.news/items/cmtyo7nb803vtrog068p1fir1"
-"score": 69
+"score": 70
 "content_kind": "news"
 ---
 

@@ -7,7 +7,7 @@
 "source_name": "Google Blog：AI（RSS）"
 "original_url": "https://blog.google/products-and-platforms/products/search/ai-\
   mode-us-insights"
-"canonical_url": "https://aihot.virxact.com/items/cmpcyioqw01bysljldf6c395o"
+"canonical_url": "https://aihot.news/items/cmpcyioqw01bysljldf6c395o"
 "score": 71
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ AI Mode 上线一周年，美国用户搜索行为呈现关键转变。数据显
 
 - **来源**: Google Blog：AI（RSS）
 - **原文链接**: [https://blog.google/products-and-platforms/products/search/ai-mode-us-insights](https://blog.google/products-and-platforms/products/search/ai-mode-us-insights)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpcyioqw01bysljldf6c395o](https://aihot.virxact.com/items/cmpcyioqw01bysljldf6c395o)
+- **AIHOT 链接**: [https://aihot.news/items/cmpcyioqw01bysljldf6c395o](https://aihot.news/items/cmpcyioqw01bysljldf6c395o)

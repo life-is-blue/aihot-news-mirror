@@ -7,7 +7,7 @@
 "source_name": "TechCrunch：AI（RSS）"
 "original_url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-custo\
   mer-service-platform-fin-for-3-6b"
-"canonical_url": "https://aihot.virxact.com/items/cmqfc38a1005fsl2a21dido83"
+"canonical_url": "https://aihot.news/items/cmqfc38a1005fsl2a21dido83"
 "score": 73
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Salesforce宣布以36亿美元收购AI客服平台Fin（前身为Intercom）。F
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b](https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqfc38a1005fsl2a21dido83](https://aihot.virxact.com/items/cmqfc38a1005fsl2a21dido83)
+- **AIHOT 链接**: [https://aihot.news/items/cmqfc38a1005fsl2a21dido83](https://aihot.news/items/cmqfc38a1005fsl2a21dido83)

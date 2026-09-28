@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-12T19:08:29.564Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/what-parameter-golf-taught-us"
-"canonical_url": "https://aihot.virxact.com/items/cmp307dqu023wsl1q5ct3urvs"
+"canonical_url": "https://aihot.news/items/cmp307dqu023wsl1q5ct3urvs"
 "score": 64
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Parameter Golf 项目汇聚了超过 1000 名参与者和 2000 多份提交作�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/what-parameter-golf-taught-us](https://openai.com/index/what-parameter-golf-taught-us)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp307dqu023wsl1q5ct3urvs](https://aihot.virxact.com/items/cmp307dqu023wsl1q5ct3urvs)
+- **AIHOT 链接**: [https://aihot.news/items/cmp307dqu023wsl1q5ct3urvs](https://aihot.news/items/cmp307dqu023wsl1q5ct3urvs)

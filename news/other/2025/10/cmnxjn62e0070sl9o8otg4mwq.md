@@ -6,7 +6,7 @@
 "discovered_at": "2025-10-22T17:58:39.000Z"
 "source_name": "Dwarkesh Patel：Podcast & Blog（RSS）"
 "original_url": "https://www.dwarkesh.com/p/thoughts-on-the-ai-buildout"
-"canonical_url": "https://aihot.virxact.com/items/cmnxjn62e0070sl9o8otg4mwq"
+"canonical_url": "https://aihot.news/items/cmnxjn62e0070sl9o8otg4mwq"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ AI基础设施建设正面临晶圆厂资本支出过剩的风险，同时算力
 
 - **来源**: Dwarkesh Patel：Podcast & Blog（RSS）
 - **原文链接**: [https://www.dwarkesh.com/p/thoughts-on-the-ai-buildout](https://www.dwarkesh.com/p/thoughts-on-the-ai-buildout)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnxjn62e0070sl9o8otg4mwq](https://aihot.virxact.com/items/cmnxjn62e0070sl9o8otg4mwq)
+- **AIHOT 链接**: [https://aihot.news/items/cmnxjn62e0070sl9o8otg4mwq](https://aihot.news/items/cmnxjn62e0070sl9o8otg4mwq)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-12T21:43:49.144Z"
 "source_name": "X：MiniMax (@MiniMax_AI)"
 "original_url": "https://x.com/MiniMax_AI/status/2065543713032683843"
-"canonical_url": "https://aihot.virxact.com/items/cmqbgej4i019vslamev56gffo"
+"canonical_url": "https://aihot.news/items/cmqbgej4i019vslamev56gffo"
 "score": 82
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ MiniMax M3 发布，具备前沿编码与智能体能力，原生图像视频输
 
 - **来源**: X：MiniMax (@MiniMax_AI)
 - **原文链接**: [https://x.com/MiniMax_AI/status/2065543713032683843](https://x.com/MiniMax_AI/status/2065543713032683843)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqbgej4i019vslamev56gffo](https://aihot.virxact.com/items/cmqbgej4i019vslamev56gffo)
+- **AIHOT 链接**: [https://aihot.news/items/cmqbgej4i019vslamev56gffo](https://aihot.news/items/cmqbgej4i019vslamev56gffo)

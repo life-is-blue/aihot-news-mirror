@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-30T19:14:55.017Z"
 "source_name": "X：OpenAI (@OpenAI)"
 "original_url": "https://x.com/OpenAI/status/2049928776147230886"
-"canonical_url": "https://aihot.virxact.com/items/cmolv5ftv02mxsll96lld3r6n"
+"canonical_url": "https://aihot.news/items/cmolv5ftv02mxsll96lld3r6n"
 "score": 70
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ Codex能在研究规划、文档、幻灯片、电子表格等方方面面提供
 
 - **来源**: X：OpenAI (@OpenAI)
 - **原文链接**: [https://x.com/OpenAI/status/2049928776147230886](https://x.com/OpenAI/status/2049928776147230886)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmolv5ftv02mxsll96lld3r6n](https://aihot.virxact.com/items/cmolv5ftv02mxsll96lld3r6n)
+- **AIHOT 链接**: [https://aihot.news/items/cmolv5ftv02mxsll96lld3r6n](https://aihot.news/items/cmolv5ftv02mxsll96lld3r6n)

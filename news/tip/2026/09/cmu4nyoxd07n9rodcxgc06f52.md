@@ -7,7 +7,7 @@
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/model-misalignment-reporting-framework"
 "canonical_url": "https://aihot.news/items/cmu4nyoxd07n9rodcxgc06f52"
-"score": 77
+"score": 78
 "content_kind": "news"
 ---
 

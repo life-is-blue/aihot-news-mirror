@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-21T17:22:49.842Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/introducing-outlook-addin"
-"canonical_url": "https://aihot.virxact.com/items/cmrux94210069binvu0d80ww6"
+"canonical_url": "https://aihot.news/items/cmrux94210069binvu0d80ww6"
 "score": 63
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI 今日推出 Grok for Outlook，一个 Microsoft 365 加载项，可将 Grok
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/introducing-outlook-addin](https://x.ai/news/introducing-outlook-addin)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrux94210069binvu0d80ww6](https://aihot.virxact.com/items/cmrux94210069binvu0d80ww6)
+- **AIHOT 链接**: [https://aihot.news/items/cmrux94210069binvu0d80ww6](https://aihot.news/items/cmrux94210069binvu0d80ww6)

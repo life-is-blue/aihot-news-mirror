@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-17T03:10:25.403Z"
 "source_name": "X：Rohan Paul (@rohanpaul_ai)"
 "original_url": "https://x.com/rohanpaul_ai/status/2055841486714147177"
-"canonical_url": "https://aihot.virxact.com/items/cmp976l4m0ojjslnzqoaxuhwd"
+"canonical_url": "https://aihot.news/items/cmp976l4m0ojjslnzqoaxuhwd"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic CEO Dario Amodei在《华尔街日报》YouTube频道采访中表示�
 
 - **来源**: X：Rohan Paul (@rohanpaul_ai)
 - **原文链接**: [https://x.com/rohanpaul_ai/status/2055841486714147177](https://x.com/rohanpaul_ai/status/2055841486714147177)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp976l4m0ojjslnzqoaxuhwd](https://aihot.virxact.com/items/cmp976l4m0ojjslnzqoaxuhwd)
+- **AIHOT 链接**: [https://aihot.news/items/cmp976l4m0ojjslnzqoaxuhwd](https://aihot.news/items/cmp976l4m0ojjslnzqoaxuhwd)

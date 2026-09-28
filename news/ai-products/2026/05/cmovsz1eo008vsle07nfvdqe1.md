@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-07T18:11:35.276Z"
 "source_name": "X：Perplexity (@perplexity_ai)"
 "original_url": "https://x.com/perplexity_ai/status/2052445405754040816"
-"canonical_url": "https://aihot.virxact.com/items/cmovsz1eo008vsle07nfvdqe1"
+"canonical_url": "https://aihot.news/items/cmovsz1eo008vsle07nfvdqe1"
 "score": 68
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ Personal Computer是Perplexity Computer的进阶版本。
 
 - **来源**: X：Perplexity (@perplexity_ai)
 - **原文链接**: [https://x.com/perplexity_ai/status/2052445405754040816](https://x.com/perplexity_ai/status/2052445405754040816)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmovsz1eo008vsle07nfvdqe1](https://aihot.virxact.com/items/cmovsz1eo008vsle07nfvdqe1)
+- **AIHOT 链接**: [https://aihot.news/items/cmovsz1eo008vsle07nfvdqe1](https://aihot.news/items/cmovsz1eo008vsle07nfvdqe1)

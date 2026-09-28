@@ -6,8 +6,8 @@
 "discovered_at": "2026-07-21T00:00:00.000Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"
 "original_url": "https://tomtunguz.com/ai-engineering-productivity-anything-but-normal"
-"canonical_url": "https://aihot.virxact.com/items/cmtggvk4o0cheroj74kqw6tw8"
-"score": 63
+"canonical_url": "https://aihot.news/items/cmtggvk4o0cheroj74kqw6tw8"
+"score": 64
 "content_kind": "news"
 ---
 
@@ -17,4 +17,4 @@
 
 - **来源**: Tomer Tunguz 博客（VC 分析）
 - **原文链接**: [https://tomtunguz.com/ai-engineering-productivity-anything-but-normal](https://tomtunguz.com/ai-engineering-productivity-anything-but-normal)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtggvk4o0cheroj74kqw6tw8](https://aihot.virxact.com/items/cmtggvk4o0cheroj74kqw6tw8)
+- **AIHOT 链接**: [https://aihot.news/items/cmtggvk4o0cheroj74kqw6tw8](https://aihot.news/items/cmtggvk4o0cheroj74kqw6tw8)

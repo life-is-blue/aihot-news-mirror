@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-20T16:19:52.655Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/introducing-excel-addin"
-"canonical_url": "https://aihot.virxact.com/items/cmrtfkakm2undbitla364sgej"
+"canonical_url": "https://aihot.news/items/cmrtfkakm2undbitla364sgej"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI 将 Grok 引入 Microsoft Excel，推出免费 Microsoft 365 加载项。用
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/introducing-excel-addin](https://x.ai/news/introducing-excel-addin)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrtfkakm2undbitla364sgej](https://aihot.virxact.com/items/cmrtfkakm2undbitla364sgej)
+- **AIHOT 链接**: [https://aihot.news/items/cmrtfkakm2undbitla364sgej](https://aihot.news/items/cmrtfkakm2undbitla364sgej)

@@ -1,5 +1,5 @@
 ---
-"title": "Mistral 用 AI 智能体迁移 4 万行 Fortran 77 到 C++ 的经验复盘"
+"title": "Mistral AI：用AI Agent迁移4万行Fortran遗留代码的实践与教训"
 "aihot_id": "cmtugpn561cgnrofplpzs3udv"
 "aihot_category": "tip"
 "published_at": "2026-09-08T16:00:00.000Z"
@@ -7,13 +7,13 @@
 "source_name": "Mistral AI：News（网页）"
 "original_url": "https://mistral.ai/news/legacy-code-modernization"
 "canonical_url": "https://aihot.news/items/cmtugpn561cgnrofplpzs3udv"
-"score": 61
+"score": 78
 "content_kind": "news"
 ---
 
-# Mistral 用 AI 智能体迁移 4 万行 Fortran 77 到 C++ 的经验复盘
+# Mistral AI：用AI Agent迁移4万行Fortran遗留代码的实践与教训
 
-Mistral 帮助一家欧洲能源运营商将 4 万行 Fortran 77 油藏模拟器迁移到 C++，首个冲刺覆盖 30 万行中的 4 万行。团队先构建数值对齐 parity harness 验证迁移正确性，用 Vibe CLI 启动上百个智能体生成调用树文档，并最终采用由人工操作 coder、tester 和 reviewer 智能体的结构化工作流，逐模块迁移。
+Mistral AI团队分享了将欧洲能源运营商的4万行Fortran 77物理模拟器迁移至C++的经验。核心策略包括：首先构建数值一致性测试框架（Parity Harness）以验证迁移正确性；利用百余个AI Agent并行生成代码文档并整合分散资料；采用“规划者-编码者-测试者-审查者”的多Agent协作工作流，并在关键节点引入人工监督以解决复杂逻辑重构中的停滞问题，最终实现了高质量、可维护的代码现代化。
 
 - **来源**: Mistral AI：News（网页）
 - **原文链接**: [https://mistral.ai/news/legacy-code-modernization](https://mistral.ai/news/legacy-code-modernization)

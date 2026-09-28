@@ -7,7 +7,7 @@
 "source_name": "字节 Seed：Research Feed（网页内嵌数据）"
 "original_url": "https://seed.bytedance.com/zh/blog/seedance-2-0-%E6%AD%A3%E5%B\
   C%8F%E5%8F%91%E5%B8%83"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yzp701u8slc3ys4671d8"
+"canonical_url": "https://aihot.news/items/cmnw1yzp701u8slc3ys4671d8"
 "score": null
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Seedance 2.0 视频生成模型正式发布，综合性能达业界 SOTA 水平�
 
 - **来源**: 字节 Seed：Research Feed（网页内嵌数据）
 - **原文链接**: [https://seed.bytedance.com/zh/blog/seedance-2-0-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83](https://seed.bytedance.com/zh/blog/seedance-2-0-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yzp701u8slc3ys4671d8](https://aihot.virxact.com/items/cmnw1yzp701u8slc3ys4671d8)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yzp701u8slc3ys4671d8](https://aihot.news/items/cmnw1yzp701u8slc3ys4671d8)

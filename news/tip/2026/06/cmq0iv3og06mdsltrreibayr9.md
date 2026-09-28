@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-05T06:07:12.096Z"
 "source_name": "X：洪明 (@hongming731)"
 "original_url": "https://x.com/hongming731/status/2062764845494317493"
-"canonical_url": "https://aihot.virxact.com/items/cmq0iv3og06mdsltrreibayr9"
+"canonical_url": "https://aihot.news/items/cmq0iv3og06mdsltrreibayr9"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：洪明 (@hongming731)
 - **原文链接**: [https://x.com/hongming731/status/2062764845494317493](https://x.com/hongming731/status/2062764845494317493)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq0iv3og06mdsltrreibayr9](https://aihot.virxact.com/items/cmq0iv3og06mdsltrreibayr9)
+- **AIHOT 链接**: [https://aihot.news/items/cmq0iv3og06mdsltrreibayr9](https://aihot.news/items/cmq0iv3og06mdsltrreibayr9)

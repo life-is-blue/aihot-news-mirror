@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-24T16:31:29.000Z"
 "source_name": "X：Anthropic (@AnthropicAI)"
 "original_url": "https://x.com/AnthropicAI/status/2036481033621623056"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yoz200n1slc320wz6l4j"
+"canonical_url": "https://aihot.news/items/cmnw1yoz200n1slc320wz6l4j"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 工程博客发文介绍多智能体工具（multi-agent harness），
 
 - **来源**: X：Anthropic (@AnthropicAI)
 - **原文链接**: [https://x.com/AnthropicAI/status/2036481033621623056](https://x.com/AnthropicAI/status/2036481033621623056)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yoz200n1slc320wz6l4j](https://aihot.virxact.com/items/cmnw1yoz200n1slc320wz6l4j)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yoz200n1slc320wz6l4j](https://aihot.news/items/cmnw1yoz200n1slc320wz6l4j)

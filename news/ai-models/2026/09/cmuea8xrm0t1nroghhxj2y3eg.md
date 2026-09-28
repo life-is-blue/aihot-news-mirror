@@ -7,7 +7,7 @@
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech"
 "canonical_url": "https://aihot.news/items/cmuea8xrm0t1nroghhxj2y3eg"
-"score": 73
+"score": 74
 "content_kind": "news"
 ---
 

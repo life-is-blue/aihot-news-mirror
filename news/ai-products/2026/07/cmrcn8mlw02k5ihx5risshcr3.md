@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-08T22:22:39.857Z"
 "source_name": "X：Runway (@runwayml)"
 "original_url": "https://x.com/runwayml/status/2074982268175630814"
-"canonical_url": "https://aihot.virxact.com/items/cmrcn8mlw02k5ihx5risshcr3"
+"canonical_url": "https://aihot.news/items/cmrcn8mlw02k5ihx5risshcr3"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Seedream 5.0 Pro 现已登陆 Runway。可通过提示词或参考图生成高�
 
 - **来源**: X：Runway (@runwayml)
 - **原文链接**: [https://x.com/runwayml/status/2074982268175630814](https://x.com/runwayml/status/2074982268175630814)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrcn8mlw02k5ihx5risshcr3](https://aihot.virxact.com/items/cmrcn8mlw02k5ihx5risshcr3)
+- **AIHOT 链接**: [https://aihot.news/items/cmrcn8mlw02k5ihx5risshcr3](https://aihot.news/items/cmrcn8mlw02k5ihx5risshcr3)

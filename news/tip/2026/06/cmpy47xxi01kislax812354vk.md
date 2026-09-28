@@ -7,7 +7,7 @@
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimi\
   zation-beyond-chatbots"
-"canonical_url": "https://aihot.virxact.com/items/cmpy47xxi01kislax812354vk"
+"canonical_url": "https://aihot.news/items/cmpy47xxi01kislax812354vk"
 "score": 55
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots](https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpy47xxi01kislax812354vk](https://aihot.virxact.com/items/cmpy47xxi01kislax812354vk)
+- **AIHOT 链接**: [https://aihot.news/items/cmpy47xxi01kislax812354vk](https://aihot.news/items/cmpy47xxi01kislax812354vk)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-16T07:17:28.201Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
-"canonical_url": "https://aihot.virxact.com/items/cmp80ket20erhslnz6erovv4r"
+"canonical_url": "https://aihot.news/items/cmp80ket20erhslnz6erovv4r"
 "score": 56
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/academy/codex-for-work/how-sales-teams-use-codex](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp80ket20erhslnz6erovv4r](https://aihot.virxact.com/items/cmp80ket20erhslnz6erovv4r)
+- **AIHOT 链接**: [https://aihot.news/items/cmp80ket20erhslnz6erovv4r](https://aihot.news/items/cmp80ket20erhslnz6erovv4r)

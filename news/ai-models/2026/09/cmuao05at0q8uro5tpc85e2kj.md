@@ -7,7 +7,7 @@
 "source_name": "X：通义千问 / Qwen (@Alibaba_Qwen)"
 "original_url": "https://x.com/Alibaba_Qwen/status/2101866671900401913"
 "canonical_url": "https://aihot.news/items/cmuao05at0q8uro5tpc85e2kj"
-"score": 69
+"score": 70
 "content_kind": "news"
 ---
 

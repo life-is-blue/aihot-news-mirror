@@ -6,7 +6,7 @@
 "discovered_at": "2025-07-09T00:00:00.000Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-4"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsvjeh005pslte0p6xw87q"
+"canonical_url": "https://aihot.news/items/cmnwsvjeh005pslte0p6xw87q"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ xAI 正式发布 Grok 4，新一代大模型在数学推理和代码生成能力
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-4](https://x.ai/news/grok-4)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsvjeh005pslte0p6xw87q](https://aihot.virxact.com/items/cmnwsvjeh005pslte0p6xw87q)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsvjeh005pslte0p6xw87q](https://aihot.news/items/cmnwsvjeh005pslte0p6xw87q)

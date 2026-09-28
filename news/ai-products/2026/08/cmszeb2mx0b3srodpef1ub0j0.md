@@ -7,7 +7,7 @@
 "source_name": "公众号：智谱（GLM）"
 "original_url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247\
   494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7"
-"canonical_url": "https://aihot.virxact.com/items/cmszeb2mx0b3srodpef1ub0j0"
+"canonical_url": "https://aihot.news/items/cmszeb2mx0b3srodpef1ub0j0"
 "score": 79
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ GLM-5.3 API即日上线，擅长复杂编码、防御性网络安全与长程任
 
 - **来源**: 公众号：智谱（GLM）
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7](https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmszeb2mx0b3srodpef1ub0j0](https://aihot.virxact.com/items/cmszeb2mx0b3srodpef1ub0j0)
+- **AIHOT 链接**: [https://aihot.news/items/cmszeb2mx0b3srodpef1ub0j0](https://aihot.news/items/cmszeb2mx0b3srodpef1ub0j0)

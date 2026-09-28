@@ -6,7 +6,7 @@
 "discovered_at": "2025-12-08T16:00:00.000Z"
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1xu3t00dmslc3595ues05"
+"canonical_url": "https://aihot.news/items/cmnw1xu3t00dmslc3595ues05"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic与Material调研500余位技术领导者显示，57%企业已将AI智�
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026](https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1xu3t00dmslc3595ues05](https://aihot.virxact.com/items/cmnw1xu3t00dmslc3595ues05)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1xu3t00dmslc3595ues05](https://aihot.news/items/cmnw1xu3t00dmslc3595ues05)

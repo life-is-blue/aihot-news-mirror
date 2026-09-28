@@ -7,7 +7,7 @@
 "source_name": "字节 Seed：Research Papers（网页内嵌数据）"
 "original_url": "https://arxiv.org/pdf/2604.14148"
 "canonical_url": "https://aihot.news/items/cmtvjanmg0aupronbken2ybzj"
-"score": 65
+"score": 66
 "content_kind": "news"
 ---
 

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-13T05:17:52.233Z"
 "source_name": "蚂蚁 inclusionAI：HuggingFace 新模型"
 "original_url": "https://huggingface.co/inclusionAI/VISTA-9B"
-"canonical_url": "https://aihot.virxact.com/items/cmqbwmfgh05sdslam91ctu2zd"
+"canonical_url": "https://aihot.news/items/cmqbwmfgh05sdslam91ctu2zd"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ VISTA-9B是基于Qwen3.5 9B骨干训练的GUI定位模型，输入截图与自�
 
 - **来源**: 蚂蚁 inclusionAI：HuggingFace 新模型
 - **原文链接**: [https://huggingface.co/inclusionAI/VISTA-9B](https://huggingface.co/inclusionAI/VISTA-9B)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqbwmfgh05sdslam91ctu2zd](https://aihot.virxact.com/items/cmqbwmfgh05sdslam91ctu2zd)
+- **AIHOT 链接**: [https://aihot.news/items/cmqbwmfgh05sdslam91ctu2zd](https://aihot.news/items/cmqbwmfgh05sdslam91ctu2zd)

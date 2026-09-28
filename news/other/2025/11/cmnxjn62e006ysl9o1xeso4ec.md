@@ -6,7 +6,7 @@
 "discovered_at": "2025-11-12T17:03:08.000Z"
 "source_name": "Dwarkesh Patel：Podcast & Blog（RSS）"
 "original_url": "https://www.dwarkesh.com/p/satya-nadella-2"
-"canonical_url": "https://aihot.virxact.com/items/cmnxjn62e006ysl9o1xeso4ec"
+"canonical_url": "https://aihot.news/items/cmnxjn62e006ysl9o1xeso4ec"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Dwarkesh Patel：Podcast & Blog（RSS）
 - **原文链接**: [https://www.dwarkesh.com/p/satya-nadella-2](https://www.dwarkesh.com/p/satya-nadella-2)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnxjn62e006ysl9o1xeso4ec](https://aihot.virxact.com/items/cmnxjn62e006ysl9o1xeso4ec)
+- **AIHOT 链接**: [https://aihot.news/items/cmnxjn62e006ysl9o1xeso4ec](https://aihot.news/items/cmnxjn62e006ysl9o1xeso4ec)

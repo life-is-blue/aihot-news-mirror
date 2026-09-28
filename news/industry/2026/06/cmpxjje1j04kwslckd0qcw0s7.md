@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-03T04:02:48.126Z"
 "source_name": "X：Satya Nadella (@satyanadella)"
 "original_url": "https://x.com/satyanadella/status/2062022060176801826"
-"canonical_url": "https://aihot.virxact.com/items/cmpxjje1j04kwslckd0qcw0s7"
+"canonical_url": "https://aihot.news/items/cmpxjje1j04kwslckd0qcw0s7"
 "score": 77
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@
 
 - **来源**: X：Satya Nadella (@satyanadella)
 - **原文链接**: [https://x.com/satyanadella/status/2062022060176801826](https://x.com/satyanadella/status/2062022060176801826)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpxjje1j04kwslckd0qcw0s7](https://aihot.virxact.com/items/cmpxjje1j04kwslckd0qcw0s7)
+- **AIHOT 链接**: [https://aihot.news/items/cmpxjje1j04kwslckd0qcw0s7](https://aihot.news/items/cmpxjje1j04kwslckd0qcw0s7)

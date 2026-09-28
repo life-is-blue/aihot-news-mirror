@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/doj-invokes-national-security-to-defen\
   d-xais-unpermitted-gas-turbines-in-naacp-lawsuit"
-"canonical_url": "https://aihot.virxact.com/items/cmqgoj9yu01lfslicukhmblfb"
+"canonical_url": "https://aihot.news/items/cmqgoj9yu01lfslicukhmblfb"
 "score": 80
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/doj-invokes-national-security-to-defend-xais-unpermitted-gas-turbines-in-naacp-lawsuit](https://the-decoder.com/doj-invokes-national-security-to-defend-xais-unpermitted-gas-turbines-in-naacp-lawsuit)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqgoj9yu01lfslicukhmblfb](https://aihot.virxact.com/items/cmqgoj9yu01lfslicukhmblfb)
+- **AIHOT 链接**: [https://aihot.news/items/cmqgoj9yu01lfslicukhmblfb](https://aihot.news/items/cmqgoj9yu01lfslicukhmblfb)

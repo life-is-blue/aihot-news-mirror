@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-12T11:15:59.613Z"
 "source_name": "X：Google DeepMind (@GoogleDeepMind)"
 "original_url": "https://x.com/GoogleDeepMind/status/2065388989146628563"
-"canonical_url": "https://aihot.virxact.com/items/cmqatz4nc0otgslld30imx725"
+"canonical_url": "https://aihot.news/items/cmqatz4nc0otgslld30imx725"
 "score": 67
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@
 
 - **来源**: X：Google DeepMind (@GoogleDeepMind)
 - **原文链接**: [https://x.com/GoogleDeepMind/status/2065388989146628563](https://x.com/GoogleDeepMind/status/2065388989146628563)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqatz4nc0otgslld30imx725](https://aihot.virxact.com/items/cmqatz4nc0otgslld30imx725)
+- **AIHOT 链接**: [https://aihot.news/items/cmqatz4nc0otgslld30imx725](https://aihot.news/items/cmqatz4nc0otgslld30imx725)

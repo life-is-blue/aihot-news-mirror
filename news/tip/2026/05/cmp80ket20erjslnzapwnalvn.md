@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-16T07:17:28.201Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
-"canonical_url": "https://aihot.virxact.com/items/cmp80ket20erjslnzapwnalvn"
+"canonical_url": "https://aihot.news/items/cmp80ket20erjslnzapwnalvn"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Codex 能够帮助数据科学团队根据实际工作输入，自动化生成�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp80ket20erjslnzapwnalvn](https://aihot.virxact.com/items/cmp80ket20erjslnzapwnalvn)
+- **AIHOT 链接**: [https://aihot.news/items/cmp80ket20erjslnzapwnalvn](https://aihot.news/items/cmp80ket20erjslnzapwnalvn)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-18T15:05:54.110Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/diagnose-rare-childhood-diseases"
-"canonical_url": "https://aihot.virxact.com/items/cmqjmtwvi04vqslmh55vbp7oh"
+"canonical_url": "https://aihot.news/items/cmqjmtwvi04vqslmh55vbp7oh"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/diagnose-rare-childhood-diseases](https://openai.com/index/diagnose-rare-childhood-diseases)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqjmtwvi04vqslmh55vbp7oh](https://aihot.virxact.com/items/cmqjmtwvi04vqslmh55vbp7oh)
+- **AIHOT 链接**: [https://aihot.news/items/cmqjmtwvi04vqslmh55vbp7oh](https://aihot.news/items/cmqjmtwvi04vqslmh55vbp7oh)

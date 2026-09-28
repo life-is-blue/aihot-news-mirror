@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-01T19:47:04.649Z"
 "source_name": "X：Francois Chollet (@fchollet)"
 "original_url": "https://x.com/fchollet/status/2050300365942493547"
-"canonical_url": "https://aihot.virxact.com/items/cmonbqmsf0esusll93al0d5xs"
+"canonical_url": "https://aihot.news/items/cmonbqmsf0esusll93al0d5xs"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: X：Francois Chollet (@fchollet)
 - **原文链接**: [https://x.com/fchollet/status/2050300365942493547](https://x.com/fchollet/status/2050300365942493547)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmonbqmsf0esusll93al0d5xs](https://aihot.virxact.com/items/cmonbqmsf0esusll93al0d5xs)
+- **AIHOT 链接**: [https://aihot.news/items/cmonbqmsf0esusll93al0d5xs](https://aihot.news/items/cmonbqmsf0esusll93al0d5xs)

@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-\
   what-researchers-found-in-chatgpts-hidden-reasoning"
-"canonical_url": "https://aihot.virxact.com/items/cmsoydypn029yro3yvsi036au"
+"canonical_url": "https://aihot.news/items/cmsoydypn029yro3yvsi036au"
 "score": 80
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Alexander Panfilov团队发现OpenAI、Anthropic、Google等主要AI提供商API
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning](https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsoydypn029yro3yvsi036au](https://aihot.virxact.com/items/cmsoydypn029yro3yvsi036au)
+- **AIHOT 链接**: [https://aihot.news/items/cmsoydypn029yro3yvsi036au](https://aihot.news/items/cmsoydypn029yro3yvsi036au)

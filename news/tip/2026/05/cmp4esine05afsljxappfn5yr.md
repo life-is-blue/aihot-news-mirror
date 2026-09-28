@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-13T18:44:35.203Z"
 "source_name": "X：Sam Altman (@sama)"
 "original_url": "https://x.com/sama/status/2054627102922797323"
-"canonical_url": "https://aihot.virxact.com/items/cmp4esine05afsljxappfn5yr"
+"canonical_url": "https://aihot.news/items/cmp4esine05afsljxappfn5yr"
 "score": 69
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@
 
 - **来源**: X：Sam Altman (@sama)
 - **原文链接**: [https://x.com/sama/status/2054627102922797323](https://x.com/sama/status/2054627102922797323)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp4esine05afsljxappfn5yr](https://aihot.virxact.com/items/cmp4esine05afsljxappfn5yr)
+- **AIHOT 链接**: [https://aihot.news/items/cmp4esine05afsljxappfn5yr](https://aihot.news/items/cmp4esine05afsljxappfn5yr)

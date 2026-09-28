@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-27T19:25:33.087Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/vllm-jobs"
-"canonical_url": "https://aihot.virxact.com/items/cmqwr2hi6008msliky22llevm"
+"canonical_url": "https://aihot.news/items/cmqwr2hi6008msliky22llevm"
 "score": 62
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ HuggingFace Jobs 支持一条命令启动 vLLM 服务器，用于测试、评估
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/vllm-jobs](https://huggingface.co/blog/vllm-jobs)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqwr2hi6008msliky22llevm](https://aihot.virxact.com/items/cmqwr2hi6008msliky22llevm)
+- **AIHOT 链接**: [https://aihot.news/items/cmqwr2hi6008msliky22llevm](https://aihot.news/items/cmqwr2hi6008msliky22llevm)

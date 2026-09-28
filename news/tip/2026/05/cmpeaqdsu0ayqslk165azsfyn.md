@@ -7,7 +7,7 @@
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/how-an-anthropic-sales-leader-uses-cla\
   ude-cowork-to-run-a-4-000-account-book"
-"canonical_url": "https://aihot.virxact.com/items/cmpeaqdsu0ayqslk165azsfyn"
+"canonical_url": "https://aihot.news/items/cmpeaqdsu0ayqslk165azsfyn"
 "score": 59
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Anthropic美国中端市场业务负责人Travis Bryant利用Claude Cowork自动
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book](https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpeaqdsu0ayqslk165azsfyn](https://aihot.virxact.com/items/cmpeaqdsu0ayqslk165azsfyn)
+- **AIHOT 链接**: [https://aihot.news/items/cmpeaqdsu0ayqslk165azsfyn](https://aihot.news/items/cmpeaqdsu0ayqslk165azsfyn)

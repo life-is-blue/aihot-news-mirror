@@ -6,7 +6,7 @@
 "discovered_at": "2025-11-24T16:08:47.000Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud"
-"canonical_url": "https://aihot.virxact.com/items/cmoegbhak00adslxxkaa5s47z"
+"canonical_url": "https://aihot.news/items/cmoegbhak00adslxxkaa5s47z"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OVHcloud 现已正式加入 Hugging Face Hub 的推理服务提供商生态。�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud](https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoegbhak00adslxxkaa5s47z](https://aihot.virxact.com/items/cmoegbhak00adslxxkaa5s47z)
+- **AIHOT 链接**: [https://aihot.news/items/cmoegbhak00adslxxkaa5s47z](https://aihot.news/items/cmoegbhak00adslxxkaa5s47z)

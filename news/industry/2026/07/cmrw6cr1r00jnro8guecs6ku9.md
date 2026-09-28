@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-22T14:25:20.284Z"
 "source_name": "X：SemiAnalysis (@SemiAnalysis_)"
 "original_url": "https://x.com/SemiAnalysis_/status/2079929602429141215"
-"canonical_url": "https://aihot.virxact.com/items/cmrw6cr1r00jnro8guecs6ku9"
+"canonical_url": "https://aihot.news/items/cmrw6cr1r00jnro8guecs6ku9"
 "score": 76
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ AMD 刚刚宣布与 Anthropic 达成协议，将投资高达 50 亿美元，换�
 
 - **来源**: X：SemiAnalysis (@SemiAnalysis_)
 - **原文链接**: [https://x.com/SemiAnalysis_/status/2079929602429141215](https://x.com/SemiAnalysis_/status/2079929602429141215)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrw6cr1r00jnro8guecs6ku9](https://aihot.virxact.com/items/cmrw6cr1r00jnro8guecs6ku9)
+- **AIHOT 链接**: [https://aihot.news/items/cmrw6cr1r00jnro8guecs6ku9](https://aihot.news/items/cmrw6cr1r00jnro8guecs6ku9)

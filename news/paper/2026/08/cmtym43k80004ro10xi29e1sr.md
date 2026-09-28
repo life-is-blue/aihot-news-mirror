@@ -7,7 +7,7 @@
 "source_name": "Prime Intellect（网页）"
 "original_url": "https://www.primeintellect.ai/blog/measuring-autonomous-research"
 "canonical_url": "https://aihot.news/items/cmtym43k80004ro10xi29e1sr"
-"score": 75
+"score": 76
 "content_kind": "news"
 ---
 

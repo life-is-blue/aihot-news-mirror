@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-23T08:12:23.620Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/local-models-pr-triage"
-"canonical_url": "https://aihot.virxact.com/items/cmqqd9e3008sfslp53qupzvd1"
+"canonical_url": "https://aihot.news/items/cmqqd9e3008sfslp53qupzvd1"
 "score": 59
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Hugging Face 在 OpenClaw 仓库上测试用 Gemma 和 Qwen 等本地模型实�
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/local-models-pr-triage](https://huggingface.co/blog/local-models-pr-triage)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqqd9e3008sfslp53qupzvd1](https://aihot.virxact.com/items/cmqqd9e3008sfslp53qupzvd1)
+- **AIHOT 链接**: [https://aihot.news/items/cmqqd9e3008sfslp53qupzvd1](https://aihot.news/items/cmqqd9e3008sfslp53qupzvd1)

@@ -7,7 +7,7 @@
 "source_name": "X：Dario Amodei (@DarioAmodei)"
 "original_url": "https://x.com/DarioAmodei/status/2098773920774074715"
 "canonical_url": "https://aihot.news/items/cmtygklxb0dunrojhsd5rriu4"
-"score": 61
+"score": 62
 "content_kind": "news"
 ---
 

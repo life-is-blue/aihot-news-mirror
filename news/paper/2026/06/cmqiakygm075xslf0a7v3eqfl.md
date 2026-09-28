@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-17T16:35:14.210Z"
 "source_name": "X：Jim Fan (@DrJimFan)"
 "original_url": "https://x.com/DrJimFan/status/2067283904986517866"
-"canonical_url": "https://aihot.virxact.com/items/cmqiakygm075xslf0a7v3eqfl"
+"canonical_url": "https://aihot.news/items/cmqiakygm075xslf0a7v3eqfl"
 "score": 81
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ NVIDIA GEAR实验室推出ENPIRE系统，首次实现物理世界自主研究。
 
 - **来源**: X：Jim Fan (@DrJimFan)
 - **原文链接**: [https://x.com/DrJimFan/status/2067283904986517866](https://x.com/DrJimFan/status/2067283904986517866)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqiakygm075xslf0a7v3eqfl](https://aihot.virxact.com/items/cmqiakygm075xslf0a7v3eqfl)
+- **AIHOT 链接**: [https://aihot.news/items/cmqiakygm075xslf0a7v3eqfl](https://aihot.news/items/cmqiakygm075xslf0a7v3eqfl)

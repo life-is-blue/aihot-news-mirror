@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-17T12:22:55.595Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/announcements/activity-dashboard"
-"canonical_url": "https://aihot.virxact.com/items/cmsx7ffrz049uromm6en3if02"
+"canonical_url": "https://aihot.news/items/cmsx7ffrz049uromm6en3if02"
 "score": 63
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter 发布 Activity 仪表盘和 beta Analytics API，可按智能体、�
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/announcements/activity-dashboard](https://openrouter.ai/blog/announcements/activity-dashboard)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsx7ffrz049uromm6en3if02](https://aihot.virxact.com/items/cmsx7ffrz049uromm6en3if02)
+- **AIHOT 链接**: [https://aihot.news/items/cmsx7ffrz049uromm6en3if02](https://aihot.news/items/cmsx7ffrz049uromm6en3if02)

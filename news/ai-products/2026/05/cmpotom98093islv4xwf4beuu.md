@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-28T01:36:52.295Z"
 "source_name": "Claude Code：GitHub Releases（RSS）"
 "original_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.153"
-"canonical_url": "https://aihot.virxact.com/items/cmpotom98093islv4xwf4beuu"
+"canonical_url": "https://aihot.news/items/cmpotom98093islv4xwf4beuu"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Claude Code 发布 v2.1.153 版本。主要新增 `skipLfs` 选项以跳过 Git 
 
 - **来源**: Claude Code：GitHub Releases（RSS）
 - **原文链接**: [https://github.com/anthropics/claude-code/releases/tag/v2.1.153](https://github.com/anthropics/claude-code/releases/tag/v2.1.153)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpotom98093islv4xwf4beuu](https://aihot.virxact.com/items/cmpotom98093islv4xwf4beuu)
+- **AIHOT 链接**: [https://aihot.news/items/cmpotom98093islv4xwf4beuu](https://aihot.news/items/cmpotom98093islv4xwf4beuu)

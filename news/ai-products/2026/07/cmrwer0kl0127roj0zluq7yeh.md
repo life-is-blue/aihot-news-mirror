@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-22T18:20:24.454Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/router"
-"canonical_url": "https://aihot.virxact.com/items/cmrwer0kl0127roj0zluq7yeh"
+"canonical_url": "https://aihot.news/items/cmrwer0kl0127roj0zluq7yeh"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Cursor 推出 Cursor Router，可自动将每个编码请求分配给最合适�
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/router](https://cursor.com/blog/router)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrwer0kl0127roj0zluq7yeh](https://aihot.virxact.com/items/cmrwer0kl0127roj0zluq7yeh)
+- **AIHOT 链接**: [https://aihot.news/items/cmrwer0kl0127roj0zluq7yeh](https://aihot.news/items/cmrwer0kl0127roj0zluq7yeh)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-01T14:38:06.757Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption"
-"canonical_url": "https://aihot.virxact.com/items/cmpvbcpap05btsl0z009cpj2r"
+"canonical_url": "https://aihot.news/items/cmpvbcpap05btsl0z009cpj2r"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption](https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpvbcpap05btsl0z009cpj2r](https://aihot.virxact.com/items/cmpvbcpap05btsl0z009cpj2r)
+- **AIHOT 链接**: [https://aihot.news/items/cmpvbcpap05btsl0z009cpj2r](https://aihot.news/items/cmpvbcpap05btsl0z009cpj2r)

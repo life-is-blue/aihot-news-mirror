@@ -6,7 +6,7 @@
 "discovered_at": "2025-08-28T20:47:26.000Z"
 "source_name": "Ethan Mollick：One Useful Thing（RSS）"
 "original_url": "https://www.oneusefulthing.org/p/mass-intelligence"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsvctf003hsltez2rvoqfb"
+"canonical_url": "https://aihot.news/items/cmnwsvctf003hsltez2rvoqfb"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Ethan Mollick：One Useful Thing（RSS）
 - **原文链接**: [https://www.oneusefulthing.org/p/mass-intelligence](https://www.oneusefulthing.org/p/mass-intelligence)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsvctf003hsltez2rvoqfb](https://aihot.virxact.com/items/cmnwsvctf003hsltez2rvoqfb)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsvctf003hsltez2rvoqfb](https://aihot.news/items/cmnwsvctf003hsltez2rvoqfb)

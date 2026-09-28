@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-26T15:28:32.000Z"
 "source_name": "X：Sundar Pichai (@sundarpichai)"
 "original_url": "https://x.com/sundarpichai/status/2037189971359261081"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1ywov01l1slc39gq8yvjk"
+"canonical_url": "https://aihot.news/items/cmnw1ywov01l1slc39gq8yvjk"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Gemini 3.1 Flash Live 发布，为 Google 迄今最高质量音频语音模型�
 
 - **来源**: X：Sundar Pichai (@sundarpichai)
 - **原文链接**: [https://x.com/sundarpichai/status/2037189971359261081](https://x.com/sundarpichai/status/2037189971359261081)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1ywov01l1slc39gq8yvjk](https://aihot.virxact.com/items/cmnw1ywov01l1slc39gq8yvjk)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1ywov01l1slc39gq8yvjk](https://aihot.news/items/cmnw1ywov01l1slc39gq8yvjk)

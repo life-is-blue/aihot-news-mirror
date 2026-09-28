@@ -6,7 +6,7 @@
 "discovered_at": "2024-12-09T00:00:00.000Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-image-generation-release"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsvjeh005tslte00o8u451"
+"canonical_url": "https://aihot.news/items/cmnwsvjeh005tslte00o8u451"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Grok 推出图像生成功能，支持通过自然语言指令直接创建图片
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-image-generation-release](https://x.ai/news/grok-image-generation-release)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsvjeh005tslte00o8u451](https://aihot.virxact.com/items/cmnwsvjeh005tslte00o8u451)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsvjeh005tslte00o8u451](https://aihot.news/items/cmnwsvjeh005tslte00o8u451)

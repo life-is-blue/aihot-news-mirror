@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-28T15:06:24.383Z"
 "source_name": "X：Perplexity (@perplexity_ai)"
 "original_url": "https://x.com/perplexity_ai/status/2060013442720010598"
-"canonical_url": "https://aihot.virxact.com/items/cmppmltf501fhslvyqsj7bfug"
+"canonical_url": "https://aihot.news/items/cmppmltf501fhslvyqsj7bfug"
 "score": 77
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ Perplexity Computer现已登陆Microsoft Excel、Word、PowerPoint和Outlook。
 
 - **来源**: X：Perplexity (@perplexity_ai)
 - **原文链接**: [https://x.com/perplexity_ai/status/2060013442720010598](https://x.com/perplexity_ai/status/2060013442720010598)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmppmltf501fhslvyqsj7bfug](https://aihot.virxact.com/items/cmppmltf501fhslvyqsj7bfug)
+- **AIHOT 链接**: [https://aihot.news/items/cmppmltf501fhslvyqsj7bfug](https://aihot.news/items/cmppmltf501fhslvyqsj7bfug)

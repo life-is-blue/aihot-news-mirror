@@ -7,7 +7,7 @@
 "source_name": "GitHub Blog"
 "original_url": "https://github.blog/ai-and-ml/generative-ai/agent-pull-request\
   s-are-everywhere-heres-how-to-review-them"
-"canonical_url": "https://aihot.virxact.com/items/cmovvs6e600ouslcxuur7w2qt"
+"canonical_url": "https://aihot.news/items/cmovvs6e600ouslcxuur7w2qt"
 "score": 79
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: GitHub Blog
 - **原文链接**: [https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them](https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmovvs6e600ouslcxuur7w2qt](https://aihot.virxact.com/items/cmovvs6e600ouslcxuur7w2qt)
+- **AIHOT 链接**: [https://aihot.news/items/cmovvs6e600ouslcxuur7w2qt](https://aihot.news/items/cmovvs6e600ouslcxuur7w2qt)

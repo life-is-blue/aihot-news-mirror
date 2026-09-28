@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-17T07:47:15.944Z"
 "source_name": "X：Elon Musk (@elonmusk, xAI)"
 "original_url": "https://x.com/elonmusk/status/2055912040481599793"
-"canonical_url": "https://aihot.virxact.com/items/cmp9h2ow80qscslnz5vjoothc"
+"canonical_url": "https://aihot.news/items/cmp9h2ow80qscslnz5vjoothc"
 "score": 84
 "content_kind": "news"
 ---
@@ -25,4 +25,4 @@ Grok Imagine
 
 - **来源**: X：Elon Musk (@elonmusk, xAI)
 - **原文链接**: [https://x.com/elonmusk/status/2055912040481599793](https://x.com/elonmusk/status/2055912040481599793)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp9h2ow80qscslnz5vjoothc](https://aihot.virxact.com/items/cmp9h2ow80qscslnz5vjoothc)
+- **AIHOT 链接**: [https://aihot.news/items/cmp9h2ow80qscslnz5vjoothc](https://aihot.news/items/cmp9h2ow80qscslnz5vjoothc)

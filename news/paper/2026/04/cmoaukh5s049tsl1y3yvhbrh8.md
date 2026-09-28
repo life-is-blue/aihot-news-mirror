@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-23T02:13:11.235Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2604.20779"
-"canonical_url": "https://aihot.virxact.com/items/cmoaukh5s049tsl1y3yvhbrh8"
+"canonical_url": "https://aihot.news/items/cmoaukh5s049tsl1y3yvhbrh8"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ SWE-chat是首个从开源开发者真实工作环境中收集的大规模代码
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2604.20779](https://arxiv.org/abs/2604.20779)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoaukh5s049tsl1y3yvhbrh8](https://aihot.virxact.com/items/cmoaukh5s049tsl1y3yvhbrh8)
+- **AIHOT 链接**: [https://aihot.news/items/cmoaukh5s049tsl1y3yvhbrh8](https://aihot.news/items/cmoaukh5s049tsl1y3yvhbrh8)

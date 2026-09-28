@@ -6,8 +6,8 @@
 "discovered_at": "2026-09-03T23:29:35.418Z"
 "source_name": "Gary Marcus：The Road to AI We Can Trust（RSS）"
 "original_url": "https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra"
-"canonical_url": "https://aihot.virxact.com/items/cmtm5q99n018rrow0z6je2l9y"
-"score": 73
+"canonical_url": "https://aihot.news/items/cmtm5q99n018rrow0z6je2l9y"
+"score": 74
 "content_kind": "news"
 ---
 
@@ -17,4 +17,4 @@ Gary Marcus 发文点评 GPT-6 Astra，称多项报告显示其为真正的进�
 
 - **来源**: Gary Marcus：The Road to AI We Can Trust（RSS）
 - **原文链接**: [https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra](https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtm5q99n018rrow0z6je2l9y](https://aihot.virxact.com/items/cmtm5q99n018rrow0z6je2l9y)
+- **AIHOT 链接**: [https://aihot.news/items/cmtm5q99n018rrow0z6je2l9y](https://aihot.news/items/cmtm5q99n018rrow0z6je2l9y)

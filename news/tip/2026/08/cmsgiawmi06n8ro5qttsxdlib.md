@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-05T19:55:15.197Z"
 "source_name": "Simon Willison 博客"
 "original_url": "https://simonwillison.net/2026/Aug/5/raccoon-heist"
-"canonical_url": "https://aihot.virxact.com/items/cmsgiawmi06n8ro5qttsxdlib"
+"canonical_url": "https://aihot.news/items/cmsgiawmi06n8ro5qttsxdlib"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Simon Willison 将 2022 年 GPT-3 和 DALL-E 生成的游戏概念与截图输�
 
 - **来源**: Simon Willison 博客
 - **原文链接**: [https://simonwillison.net/2026/Aug/5/raccoon-heist](https://simonwillison.net/2026/Aug/5/raccoon-heist)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsgiawmi06n8ro5qttsxdlib](https://aihot.virxact.com/items/cmsgiawmi06n8ro5qttsxdlib)
+- **AIHOT 链接**: [https://aihot.news/items/cmsgiawmi06n8ro5qttsxdlib](https://aihot.news/items/cmsgiawmi06n8ro5qttsxdlib)

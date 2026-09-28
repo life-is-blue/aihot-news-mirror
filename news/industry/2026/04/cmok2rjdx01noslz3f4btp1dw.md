@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/musk-and-altman-face-off-in-court-over\
   -openais-for-profit-pivot"
-"canonical_url": "https://aihot.virxact.com/items/cmok2rjdx01noslz3f4btp1dw"
+"canonical_url": "https://aihot.news/items/cmok2rjdx01noslz3f4btp1dw"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/musk-and-altman-face-off-in-court-over-openais-for-profit-pivot](https://the-decoder.com/musk-and-altman-face-off-in-court-over-openais-for-profit-pivot)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmok2rjdx01noslz3f4btp1dw](https://aihot.virxact.com/items/cmok2rjdx01noslz3f4btp1dw)
+- **AIHOT 链接**: [https://aihot.news/items/cmok2rjdx01noslz3f4btp1dw](https://aihot.news/items/cmok2rjdx01noslz3f4btp1dw)

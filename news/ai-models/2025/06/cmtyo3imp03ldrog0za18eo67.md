@@ -7,7 +7,7 @@
 "source_name": "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）"
 "original_url": "https://openmoss.ai/blog/cn/moss-ttsd"
 "canonical_url": "https://aihot.news/items/cmtyo3imp03ldrog0za18eo67"
-"score": 68
+"score": 69
 "content_kind": "news"
 ---
 

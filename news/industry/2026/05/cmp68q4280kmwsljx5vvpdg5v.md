@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-15T01:30:09.354Z"
 "source_name": "Anthropic：Newsroom（网页）"
 "original_url": "https://www.anthropic.com/news/pwc-expanded-partnership"
-"canonical_url": "https://aihot.virxact.com/items/cmp68q4280kmwsljx5vvpdg5v"
+"canonical_url": "https://aihot.news/items/cmp68q4280kmwsljx5vvpdg5v"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Anthropic：Newsroom（网页）
 - **原文链接**: [https://www.anthropic.com/news/pwc-expanded-partnership](https://www.anthropic.com/news/pwc-expanded-partnership)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp68q4280kmwsljx5vvpdg5v](https://aihot.virxact.com/items/cmp68q4280kmwsljx5vvpdg5v)
+- **AIHOT 链接**: [https://aihot.news/items/cmp68q4280kmwsljx5vvpdg5v](https://aihot.news/items/cmp68q4280kmwsljx5vvpdg5v)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-07T00:17:20.591Z"
 "source_name": "X：Gemini (@GeminiApp)"
 "original_url": "https://x.com/GeminiApp/status/2074280473581572600"
-"canonical_url": "https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj"
+"canonical_url": "https://aihot.news/items/cmr9wgeoh00hvih9kcga5y5uj"
 "score": 69
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Gemini Spark 现在可以智能追踪话题并实时反应事件。
 
 - **来源**: X：Gemini (@GeminiApp)
 - **原文链接**: [https://x.com/GeminiApp/status/2074280473581572600](https://x.com/GeminiApp/status/2074280473581572600)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj](https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj)
+- **AIHOT 链接**: [https://aihot.news/items/cmr9wgeoh00hvih9kcga5y5uj](https://aihot.news/items/cmr9wgeoh00hvih9kcga5y5uj)

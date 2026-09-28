@@ -7,7 +7,7 @@
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/announcing-gemma-3n-preview-power\
   ful-efficient-mobile-first-ai"
-"canonical_url": "https://aihot.virxact.com/items/cmnwsdqam0058slag3bk1lna4"
+"canonical_url": "https://aihot.news/items/cmnwsdqam0058slag3bk1lna4"
 "score": null
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Gemma 3n 预览版发布，专为移动设备优化的开源多模态模型。�
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/announcing-gemma-3n-preview-powerful-efficient-mobile-first-ai](https://deepmind.google/blog/announcing-gemma-3n-preview-powerful-efficient-mobile-first-ai)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnwsdqam0058slag3bk1lna4](https://aihot.virxact.com/items/cmnwsdqam0058slag3bk1lna4)
+- **AIHOT 链接**: [https://aihot.news/items/cmnwsdqam0058slag3bk1lna4](https://aihot.news/items/cmnwsdqam0058slag3bk1lna4)

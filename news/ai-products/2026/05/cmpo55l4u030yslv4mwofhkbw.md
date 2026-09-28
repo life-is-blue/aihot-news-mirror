@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-27T14:09:52.649Z"
 "source_name": "Runway：News（网页）"
 "original_url": "https://runwayml.com/news/mcp"
-"canonical_url": "https://aihot.virxact.com/items/cmpo55l4u030yslv4mwofhkbw"
+"canonical_url": "https://aihot.news/items/cmpo55l4u030yslv4mwofhkbw"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Runway 正式推出 Runway MCP 服务器，允许任何兼容 MCP 的 AI 智能�
 
 - **来源**: Runway：News（网页）
 - **原文链接**: [https://runwayml.com/news/mcp](https://runwayml.com/news/mcp)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpo55l4u030yslv4mwofhkbw](https://aihot.virxact.com/items/cmpo55l4u030yslv4mwofhkbw)
+- **AIHOT 链接**: [https://aihot.news/items/cmpo55l4u030yslv4mwofhkbw](https://aihot.news/items/cmpo55l4u030yslv4mwofhkbw)

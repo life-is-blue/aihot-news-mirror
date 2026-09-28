@@ -7,7 +7,7 @@
 "source_name": "Dwarkesh Patel：Podcast & Blog（RSS）"
 "original_url": "https://www.dwarkesh.com/p/noam-brown"
 "canonical_url": "https://aihot.news/items/cmu5qsx2y0gpfroqonmogw4sk"
-"score": 71
+"score": 72
 "content_kind": "news"
 ---
 

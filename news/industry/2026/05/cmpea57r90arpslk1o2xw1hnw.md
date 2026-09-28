@@ -7,7 +7,7 @@
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.bbc.com/future/article/20260519-google-tackles-att\
   empts-to-hack-its-ai-results"
-"canonical_url": "https://aihot.virxact.com/items/cmpea57r90arpslk1o2xw1hnw"
+"canonical_url": "https://aihot.news/items/cmpea57r90arpslk1o2xw1hnw"
 "score": 74
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results](https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpea57r90arpslk1o2xw1hnw](https://aihot.virxact.com/items/cmpea57r90arpslk1o2xw1hnw)
+- **AIHOT 链接**: [https://aihot.news/items/cmpea57r90arpslk1o2xw1hnw](https://aihot.news/items/cmpea57r90arpslk1o2xw1hnw)

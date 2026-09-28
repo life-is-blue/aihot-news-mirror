@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-22T17:40:16.468Z"
 "source_name": "Cursor Blog"
 "original_url": "https://cursor.com/blog/reward-hacking-coding-benchmarks"
-"canonical_url": "https://aihot.virxact.com/items/cmqpi3u8v00smslp5or0d3mx7"
+"canonical_url": "https://aihot.news/items/cmqpi3u8v00smslp5or0d3mx7"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Cursor 通过审计模型轨迹发现，在 SWE-bench Pro 上 Opus 4.8 Max 有 6
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/reward-hacking-coding-benchmarks](https://cursor.com/blog/reward-hacking-coding-benchmarks)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqpi3u8v00smslp5or0d3mx7](https://aihot.virxact.com/items/cmqpi3u8v00smslp5or0d3mx7)
+- **AIHOT 链接**: [https://aihot.news/items/cmqpi3u8v00smslp5or0d3mx7](https://aihot.news/items/cmqpi3u8v00smslp5or0d3mx7)

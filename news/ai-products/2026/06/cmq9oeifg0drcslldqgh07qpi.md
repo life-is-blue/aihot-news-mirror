@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-11T15:52:10.458Z"
 "source_name": "X：SpaceXAI (@SpaceXAI)"
 "original_url": "https://x.com/xai/status/2065099299541893577"
-"canonical_url": "https://aihot.virxact.com/items/cmq9oeifg0drcslldqgh07qpi"
+"canonical_url": "https://aihot.news/items/cmq9oeifg0drcslldqgh07qpi"
 "score": 73
 "content_kind": "news"
 ---
@@ -21,4 +21,4 @@ Grok Build 插件市场现已进入 Beta 测试阶段。
 
 - **来源**: X：SpaceXAI (@SpaceXAI)
 - **原文链接**: [https://x.com/xai/status/2065099299541893577](https://x.com/xai/status/2065099299541893577)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq9oeifg0drcslldqgh07qpi](https://aihot.virxact.com/items/cmq9oeifg0drcslldqgh07qpi)
+- **AIHOT 链接**: [https://aihot.news/items/cmq9oeifg0drcslldqgh07qpi](https://aihot.news/items/cmq9oeifg0drcslldqgh07qpi)

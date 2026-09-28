@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-08T20:08:45.252Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations"
-"canonical_url": "https://aihot.virxact.com/items/cmrcigf5k01bqihx54i8oph9u"
+"canonical_url": "https://aihot.news/items/cmrcigf5k01bqihx54i8oph9u"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 对编码评测基准 SWE-Bench Pro 进行详细审计，发现约 30% �
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/separating-signal-from-noise-coding-evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrcigf5k01bqihx54i8oph9u](https://aihot.virxact.com/items/cmrcigf5k01bqihx54i8oph9u)
+- **AIHOT 链接**: [https://aihot.news/items/cmrcigf5k01bqihx54i8oph9u](https://aihot.news/items/cmrcigf5k01bqihx54i8oph9u)

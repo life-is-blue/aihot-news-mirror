@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-26T15:18:56.294Z"
 "source_name": "Anthropic：Research（发表成果 · 网页）"
 "original_url": "https://www.anthropic.com/research/economic-index-june-2026-report"
-"canonical_url": "https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe"
+"canonical_url": "https://aihot.news/items/cmqv2tn1509khsl80vpek6zqe"
 "score": 55
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic 发布 Economic Index 报告，基于隐私保护遥测数据分析了
 
 - **来源**: Anthropic：Research（发表成果 · 网页）
 - **原文链接**: [https://www.anthropic.com/research/economic-index-june-2026-report](https://www.anthropic.com/research/economic-index-june-2026-report)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe](https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe)
+- **AIHOT 链接**: [https://aihot.news/items/cmqv2tn1509khsl80vpek6zqe](https://aihot.news/items/cmqv2tn1509khsl80vpek6zqe)

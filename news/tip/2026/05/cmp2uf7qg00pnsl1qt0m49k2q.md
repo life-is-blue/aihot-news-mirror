@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-12T16:26:38.082Z"
 "source_name": "Nathan Lambert：Interconnects（RSS）"
 "original_url": "https://www.interconnects.ai/p/how-open-model-ecosystems-compound"
-"canonical_url": "https://aihot.virxact.com/items/cmp2uf7qg00pnsl1qt0m49k2q"
+"canonical_url": "https://aihot.news/items/cmp2uf7qg00pnsl1qt0m49k2q"
 "score": 64
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Nathan Lambert：Interconnects（RSS）
 - **原文链接**: [https://www.interconnects.ai/p/how-open-model-ecosystems-compound](https://www.interconnects.ai/p/how-open-model-ecosystems-compound)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp2uf7qg00pnsl1qt0m49k2q](https://aihot.virxact.com/items/cmp2uf7qg00pnsl1qt0m49k2q)
+- **AIHOT 链接**: [https://aihot.news/items/cmp2uf7qg00pnsl1qt0m49k2q](https://aihot.news/items/cmp2uf7qg00pnsl1qt0m49k2q)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-10T07:31:19.869Z"
 "source_name": "X：Elon Musk (@elonmusk, xAI)"
 "original_url": "https://x.com/elonmusk/status/2075478792273842370"
-"canonical_url": "https://aihot.virxact.com/items/cmrema2b4022bihcleaow4j8v"
+"canonical_url": "https://aihot.news/items/cmrema2b4022bihcleaow4j8v"
 "score": 68
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Elon Musk 转发用户 @0x0funky 对 Grok Build 的称赞。该用户称 Grok Bu
 
 - **来源**: X：Elon Musk (@elonmusk, xAI)
 - **原文链接**: [https://x.com/elonmusk/status/2075478792273842370](https://x.com/elonmusk/status/2075478792273842370)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrema2b4022bihcleaow4j8v](https://aihot.virxact.com/items/cmrema2b4022bihcleaow4j8v)
+- **AIHOT 链接**: [https://aihot.news/items/cmrema2b4022bihcleaow4j8v](https://aihot.news/items/cmrema2b4022bihcleaow4j8v)

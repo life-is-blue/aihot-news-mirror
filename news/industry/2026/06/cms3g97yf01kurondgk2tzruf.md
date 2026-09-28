@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-18T00:22:11.000Z"
 "source_name": "X：Mark Chen（OpenAI 首席研究官，@markchen90）"
 "original_url": "https://x.com/markchen90/status/2067402457500758375"
-"canonical_url": "https://aihot.virxact.com/items/cms3g97yf01kurondgk2tzruf"
+"canonical_url": "https://aihot.news/items/cms3g97yf01kurondgk2tzruf"
 "score": 69
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 首席研究官 Mark Chen 宣布，Transformer 架构共同作者、MoE �
 
 - **来源**: X：Mark Chen（OpenAI 首席研究官，@markchen90）
 - **原文链接**: [https://x.com/markchen90/status/2067402457500758375](https://x.com/markchen90/status/2067402457500758375)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3g97yf01kurondgk2tzruf](https://aihot.virxact.com/items/cms3g97yf01kurondgk2tzruf)
+- **AIHOT 链接**: [https://aihot.news/items/cms3g97yf01kurondgk2tzruf](https://aihot.news/items/cms3g97yf01kurondgk2tzruf)

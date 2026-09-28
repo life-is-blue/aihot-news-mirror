@@ -8,7 +8,7 @@
 "original_url": "https://www.marktechpost.com/2026/06/18/salesforce-codegen-tut\
   orial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safet\
   y-checks"
-"canonical_url": "https://aihot.virxact.com/items/cmqkc8a7h0515slhis4sq6oxb"
+"canonical_url": "https://aihot.news/items/cmqkc8a7h0515slhis4sq6oxb"
 "score": 75
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks](https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqkc8a7h0515slhis4sq6oxb](https://aihot.virxact.com/items/cmqkc8a7h0515slhis4sq6oxb)
+- **AIHOT 链接**: [https://aihot.news/items/cmqkc8a7h0515slhis4sq6oxb](https://aihot.news/items/cmqkc8a7h0515slhis4sq6oxb)

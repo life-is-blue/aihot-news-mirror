@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-02T14:33:24.055Z"
 "source_name": "X：Nathan Lambert (@natolambert)"
 "original_url": "https://x.com/natolambert/status/2061813361848029631"
-"canonical_url": "https://aihot.virxact.com/items/cmpwqmim605awslsn13ybjfuw"
+"canonical_url": "https://aihot.news/items/cmpwqmim605awslsn13ybjfuw"
 "score": 75
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Ai2（Allen Institute for AI）研究员Nathan Lambert宣布离职。他在Ai2�
 
 - **来源**: X：Nathan Lambert (@natolambert)
 - **原文链接**: [https://x.com/natolambert/status/2061813361848029631](https://x.com/natolambert/status/2061813361848029631)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpwqmim605awslsn13ybjfuw](https://aihot.virxact.com/items/cmpwqmim605awslsn13ybjfuw)
+- **AIHOT 链接**: [https://aihot.news/items/cmpwqmim605awslsn13ybjfuw](https://aihot.news/items/cmpwqmim605awslsn13ybjfuw)

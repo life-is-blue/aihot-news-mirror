@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-24T20:07:04.593Z"
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/insights/when-zero-means-zero"
-"canonical_url": "https://aihot.virxact.com/items/cmqsi8c9303azslfuexk0h241"
+"canonical_url": "https://aihot.news/items/cmqsi8c9303azslfuexk0h241"
 "score": 68
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenRouter 的零数据留存（ZDR）保证用户提示词和模型响应不被
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/insights/when-zero-means-zero](https://openrouter.ai/blog/insights/when-zero-means-zero)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqsi8c9303azslfuexk0h241](https://aihot.virxact.com/items/cmqsi8c9303azslfuexk0h241)
+- **AIHOT 链接**: [https://aihot.news/items/cmqsi8c9303azslfuexk0h241](https://aihot.news/items/cmqsi8c9303azslfuexk0h241)

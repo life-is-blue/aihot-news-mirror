@@ -6,7 +6,7 @@
 "discovered_at": "2025-09-23T13:45:11.000Z"
 "source_name": "X：Sam Altman (@sama)"
 "original_url": "https://x.com/sama/status/1970484594161098920"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yuk1019cslc3zvuqkuoc"
+"canonical_url": "https://aihot.news/items/cmnw1yuk1019cslc3zvuqkuoc"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Sam Altman 提出我们正进入"丰裕智能"时代，深度学习将持续扩�
 
 - **来源**: X：Sam Altman (@sama)
 - **原文链接**: [https://x.com/sama/status/1970484594161098920](https://x.com/sama/status/1970484594161098920)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yuk1019cslc3zvuqkuoc](https://aihot.virxact.com/items/cmnw1yuk1019cslc3zvuqkuoc)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yuk1019cslc3zvuqkuoc](https://aihot.news/items/cmnw1yuk1019cslc3zvuqkuoc)

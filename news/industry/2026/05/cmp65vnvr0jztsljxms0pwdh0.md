@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-15T00:10:08.451Z"
 "source_name": "Runway：News（网页）"
 "original_url": "https://runwayml.com/news/runway-is-coming-to-japan"
-"canonical_url": "https://aihot.virxact.com/items/cmp65vnvr0jztsljxms0pwdh0"
+"canonical_url": "https://aihot.news/items/cmp65vnvr0jztsljxms0pwdh0"
 "score": 67
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Runway：News（网页）
 - **原文链接**: [https://runwayml.com/news/runway-is-coming-to-japan](https://runwayml.com/news/runway-is-coming-to-japan)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp65vnvr0jztsljxms0pwdh0](https://aihot.virxact.com/items/cmp65vnvr0jztsljxms0pwdh0)
+- **AIHOT 链接**: [https://aihot.news/items/cmp65vnvr0jztsljxms0pwdh0](https://aihot.news/items/cmp65vnvr0jztsljxms0pwdh0)

@@ -8,7 +8,7 @@
 "original_url": "https://www.promptarmor.com/resources/cellshock-claude-ai-is-e\
   xcel-lent-at-stealing-data"
 "canonical_url": "https://aihot.news/items/cmtyqbg7d031vroupbbvh2x93"
-"score": 75
+"score": 76
 "content_kind": "news"
 ---
 

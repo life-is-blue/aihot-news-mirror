@@ -7,7 +7,7 @@
 "source_name": "Claude：Blog（网页）"
 "original_url": "https://claude.com/blog/how-a-non-technical-project-manager-bu\
   ilt-and-shipped-a-stress-management-app-with-claude-code-in-six-weeks"
-"canonical_url": "https://aihot.virxact.com/items/cmon6g4w70do8sll9bfon702b"
+"canonical_url": "https://aihot.news/items/cmon6g4w70do8sll9bfon702b"
 "score": 64
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: Claude：Blog（网页）
 - **原文链接**: [https://claude.com/blog/how-a-non-technical-project-manager-built-and-shipped-a-stress-management-app-with-claude-code-in-six-weeks](https://claude.com/blog/how-a-non-technical-project-manager-built-and-shipped-a-stress-management-app-with-claude-code-in-six-weeks)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmon6g4w70do8sll9bfon702b](https://aihot.virxact.com/items/cmon6g4w70do8sll9bfon702b)
+- **AIHOT 链接**: [https://aihot.news/items/cmon6g4w70do8sll9bfon702b](https://aihot.news/items/cmon6g4w70do8sll9bfon702b)

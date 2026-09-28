@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-05T00:00:00.000Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2607.04438"
-"canonical_url": "https://aihot.virxact.com/items/cmra2w89f00esihx80bjzdjlf"
+"canonical_url": "https://aihot.news/items/cmra2w89f00esihx80bjzdjlf"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ ResearchStudio-Reel 由五个 Claude Code 和 Codex 技能组成，包含共享�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2607.04438](https://arxiv.org/abs/2607.04438)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmra2w89f00esihx80bjzdjlf](https://aihot.virxact.com/items/cmra2w89f00esihx80bjzdjlf)
+- **AIHOT 链接**: [https://aihot.news/items/cmra2w89f00esihx80bjzdjlf](https://aihot.news/items/cmra2w89f00esihx80bjzdjlf)

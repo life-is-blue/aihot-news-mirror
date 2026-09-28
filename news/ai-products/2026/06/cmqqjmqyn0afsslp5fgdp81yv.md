@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-23T11:10:44.632Z"
 "source_name": "公众号：千问APP（阿里）"
 "original_url": "https://mp.weixin.qq.com/s/oGHVP4MgGS1rbmT8s8St8Q"
-"canonical_url": "https://aihot.virxact.com/items/cmqqjmqyn0afsslp5fgdp81yv"
+"canonical_url": "https://aihot.news/items/cmqqjmqyn0afsslp5fgdp81yv"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: 公众号：千问APP（阿里）
 - **原文链接**: [https://mp.weixin.qq.com/s/oGHVP4MgGS1rbmT8s8St8Q](https://mp.weixin.qq.com/s/oGHVP4MgGS1rbmT8s8St8Q)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqqjmqyn0afsslp5fgdp81yv](https://aihot.virxact.com/items/cmqqjmqyn0afsslp5fgdp81yv)
+- **AIHOT 链接**: [https://aihot.news/items/cmqqjmqyn0afsslp5fgdp81yv](https://aihot.news/items/cmqqjmqyn0afsslp5fgdp81yv)

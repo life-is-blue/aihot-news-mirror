@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-28T17:26:11.438Z"
 "source_name": "Nathan Lambert：Interconnects（RSS）"
 "original_url": "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside"
-"canonical_url": "https://aihot.virxact.com/items/cmqy28vh30050slr1uzaev9nk"
+"canonical_url": "https://aihot.news/items/cmqy28vh30050slr1uzaev9nk"
 "score": 60
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Nathan Lambert：Interconnects（RSS）
 - **原文链接**: [https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside](https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqy28vh30050slr1uzaev9nk](https://aihot.virxact.com/items/cmqy28vh30050slr1uzaev9nk)
+- **AIHOT 链接**: [https://aihot.news/items/cmqy28vh30050slr1uzaev9nk](https://aihot.news/items/cmqy28vh30050slr1uzaev9nk)

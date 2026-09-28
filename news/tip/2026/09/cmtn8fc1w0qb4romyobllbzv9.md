@@ -7,8 +7,8 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-\
   but-remains-vulnerable-to-hidden-prompt-injections"
-"canonical_url": "https://aihot.virxact.com/items/cmtn8fc1w0qb4romyobllbzv9"
-"score": 83
+"canonical_url": "https://aihot.news/items/cmtn8fc1w0qb4romyobllbzv9"
+"score": 84
 "content_kind": "news"
 ---
 
@@ -18,4 +18,4 @@ The Decoder 报道，OpenAI 新模型 GPT-6 Astra 幻觉少于前代 GPT-5.6 Sol
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections](https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtn8fc1w0qb4romyobllbzv9](https://aihot.virxact.com/items/cmtn8fc1w0qb4romyobllbzv9)
+- **AIHOT 链接**: [https://aihot.news/items/cmtn8fc1w0qb4romyobllbzv9](https://aihot.news/items/cmtn8fc1w0qb4romyobllbzv9)

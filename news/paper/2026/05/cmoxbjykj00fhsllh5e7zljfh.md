@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-08T19:39:36.252Z"
 "source_name": "Apple Machine Learning Research（RSS）"
 "original_url": "https://machinelearning.apple.com/research/velox"
-"canonical_url": "https://aihot.virxact.com/items/cmoxbjykj00fhsllh5e7zljfh"
+"canonical_url": "https://aihot.news/items/cmoxbjykj00fhsllh5e7zljfh"
 "score": 66
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Velox提出一个学习4D对象潜在表示的框架，该表示具备描述性�
 
 - **来源**: Apple Machine Learning Research（RSS）
 - **原文链接**: [https://machinelearning.apple.com/research/velox](https://machinelearning.apple.com/research/velox)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoxbjykj00fhsllh5e7zljfh](https://aihot.virxact.com/items/cmoxbjykj00fhsllh5e7zljfh)
+- **AIHOT 链接**: [https://aihot.news/items/cmoxbjykj00fhsllh5e7zljfh](https://aihot.news/items/cmoxbjykj00fhsllh5e7zljfh)

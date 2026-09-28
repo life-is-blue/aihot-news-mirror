@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-08T23:16:04.226Z"
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/0/974/275.htm"
-"canonical_url": "https://aihot.virxact.com/items/cmrcp5by2031uihx57fypdkfo"
+"canonical_url": "https://aihot.news/items/cmrcp5by2031uihx57fypdkfo"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Anthropic今年第三季度利润预计超10亿美元，已于6月1日秘密提�
 
 - **来源**: IT之家（RSS）
 - **原文链接**: [https://www.ithome.com/0/974/275.htm](https://www.ithome.com/0/974/275.htm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrcp5by2031uihx57fypdkfo](https://aihot.virxact.com/items/cmrcp5by2031uihx57fypdkfo)
+- **AIHOT 链接**: [https://aihot.news/items/cmrcp5by2031uihx57fypdkfo](https://aihot.news/items/cmrcp5by2031uihx57fypdkfo)

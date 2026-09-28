@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-10T16:40:38.872Z"
 "source_name": "Google DeepMind：Blog（RSS）"
 "original_url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation"
-"canonical_url": "https://aihot.virxact.com/items/cmq8aoxud00ngslldd191n34b"
+"canonical_url": "https://aihot.news/items/cmq8aoxud00ngslldd191n34b"
 "score": 72
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Google DeepMind 发布开源实验模型 DiffusionGemma，采用文本扩散技�
 
 - **来源**: Google DeepMind：Blog（RSS）
 - **原文链接**: [https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation](https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq8aoxud00ngslldd191n34b](https://aihot.virxact.com/items/cmq8aoxud00ngslldd191n34b)
+- **AIHOT 链接**: [https://aihot.news/items/cmq8aoxud00ngslldd191n34b](https://aihot.news/items/cmq8aoxud00ngslldd191n34b)

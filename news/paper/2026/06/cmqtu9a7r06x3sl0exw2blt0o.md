@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-25T18:31:30.504Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://scrollprize.org/firstscroll"
-"canonical_url": "https://aihot.virxact.com/items/cmqtu9a7r06x3sl0exw2blt0o"
+"canonical_url": "https://aihot.news/items/cmqtu9a7r06x3sl0exw2blt0o"
 "score": 79
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://scrollprize.org/firstscroll](https://scrollprize.org/firstscroll)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqtu9a7r06x3sl0exw2blt0o](https://aihot.virxact.com/items/cmqtu9a7r06x3sl0exw2blt0o)
+- **AIHOT 链接**: [https://aihot.news/items/cmqtu9a7r06x3sl0exw2blt0o](https://aihot.news/items/cmqtu9a7r06x3sl0exw2blt0o)

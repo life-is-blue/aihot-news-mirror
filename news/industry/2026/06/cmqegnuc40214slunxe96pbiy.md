@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-15T00:14:22.274Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/introducing-openai-partner-network"
-"canonical_url": "https://aihot.virxact.com/items/cmqegnuc40214slunxe96pbiy"
+"canonical_url": "https://aihot.news/items/cmqegnuc40214slunxe96pbiy"
 "score": 59
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 宣布推出 OpenAI Partner Network，并投资 1.5 亿美元支持全球
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/introducing-openai-partner-network](https://openai.com/index/introducing-openai-partner-network)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqegnuc40214slunxe96pbiy](https://aihot.virxact.com/items/cmqegnuc40214slunxe96pbiy)
+- **AIHOT 链接**: [https://aihot.news/items/cmqegnuc40214slunxe96pbiy](https://aihot.news/items/cmqegnuc40214slunxe96pbiy)

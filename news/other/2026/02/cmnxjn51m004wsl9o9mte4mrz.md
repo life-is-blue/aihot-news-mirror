@@ -6,7 +6,7 @@
 "discovered_at": "2026-02-17T17:27:36.000Z"
 "source_name": "Nathan Lambert：Interconnects（RSS）"
 "original_url": "https://www.interconnects.ai/p/open-models-in-perpetual-catch-up"
-"canonical_url": "https://aihot.virxact.com/items/cmnxjn51m004wsl9o9mte4mrz"
+"canonical_url": "https://aihot.news/items/cmnxjn51m004wsl9o9mte4mrz"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Nathan Lambert：Interconnects（RSS）
 - **原文链接**: [https://www.interconnects.ai/p/open-models-in-perpetual-catch-up](https://www.interconnects.ai/p/open-models-in-perpetual-catch-up)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnxjn51m004wsl9o9mte4mrz](https://aihot.virxact.com/items/cmnxjn51m004wsl9o9mte4mrz)
+- **AIHOT 链接**: [https://aihot.news/items/cmnxjn51m004wsl9o9mte4mrz](https://aihot.news/items/cmnxjn51m004wsl9o9mte4mrz)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-31T01:44:36.294Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://jackmaguire.org/blog/ai-job-grief"
-"canonical_url": "https://aihot.virxact.com/items/cmpt4a3l70729sluz9dzeh1ji"
+"canonical_url": "https://aihot.news/items/cmpt4a3l70729sluz9dzeh1ji"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ AI 技术的快速发展在科技从业者中引发了普遍的职业焦虑与�
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://jackmaguire.org/blog/ai-job-grief](https://jackmaguire.org/blog/ai-job-grief)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpt4a3l70729sluz9dzeh1ji](https://aihot.virxact.com/items/cmpt4a3l70729sluz9dzeh1ji)
+- **AIHOT 链接**: [https://aihot.news/items/cmpt4a3l70729sluz9dzeh1ji](https://aihot.news/items/cmpt4a3l70729sluz9dzeh1ji)

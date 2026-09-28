@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-08T02:22:57.716Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2605.06651"
-"canonical_url": "https://aihot.virxact.com/items/cmowaiu1t046sslcxrmwznwv2"
+"canonical_url": "https://aihot.news/items/cmowaiu1t046sslcxrmwznwv2"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ AI协数学家是一个供数学家利用AI智能体进行开放式研究的工�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2605.06651](https://arxiv.org/abs/2605.06651)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmowaiu1t046sslcxrmwznwv2](https://aihot.virxact.com/items/cmowaiu1t046sslcxrmwznwv2)
+- **AIHOT 链接**: [https://aihot.news/items/cmowaiu1t046sslcxrmwznwv2](https://aihot.news/items/cmowaiu1t046sslcxrmwznwv2)

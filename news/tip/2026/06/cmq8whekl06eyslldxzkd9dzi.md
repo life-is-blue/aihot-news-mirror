@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-11T02:50:39.185Z"
 "source_name": "公众号：数字生命卡兹克"
 "original_url": "https://mp.weixin.qq.com/s/nFSSzluc57xPv50Zbh4owg"
-"canonical_url": "https://aihot.virxact.com/items/cmq8whekl06eyslldxzkd9dzi"
+"canonical_url": "https://aihot.news/items/cmq8whekl06eyslldxzkd9dzi"
 "score": 70
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ WorkBuddy是面向国内用户的通用Agent产品，支持Windows和Mac，提�
 
 - **来源**: 公众号：数字生命卡兹克
 - **原文链接**: [https://mp.weixin.qq.com/s/nFSSzluc57xPv50Zbh4owg](https://mp.weixin.qq.com/s/nFSSzluc57xPv50Zbh4owg)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmq8whekl06eyslldxzkd9dzi](https://aihot.virxact.com/items/cmq8whekl06eyslldxzkd9dzi)
+- **AIHOT 链接**: [https://aihot.news/items/cmq8whekl06eyslldxzkd9dzi](https://aihot.news/items/cmq8whekl06eyslldxzkd9dzi)

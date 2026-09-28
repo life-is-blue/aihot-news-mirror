@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-28T06:28:25.129Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2605.28421"
-"canonical_url": "https://aihot.virxact.com/items/cmpp43j5a0bo3slv47z22fr57"
+"canonical_url": "https://aihot.news/items/cmpp43j5a0bo3slv47z22fr57"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ DenoiseRL是一种强化学习框架，旨在提升大语言模型的推理能�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2605.28421](https://arxiv.org/abs/2605.28421)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpp43j5a0bo3slv47z22fr57](https://aihot.virxact.com/items/cmpp43j5a0bo3slv47z22fr57)
+- **AIHOT 链接**: [https://aihot.news/items/cmpp43j5a0bo3slv47z22fr57](https://aihot.news/items/cmpp43j5a0bo3slv47z22fr57)

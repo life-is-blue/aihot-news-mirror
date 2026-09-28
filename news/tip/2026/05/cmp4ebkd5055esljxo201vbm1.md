@@ -2,11 +2,11 @@
 "title": "在 Windows 上构建安全有效的沙箱以启用 Codex"
 "aihot_id": "cmp4ebkd5055esljxo201vbm1"
 "aihot_category": "tip"
-"published_at": "2026-05-15T00:00:00.000Z"
+"published_at": null
 "discovered_at": "2026-05-13T18:31:25.542Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/building-codex-windows-sandbox"
-"canonical_url": "https://aihot.virxact.com/items/cmp4ebkd5055esljxo201vbm1"
+"canonical_url": "https://aihot.news/items/cmp4ebkd5055esljxo201vbm1"
 "score": 62
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 为 Windows 平台上的 Codex 构建了一个安全沙箱环境。该沙
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/building-codex-windows-sandbox](https://openai.com/index/building-codex-windows-sandbox)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmp4ebkd5055esljxo201vbm1](https://aihot.virxact.com/items/cmp4ebkd5055esljxo201vbm1)
+- **AIHOT 链接**: [https://aihot.news/items/cmp4ebkd5055esljxo201vbm1](https://aihot.news/items/cmp4ebkd5055esljxo201vbm1)

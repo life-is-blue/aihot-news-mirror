@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-08T08:23:00.568Z"
 "source_name": "Hugging Face：Blog（RSS）"
 "original_url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa"
-"canonical_url": "https://aihot.virxact.com/items/cmownduwl00kdslkuwxyxo7l7"
+"canonical_url": "https://aihot.news/items/cmownduwl00kdslkuwxyxo7l7"
 "score": 58
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hugging Face：Blog（RSS）
 - **原文链接**: [https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa](https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmownduwl00kdslkuwxyxo7l7](https://aihot.virxact.com/items/cmownduwl00kdslkuwxyxo7l7)
+- **AIHOT 链接**: [https://aihot.news/items/cmownduwl00kdslkuwxyxo7l7](https://aihot.news/items/cmownduwl00kdslkuwxyxo7l7)

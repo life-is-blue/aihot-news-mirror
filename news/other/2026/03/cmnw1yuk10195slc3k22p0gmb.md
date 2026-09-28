@@ -6,7 +6,7 @@
 "discovered_at": "2026-03-16T21:43:46.000Z"
 "source_name": "X：Sam Altman (@sama)"
 "original_url": "https://x.com/sama/status/2033660522961502288"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1yuk10195slc3k22p0gmb"
+"canonical_url": "https://aihot.news/items/cmnw1yuk10195slc3k22p0gmb"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ GPT 5.4 虽强，但最突出的是人性化特质。相比已擅长编程的 5.
 
 - **来源**: X：Sam Altman (@sama)
 - **原文链接**: [https://x.com/sama/status/2033660522961502288](https://x.com/sama/status/2033660522961502288)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1yuk10195slc3k22p0gmb](https://aihot.virxact.com/items/cmnw1yuk10195slc3k22p0gmb)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1yuk10195slc3k22p0gmb](https://aihot.news/items/cmnw1yuk10195slc3k22p0gmb)

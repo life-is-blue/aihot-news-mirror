@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-27T18:57:12.908Z"
 "source_name": "Midjourney：Updates（RSS）"
 "original_url": "https://updates.midjourney.com/web-updates-5"
-"canonical_url": "https://aihot.virxact.com/items/cmpofemy505maslv4n15rpet7"
+"canonical_url": "https://aihot.news/items/cmpofemy505maslv4n15rpet7"
 "score": 59
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Midjourney：Updates（RSS）
 - **原文链接**: [https://updates.midjourney.com/web-updates-5](https://updates.midjourney.com/web-updates-5)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpofemy505maslv4n15rpet7](https://aihot.virxact.com/items/cmpofemy505maslv4n15rpet7)
+- **AIHOT 链接**: [https://aihot.news/items/cmpofemy505maslv4n15rpet7](https://aihot.news/items/cmpofemy505maslv4n15rpet7)

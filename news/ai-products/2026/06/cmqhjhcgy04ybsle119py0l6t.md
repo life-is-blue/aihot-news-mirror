@@ -8,7 +8,7 @@
 "original_url": "https://writings.stephenwolfram.com/2026/06/launching-version-\
   15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functi\
   onality"
-"canonical_url": "https://aihot.virxact.com/items/cmqhjhcgy04ybsle119py0l6t"
+"canonical_url": "https://aihot.news/items/cmqhjhcgy04ybsle119py0l6t"
 "score": 76
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality](https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqhjhcgy04ybsle119py0l6t](https://aihot.virxact.com/items/cmqhjhcgy04ybsle119py0l6t)
+- **AIHOT 链接**: [https://aihot.news/items/cmqhjhcgy04ybsle119py0l6t](https://aihot.news/items/cmqhjhcgy04ybsle119py0l6t)

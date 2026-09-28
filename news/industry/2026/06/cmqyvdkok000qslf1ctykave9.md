@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-29T07:01:39.569Z"
 "source_name": "IT之家（RSS）"
 "original_url": "https://www.ithome.com/0/969/953.htm"
-"canonical_url": "https://aihot.virxact.com/items/cmqyvdkok000qslf1ctykave9"
+"canonical_url": "https://aihot.news/items/cmqyvdkok000qslf1ctykave9"
 "score": 71
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ SK 集团会长崔泰源 6 月 29 日宣布，计划到 2035 年建成 15GW AI �
 
 - **来源**: IT之家（RSS）
 - **原文链接**: [https://www.ithome.com/0/969/953.htm](https://www.ithome.com/0/969/953.htm)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqyvdkok000qslf1ctykave9](https://aihot.virxact.com/items/cmqyvdkok000qslf1ctykave9)
+- **AIHOT 链接**: [https://aihot.news/items/cmqyvdkok000qslf1ctykave9](https://aihot.news/items/cmqyvdkok000qslf1ctykave9)

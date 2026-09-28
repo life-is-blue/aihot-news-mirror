@@ -7,7 +7,7 @@
 "source_name": "MarkTechPost（RSS）"
 "original_url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-age\
   nt-skill-transfer-portability"
-"canonical_url": "https://aihot.virxact.com/items/cmsgsgz530fluro5qu0vnw8s0"
+"canonical_url": "https://aihot.news/items/cmsgsgz530fluro5qu0vnw8s0"
 "score": 70
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Microsoft 与上海交大、同济、复旦团队提出的 SkillOpt 通过文本
 
 - **来源**: MarkTechPost（RSS）
 - **原文链接**: [https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability](https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsgsgz530fluro5qu0vnw8s0](https://aihot.virxact.com/items/cmsgsgz530fluro5qu0vnw8s0)
+- **AIHOT 链接**: [https://aihot.news/items/cmsgsgz530fluro5qu0vnw8s0](https://aihot.news/items/cmsgsgz530fluro5qu0vnw8s0)

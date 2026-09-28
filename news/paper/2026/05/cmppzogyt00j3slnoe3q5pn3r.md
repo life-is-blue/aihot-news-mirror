@@ -7,7 +7,7 @@
 "source_name": "Google Research：Blog（网页）"
 "original_url": "https://research.google/blog/a-new-era-of-innovation-google-re\
   search-at-io-2026"
-"canonical_url": "https://aihot.virxact.com/items/cmppzogyt00j3slnoe3q5pn3r"
+"canonical_url": "https://aihot.news/items/cmppzogyt00j3slnoe3q5pn3r"
 "score": 79
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google Research 在 I/O 2026 大会上展示了其在多个前沿领域的技术
 
 - **来源**: Google Research：Blog（网页）
 - **原文链接**: [https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026](https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmppzogyt00j3slnoe3q5pn3r](https://aihot.virxact.com/items/cmppzogyt00j3slnoe3q5pn3r)
+- **AIHOT 链接**: [https://aihot.news/items/cmppzogyt00j3slnoe3q5pn3r](https://aihot.news/items/cmppzogyt00j3slnoe3q5pn3r)

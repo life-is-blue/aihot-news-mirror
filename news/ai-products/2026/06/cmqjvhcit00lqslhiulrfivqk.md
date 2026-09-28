@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-18T19:08:04.451Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/chatgpt-enterprise-spend-controls"
-"canonical_url": "https://aihot.virxact.com/items/cmqjvhcit00lqslhiulrfivqk"
+"canonical_url": "https://aihot.news/items/cmqjvhcit00lqslhiulrfivqk"
 "score": 58
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ OpenAI 为 ChatGPT Enterprise 推出信用额度用量分析与更新的支出�
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/chatgpt-enterprise-spend-controls](https://openai.com/index/chatgpt-enterprise-spend-controls)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqjvhcit00lqslhiulrfivqk](https://aihot.virxact.com/items/cmqjvhcit00lqslhiulrfivqk)
+- **AIHOT 链接**: [https://aihot.news/items/cmqjvhcit00lqslhiulrfivqk](https://aihot.news/items/cmqjvhcit00lqslhiulrfivqk)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-01T15:03:58.000Z"
 "source_name": "X：Jim Fan (@DrJimFan)"
 "original_url": "https://x.com/DrJimFan/status/2039358115318243352"
-"canonical_url": "https://aihot.virxact.com/items/cmnw1ysux00zrslc36zorasfw"
+"canonical_url": "https://aihot.news/items/cmnw1ysux00zrslc36zorasfw"
 "score": null
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ CaP-X开源具身智能系统，让大模型智能体通过机械臂与人形机
 
 - **来源**: X：Jim Fan (@DrJimFan)
 - **原文链接**: [https://x.com/DrJimFan/status/2039358115318243352](https://x.com/DrJimFan/status/2039358115318243352)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmnw1ysux00zrslc36zorasfw](https://aihot.virxact.com/items/cmnw1ysux00zrslc36zorasfw)
+- **AIHOT 链接**: [https://aihot.news/items/cmnw1ysux00zrslc36zorasfw](https://aihot.news/items/cmnw1ysux00zrslc36zorasfw)

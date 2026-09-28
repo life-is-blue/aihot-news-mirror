@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-13T09:54:38.818Z"
 "source_name": "公众号：数字生命卡兹克"
 "original_url": "https://mp.weixin.qq.com/s/zUS4qAn9n8ke5BTVF90XwA"
-"canonical_url": "https://aihot.virxact.com/items/cmqc6id5d00kzslt43zt7yycs"
+"canonical_url": "https://aihot.news/items/cmqc6id5d00kzslt43zt7yycs"
 "score": 63
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Emergence AI公司进行Emergence World实验，在五个虚拟小镇中各放�
 
 - **来源**: 公众号：数字生命卡兹克
 - **原文链接**: [https://mp.weixin.qq.com/s/zUS4qAn9n8ke5BTVF90XwA](https://mp.weixin.qq.com/s/zUS4qAn9n8ke5BTVF90XwA)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmqc6id5d00kzslt43zt7yycs](https://aihot.virxact.com/items/cmqc6id5d00kzslt43zt7yycs)
+- **AIHOT 链接**: [https://aihot.news/items/cmqc6id5d00kzslt43zt7yycs](https://aihot.news/items/cmqc6id5d00kzslt43zt7yycs)

@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-03T16:07:02.932Z"
 "source_name": "Google Developers Blog（RSS）"
 "original_url": "https://developers.googleblog.com/gemma-4-12b-the-developer-guide"
-"canonical_url": "https://aihot.virxact.com/items/cmpy9ex3402zdslaxi9ohndfc"
+"canonical_url": "https://aihot.news/items/cmpy9ex3402zdslaxi9ohndfc"
 "score": 78
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Gemma 4 12B 是一款密集多模态模型，专为消费级设备上的高性�
 
 - **来源**: Google Developers Blog（RSS）
 - **原文链接**: [https://developers.googleblog.com/gemma-4-12b-the-developer-guide](https://developers.googleblog.com/gemma-4-12b-the-developer-guide)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmpy9ex3402zdslaxi9ohndfc](https://aihot.virxact.com/items/cmpy9ex3402zdslaxi9ohndfc)
+- **AIHOT 链接**: [https://aihot.news/items/cmpy9ex3402zdslaxi9ohndfc](https://aihot.news/items/cmpy9ex3402zdslaxi9ohndfc)

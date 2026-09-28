@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-06T17:11:47.280Z"
 "source_name": "LMSYS：Blog（Chatbot Arena 团队）"
 "original_url": "https://www.lmsys.org/blog/2026-07-06-dspark-sglang"
-"canonical_url": "https://aihot.virxact.com/items/cmr9h98co0470slsmqqc2ilv1"
+"canonical_url": "https://aihot.news/items/cmr9h98co0470slsmqqc2ilv1"
 "score": 63
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ SGLang 团队将 DSpark 推测解码算法集成到开源推理引擎中。该�
 
 - **来源**: LMSYS：Blog（Chatbot Arena 团队）
 - **原文链接**: [https://www.lmsys.org/blog/2026-07-06-dspark-sglang](https://www.lmsys.org/blog/2026-07-06-dspark-sglang)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmr9h98co0470slsmqqc2ilv1](https://aihot.virxact.com/items/cmr9h98co0470slsmqqc2ilv1)
+- **AIHOT 链接**: [https://aihot.news/items/cmr9h98co0470slsmqqc2ilv1](https://aihot.news/items/cmr9h98co0470slsmqqc2ilv1)

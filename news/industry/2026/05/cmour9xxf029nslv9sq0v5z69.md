@@ -6,7 +6,7 @@
 "discovered_at": "2026-05-07T00:36:20.201Z"
 "source_name": "X：Replit (@Replit)"
 "original_url": "https://x.com/Replit/status/2052181075988992004"
-"canonical_url": "https://aihot.virxact.com/items/cmour9xxf029nslv9sq0v5z69"
+"canonical_url": "https://aihot.news/items/cmour9xxf029nslv9sq0v5z69"
 "score": 67
 "content_kind": "news"
 ---
@@ -23,4 +23,4 @@ http://vibecon.ai
 
 - **来源**: X：Replit (@Replit)
 - **原文链接**: [https://x.com/Replit/status/2052181075988992004](https://x.com/Replit/status/2052181075988992004)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmour9xxf029nslv9sq0v5z69](https://aihot.virxact.com/items/cmour9xxf029nslv9sq0v5z69)
+- **AIHOT 链接**: [https://aihot.news/items/cmour9xxf029nslv9sq0v5z69](https://aihot.news/items/cmour9xxf029nslv9sq0v5z69)

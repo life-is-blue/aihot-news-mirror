@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-28T15:36:43.764Z"
 "source_name": "X：Claude (@claudeai)"
 "original_url": "https://x.com/claudeai/status/2049143438281445811"
-"canonical_url": "https://aihot.virxact.com/items/cmoish56l0079slbduut3vg90"
+"canonical_url": "https://aihot.news/items/cmoish56l0079slbduut3vg90"
 "score": 62
 "content_kind": "news"
 ---
@@ -19,4 +19,4 @@ Claude 现已连接创意专业人士已在使用的工具。
 
 - **来源**: X：Claude (@claudeai)
 - **原文链接**: [https://x.com/claudeai/status/2049143438281445811](https://x.com/claudeai/status/2049143438281445811)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmoish56l0079slbduut3vg90](https://aihot.virxact.com/items/cmoish56l0079slbduut3vg90)
+- **AIHOT 链接**: [https://aihot.news/items/cmoish56l0079slbduut3vg90](https://aihot.news/items/cmoish56l0079slbduut3vg90)

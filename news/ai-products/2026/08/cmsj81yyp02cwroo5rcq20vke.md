@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-07T17:31:39.370Z"
 "source_name": "LangChain：Blog（RSS）"
 "original_url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta"
-"canonical_url": "https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke"
+"canonical_url": "https://aihot.news/items/cmsj81yyp02cwroo5rcq20vke"
 "score": 62
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ LangChain 的 Managed Deep Agents 进入公开测试版，可将 Deep Agents 部
 
 - **来源**: LangChain：Blog（RSS）
 - **原文链接**: [https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta](https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke](https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke)
+- **AIHOT 链接**: [https://aihot.news/items/cmsj81yyp02cwroo5rcq20vke](https://aihot.news/items/cmsj81yyp02cwroo5rcq20vke)

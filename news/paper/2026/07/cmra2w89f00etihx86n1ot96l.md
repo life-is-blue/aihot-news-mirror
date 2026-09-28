@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-04T00:00:00.000Z"
 "source_name": "HuggingFace Daily Papers（社区热门论文）"
 "original_url": "https://arxiv.org/abs/2607.01793"
-"canonical_url": "https://aihot.virxact.com/items/cmra2w89f00etihx86n1ot96l"
+"canonical_url": "https://aihot.news/items/cmra2w89f00etihx86n1ot96l"
 "score": 74
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Vera是一个端到端自动化安全测试框架，通过三阶段自增强流�
 
 - **来源**: HuggingFace Daily Papers（社区热门论文）
 - **原文链接**: [https://arxiv.org/abs/2607.01793](https://arxiv.org/abs/2607.01793)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmra2w89f00etihx86n1ot96l](https://aihot.virxact.com/items/cmra2w89f00etihx86n1ot96l)
+- **AIHOT 链接**: [https://aihot.news/items/cmra2w89f00etihx86n1ot96l](https://aihot.news/items/cmra2w89f00etihx86n1ot96l)

@@ -7,7 +7,7 @@
 "source_name": "Cognition 模型 / Devin 博客（网页）"
 "original_url": "https://cognition.com/blog/swe-1-6"
 "canonical_url": "https://aihot.news/items/cmtyo2ihm03d2rog0f4r0hvaa"
-"score": 64
+"score": 65
 "content_kind": "news"
 ---
 

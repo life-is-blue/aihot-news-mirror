@@ -6,7 +6,7 @@
 "discovered_at": "2026-08-26T14:28:07.466Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
 "original_url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html"
-"canonical_url": "https://aihot.virxact.com/items/cmta6v56y03ytroj25ggn7rlo"
+"canonical_url": "https://aihot.news/items/cmta6v56y03ytroj25ggn7rlo"
 "score": 77
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: Hacker News 热门（buzzing.cc 中文翻译）
 - **原文链接**: [https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmta6v56y03ytroj25ggn7rlo](https://aihot.virxact.com/items/cmta6v56y03ytroj25ggn7rlo)
+- **AIHOT 链接**: [https://aihot.news/items/cmta6v56y03ytroj25ggn7rlo](https://aihot.news/items/cmta6v56y03ytroj25ggn7rlo)

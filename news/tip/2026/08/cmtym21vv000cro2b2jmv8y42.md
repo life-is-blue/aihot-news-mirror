@@ -8,7 +8,7 @@
 "original_url": "https://www.together.ai/blog/deepseek-v4-flash-0731-vs-gpt-5-6\
   -luna-on-deepswe-cost-and-coding"
 "canonical_url": "https://aihot.news/items/cmtym21vv000cro2b2jmv8y42"
-"score": 79
+"score": 80
 "content_kind": "news"
 ---
 

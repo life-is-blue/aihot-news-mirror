@@ -7,7 +7,7 @@
 "source_name": "公众号：卡尔的AI沃茨"
 "original_url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247\
   509055&idx=1&sn=28254c9e78532b336895b8c541905d49"
-"canonical_url": "https://aihot.virxact.com/items/cmsdu4z39018qrofzyoa60l6w"
+"canonical_url": "https://aihot.news/items/cmsdu4z39018qrofzyoa60l6w"
 "score": 72
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ MiniMax H3视频模型实测覆盖广告TVC、短剧、创意片头、动态海�
 
 - **来源**: 公众号：卡尔的AI沃茨
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509055&idx=1&sn=28254c9e78532b336895b8c541905d49](https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509055&idx=1&sn=28254c9e78532b336895b8c541905d49)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsdu4z39018qrofzyoa60l6w](https://aihot.virxact.com/items/cmsdu4z39018qrofzyoa60l6w)
+- **AIHOT 链接**: [https://aihot.news/items/cmsdu4z39018qrofzyoa60l6w](https://aihot.news/items/cmsdu4z39018qrofzyoa60l6w)

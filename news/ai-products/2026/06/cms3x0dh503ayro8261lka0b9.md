@@ -6,7 +6,7 @@
 "discovered_at": "2026-06-25T00:21:53.000Z"
 "source_name": "LangChain：Blog（RSS）"
 "original_url": "https://www.langchain.com/blog/introducing-rubrics-for-deepagents"
-"canonical_url": "https://aihot.virxact.com/items/cms3x0dh503ayro8261lka0b9"
+"canonical_url": "https://aihot.news/items/cms3x0dh503ayro8261lka0b9"
 "score": 63
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ LangChain 推出 Rubrics，通过 RubricMiddleware 为智能体运行添加自�
 
 - **来源**: LangChain：Blog（RSS）
 - **原文链接**: [https://www.langchain.com/blog/introducing-rubrics-for-deepagents](https://www.langchain.com/blog/introducing-rubrics-for-deepagents)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cms3x0dh503ayro8261lka0b9](https://aihot.virxact.com/items/cms3x0dh503ayro8261lka0b9)
+- **AIHOT 链接**: [https://aihot.news/items/cms3x0dh503ayro8261lka0b9](https://aihot.news/items/cms3x0dh503ayro8261lka0b9)

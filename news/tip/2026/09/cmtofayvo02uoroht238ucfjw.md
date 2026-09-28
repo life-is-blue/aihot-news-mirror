@@ -7,7 +7,7 @@
 "source_name": "The Decoder：AI News（RSS）"
 "original_url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6\
   -astra-including-a-blocklist-of-slop-words"
-"canonical_url": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw"
+"canonical_url": "https://aihot.news/items/cmtofayvo02uoroht238ucfjw"
 "score": 78
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄�
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words](https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw](https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw)
+- **AIHOT 链接**: [https://aihot.news/items/cmtofayvo02uoroht238ucfjw](https://aihot.news/items/cmtofayvo02uoroht238ucfjw)

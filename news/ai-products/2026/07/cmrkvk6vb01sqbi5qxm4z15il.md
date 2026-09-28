@@ -6,7 +6,7 @@
 "discovered_at": "2026-07-14T16:37:43.328Z"
 "source_name": "Hacker News：AI 热帖"
 "original_url": "https://github.com/juggler-ai/juggler"
-"canonical_url": "https://aihot.virxact.com/items/cmrkvk6vb01sqbi5qxm4z15il"
+"canonical_url": "https://aihot.news/items/cmrkvk6vb01sqbi5qxm4z15il"
 "score": 73
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@ Juggler 是一款开源 GUI 编程智能体，提供可视化工作台，支持�
 
 - **来源**: Hacker News：AI 热帖
 - **原文链接**: [https://github.com/juggler-ai/juggler](https://github.com/juggler-ai/juggler)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmrkvk6vb01sqbi5qxm4z15il](https://aihot.virxact.com/items/cmrkvk6vb01sqbi5qxm4z15il)
+- **AIHOT 链接**: [https://aihot.news/items/cmrkvk6vb01sqbi5qxm4z15il](https://aihot.news/items/cmrkvk6vb01sqbi5qxm4z15il)

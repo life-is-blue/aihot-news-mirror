@@ -7,7 +7,7 @@
 "source_name": "Google Developers Blog（RSS）"
 "original_url": "https://developers.googleblog.com/build-zero-trust-ai-agents-w\
   ith-googles-agent-development-kit"
-"canonical_url": "https://aihot.virxact.com/items/cmsxv0p3v0bntroz0227a6b3j"
+"canonical_url": "https://aihot.news/items/cmsxv0p3v0bntroz0227a6b3j"
 "score": 69
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@ Google 开源了基于 ADK 和 Gemini 的零信任客服与退货智能体示例
 
 - **来源**: Google Developers Blog（RSS）
 - **原文链接**: [https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit](https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsxv0p3v0bntroz0227a6b3j](https://aihot.virxact.com/items/cmsxv0p3v0bntroz0227a6b3j)
+- **AIHOT 链接**: [https://aihot.news/items/cmsxv0p3v0bntroz0227a6b3j](https://aihot.news/items/cmsxv0p3v0bntroz0227a6b3j)

@@ -7,7 +7,7 @@
 "source_name": "公众号：腾讯混元"
 "original_url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247\
   498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205"
-"canonical_url": "https://aihot.virxact.com/items/cmsee1mhf0nn6ro2em6rt7tr4"
+"canonical_url": "https://aihot.news/items/cmsee1mhf0nn6ro2em6rt7tr4"
 "score": 65
 "content_kind": "news"
 ---
@@ -18,4 +18,4 @@
 
 - **来源**: 公众号：腾讯混元
 - **原文链接**: [https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205](https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmsee1mhf0nn6ro2em6rt7tr4](https://aihot.virxact.com/items/cmsee1mhf0nn6ro2em6rt7tr4)
+- **AIHOT 链接**: [https://aihot.news/items/cmsee1mhf0nn6ro2em6rt7tr4](https://aihot.news/items/cmsee1mhf0nn6ro2em6rt7tr4)

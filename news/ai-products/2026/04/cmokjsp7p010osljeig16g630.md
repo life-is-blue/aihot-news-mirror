@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-29T21:09:19.181Z"
 "source_name": "X：OpenAI Developers (@OpenAIDevs)"
 "original_url": "https://x.com/OpenAIDevs/status/2049595890395152728"
-"canonical_url": "https://aihot.virxact.com/items/cmokjsp7p010osljeig16g630"
+"canonical_url": "https://aihot.news/items/cmokjsp7p010osljeig16g630"
 "score": 62
 "content_kind": "news"
 ---
@@ -23,4 +23,4 @@ https://openai.com/index/speeding-up-agentic-workflows-with-websockets
 
 - **来源**: X：OpenAI Developers (@OpenAIDevs)
 - **原文链接**: [https://x.com/OpenAIDevs/status/2049595890395152728](https://x.com/OpenAIDevs/status/2049595890395152728)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmokjsp7p010osljeig16g630](https://aihot.virxact.com/items/cmokjsp7p010osljeig16g630)
+- **AIHOT 链接**: [https://aihot.news/items/cmokjsp7p010osljeig16g630](https://aihot.news/items/cmokjsp7p010osljeig16g630)

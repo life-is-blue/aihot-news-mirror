@@ -8,7 +8,7 @@
 "original_url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-\
   code-automating-events-from-planning-to-follow-up-on-github"
 "canonical_url": "https://aihot.news/items/cmtxbm8dp037xrouueja171wr"
-"score": 64
+"score": 65
 "content_kind": "news"
 ---
 

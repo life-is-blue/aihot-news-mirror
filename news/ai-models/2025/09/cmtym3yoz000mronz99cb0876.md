@@ -1,5 +1,5 @@
 ---
-"title": "Liquid AI 发布 Liquid Nanos 系列 350M-2.6B 端侧专用小模型"
+"title": "Liquid AI 发布 Liquid Nanos 系列 350M–2.6B 端侧专用小模型"
 "aihot_id": "cmtym3yoz000mronz99cb0876"
 "aihot_category": "ai-models"
 "published_at": "2025-09-24T16:00:00.000Z"
@@ -12,7 +12,7 @@
 "content_kind": "news"
 ---
 
-# Liquid AI 发布 Liquid Nanos 系列 350M-2.6B 端侧专用小模型
+# Liquid AI 发布 Liquid Nanos 系列 350M–2.6B 端侧专用小模型
 
 Liquid AI 发布 Liquid Nanos 系列，包含 350M 至 2.6B 参数的任务专用 LFM2 模型，可完全在手机、笔记本和嵌入式设备上运行。
 

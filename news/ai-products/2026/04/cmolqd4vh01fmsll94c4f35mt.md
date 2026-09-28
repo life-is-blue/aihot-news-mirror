@@ -6,7 +6,7 @@
 "discovered_at": "2026-04-30T17:00:57.448Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
 "original_url": "https://openai.com/index/advanced-account-security"
-"canonical_url": "https://aihot.virxact.com/items/cmolqd4vh01fmsll94c4f35mt"
+"canonical_url": "https://aihot.news/items/cmolqd4vh01fmsll94c4f35mt"
 "score": 56
 "content_kind": "news"
 ---
@@ -17,4 +17,4 @@
 
 - **来源**: OpenAI：官网动态（RSS · 排除企业/客户案例）
 - **原文链接**: [https://openai.com/index/advanced-account-security](https://openai.com/index/advanced-account-security)
-- **AIHOT 链接**: [https://aihot.virxact.com/items/cmolqd4vh01fmsll94c4f35mt](https://aihot.virxact.com/items/cmolqd4vh01fmsll94c4f35mt)
+- **AIHOT 链接**: [https://aihot.news/items/cmolqd4vh01fmsll94c4f35mt](https://aihot.news/items/cmolqd4vh01fmsll94c4f35mt)
