@@ -1,5 +1,5 @@
 ---
-"title": "DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销"
+"title": "DeepSeek 发布开源模型 DeepSeek-V4.1-Flash，优化编码智能体 prefill 效率"
 "aihot_id": "cmtym24xb0002rob419mlyhlb"
 "aihot_category": "ai-models"
 "published_at": "2026-09-11T22:01:37.000Z"
@@ -8,13 +8,13 @@
 "original_url": "https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-\
   prefill-for-coding-agents"
 "canonical_url": "https://aihot.news/items/cmtym24xb0002rob419mlyhlb"
-"score": 70
+"score": 76
 "content_kind": "news"
 ---
 
-# DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销
+# DeepSeek 发布开源模型 DeepSeek-V4.1-Flash，优化编码智能体 prefill 效率
 
-DeepSeek 本周在 HuggingFace 开源 DeepSeek-V4.1-Flash 权重，模型已在 Baseten Model APIs 上线。规格为 552B 总参数、prefill 激活 8B、decode 激活 16B、1M token 上下文、支持文本加图像输入。
+DeepSeek 本周在 HuggingFace 开源 DeepSeek-V4.1-Flash 权重，模型总参数 552B，prefill 激活 8B、decode 激活 16B，支持 1M token 上下文和文本加图像输入，已上线 Baseten Model APIs。
 
 - **来源**: Baseten 工程博客（网页）
 - **原文链接**: [https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-prefill-for-coding-agents](https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-prefill-for-coding-agents)

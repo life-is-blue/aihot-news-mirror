@@ -1,5 +1,5 @@
 ---
-"title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率"
+"title": "Mistral 发布 Agentic Search，多步检索在 FinanceBench 上将准确率从 26.7% 提升至 86%"
 "aihot_id": "cmt1pkwbj04bxroovzkfca5c7"
 "aihot_category": "ai-products"
 "published_at": "2026-08-19T16:00:00.000Z"
@@ -7,13 +7,13 @@
 "source_name": "Mistral AI：News（网页）"
 "original_url": "https://mistral.ai/news/agentic-search"
 "canonical_url": "https://aihot.news/items/cmt1pkwbj04bxroovzkfca5c7"
-"score": 67
+"score": 68
 "content_kind": "news"
 ---
 
-# Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率
+# Mistral 发布 Agentic Search，多步检索在 FinanceBench 上将准确率从 26.7% 提升至 86%
 
-Mistral 发布 Agentic Search，通过 search、open、navigate、read、grep 五工具的多步检索循环，让模型在长文档与多来源中查找、定位并验证信息。
+Mistral 发布 Agentic Search，为 AI 系统提供多步检索层，通过 Mistral Search Toolkit 和 Studio、Vibe 中的 Libraries 提供，支持云端与本地部署。
 
 - **来源**: Mistral AI：News（网页）
 - **原文链接**: [https://mistral.ai/news/agentic-search](https://mistral.ai/news/agentic-search)

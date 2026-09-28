@@ -1,5 +1,5 @@
 ---
-"title": "Mistral OCR 4"
+"title": "Mistral 发布 OCR 4，支持边界框、块分类与置信度分数"
 "aihot_id": "cmqqqkqoh0chzslp5i6l20j5q"
 "aihot_category": "ai-models"
 "published_at": "2026-06-23T14:24:55.949Z"
@@ -7,13 +7,13 @@
 "source_name": "Mistral AI：News（网页）"
 "original_url": "https://mistral.ai/news/ocr-4"
 "canonical_url": "https://aihot.news/items/cmqqqkqoh0chzslp5i6l20j5q"
-"score": 68
+"score": 66
 "content_kind": "news"
 ---
 
-# Mistral OCR 4
+# Mistral 发布 OCR 4，支持边界框、块分类与置信度分数
 
-Mistral AI 发布 OCR 4，新增边界框、块分类（标题、表格、方程式、签名等）及逐页逐词置信度分数。支持 170 种语言、10 个语系，可单容器全自托管部署。在 OlmOCRBench 上得分 85.20，独立标注者偏好率平均 72%。定价每 1000 页 $4，Batch API 享 50% 折扣。可通过 API 或 Mistral Studio 的 Document AI 调用。
+Mistral 发布 OCR 4 文档解析模型，除提取文本外还返回边界框、类型化块分类和行内置信度分数，支持 170 种语言，可单容器自托管部署。
 
 - **来源**: Mistral AI：News（网页）
 - **原文链接**: [https://mistral.ai/news/ocr-4](https://mistral.ai/news/ocr-4)
