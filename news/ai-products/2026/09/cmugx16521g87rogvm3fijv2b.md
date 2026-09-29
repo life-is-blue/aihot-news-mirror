@@ -1,5 +1,5 @@
 ---
-"title": "微软发布新版 Copilot，推出 Home、Code 和 Autopilot 三大新能力"
+"title": "Microsoft 发布新版 Copilot，新增 Home、Code 与 Autopilot"
 "aihot_id": "cmugx16521g87rogvm3fijv2b"
 "aihot_category": "ai-products"
 "published_at": "2026-09-25T12:03:50.000Z"
@@ -12,9 +12,9 @@
 "content_kind": "news"
 ---
 
-# 微软发布新版 Copilot，推出 Home、Code 和 Autopilot 三大新能力
+# Microsoft 发布新版 Copilot，新增 Home、Code 与 Autopilot
 
-微软宣布重新设计 Microsoft Copilot，推出三大新能力：Home 作为新起点将 Chat 和 Cowork 汇聚并内置 Word、Excel 和 PowerPoint；Code 让非开发者用自然语言构建应用、仪表盘和自动化，由 GitHub Copilot 同源技术驱动；Autopilot（原 Scout）是可自主持续工作的云端智能体。
+Microsoft 官方博客宣布推出新版 Copilot，新增三项能力：Home 整合 Chat 与 Cowork 并内置 Word、Excel、PowerPoint；Code 让非开发者用自然语言构建应用，与 GitHub Copilot 共用底层技术并在沙箱内运行；Autopilot（原 Scout）是云端常驻的主动式智能体。
 
 - **来源**: Microsoft：Official Blog（RSS）
 - **原文链接**: [https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot](https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot)
