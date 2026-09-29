@@ -1,5 +1,5 @@
 ---
-"title": "Microsoft AI 发布 MAI-Image-2.6 及 MAI-Image-2.6-Flash 图像模型"
+"title": "Microsoft 发布 MAI-Image-2.6 与 MAI-Image-2.6-Flash 图像模型"
 "aihot_id": "cmtn66dq10o0lromy9e2h3yqp"
 "aihot_category": "ai-models"
 "published_at": "2026-09-04T16:02:05.000Z"
@@ -8,13 +8,13 @@
 "original_url": "https://microsoft.ai/news/pushing-the-quality-cost-frontier-wi\
   th-mai-image-2-6"
 "canonical_url": "https://aihot.news/items/cmtn66dq10o0lromy9e2h3yqp"
-"score": 67
+"score": 63
 "content_kind": "news"
 ---
 
-# Microsoft AI 发布 MAI-Image-2.6 及 MAI-Image-2.6-Flash 图像模型
+# Microsoft 发布 MAI-Image-2.6 与 MAI-Image-2.6-Flash 图像模型
 
-Microsoft AI 发布最强图像模型 MAI-Image-2.6，并面向 Microsoft Foundry 开发者推出低延迟高吞吐版本 MAI-Image-2.6-Flash。
+Microsoft 于 9 月 4 日发布 MAI-Image-2.6，称其为迄今最强的图像模型，并面向开发者上线 Microsoft Foundry，同时推出面向低延迟、高吞吐场景的 MAI-Image-2.6-Flash。
 
 - **来源**: Microsoft AI：官方博客（网页）
 - **原文链接**: [https://microsoft.ai/news/pushing-the-quality-cost-frontier-with-mai-image-2-6](https://microsoft.ai/news/pushing-the-quality-cost-frontier-with-mai-image-2-6)
