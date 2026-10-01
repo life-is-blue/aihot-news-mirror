@@ -1,7 +1,7 @@
 ---
 "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露"
 "aihot_id": "cmuh5bwi004nrro55yu2riehv"
-"aihot_category": "tip"
+"aihot_category": "industry"
 "published_at": "2026-09-25T15:48:14.000Z"
 "discovered_at": "2026-09-25T15:59:16.784Z"
 "source_name": "TechCrunch：AI（RSS）"

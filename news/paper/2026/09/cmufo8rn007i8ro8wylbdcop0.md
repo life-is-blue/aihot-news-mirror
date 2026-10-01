@@ -1,7 +1,7 @@
 ---
 "title": "NVIDIA 联合 Google DeepMind 等机构开放 2800 多种病毒的蛋白复合物预测结构数据集"
 "aihot_id": "cmufo8rn007i8ro8wylbdcop0"
-"aihot_category": "ai-products"
+"aihot_category": "paper"
 "published_at": "2026-09-24T14:00:50.000Z"
 "discovered_at": "2026-09-24T15:13:08.711Z"
 "source_name": "NVIDIA Blog（RSS）"

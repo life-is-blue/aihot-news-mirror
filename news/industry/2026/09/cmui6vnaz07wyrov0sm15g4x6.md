@@ -1,7 +1,7 @@
 ---
 "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件"
 "aihot_id": "cmui6vnaz07wyrov0sm15g4x6"
-"aihot_category": "tip"
+"aihot_category": "industry"
 "published_at": "2026-09-26T09:06:36.000Z"
 "discovered_at": "2026-09-26T09:30:22.617Z"
 "source_name": "The Decoder：AI News（RSS）"

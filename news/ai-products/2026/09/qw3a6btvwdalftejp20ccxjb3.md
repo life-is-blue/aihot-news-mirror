@@ -1,7 +1,7 @@
 ---
 "title": "DeepSeek 开源面向华为昇腾平台的基础设施组件"
 "aihot_id": "qw3a6btvwdalftejp20ccxjb3"
-"aihot_category": "ai-models"
+"aihot_category": "ai-products"
 "published_at": "2026-09-30T02:01:00.000Z"
 "discovered_at": "2026-09-30T03:30:45.495Z"
 "source_name": "公众号：DeepSeek（深度求索）"

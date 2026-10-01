@@ -1,7 +1,7 @@
 ---
 "title": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁"
 "aihot_id": "xb126e0awmyhyzh0hn39j1q9v"
-"aihot_category": "industry"
+"aihot_category": "paper"
 "published_at": "2026-09-28T15:41:27.000Z"
 "discovered_at": "2026-09-28T15:59:12.266Z"
 "source_name": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"

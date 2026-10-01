@@ -1,7 +1,7 @@
 ---
 "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式"
 "aihot_id": "cmuft4xrw07varoxz9brnf7vh"
-"aihot_category": "tip"
+"aihot_category": "industry"
 "published_at": "2026-09-24T17:19:34.716Z"
 "discovered_at": "2026-09-24T17:30:08.611Z"
 "source_name": "Hacker News 热门（buzzing.cc 中文翻译）"

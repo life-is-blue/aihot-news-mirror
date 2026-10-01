@@ -1,7 +1,7 @@
 ---
 "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化"
 "aihot_id": "cmuhazjqv076rro3b6ta3dnck"
-"aihot_category": "industry"
+"aihot_category": "tip"
 "published_at": "2026-09-25T18:13:31.000Z"
 "discovered_at": "2026-09-25T18:37:37.116Z"
 "source_name": "X：Claude Devs (@ClaudeDevs)"

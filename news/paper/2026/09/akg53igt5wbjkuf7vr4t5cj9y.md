@@ -1,7 +1,7 @@
 ---
 "title": "英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍"
 "aihot_id": "akg53igt5wbjkuf7vr4t5cj9y"
-"aihot_category": "industry"
+"aihot_category": "paper"
 "published_at": "2026-09-29T19:24:12.000Z"
 "discovered_at": "2026-09-29T19:53:28.185Z"
 "source_name": "The Decoder：AI News（RSS）"

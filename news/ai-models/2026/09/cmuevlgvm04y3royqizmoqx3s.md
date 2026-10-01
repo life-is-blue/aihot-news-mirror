@@ -1,7 +1,7 @@
 ---
 "title": "Artificial Analysis：Claude Opus 5.5 登顶 Coding Agent Index，但单任务成本升至 $13.04"
 "aihot_id": "cmuevlgvm04y3royqizmoqx3s"
-"aihot_category": "tip"
+"aihot_category": "ai-models"
 "published_at": "2026-09-24T01:24:22.000Z"
 "discovered_at": "2026-09-24T01:51:07.001Z"
 "source_name": "X：Artificial Analysis (@ArtificialAnlys)"

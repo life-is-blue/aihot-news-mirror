@@ -1,7 +1,7 @@
 ---
 "title": "Arena：GPT-6 Sol (Max) 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿"
 "aihot_id": "cmuhdm4yz0a20ro3bo436lm8s"
-"aihot_category": "paper"
+"aihot_category": "ai-models"
 "published_at": "2026-09-25T19:48:56.000Z"
 "discovered_at": "2026-09-25T19:51:07.367Z"
 "source_name": "X：Arena (@arena)"

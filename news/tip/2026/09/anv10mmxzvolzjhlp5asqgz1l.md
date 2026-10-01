@@ -1,7 +1,7 @@
 ---
 "title": "Tomer Tunguz 解析 GPU 租金翻倍而 AI 价格下降的并行逻辑"
 "aihot_id": "anv10mmxzvolzjhlp5asqgz1l"
-"aihot_category": "industry"
+"aihot_category": "tip"
 "published_at": "2026-09-28T00:00:00.000Z"
 "discovered_at": "2026-09-28T20:43:19.454Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"

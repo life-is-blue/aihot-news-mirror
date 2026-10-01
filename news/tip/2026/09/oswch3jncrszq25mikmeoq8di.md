@@ -1,7 +1,7 @@
 ---
 "title": "Tomer Tunguz 解析 Anthropic 与 OpenAI 的市场分层竞争与企业计费策略"
 "aihot_id": "oswch3jncrszq25mikmeoq8di"
-"aihot_category": "industry"
+"aihot_category": "tip"
 "published_at": "2026-09-29T00:00:00.000Z"
 "discovered_at": "2026-09-29T16:59:11.561Z"
 "source_name": "Tomer Tunguz 博客（VC 分析）"

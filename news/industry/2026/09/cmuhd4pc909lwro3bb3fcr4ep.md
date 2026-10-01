@@ -1,7 +1,7 @@
 ---
 "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展"
 "aihot_id": "cmuhd4pc909lwro3bb3fcr4ep"
-"aihot_category": "tip"
+"aihot_category": "industry"
 "published_at": "2026-09-25T19:27:57.000Z"
 "discovered_at": "2026-09-25T19:37:37.129Z"
 "source_name": "X：Sam Altman (@sama)"

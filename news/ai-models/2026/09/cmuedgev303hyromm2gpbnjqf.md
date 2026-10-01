@@ -1,7 +1,7 @@
 ---
 "title": "Arena 实测：GPT-6 Sol (Max) 以 1689 分列 Code Arena: WebDev 第 4 名"
 "aihot_id": "cmuedgev303hyromm2gpbnjqf"
-"aihot_category": "tip"
+"aihot_category": "ai-models"
 "published_at": "2026-09-23T17:05:25.000Z"
 "discovered_at": "2026-09-23T17:23:20.251Z"
 "source_name": "X：Arena (@arena)"
