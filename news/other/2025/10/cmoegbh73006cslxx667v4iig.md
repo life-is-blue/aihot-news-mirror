@@ -2,7 +2,7 @@
 "title": "大语言模型中涌现的自省意识"
 "aihot_id": "cmoegbh73006cslxx667v4iig"
 "aihot_category": null
-"published_at": "2025-06-15T00:00:00.000Z"
+"published_at": "2025-10-29T00:00:00.000Z"
 "discovered_at": "2025-06-15T00:00:00.000Z"
 "source_name": "Anthropic：Transformer Circuits（可解释性研究）"
 "original_url": "https://transformer-circuits.pub/2025/introspection/index.html"
