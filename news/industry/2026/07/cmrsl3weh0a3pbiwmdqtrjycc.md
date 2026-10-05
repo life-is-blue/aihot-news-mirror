@@ -4,7 +4,7 @@
 "aihot_category": "industry"
 "published_at": "2026-07-20T01:45:09.765Z"
 "discovered_at": "2026-07-20T02:07:10.363Z"
-"source_name": "Hacker News 热门（buzzing.cc 中文翻译）"
+"source_name": "Ollama：Blog（RSS）"
 "original_url": "https://ollama.com/blog/all-aboard-open-models"
 "canonical_url": "https://aihot.news/items/cmrsl3weh0a3pbiwmdqtrjycc"
 "score": 73
@@ -15,6 +15,6 @@
 
 Ollama 宣布完成 8800 万美元融资，由 Benchmark、Theory Ventures 和 8VC 等领投。该平台已服务 890 万开发者，并被 85% 的财富 500 强企业使用，其云端 token 用量月均翻倍。资金将用于支持无缝混合推理、新模型发布当日集成，以及让开发者在不牺牲所有权和隐私的前提下使用最强开放模型。
 
-- **来源**: Hacker News 热门（buzzing.cc 中文翻译）
+- **来源**: Ollama：Blog（RSS）
 - **原文链接**: [https://ollama.com/blog/all-aboard-open-models](https://ollama.com/blog/all-aboard-open-models)
 - **AIHOT 链接**: [https://aihot.news/items/cmrsl3weh0a3pbiwmdqtrjycc](https://aihot.news/items/cmrsl3weh0a3pbiwmdqtrjycc)
