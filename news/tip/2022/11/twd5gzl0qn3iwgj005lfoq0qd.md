@@ -4,7 +4,7 @@
 "aihot_category": "tip"
 "published_at": "2022-11-03T00:00:00.000Z"
 "discovered_at": "2026-10-03T15:06:39.895Z"
-"source_name": "Hugging Face：Blog（RSS）"
+"source_name": "Hugging Face 社区博客（混合发现）"
 "original_url": "https://huggingface.co/blog/fine-tune-whisper"
 "canonical_url": "https://aihot.news/items/twd5gzl0qn3iwgj005lfoq0qd"
 "score": 68
@@ -15,6 +15,6 @@
 
 Hugging Face 发布使用 🤗 Transformers 对 Whisper 进行多语言语音识别（ASR）微调的分步教程。
 
-- **来源**: Hugging Face：Blog（RSS）
+- **来源**: Hugging Face 社区博客（混合发现）
 - **原文链接**: [https://huggingface.co/blog/fine-tune-whisper](https://huggingface.co/blog/fine-tune-whisper)
 - **AIHOT 链接**: [https://aihot.news/items/twd5gzl0qn3iwgj005lfoq0qd](https://aihot.news/items/twd5gzl0qn3iwgj005lfoq0qd)

@@ -4,7 +4,7 @@
 "aihot_category": "tip"
 "published_at": "2020-03-01T00:00:00.000Z"
 "discovered_at": "2026-10-03T15:06:40.586Z"
-"source_name": "Hugging Face：Blog（RSS）"
+"source_name": "Hugging Face 社区博客（混合发现）"
 "original_url": "https://huggingface.co/blog/how-to-generate"
 "canonical_url": "https://aihot.news/items/j6cptd21s7jj6iojm4jmkxivt"
 "score": 65
@@ -15,6 +15,6 @@
 
 Hugging Face 发布教程，讲解在 Transformers 中使用不同解码方法进行语言生成。文章覆盖多种 decoding 方法的选择与使用方式，原文正文未能抓取，仅标题可用。
 
-- **来源**: Hugging Face：Blog（RSS）
+- **来源**: Hugging Face 社区博客（混合发现）
 - **原文链接**: [https://huggingface.co/blog/how-to-generate](https://huggingface.co/blog/how-to-generate)
 - **AIHOT 链接**: [https://aihot.news/items/j6cptd21s7jj6iojm4jmkxivt](https://aihot.news/items/j6cptd21s7jj6iojm4jmkxivt)

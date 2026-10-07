@@ -4,7 +4,7 @@
 "aihot_category": "industry"
 "published_at": "2026-08-05T10:18:17.000Z"
 "discovered_at": "2026-08-05T11:08:45.252Z"
-"source_name": "IT之家（RSS）"
+"source_name": "IT之家·人工智能"
 "original_url": "https://www.ithome.com/0/986/180.htm"
 "canonical_url": "https://aihot.news/items/cmsfzhw1u009grodljbfrauos"
 "score": 73
@@ -15,6 +15,6 @@
 
 工信部提出的 GB 44721-2026《智能网联汽车 自动驾驶系统安全要求》于 2026 年 7 月 30 日发布，是我国首部针对 L3 和 L4 自动驾驶系统的强制性国家标准，将于 2027 年 7 月 1 日实施。
 
-- **来源**: IT之家（RSS）
+- **来源**: IT之家·人工智能
 - **原文链接**: [https://www.ithome.com/0/986/180.htm](https://www.ithome.com/0/986/180.htm)
 - **AIHOT 链接**: [https://aihot.news/items/cmsfzhw1u009grodljbfrauos](https://aihot.news/items/cmsfzhw1u009grodljbfrauos)

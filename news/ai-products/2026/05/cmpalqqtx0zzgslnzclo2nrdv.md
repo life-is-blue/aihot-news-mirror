@@ -4,7 +4,7 @@
 "aihot_category": "ai-products"
 "published_at": "2026-05-18T02:43:58.000Z"
 "discovered_at": "2026-05-18T02:45:44.180Z"
-"source_name": "IT之家（RSS）"
+"source_name": "IT之家·人工智能"
 "original_url": "https://www.ithome.com/0/951/677.htm"
 "canonical_url": "https://aihot.news/items/cmpalqqtx0zzgslnzclo2nrdv"
 "score": 70
@@ -15,6 +15,6 @@
 
 腾讯云正式公测自研AI设计智能体平台Ardot。该平台核心功能包括：用户通过一句话指令即可生成App页面、官网、海报等可编辑设计稿；支持调用团队自有组件库生成规范稿，并能直接导入Figma文件保留原有设计。同时，Ardot具备设计稿一键转换为代码的能力，可对接CodeBuddy等开发工具实现代码还原。平台还提供多人在线实时评论、标注反馈和版本对比等协作功能，其微信小程序即将上线。
 
-- **来源**: IT之家（RSS）
+- **来源**: IT之家·人工智能
 - **原文链接**: [https://www.ithome.com/0/951/677.htm](https://www.ithome.com/0/951/677.htm)
 - **AIHOT 链接**: [https://aihot.news/items/cmpalqqtx0zzgslnzclo2nrdv](https://aihot.news/items/cmpalqqtx0zzgslnzclo2nrdv)

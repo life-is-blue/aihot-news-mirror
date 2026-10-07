@@ -4,7 +4,7 @@
 "aihot_category": "ai-products"
 "published_at": "2026-08-03T16:00:00.000Z"
 "discovered_at": "2026-08-04T17:51:09.590Z"
-"source_name": "LMSYS：Blog（Chatbot Arena 团队）"
+"source_name": "LMSYS Blog"
 "original_url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3"
 "canonical_url": "https://aihot.news/items/cmseyfjcz1au8ro2enx0b7os6"
 "score": 72
@@ -15,6 +15,6 @@
 
 SpecForge v0.3.0 将目标模型推理与草稿模型训练分离，支持 EAGLE3、EAGLE3.1、P-EAGLE、DFlash、Domino、DSpark 等多种投机解码算法，并统一在线、离线与解耦工作流。
 
-- **来源**: LMSYS：Blog（Chatbot Arena 团队）
+- **来源**: LMSYS Blog
 - **原文链接**: [https://www.lmsys.org/blog/2026-08-04-specforge-v0-3](https://www.lmsys.org/blog/2026-08-04-specforge-v0-3)
 - **AIHOT 链接**: [https://aihot.news/items/cmseyfjcz1au8ro2enx0b7os6](https://aihot.news/items/cmseyfjcz1au8ro2enx0b7os6)

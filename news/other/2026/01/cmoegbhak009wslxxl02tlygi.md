@@ -4,7 +4,7 @@
 "aihot_category": null
 "published_at": "2026-01-15T00:00:00.000Z"
 "discovered_at": "2026-01-15T00:00:00.000Z"
-"source_name": "Hugging Face：Blog（RSS）"
+"source_name": "Hugging Face 社区博客（混合发现）"
 "original_url": "https://huggingface.co/blog/open-responses"
 "canonical_url": "https://aihot.news/items/cmoegbhak009wslxxl02tlygi"
 "score": 80
@@ -15,6 +15,6 @@
 
 OpenAI 正通过开源与开放科学推进人工智能的民主化进程。其核心目标是降低 AI 技术的门槛，促进更广泛的参与和创新。这一举措将推动研究透明化，加速技术迭代，并鼓励全球协作共同构建 AI 的未来。
 
-- **来源**: Hugging Face：Blog（RSS）
+- **来源**: Hugging Face 社区博客（混合发现）
 - **原文链接**: [https://huggingface.co/blog/open-responses](https://huggingface.co/blog/open-responses)
 - **AIHOT 链接**: [https://aihot.news/items/cmoegbhak009wslxxl02tlygi](https://aihot.news/items/cmoegbhak009wslxxl02tlygi)

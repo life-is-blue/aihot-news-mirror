@@ -4,7 +4,7 @@
 "aihot_category": "industry"
 "published_at": "2026-07-09T15:48:31.000Z"
 "discovered_at": "2026-07-09T16:17:09.791Z"
-"source_name": "IT之家（RSS）"
+"source_name": "IT之家·人工智能"
 "original_url": "https://www.ithome.com/0/974/782.htm"
 "canonical_url": "https://aihot.news/items/cmrdpmgpg05zcih4bmwttzqaq"
 "score": 71
@@ -15,6 +15,6 @@
 
 据晚点LatePost报道，特斯拉Optimus Gen 3经马斯克评审通过，即将量产。供应链要求供应商9月产能达1000台/周，年底升至2000-2500台/周，届时年产能可达10万台。马斯克六月底高管会上要求年底前实现产能目标，否则开除整个Optimus采购团队。弗里蒙特工厂已改造为Optimus生产线，Model S/X于5月停产。马斯克表示初期生产极其缓慢，低产量夏季启动，高产量2027年展开。
 
-- **来源**: IT之家（RSS）
+- **来源**: IT之家·人工智能
 - **原文链接**: [https://www.ithome.com/0/974/782.htm](https://www.ithome.com/0/974/782.htm)
 - **AIHOT 链接**: [https://aihot.news/items/cmrdpmgpg05zcih4bmwttzqaq](https://aihot.news/items/cmrdpmgpg05zcih4bmwttzqaq)

@@ -4,7 +4,7 @@
 "aihot_category": "ai-products"
 "published_at": "2026-08-19T20:42:57.000Z"
 "discovered_at": "2026-08-19T21:04:04.391Z"
-"source_name": "X：Sky Computing Lab (@haoailab)"
+"source_name": "X：UCSD Hao AI Lab (@haoailab)"
 "original_url": "https://x.com/haoailab/status/2090177721913770407"
 "canonical_url": "https://aihot.news/items/cmt0kxcuu07f2ro2owuqpbjc8"
 "score": 71
@@ -21,6 +21,6 @@ FastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解
 
 📷 博客：http://haoailab.com/blogs/fastmetal 📷 代码：http://github.com/hao-ai-lab/FastVideo 📷 模型：http://huggingface.co/collections/FastVideo/fastmetal
 
-- **来源**: X：Sky Computing Lab (@haoailab)
+- **来源**: X：UCSD Hao AI Lab (@haoailab)
 - **原文链接**: [https://x.com/haoailab/status/2090177721913770407](https://x.com/haoailab/status/2090177721913770407)
 - **AIHOT 链接**: [https://aihot.news/items/cmt0kxcuu07f2ro2owuqpbjc8](https://aihot.news/items/cmt0kxcuu07f2ro2owuqpbjc8)

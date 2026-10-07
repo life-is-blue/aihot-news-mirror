@@ -4,7 +4,7 @@
 "aihot_category": "tip"
 "published_at": "2026-08-26T00:00:00.000Z"
 "discovered_at": "2026-08-26T14:07:18.950Z"
-"source_name": "Hugging Face：Blog（RSS）"
+"source_name": "Hugging Face 社区博客（混合发现）"
 "original_url": "https://huggingface.co/blog/train-multi-vector-encoder"
 "canonical_url": "https://aihot.news/items/cmta64hk303hqroj2edkgrcxi"
 "score": 73
@@ -15,6 +15,6 @@
 
 Sentence Transformers v6.0 新增第四种模型类型 MultiVectorEncoder，支持 ColBERT 风格的后交互检索，并配套完整训练流程。
 
-- **来源**: Hugging Face：Blog（RSS）
+- **来源**: Hugging Face 社区博客（混合发现）
 - **原文链接**: [https://huggingface.co/blog/train-multi-vector-encoder](https://huggingface.co/blog/train-multi-vector-encoder)
 - **AIHOT 链接**: [https://aihot.news/items/cmta64hk303hqroj2edkgrcxi](https://aihot.news/items/cmta64hk303hqroj2edkgrcxi)

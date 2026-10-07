@@ -4,7 +4,7 @@
 "aihot_category": "industry"
 "published_at": "2026-06-09T05:53:06.000Z"
 "discovered_at": "2026-06-09T06:22:29.171Z"
-"source_name": "IT之家（RSS）"
+"source_name": "IT之家·人工智能"
 "original_url": "https://www.ithome.com/0/961/868.htm"
 "canonical_url": "https://aihot.news/items/cmq69650406cmsl5iwf8zszhp"
 "score": 72
@@ -15,6 +15,6 @@
 
 Cursor 将欧洲总部设在伦敦，计划招聘约 200 名员工，并在巴黎、慕尼黑等地开设小型办事处。SpaceX 拥有以 600 亿美元收购 Cursor 的选择权，或支付 100 亿美元开展全新合作。Cursor 目前 B2B 年化营收约 26 亿美元，客户包括英国航空、英国石油、诺基亚等。公司强调数据留存欧洲本地以满足监管合规，其平台支持用户用自然语言生成代码，主打模型中立，竞争对手包括 GitHub Copilot、OpenAI 和谷歌的同类产品。
 
-- **来源**: IT之家（RSS）
+- **来源**: IT之家·人工智能
 - **原文链接**: [https://www.ithome.com/0/961/868.htm](https://www.ithome.com/0/961/868.htm)
 - **AIHOT 链接**: [https://aihot.news/items/cmq69650406cmsl5iwf8zszhp](https://aihot.news/items/cmq69650406cmsl5iwf8zszhp)

@@ -4,7 +4,7 @@
 "aihot_category": "paper"
 "published_at": "2026-07-03T03:27:15.000Z"
 "discovered_at": "2026-07-03T04:07:24.410Z"
-"source_name": "IT之家（RSS）"
+"source_name": "IT之家·人工智能"
 "original_url": "https://www.ithome.com/0/972/089.htm"
 "canonical_url": "https://aihot.news/items/cmr4ewvnu016msll54kwma7sx"
 "score": 80
@@ -15,6 +15,6 @@
 
 7月3日，阿里达摩院联合中国人民大学、中国科学院大学发布首个超导材料发现AI智能体Elements Claw。该智能体采用“专通融合”架构，基于1.25亿分子/晶体结构预训练的1B参数原子基础模型Elements，判断超导性AUC达0.996，预测临界温度平均误差小于1K。AI仅用28个GPU小时筛选240万晶体结构，预测出6.8万个候选材料，其中4种（Hf₂₁Re₂₅、Zr₄VRe₇、HfZrRe₄、Zr₃ScRe₈）已合成并验证超导性，临界温度最高6.5K。全部240万稳定晶体数据库已开放。
 
-- **来源**: IT之家（RSS）
+- **来源**: IT之家·人工智能
 - **原文链接**: [https://www.ithome.com/0/972/089.htm](https://www.ithome.com/0/972/089.htm)
 - **AIHOT 链接**: [https://aihot.news/items/cmr4ewvnu016msll54kwma7sx](https://aihot.news/items/cmr4ewvnu016msll54kwma7sx)

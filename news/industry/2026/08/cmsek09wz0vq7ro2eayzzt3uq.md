@@ -4,7 +4,7 @@
 "aihot_category": "industry"
 "published_at": "2026-08-04T11:06:29.000Z"
 "discovered_at": "2026-08-04T11:07:21.454Z"
-"source_name": "IT之家（RSS）"
+"source_name": "IT之家·人工智能"
 "original_url": "https://www.ithome.com/0/985/665.htm"
 "canonical_url": "https://aihot.news/items/cmsek09wz0vq7ro2eayzzt3uq"
 "score": 71
@@ -15,6 +15,6 @@
 
 工信部组织制定的《智能网联汽车 自动驾驶系统安全要求》（GB 44721—2026）强制性国家标准获批发布，拟于2027年7月1日起实施。这是我国首部针对L3级有条件自动驾驶和L4级高度自动驾驶系统的强制性国标，由2024年推荐性国标GB/T 44721—2024升级而来，为自动驾驶产品明确了统一的安全准入基线。
 
-- **来源**: IT之家（RSS）
+- **来源**: IT之家·人工智能
 - **原文链接**: [https://www.ithome.com/0/985/665.htm](https://www.ithome.com/0/985/665.htm)
 - **AIHOT 链接**: [https://aihot.news/items/cmsek09wz0vq7ro2eayzzt3uq](https://aihot.news/items/cmsek09wz0vq7ro2eayzzt3uq)

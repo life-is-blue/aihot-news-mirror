@@ -4,7 +4,7 @@
 "aihot_category": null
 "published_at": "2025-11-19T05:19:07.000Z"
 "discovered_at": "2025-11-19T05:19:07.000Z"
-"source_name": "Hugging Face：Blog（RSS）"
+"source_name": "Hugging Face 社区博客（混合发现）"
 "original_url": "https://huggingface.co/blog/ServiceNow-AI/apriel-h1"
 "canonical_url": "https://aihot.news/items/cmoegbhak00ahslxxqzrrfs2s"
 "score": 78
@@ -15,6 +15,6 @@
 
 ServiceNow-AI在Hugging Face发布博客，介绍了其提出的Apriel-H1方法，该方法通过知识蒸馏技术有效提升小型模型的推理能力。该方法的核心在于从大型模型中提取并转移复杂的推理路径，使蒸馏后的小模型在多项推理任务上表现显著提升，同时保持高效的部署性能。这一技术为在资源受限环境中部署高性能推理模型提供了新思路。
 
-- **来源**: Hugging Face：Blog（RSS）
+- **来源**: Hugging Face 社区博客（混合发现）
 - **原文链接**: [https://huggingface.co/blog/ServiceNow-AI/apriel-h1](https://huggingface.co/blog/ServiceNow-AI/apriel-h1)
 - **AIHOT 链接**: [https://aihot.news/items/cmoegbhak00ahslxxqzrrfs2s](https://aihot.news/items/cmoegbhak00ahslxxqzrrfs2s)

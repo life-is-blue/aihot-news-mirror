@@ -4,7 +4,7 @@
 "aihot_category": null
 "published_at": "2026-01-21T06:25:31.000Z"
 "discovered_at": "2026-01-21T06:25:31.000Z"
-"source_name": "Hugging Face：Blog（RSS）"
+"source_name": "Hugging Face 社区博客（混合发现）"
 "original_url": "https://huggingface.co/blog/ibm-research/assetopsbench-playgro\
   und-on-hugging-face"
 "canonical_url": "https://aihot.news/items/cmoegbhak009sslxxtsyxvi6a"
@@ -16,6 +16,6 @@
 
 IBM Research在Hugging Face发布AssetOpsBench，这是一个工业资产运维的AI智能体基准测试框架。它基于真实场景构建，包含多行业数据集和超1000个运维事件，通过多阶段指标测试智能体的诊断、决策等能力，注重动态适应性、多模态处理和安全推理，以推动AI智能体走向实际工业应用。
 
-- **来源**: Hugging Face：Blog（RSS）
+- **来源**: Hugging Face 社区博客（混合发现）
 - **原文链接**: [https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face](https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face)
 - **AIHOT 链接**: [https://aihot.news/items/cmoegbhak009sslxxtsyxvi6a](https://aihot.news/items/cmoegbhak009sslxxtsyxvi6a)

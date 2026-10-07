@@ -4,7 +4,7 @@
 "aihot_category": "industry"
 "published_at": "2026-06-27T01:43:18.000Z"
 "discovered_at": "2026-06-27T01:59:21.541Z"
-"source_name": "IT之家（RSS）"
+"source_name": "IT之家·人工智能"
 "original_url": "https://www.ithome.com/0/969/311.htm"
 "canonical_url": "https://aihot.news/items/cmqvpp1zi0f57sl80zxcbnmqz"
 "score": 71
@@ -15,6 +15,6 @@
 
 1—5月全国规上工业企业利润同比增18.8%。电子行业利润增103.9%，贡献率43.1%，主因全球AI技术变革推动高端算力芯片和存储芯片需求爆发。原材料制造业利润增83.1%，其中有色增117.1%、化工增71.6%。高技术制造业利润增44.7%，电子专用材料制造增665.4%。企业每百元营收成本降0.59元，营收利润率5.56%，为2024年以来累计最高。
 
-- **来源**: IT之家（RSS）
+- **来源**: IT之家·人工智能
 - **原文链接**: [https://www.ithome.com/0/969/311.htm](https://www.ithome.com/0/969/311.htm)
 - **AIHOT 链接**: [https://aihot.news/items/cmqvpp1zi0f57sl80zxcbnmqz](https://aihot.news/items/cmqvpp1zi0f57sl80zxcbnmqz)

@@ -4,7 +4,7 @@
 "aihot_category": "ai-products"
 "published_at": "2026-08-06T16:00:00.000Z"
 "discovered_at": "2026-08-07T17:51:24.888Z"
-"source_name": "LMSYS：Blog（Chatbot Arena 团队）"
+"source_name": "LMSYS Blog"
 "original_url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang"
 "canonical_url": "https://aihot.news/items/cmsj8rfkl02ruroo5uvyqiqiq"
 "score": 76
@@ -15,6 +15,6 @@
 
 腾讯混元开源算子库 HPC-Ops 已集成至 SGLang 主分支，其 Dynamic Attention 与 Fused MoE 在 Hy3 模型上最高降低 TPOT 48.8%。
 
-- **来源**: LMSYS：Blog（Chatbot Arena 团队）
+- **来源**: LMSYS Blog
 - **原文链接**: [https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang](https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang)
 - **AIHOT 链接**: [https://aihot.news/items/cmsj8rfkl02ruroo5uvyqiqiq](https://aihot.news/items/cmsj8rfkl02ruroo5uvyqiqiq)

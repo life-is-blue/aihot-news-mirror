@@ -4,7 +4,7 @@
 "aihot_category": "tip"
 "published_at": "2026-09-10T00:00:00.000Z"
 "discovered_at": "2026-09-10T00:00:00.000Z"
-"source_name": "Hugging Face：Blog（RSS）"
+"source_name": "Hugging Face 社区博客（混合发现）"
 "original_url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs"
 "canonical_url": "https://aihot.news/items/cmu10mxhc08m6ro2nafd8smam"
 "score": 61
@@ -15,6 +15,6 @@
 
 Hugging Face 在 TRL v1.14 的 AsyncGRPOTrainer 中支持只训练和同步 LoRA adapter，配合 Storage Bucket 挂载与代理路由，让训练 Job 和 vLLM 推理 Job 在不同机器上运行而无需 NCCL。
 
-- **来源**: Hugging Face：Blog（RSS）
+- **来源**: Hugging Face 社区博客（混合发现）
 - **原文链接**: [https://huggingface.co/blog/asyncgrpo-lora-hfjobs](https://huggingface.co/blog/asyncgrpo-lora-hfjobs)
 - **AIHOT 链接**: [https://aihot.news/items/cmu10mxhc08m6ro2nafd8smam](https://aihot.news/items/cmu10mxhc08m6ro2nafd8smam)

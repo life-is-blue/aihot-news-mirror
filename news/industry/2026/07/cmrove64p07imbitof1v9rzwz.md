@@ -4,7 +4,7 @@
 "aihot_category": "industry"
 "published_at": "2026-07-17T11:10:01.000Z"
 "discovered_at": "2026-07-17T11:44:08.162Z"
-"source_name": "IT之家（RSS）"
+"source_name": "IT之家·人工智能"
 "original_url": "https://www.ithome.com/0/978/277.htm"
 "canonical_url": "https://aihot.news/items/cmrove64p07imbitof1v9rzwz"
 "score": 73
@@ -15,6 +15,6 @@
 
 苹果已向约40名就职于OpenAI的前员工发出律师函，要求保存相关文件。此前苹果起诉OpenAI及两名前员工，指控其通过挖角获取商业机密以加速AI硬件研发。苹果称已有超400名前员工在OpenAI工作，正寻求法院禁令阻止OpenAI使用苹果信息并要求归还机密。
 
-- **来源**: IT之家（RSS）
+- **来源**: IT之家·人工智能
 - **原文链接**: [https://www.ithome.com/0/978/277.htm](https://www.ithome.com/0/978/277.htm)
 - **AIHOT 链接**: [https://aihot.news/items/cmrove64p07imbitof1v9rzwz](https://aihot.news/items/cmrove64p07imbitof1v9rzwz)

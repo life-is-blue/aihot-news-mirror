@@ -4,7 +4,7 @@
 "aihot_category": "ai-models"
 "published_at": "2025-08-06T21:04:25.000Z"
 "discovered_at": "2025-08-06T21:04:25.000Z"
-"source_name": "X：Sky Computing Lab (@haoailab)"
+"source_name": "X：UCSD Hao AI Lab (@haoailab)"
 "original_url": "https://x.com/haoailab/status/1953200510653350281"
 "canonical_url": "https://aihot.news/items/cmnxjn85o00h0sl9oz3hg57qx"
 "score": 81
@@ -22,6 +22,6 @@
 → gpt-oss-120b → 第12名
 → gpt-oss-20b → 第13名
 
-- **来源**: X：Sky Computing Lab (@haoailab)
+- **来源**: X：UCSD Hao AI Lab (@haoailab)
 - **原文链接**: [https://x.com/haoailab/status/1953200510653350281](https://x.com/haoailab/status/1953200510653350281)
 - **AIHOT 链接**: [https://aihot.news/items/cmnxjn85o00h0sl9oz3hg57qx](https://aihot.news/items/cmnxjn85o00h0sl9oz3hg57qx)

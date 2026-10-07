@@ -4,7 +4,7 @@
 "aihot_category": "ai-models"
 "published_at": "2026-05-19T08:08:57.000Z"
 "discovered_at": "2026-05-19T08:51:44.020Z"
-"source_name": "IT之家（RSS）"
+"source_name": "IT之家·人工智能"
 "original_url": "https://www.ithome.com/0/952/354.htm"
 "canonical_url": "https://aihot.news/items/cmpce9a1i01kislaea9ioa7tn"
 "score": 74
@@ -15,6 +15,6 @@
 
 地平线机器人实验室发布了其开源的人形机器人全身控制模型 HoloMotion-1。这是一个拥有 4 亿参数的“小脑”大模型，通过 MoE 稀疏激活与 KV-cache 推理机制，在端侧实现了约 300FPS 的实时推理能力。该模型利用互联网视频、光学动捕、VR 遥操作等多种来源的动作数据进行训练，并在真实机器人上成功展示了舞蹈、爬行、健身、搬箱子等复杂动作的零样本迁移能力。相关代码与技术报告已公开。
 
-- **来源**: IT之家（RSS）
+- **来源**: IT之家·人工智能
 - **原文链接**: [https://www.ithome.com/0/952/354.htm](https://www.ithome.com/0/952/354.htm)
 - **AIHOT 链接**: [https://aihot.news/items/cmpce9a1i01kislaea9ioa7tn](https://aihot.news/items/cmpce9a1i01kislaea9ioa7tn)

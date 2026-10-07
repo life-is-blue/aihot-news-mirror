@@ -4,7 +4,7 @@
 "aihot_category": "ai-models"
 "published_at": "2026-06-24T04:34:24.000Z"
 "discovered_at": "2026-06-24T04:42:07.906Z"
-"source_name": "IT之家（RSS）"
+"source_name": "IT之家·人工智能"
 "original_url": "https://www.ithome.com/0/967/852.htm"
 "canonical_url": "https://aihot.news/items/cmqrl73460l9gslp5w33pryqi"
 "score": 74
@@ -15,6 +15,6 @@
 
 6月23日，部分用户反馈 ChatGPT 网页版和 App 版上线了双向 AI 语音模型 Bidi 1，位于设置模型选择器中，与标准语音和高级语音并列。该模型支持边说话边监听，用户可在对话中途打断并发出新指令，例如要求从1数到10时中途喊停倒数，模型会立即切换执行。OpenAI 尚未官宣，预计本周启动更大范围测试。
 
-- **来源**: IT之家（RSS）
+- **来源**: IT之家·人工智能
 - **原文链接**: [https://www.ithome.com/0/967/852.htm](https://www.ithome.com/0/967/852.htm)
 - **AIHOT 链接**: [https://aihot.news/items/cmqrl73460l9gslp5w33pryqi](https://aihot.news/items/cmqrl73460l9gslp5w33pryqi)

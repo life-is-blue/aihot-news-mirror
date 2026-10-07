@@ -4,7 +4,7 @@
 "aihot_category": null
 "published_at": "2026-02-03T15:03:19.000Z"
 "discovered_at": "2026-02-03T15:03:19.000Z"
-"source_name": "Hugging Face：Blog（RSS）"
+"source_name": "Hugging Face 社区博客（混合发现）"
 "original_url": "https://huggingface.co/blog/huggingface/one-year-since-the-dee\
   pseek-moment-blog-3"
 "canonical_url": "https://aihot.news/items/cmoegbhak009lslxxmu6pb270"
@@ -16,6 +16,6 @@
 
 Hugging Face 在其官方博客发布文章，展望了全球开源人工智能生态系统的发展路径与未来趋势。文章以 DeepSeek 等代表性开源模型为例，探讨了开源社区如何推动技术民主化与创新加速。核心观点指向一个更加开放、协作的“AI+”未来生态，其中开源框架、模型和工具将深度融入各行各业，降低开发门槛并促进多样化应用场景的涌现。
 
-- **来源**: Hugging Face：Blog（RSS）
+- **来源**: Hugging Face 社区博客（混合发现）
 - **原文链接**: [https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3](https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3)
 - **AIHOT 链接**: [https://aihot.news/items/cmoegbhak009lslxxmu6pb270](https://aihot.news/items/cmoegbhak009lslxxmu6pb270)

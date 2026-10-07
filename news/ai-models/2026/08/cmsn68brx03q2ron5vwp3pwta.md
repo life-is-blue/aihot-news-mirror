@@ -4,7 +4,7 @@
 "aihot_category": "ai-models"
 "published_at": "2026-08-10T11:51:38.747Z"
 "discovered_at": "2026-08-10T11:51:38.747Z"
-"source_name": "LMSYS：Blog（Chatbot Arena 团队）"
+"source_name": "LMSYS Blog"
 "original_url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer"
 "canonical_url": "https://aihot.news/items/cmsn68brx03q2ron5vwp3pwta"
 "score": 72
@@ -15,6 +15,6 @@
 
 SGLang 与 Meta Superintelligence Labs 合作，为 30B 参数多模态模型 Muse Glimmer 提供 Day-0 支持，该模型拥有 128k+ token 上下文窗口。
 
-- **来源**: LMSYS：Blog（Chatbot Arena 团队）
+- **来源**: LMSYS Blog
 - **原文链接**: [https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer](https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer)
 - **AIHOT 链接**: [https://aihot.news/items/cmsn68brx03q2ron5vwp3pwta](https://aihot.news/items/cmsn68brx03q2ron5vwp3pwta)

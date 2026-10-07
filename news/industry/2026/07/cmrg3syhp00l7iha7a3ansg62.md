@@ -4,7 +4,7 @@
 "aihot_category": "industry"
 "published_at": "2026-07-11T07:33:08.000Z"
 "discovered_at": "2026-07-11T08:29:39.667Z"
-"source_name": "IT之家（RSS）"
+"source_name": "IT之家·人工智能"
 "original_url": "https://www.ithome.com/0/975/469.htm"
 "canonical_url": "https://aihot.news/items/cmrg3syhp00l7iha7a3ansg62"
 "score": 71
@@ -15,6 +15,6 @@
 
 开发者Jarred Sumner借助Claude Fable 5模型，11天内将Bun从Zig重写为Rust，64个实例并行编写超100万行代码，API费用约16.5万美元。重构主因是Zig频繁内存错误，Rust可在编译时捕获。Bun v1.4.0以Canary版本发布，修复128个错误，速度提高约2%到5%。Bun团队已于2025年12月被Anthropic收购。
 
-- **来源**: IT之家（RSS）
+- **来源**: IT之家·人工智能
 - **原文链接**: [https://www.ithome.com/0/975/469.htm](https://www.ithome.com/0/975/469.htm)
 - **AIHOT 链接**: [https://aihot.news/items/cmrg3syhp00l7iha7a3ansg62](https://aihot.news/items/cmrg3syhp00l7iha7a3ansg62)

@@ -4,7 +4,7 @@
 "aihot_category": "industry"
 "published_at": "2026-07-09T13:01:09.000Z"
 "discovered_at": "2026-07-09T13:16:58.189Z"
-"source_name": "IT之家（RSS）"
+"source_name": "IT之家·人工智能"
 "original_url": "https://www.ithome.com/0/974/744.htm"
 "canonical_url": "https://aihot.news/items/cmrdj6s6604a6ih4bekz9h8il"
 "score": 71
@@ -15,6 +15,6 @@
 
 法国竞争管理局确认，对英伟达的反垄断调查已近尾声，即将发布正式异议声明。调查聚焦两大问题：市场对CUDA平台的严重依赖，以及英伟达对CoreWeave等AI云计算公司的投资。英伟达占全球AI加速器超70%份额。若认定滥用市场支配地位，最高可处全球年营业额10%罚款。法国是首个准备正式指控英伟达的监管机构。
 
-- **来源**: IT之家（RSS）
+- **来源**: IT之家·人工智能
 - **原文链接**: [https://www.ithome.com/0/974/744.htm](https://www.ithome.com/0/974/744.htm)
 - **AIHOT 链接**: [https://aihot.news/items/cmrdj6s6604a6ih4bekz9h8il](https://aihot.news/items/cmrdj6s6604a6ih4bekz9h8il)

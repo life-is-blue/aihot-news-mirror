@@ -4,7 +4,7 @@
 "aihot_category": "ai-models"
 "published_at": "2026-08-20T09:45:51.000Z"
 "discovered_at": "2026-08-20T10:24:01.577Z"
-"source_name": "IT之家（RSS）"
+"source_name": "IT之家·人工智能"
 "original_url": "https://www.ithome.com/0/992/239.htm"
 "canonical_url": "https://aihot.news/items/cmt1di48c04vuro1q95i06dby"
 "score": 72
@@ -15,6 +15,6 @@
 
 阿里巴巴正式推出 Qwen-UI-Agent，一个以真实世界为中心的 GUI 智能体基座模型，覆盖移动端、电脑端、网页端及深度搜索（DeepSearch）环境。
 
-- **来源**: IT之家（RSS）
+- **来源**: IT之家·人工智能
 - **原文链接**: [https://www.ithome.com/0/992/239.htm](https://www.ithome.com/0/992/239.htm)
 - **AIHOT 链接**: [https://aihot.news/items/cmt1di48c04vuro1q95i06dby](https://aihot.news/items/cmt1di48c04vuro1q95i06dby)

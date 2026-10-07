@@ -4,7 +4,7 @@
 "aihot_category": "industry"
 "published_at": "2026-08-11T14:54:16.000Z"
 "discovered_at": "2026-08-11T15:11:50.154Z"
-"source_name": "IT之家（RSS）"
+"source_name": "IT之家·人工智能"
 "original_url": "https://www.ithome.com/0/988/524.htm"
 "canonical_url": "https://aihot.news/items/cmsostkpq05iurohd30b8ubmy"
 "score": 75
@@ -15,6 +15,6 @@
 
 英伟达正在研发新一代开源 AI 模型系列 Nemotron 4，规模最大的模型预计至少拥有 1 万亿个参数，旨在与全球最先进的开源模型竞争。英伟达尚未确定发布日期，最终训练也未完成，员工认为该模型最早可能在今年秋末准备就绪。此举意在通过开放模型生态扩大 AI 应用范围，并推动市场对其 GPU 算力的需求。
 
-- **来源**: IT之家（RSS）
+- **来源**: IT之家·人工智能
 - **原文链接**: [https://www.ithome.com/0/988/524.htm](https://www.ithome.com/0/988/524.htm)
 - **AIHOT 链接**: [https://aihot.news/items/cmsostkpq05iurohd30b8ubmy](https://aihot.news/items/cmsostkpq05iurohd30b8ubmy)

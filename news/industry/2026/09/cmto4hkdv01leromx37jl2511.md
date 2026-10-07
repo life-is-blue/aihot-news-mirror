@@ -4,7 +4,7 @@
 "aihot_category": "industry"
 "published_at": "2026-09-05T07:53:01.000Z"
 "discovered_at": "2026-09-05T08:30:20.924Z"
-"source_name": "IT之家（RSS）"
+"source_name": "IT之家·人工智能"
 "original_url": "https://www.ithome.com/0/998/758.htm"
 "canonical_url": "https://aihot.news/items/cmto4hkdv01leromx37jl2511"
 "score": 83
@@ -15,6 +15,6 @@
 
 据 Futurism 报道，加拿大不列颠哥伦比亚省塔姆布勒岭校园枪击案的幸存教师和学生于 9 月 4 日提起 30 起新诉讼，指控 OpenAI 向枪手提供实质性协助，且在案发前未向警方示警。
 
-- **来源**: IT之家（RSS）
+- **来源**: IT之家·人工智能
 - **原文链接**: [https://www.ithome.com/0/998/758.htm](https://www.ithome.com/0/998/758.htm)
 - **AIHOT 链接**: [https://aihot.news/items/cmto4hkdv01leromx37jl2511](https://aihot.news/items/cmto4hkdv01leromx37jl2511)

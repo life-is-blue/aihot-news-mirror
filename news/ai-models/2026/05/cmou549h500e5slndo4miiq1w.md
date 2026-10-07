@@ -4,7 +4,7 @@
 "aihot_category": "ai-models"
 "published_at": "2026-05-06T13:51:02.000Z"
 "discovered_at": "2026-05-06T14:16:05.309Z"
-"source_name": "IT之家（RSS）"
+"source_name": "IT之家·人工智能"
 "original_url": "https://www.ithome.com/0/947/010.htm"
 "canonical_url": "https://aihot.news/items/cmou549h500e5slndo4miiq1w"
 "score": 71
@@ -15,6 +15,6 @@
 
 字节跳动火山引擎发布豆包大模型家族首款全模态理解模型 Doubao-Seed-2.0-lite 升级版。该模型原生统一支持视频、图像、音频和文本理解，并能进行跨模态联合推理，在物理、医疗等学科推理及细粒度感知上表现超越此前Pro版本。音频方面支持19种语种转写及多语种互译，多项基准测试优于Gemini-3.1-Pro。同时，其Agent、Coding与GUI能力升级，能更稳定处理长任务、胜任深度开发，并实现界面理解与操作执行的闭环。新版本已在火山方舟上线，旨在为企业提供高性价比的全模态任务部署方案。
 
-- **来源**: IT之家（RSS）
+- **来源**: IT之家·人工智能
 - **原文链接**: [https://www.ithome.com/0/947/010.htm](https://www.ithome.com/0/947/010.htm)
 - **AIHOT 链接**: [https://aihot.news/items/cmou549h500e5slndo4miiq1w](https://aihot.news/items/cmou549h500e5slndo4miiq1w)

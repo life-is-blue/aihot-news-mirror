@@ -4,7 +4,7 @@
 "aihot_category": "ai-models"
 "published_at": "2026-06-01T15:45:17.000Z"
 "discovered_at": "2026-06-01T16:38:12.949Z"
-"source_name": "Hugging Face：Blog（RSS）"
+"source_name": "Hugging Face 社区博客（混合发现）"
 "original_url": "https://huggingface.co/blog/JetBrains/mellum2-launch"
 "canonical_url": "https://aihot.news/items/cmpvfn56c06fxsl0zknga1ztr"
 "score": 71
@@ -15,6 +15,6 @@
 
 Mellum2 是 JetBrains 从头训练的 12B 参数混合专家（MoE）模型，专注于自然语言与代码。每个 token 仅激活 2.5B 参数，推理速度可达同类模型的 2 倍以上，适合高吞吐、低延迟场景。该模型支持路由、RAG、摘要、子智能体及私有部署，以 Apache 2.0 许可证开源。在代码生成、推理、科学和数学基准测试中，Mellum2 与同等规模的开放模型竞争力相当。
 
-- **来源**: Hugging Face：Blog（RSS）
+- **来源**: Hugging Face 社区博客（混合发现）
 - **原文链接**: [https://huggingface.co/blog/JetBrains/mellum2-launch](https://huggingface.co/blog/JetBrains/mellum2-launch)
 - **AIHOT 链接**: [https://aihot.news/items/cmpvfn56c06fxsl0zknga1ztr](https://aihot.news/items/cmpvfn56c06fxsl0zknga1ztr)
