@@ -1,7 +1,7 @@
 ---
 "title": "微软开源 Orchard 框架：30亿参数小模型在 SWE-bench 达 73%"
 "aihot_id": "cmtyn6l7j0006rorjc3gpsi9j"
-"aihot_category": "ai-models"
+"aihot_category": "ai-products"
 "published_at": "2026-08-03T16:00:00.000Z"
 "discovered_at": "2026-08-03T16:00:00.000Z"
 "source_name": "Microsoft Research 博客（RSS）"

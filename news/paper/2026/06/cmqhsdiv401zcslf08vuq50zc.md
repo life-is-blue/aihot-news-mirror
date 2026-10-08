@@ -1,7 +1,7 @@
 ---
 "title": "MiniMax 发布 MSA 稀疏注意力方法，开源推理内核并推出 MiniMax-M3 模型"
 "aihot_id": "cmqhsdiv401zcslf08vuq50zc"
-"aihot_category": "ai-models"
+"aihot_category": "paper"
 "published_at": "2026-06-17T07:44:54.000Z"
 "discovered_at": "2026-06-17T08:05:34.282Z"
 "source_name": "MarkTechPost（RSS）"

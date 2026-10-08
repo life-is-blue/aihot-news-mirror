@@ -1,7 +1,7 @@
 ---
 "title": "黄仁勋：英伟达下一代 AI 超级芯片平台 Vera Rubin 全面投产"
 "aihot_id": "cmpuoo1m10019sl0vjdb4kc65"
-"aihot_category": "ai-models"
+"aihot_category": "ai-products"
 "published_at": "2026-06-01T03:55:26.000Z"
 "discovered_at": "2026-06-01T04:03:03.819Z"
 "source_name": "IT之家·人工智能"

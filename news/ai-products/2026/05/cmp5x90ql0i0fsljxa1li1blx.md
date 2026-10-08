@@ -1,5 +1,5 @@
 ---
-"title": "随时随地使用 Codex"
+"title": "Codex 移动端预览版推出，可远程管理编码任务"
 "aihot_id": "cmp5x90ql0i0fsljxa1li1blx"
 "aihot_category": "ai-products"
 "published_at": "2026-05-14T13:00:00.000Z"
@@ -11,7 +11,7 @@
 "content_kind": "news"
 ---
 
-# 随时随地使用 Codex
+# Codex 移动端预览版推出，可远程管理编码任务
 
 用户现可通过 ChatGPT 移动应用随时随地使用 Codex。该功能支持跨设备和远程环境实时监控、引导及批准编码任务，实现了对编程工作的无缝移动端管理。
 

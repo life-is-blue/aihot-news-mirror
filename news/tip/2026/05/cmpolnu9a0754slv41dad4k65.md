@@ -1,7 +1,7 @@
 ---
 "title": "Gemini Omni轻松转换视频视觉风格"
 "aihot_id": "cmpolnu9a0754slv41dad4k65"
-"aihot_category": "ai-products"
+"aihot_category": "tip"
 "published_at": "2026-05-27T21:50:59.000Z"
 "discovered_at": "2026-05-27T21:52:15.717Z"
 "source_name": "X：Gemini (@GeminiApp)"

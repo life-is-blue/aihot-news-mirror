@@ -1,7 +1,7 @@
 ---
 "title": "OpenAI 推出 ChatGPT Work：可跨应用自主工作的 AI 智能体"
 "aihot_id": "cmrdrlair06hpih4bxerobguv"
-"aihot_category": "ai-models"
+"aihot_category": "ai-products"
 "published_at": "2026-07-09T10:00:00.000Z"
 "discovered_at": "2026-07-09T17:12:15.257Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"

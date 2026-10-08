@@ -1,7 +1,7 @@
 ---
-"title": "Gemini Omni发布，创意作品涌现"
+"title": "Gemini Omni 本周创意作品回顾"
 "aihot_id": "cmpg6xm8b0ctysljw2zo14zo8"
-"aihot_category": "ai-products"
+"aihot_category": "ai-models"
 "published_at": "2026-05-22T00:15:46.000Z"
 "discovered_at": "2026-05-22T00:37:41.548Z"
 "source_name": "X：Gemini (@GeminiApp)"
@@ -11,7 +11,7 @@
 "content_kind": "news"
 ---
 
-# Gemini Omni发布，创意作品涌现
+# Gemini Omni 本周创意作品回顾
 
 Gemini Omni来了，我们本周看到了许多令人惊叹的创作。以下是一些杰出作品 👇
 

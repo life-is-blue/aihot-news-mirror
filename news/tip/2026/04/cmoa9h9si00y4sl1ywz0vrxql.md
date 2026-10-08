@@ -1,7 +1,7 @@
 ---
 "title": "利用 Responses API 中的 WebSockets 加速智能体工作流"
 "aihot_id": "cmoa9h9si00y4sl1ywz0vrxql"
-"aihot_category": "ai-products"
+"aihot_category": "tip"
 "published_at": "2026-04-22T10:00:00.000Z"
 "discovered_at": "2026-04-22T16:22:45.963Z"
 "source_name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
