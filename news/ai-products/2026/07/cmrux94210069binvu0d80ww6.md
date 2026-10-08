@@ -1,5 +1,5 @@
 ---
-"title": "xAI 推出 Grok for Outlook 加载项"
+"title": "xAI 发布 Grok for Outlook 邮箱 add-in"
 "aihot_id": "cmrux94210069binvu0d80ww6"
 "aihot_category": "ai-products"
 "published_at": "2026-07-20T16:00:00.000Z"
@@ -7,13 +7,13 @@
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/introducing-outlook-addin"
 "canonical_url": "https://aihot.news/items/cmrux94210069binvu0d80ww6"
-"score": 63
+"score": 64
 "content_kind": "news"
 ---
 
-# xAI 推出 Grok for Outlook 加载项
+# xAI 发布 Grok for Outlook 邮箱 add-in
 
-xAI 今日推出 Grok for Outlook，一个 Microsoft 365 加载项，可将 Grok 智能体嵌入邮箱，用于总结长邮件线程、以用户风格起草回复并整理收件箱。该工具即日起对所有付费 X 和 SuperGrok 用户开放，可从 Microsoft Marketplace 添加。
+xAI 推出 Grok for Outlook，一个 Microsoft 365 add-in，可总结长邮件线程、按用户语气起草回复，并整理邮箱，包括归档、清理垃圾和标记待回复邮件。
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/introducing-outlook-addin](https://x.ai/news/introducing-outlook-addin)

@@ -1,5 +1,5 @@
 ---
-"title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景"
+"title": "xAI 推出 Grok for Excel 插件，可用自然语言分析数据并编写公式"
 "aihot_id": "cmrtfkakm2undbitla364sgej"
 "aihot_category": "ai-products"
 "published_at": "2026-07-19T16:00:00.000Z"
@@ -7,13 +7,13 @@
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/introducing-excel-addin"
 "canonical_url": "https://aihot.news/items/cmrtfkakm2undbitla364sgej"
-"score": 69
+"score": 63
 "content_kind": "news"
 ---
 
-# Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景
+# xAI 推出 Grok for Excel 插件，可用自然语言分析数据并编写公式
 
-xAI 将 Grok 引入 Microsoft Excel，推出免费 Microsoft 365 加载项。用户可在工作表中用自然语言提问、根据描述编写公式或运行场景，答案会引用具体单元格，图表可直接插入工作表。该加载项还支持连接 SharePoint 或 Google Drive 获取上下文，并已同步支持 Word 和 PowerPoint。
+xAI 发布 Grok 的 Microsoft Excel 插件，可在不离开工作簿的情况下用自然语言提问、根据描述编写公式并运行场景测试。回答会引用来源单元格，图表可直接插入表格，插件还能通过 connectors 从近期邮件、SharePoint 或 Google Drive 文件获取上下文。
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/introducing-excel-addin](https://x.ai/news/introducing-excel-addin)

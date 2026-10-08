@@ -1,5 +1,5 @@
 ---
-"title": "Grok for PowerPoint 发布：在 Microsoft PowerPoint 内直接生成和编辑幻灯片"
+"title": "xAI 推出 Grok for PowerPoint 插件"
 "aihot_id": "cmqguqu9r00rqslpuu5cpfao3"
 "aihot_category": "ai-products"
 "published_at": "2026-06-16T00:00:00.000Z"
@@ -11,9 +11,9 @@
 "content_kind": "news"
 ---
 
-# Grok for PowerPoint 发布：在 Microsoft PowerPoint 内直接生成和编辑幻灯片
+# xAI 推出 Grok for PowerPoint 插件
 
-xAI 于 6 月 16 日发布 Grok for PowerPoint，作为免费 Microsoft 365 插件上线。用户无需离开应用即可利用 Grok 将大纲转为完整幻灯片，进行内容研究、撰写、排版，并支持添加单张幻灯片、调整样式主题、重构章节。插件还能调用 Grok 连接器，从邮件或 SharePoint 中获取信息。该插件同样适用于 Word 和 Excel。
+xAI 发布 Grok for PowerPoint，这是一个免费的 Microsoft 365 加载项，可从 Microsoft Marketplace 安装，让用户在不离开 PowerPoint 的情况下生成和编辑幻灯片。
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/introducing-powerpoint-addin](https://x.ai/news/introducing-powerpoint-addin)
