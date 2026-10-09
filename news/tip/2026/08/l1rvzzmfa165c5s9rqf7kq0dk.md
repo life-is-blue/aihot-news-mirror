@@ -1,7 +1,7 @@
 ---
-"title": "OpenAI 发布 Codex 开放智能体平台，开源 harness 支持应用内集成"
+"title": "OpenAI 详解 Codex 开源智能体框架的应用集成方式"
 "aihot_id": "l1rvzzmfa165c5s9rqf7kq0dk"
-"aihot_category": "ai-products"
+"aihot_category": "tip"
 "published_at": "2026-08-19T07:00:00.000Z"
 "discovered_at": "2026-09-30T09:12:41.935Z"
 "source_name": "OpenAI Developers：Blog（网页）"
@@ -11,7 +11,7 @@
 "content_kind": "news"
 ---
 
-# OpenAI 发布 Codex 开放智能体平台，开源 harness 支持应用内集成
+# OpenAI 详解 Codex 开源智能体框架的应用集成方式
 
 OpenAI 将 Codex 定位为可复用的智能体平台，开源 Codex CLI、app-server 和官方 Codex SDK，让开发者把智能体循环嵌入自己的产品界面，而非只用通用聊天助手。
 
