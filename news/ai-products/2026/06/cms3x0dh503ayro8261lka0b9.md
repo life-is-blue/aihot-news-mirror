@@ -1,5 +1,5 @@
 ---
-"title": "LangChain 发布 Rubrics：让 AI 智能体自我评估并修正工作"
+"title": "LangChain 为 Deep Agents 推出 RubricMiddleware，让智能体按评分标准自评并纠错"
 "aihot_id": "cms3x0dh503ayro8261lka0b9"
 "aihot_category": "ai-products"
 "published_at": "2026-06-02T16:30:00.000Z"
@@ -11,9 +11,9 @@
 "content_kind": "news"
 ---
 
-# LangChain 发布 Rubrics：让 AI 智能体自我评估并修正工作
+# LangChain 为 Deep Agents 推出 RubricMiddleware，让智能体按评分标准自评并纠错
 
-LangChain 推出 Rubrics，通过 RubricMiddleware 为智能体运行添加自我评估循环。用户可设定评分标准并配置评分器，在需要高正确性的任务中获得可靠输出。
+LangChain 为 Deep Agents 新增 RubricMiddleware（beta）：开发者在 invoke 时传入 rubric 检查清单，一个独立的 grader 子智能体在 agent 运行结束前逐项评审，可调用工具收集证据并返回按条目的反馈，未通过则将反馈注入对话让 agent 重跑，直到满足 rubric 或达到 max_iterations。
 
 - **来源**: LangChain：Blog（RSS）
 - **原文链接**: [https://www.langchain.com/blog/introducing-rubrics-for-deepagents](https://www.langchain.com/blog/introducing-rubrics-for-deepagents)
