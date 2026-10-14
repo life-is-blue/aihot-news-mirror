@@ -7,13 +7,13 @@
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-4-7"
 "canonical_url": "https://aihot.news/items/cmubfarpy0xtirolnplntl9p1"
-"score": 77
+"score": 72
 "content_kind": "news"
 ---
 
 # xAI 发布 Grok 4.7，主打编码与知识工作
 
-xAI 发布 Grok 4.7，定位为最强编码与知识工作模型，采用更大的基础模型并经过更长强化学习训练。CursorBench 4.0 得分 46.3%，在 HackerBench v0.3 上仅放行 3.3% 高危双用途提示，LatchBio 生物安全基准得分 62.4%。
+xAI 发布 Grok 4.7，定位为其最强编码与知识工作模型，在 CursorBench 4.0 上以 46.3% 处于价格性能前沿。模型基于更大的基座并经更长时间强化学习训练，价格与 Grok 4.6 持平，每百万输入 token $2、输出 $6。
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-4-7](https://x.ai/news/grok-4-7)
