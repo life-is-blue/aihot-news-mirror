@@ -4,7 +4,7 @@
 "aihot_category": "ai-models"
 "published_at": "2026-05-05T16:39:00.000Z"
 "discovered_at": "2026-05-05T16:58:47.728Z"
-"source_name": "X：SpaceXAI (@SpaceXAI)"
+"source_name": "X：SpaceX Super Intelligence (@SpaceXSI)"
 "original_url": "https://x.com/xai/status/2051703217697010103"
 "canonical_url": "https://aihot.news/items/cmosvhq5p00mosldmnll3syb3"
 "score": 80
@@ -21,6 +21,6 @@ Grok 4.3 支持 100 万令牌的上下文窗口，定价为输入每百万令牌
 
 创建 API 密钥并开始构建：http://console.x.ai/team/default/api-keys
 
-- **来源**: X：SpaceXAI (@SpaceXAI)
+- **来源**: X：SpaceX Super Intelligence (@SpaceXSI)
 - **原文链接**: [https://x.com/xai/status/2051703217697010103](https://x.com/xai/status/2051703217697010103)
 - **AIHOT 链接**: [https://aihot.news/items/cmosvhq5p00mosldmnll3syb3](https://aihot.news/items/cmosvhq5p00mosldmnll3syb3)

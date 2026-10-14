@@ -4,7 +4,7 @@
 "aihot_category": "ai-products"
 "published_at": "2026-05-04T22:57:04.000Z"
 "discovered_at": "2026-05-04T22:57:08.849Z"
-"source_name": "X：SpaceXAI (@SpaceXAI)"
+"source_name": "X：SpaceX Super Intelligence (@SpaceXSI)"
 "original_url": "https://x.com/xai/status/2051435973473624160"
 "canonical_url": "https://aihot.news/items/cmorsurob024zslrj3fcdi10e"
 "score": 79
@@ -19,6 +19,6 @@
 
 http://x.ai/news/grok-custom-voices
 
-- **来源**: X：SpaceXAI (@SpaceXAI)
+- **来源**: X：SpaceX Super Intelligence (@SpaceXSI)
 - **原文链接**: [https://x.com/xai/status/2051435973473624160](https://x.com/xai/status/2051435973473624160)
 - **AIHOT 链接**: [https://aihot.news/items/cmorsurob024zslrj3fcdi10e](https://aihot.news/items/cmorsurob024zslrj3fcdi10e)
