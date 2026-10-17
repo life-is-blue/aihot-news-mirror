@@ -1,5 +1,5 @@
 ---
-"title": "OpenRouter 推出美国区域路由，与去年上线的 EU 路由配套保障数据驻留"
+"title": "OpenRouter 推出 US In-Region Routing 区域路由"
 "aihot_id": "cmtu70vhj11u4rofpg46vvloh"
 "aihot_category": "ai-products"
 "published_at": "2026-09-09T00:00:00.000Z"
@@ -7,13 +7,13 @@
 "source_name": "OpenRouter：Announcements（RSS）"
 "original_url": "https://openrouter.ai/blog/announcements/us-in-region-routing"
 "canonical_url": "https://aihot.news/items/cmtu70vhj11u4rofpg46vvloh"
-"score": 62
+"score": 60
 "content_kind": "news"
 ---
 
-# OpenRouter 推出美国区域路由，与去年上线的 EU 路由配套保障数据驻留
+# OpenRouter 推出 US In-Region Routing 区域路由
 
-OpenRouter 推出 US In-Region Routing，请求经 us.openrouter.ai 在美国境内解密并只路由到美国 provider 端点，eu.openrouter.ai 同理服务欧盟。
+OpenRouter 推出 US In-Region Routing，请求经 us.openrouter.ai 在美国境内解密并只路由到美国 provider 端点，eu.openrouter.ai 提供同样的 EU 路由。
 
 - **来源**: OpenRouter：Announcements（RSS）
 - **原文链接**: [https://openrouter.ai/blog/announcements/us-in-region-routing](https://openrouter.ai/blog/announcements/us-in-region-routing)
