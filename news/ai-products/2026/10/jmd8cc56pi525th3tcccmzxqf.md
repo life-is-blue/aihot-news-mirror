@@ -7,7 +7,7 @@
 "source_name": "禾赛科技"
 "original_url": "https://www.hesaitech.com/cn/news/1526"
 "canonical_url": "https://aihot.news/items/jmd8cc56pi525th3tcccmzxqf"
-"score": 51
+"score": 71
 "content_kind": "news"
 ---
 
