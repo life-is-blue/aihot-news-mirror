@@ -1,5 +1,5 @@
 ---
-"title": "Microsoft 发布 MAI-Image-2.6，Arena 文生图榜排名第二"
+"title": "Microsoft 发布 MAI-Image-2.6，Arena 文生图榜单排名第二"
 "aihot_id": "cmsnvor1w0kvirohf1vcg7wrg"
 "aihot_category": "ai-models"
 "published_at": "2026-08-10T22:35:28.000Z"
@@ -8,13 +8,13 @@
 "original_url": "https://microsoft.ai/news/mai-image-2-6-launches-at-no-2-on-ar\
   ena-ahead-of-google-meta-and-xai"
 "canonical_url": "https://aihot.news/items/cmsnvor1w0kvirohf1vcg7wrg"
-"score": 64
+"score": 62
 "content_kind": "news"
 ---
 
-# Microsoft 发布 MAI-Image-2.6，Arena 文生图榜排名第二
+# Microsoft 发布 MAI-Image-2.6，Arena 文生图榜单排名第二
 
-Microsoft 发布 MAI-Image-2.6，在 Arena 文生图排行榜上位列第二，超过 Meta、Google 和 xAI 的模型。该模型相较 MAI-Image-2.5 整体提升 +79 Elo，文本渲染单项提升 +91 Elo，各测量类别均有改进；现已可在 Arena 体验，本周后续登陆 MAI Playground，并将逐步推广到 Microsoft Foundry 等产品。
+Microsoft AI 发布 MAI-Image-2.6，在 Arena 文生图排行榜上排名第二，超过 Meta、Google 和 xAI 的模型。该模型整体比 MAI-Image-2.5 提升 +79 Elo，其中文本渲染提升 +91 Elo，各评测类别均有提升；已在 Arena 开放体验，稍后登陆 MAI Playground，并将陆续接入 Microsoft Foundry 等产品。
 
 - **来源**: Microsoft AI：官方博客（网页）
 - **原文链接**: [https://microsoft.ai/news/mai-image-2-6-launches-at-no-2-on-arena-ahead-of-google-meta-and-xai](https://microsoft.ai/news/mai-image-2-6-launches-at-no-2-on-arena-ahead-of-google-meta-and-xai)
