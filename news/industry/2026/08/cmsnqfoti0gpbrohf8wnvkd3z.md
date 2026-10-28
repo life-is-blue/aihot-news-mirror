@@ -1,5 +1,5 @@
 ---
-"title": "Suno 宣布 9 月 3 日起实施新下载政策和新 Terms of Service"
+"title": "Suno 更新下载政策与服务条款，9月3日起实施分档下载限额"
 "aihot_id": "cmsnqfoti0gpbrohf8wnvkd3z"
 "aihot_category": "industry"
 "published_at": "2026-08-09T16:00:00.000Z"
@@ -7,13 +7,13 @@
 "source_name": "Suno：Blog（网页）"
 "original_url": "https://suno.com/blog/suno-updates-tos"
 "canonical_url": "https://aihot.news/items/cmsnqfoti0gpbrohf8wnvkd3z"
-"score": 66
+"score": 62
 "content_kind": "news"
 ---
 
-# Suno 宣布 9 月 3 日起实施新下载政策和新 Terms of Service
+# Suno 更新下载政策与服务条款，9月3日起实施分档下载限额
 
-Suno 宣布 2026 年 9 月 3 日起实施新下载限额，Free 用户终身 7 次试用下载，Pro 每月 20 次，Premier 每月 60 次，Suno Studio 的 Premier 用户不限下载，超额可另行购买。同时将推出与音乐行业合作开发的新一代模型，旧模型届时全部退役但已生成歌曲保留可播可分享；新 Terms of Service 明确付费计划下载的歌曲可商用，并更新仲裁条款。
+Suno 官方宣布将于9月3日起实施新的下载限额与新服务条款，并同时预告新一代模型。下载限额为 Free 用户终身最多 7 次试用下载，Pro 每月 20 次，Premier 每月 60 次，Suno Studio 的 Premier 用户不设下载上限，额外下载可付费购买，限额自9月3日起也适用于此前创建的歌曲。
 
 - **来源**: Suno：Blog（网页）
 - **原文链接**: [https://suno.com/blog/suno-updates-tos](https://suno.com/blog/suno-updates-tos)
