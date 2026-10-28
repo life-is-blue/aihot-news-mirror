@@ -1,5 +1,5 @@
 ---
-"title": "Liquid AI 发布 LFM3 多模态模型家族，主打专用智能与端侧部署"
+"title": "Liquid AI 发布 LFM3 多模态开源权重模型家族，2B 级覆盖文本、视觉、音频、omni 和决策模型"
 "aihot_id": "vx4t4ldzajj3lhb8luhg9dy9s"
 "aihot_category": "ai-models"
 "published_at": "2026-10-26T16:00:00.000Z"
@@ -7,13 +7,13 @@
 "source_name": "Liquid AI 模型与工程博客（网页）"
 "original_url": "https://www.liquid.ai/blog/lfm3"
 "canonical_url": "https://aihot.news/items/vx4t4ldzajj3lhb8luhg9dy9s"
-"score": 69
+"score": 68
 "content_kind": "news"
 ---
 
-# Liquid AI 发布 LFM3 多模态模型家族，主打专用智能与端侧部署
+# Liquid AI 发布 LFM3 多模态开源权重模型家族，2B 级覆盖文本、视觉、音频、omni 和决策模型
 
-Liquid AI 发布新一代 Liquid Foundation Models 家族 LFM3，首个版本包含六款约 2B 参数的模型，覆盖文本、视觉、音频、omni 和决策模态，全部基于 LFM3-1.7B-Base，预训练使用 22T tokens。
+Liquid AI 发布新一代 LFM3 模型家族，以 LFM3-1.7B-Base 为共享骨干，首批开放六个 2B 级模型（文本、视觉、音频、omni 及两个决策模型）的开放权重，可在 Hugging Face、Playground 和 Liquid AI API 获取。
 
 - **来源**: Liquid AI 模型与工程博客（网页）
 - **原文链接**: [https://www.liquid.ai/blog/lfm3](https://www.liquid.ai/blog/lfm3)
