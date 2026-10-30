@@ -1,5 +1,5 @@
 ---
-"title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟"
+"title": "Linear 分享 CI 提速实践：PR 等待时间从 6 分多降至 5 分出头，单测机器时间约减半"
 "aihot_id": "cmublfs5a03bcro0lebbtf8fb"
 "aihot_category": "tip"
 "published_at": "2026-09-21T12:26:00.000Z"
@@ -7,13 +7,13 @@
 "source_name": "Linear：Now（RSS）"
 "original_url": "https://linear.app/now/ci-bottleneck-reworked"
 "canonical_url": "https://aihot.news/items/cmublfs5a03bcro0lebbtf8fb"
-"score": 62
+"score": 61
 "content_kind": "news"
 ---
 
-# Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟
+# Linear 分享 CI 提速实践：PR 等待时间从 6 分多降至 5 分出头，单测机器时间约减半
 
-Linear 工程师分享如何解决 AI Agent 加速写代码后 CI 成为瓶颈的问题，PR 等待时间从 6 分钟以上降至 5 分钟出头，单测 runner 时间约减半。
+Linear 工程团队详细介绍其 CI 优化实践：在测试套件今年年初以来近乎翻四倍的情况下，PR 等待时间从超过 6 分钟降到 5 分出头，每项测试的 runner 时间约减半。
 
 - **来源**: Linear：Now（RSS）
 - **原文链接**: [https://linear.app/now/ci-bottleneck-reworked](https://linear.app/now/ci-bottleneck-reworked)

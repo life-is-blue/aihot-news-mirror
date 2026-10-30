@@ -1,5 +1,5 @@
 ---
-"title": "Linear Agent 新增编码会话、自动分类与代码审查功能"
+"title": "Linear 发布 coding sessions，让 Linear Agent 直接从 issue 写代码开 PR"
 "aihot_id": "cms3dr22l0azuro3faln281vt"
 "aihot_category": "ai-products"
 "published_at": "2026-06-11T18:25:29.000Z"
@@ -7,13 +7,13 @@
 "source_name": "Linear：Now（RSS）"
 "original_url": "https://linear.app/now/coding-sessions-for-linear-agent"
 "canonical_url": "https://aihot.news/items/cms3dr22l0azuro3faln281vt"
-"score": 65
+"score": 72
 "content_kind": "news"
 ---
 
-# Linear Agent 新增编码会话、自动分类与代码审查功能
+# Linear 发布 coding sessions，让 Linear Agent 直接从 issue 写代码开 PR
 
-Linear Agent 推出编码会话、自动分类和 Diffs 代码审查，使智能体可直接从 issue 进入代码实现、自动调查并修复问题，并在 Linear 内完成代码审查与合并。编码会话基于 Claude Code 或 Codex 在云端运行，结果归组织所有。过去一个月，Linear Agent 已合并近 700 个 PR。
+Linear 推出 coding sessions、自动化分诊和 Diffs，让 Linear Agent 可以从 issue 出发调查代码库、写代码并打开 PR，全程在云端借助 Claude Code 或 Codex 等前沿模型和工具完成。
 
 - **来源**: Linear：Now（RSS）
 - **原文链接**: [https://linear.app/now/coding-sessions-for-linear-agent](https://linear.app/now/coding-sessions-for-linear-agent)
