@@ -1,5 +1,5 @@
 ---
-"title": "Cursor 扩展市场发现恶意版 Anthropic.claude-code 2.1.313，最多 4100 名用户受影响"
+"title": "Cursor 通报 VS Code 扩展市场出现恶意 Anthropic.claude-code 2.1.313 版本"
 "aihot_id": "pg7avew3q9ekdp3ydzhiuh9y4"
 "aihot_category": "industry"
 "published_at": "2026-10-29T12:00:00.000Z"
@@ -11,9 +11,9 @@
 "content_kind": "news"
 ---
 
-# Cursor 扩展市场发现恶意版 Anthropic.claude-code 2.1.313，最多 4100 名用户受影响
+# Cursor 通报 VS Code 扩展市场出现恶意 Anthropic.claude-code 2.1.313 版本
 
-Cursor 官方披露，其 VS Code 扩展市场中的 Anthropic.claude-code 2.1.313 为恶意篡改版本，并非 Anthropic 开发，在 10 月 29 日 2:27am PT 至 1:35pm PT 期间上架，最多影响 4100 名用户。
+Cursor 通报其 VS Code 扩展市场出现恶意修改的 Anthropic.claude-code 2.1.313 版本，非 Anthropic 官方开发，最多影响 4100 名用户。
 
 - **来源**: Cursor Blog
 - **原文链接**: [https://cursor.com/blog/claude-code-extension-security-notice](https://cursor.com/blog/claude-code-extension-security-notice)
