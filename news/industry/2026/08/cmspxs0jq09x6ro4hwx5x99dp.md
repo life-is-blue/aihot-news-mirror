@@ -13,7 +13,7 @@
 
 # Suno 宣布与 BMG 达成全球合作
 
-Suno 宣布与大型音乐公司 BMG 达成全球合作，该合作属于其首个与音乐行业共同开发的音乐模型发布计划的一部分。双方将为选择加入的艺术家和词曲作者创造新的音乐体验与经济机会，并深化 Suno: In Session 和 Spark 等扶持独立艺术家的项目。
+Suno 官方宣布与全球大型音乐公司之一 BMG 达成里程碑式全球合作。该合作是 Suno 即将推出的首个与音乐行业共同开发的音乐模型的一部分，双方将打造连接艺术家与粉丝的新音乐体验，并为选择加入的艺术家和词曲作者提供新的经济机会；双方还将深化 Suno: In Session 和 Spark 项目对独立艺术家的支持。
 
 - **来源**: Suno：Blog（网页）
 - **原文链接**: [https://suno.com/blog/suno-partnership-bmg](https://suno.com/blog/suno-partnership-bmg)

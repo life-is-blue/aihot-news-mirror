@@ -1,5 +1,5 @@
 ---
-"title": "Suno 与华纳音乐集团达成合作，将基于授权音乐训练新一代模型"
+"title": "Suno 与 Warner Music Group 达成合作，将用授权音乐训练新一代模型"
 "aihot_id": "cmprbc2re0cjvslnouq1h2ldb"
 "aihot_category": "industry"
 "published_at": "2025-11-24T16:00:00.000Z"
@@ -7,13 +7,13 @@
 "source_name": "Suno：Blog（网页）"
 "original_url": "https://suno.com/blog/wmg-partnership"
 "canonical_url": "https://aihot.news/items/cmprbc2re0cjvslnouq1h2ldb"
-"score": 73
+"score": 75
 "content_kind": "news"
 ---
 
-# Suno 与华纳音乐集团达成合作，将基于授权音乐训练新一代模型
+# Suno 与 Warner Music Group 达成合作，将用授权音乐训练新一代模型
 
-Suno 宣布与 Warner Music Group (WMG) 建立新合作关系，将使用高质量授权音乐构建新一代 Suno 模型，目标是超越目前最好的 v5。合作还包括引入选择加入的 WMG 艺人名称、形象、声音和作品的新创作体验，为艺人开辟收入来源。产品方面，原创歌曲核心体验不变，下载功能保留但将要求付费账户并按档位限定每月下载数量，Suno Studio 保持不变并保留无限下载。
+Suno 宣布与 Warner Music Group（WMG）建立新合作，将使用高质量授权音乐构建新一代音乐模型，称其将超越目前的 v5。合作还将推出 WMG 艺人自愿授权姓名、形象、声音和作品参与的新创作体验并为艺人带来新收入来源，同时下载功能保留但今后需付费账户、各付费档位对应每月一定下载数量，Suno Studio 保持不变。
 
 - **来源**: Suno：Blog（网页）
 - **原文链接**: [https://suno.com/blog/wmg-partnership](https://suno.com/blog/wmg-partnership)
