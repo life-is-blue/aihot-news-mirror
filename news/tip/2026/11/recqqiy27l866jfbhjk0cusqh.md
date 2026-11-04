@@ -1,0 +1,20 @@
+---
+"title": "OpenHands 与 Snowflake 推出基于现有 agent harness 的模型后训练方案"
+"aihot_id": "recqqiy27l866jfbhjk0cusqh"
+"aihot_category": "tip"
+"published_at": "2026-11-03T00:00:00.000Z"
+"discovered_at": "2026-11-03T20:18:40.145Z"
+"source_name": "OpenHands 官方博客"
+"original_url": "https://www.openhands.dev/blog/post-train-ai-models-openhands-snowflake"
+"canonical_url": "https://aihot.news/items/recqqiy27l866jfbhjk0cusqh"
+"score": 62
+"content_kind": "news"
+---
+
+# OpenHands 与 Snowflake 推出基于现有 agent harness 的模型后训练方案
+
+OpenHands 与 Snowflake AI Research 合作，让开发者无需在独立 RL 框架中重建 harness，即可用现有 OpenHands Agent SDK 配置和 Harbor 格式任务对开源权重模型做 RL 后训练，训练由 Snowflake Cortex Training 提供 GPU 支持。
+
+- **来源**: OpenHands 官方博客
+- **原文链接**: [https://www.openhands.dev/blog/post-train-ai-models-openhands-snowflake](https://www.openhands.dev/blog/post-train-ai-models-openhands-snowflake)
+- **AIHOT 链接**: [https://aihot.news/items/recqqiy27l866jfbhjk0cusqh](https://aihot.news/items/recqqiy27l866jfbhjk0cusqh)
