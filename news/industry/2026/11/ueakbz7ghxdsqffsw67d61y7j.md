@@ -1,5 +1,5 @@
 ---
-"title": "美国中期选举投票限制 AI 与数据中心，Big Tech 称这是反特朗普而非反科技"
+"title": "美国中期选举大规模通过 AI 与数据中心限制措施，大型科技公司称反弹针对特朗普而非科技"
 "aihot_id": "ueakbz7ghxdsqffsw67d61y7j"
 "aihot_category": "industry"
 "published_at": "2026-11-04T20:55:50.000Z"
@@ -8,13 +8,13 @@
 "original_url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-vo\
   ters-ai-backlash-is-anti-trump-not-anti-tech/"
 "canonical_url": "https://aihot.news/items/ueakbz7ghxdsqffsw67d61y7j"
-"score": 77
+"score": 83
 "content_kind": "news"
 ---
 
-# 美国中期选举投票限制 AI 与数据中心，Big Tech 称这是反特朗普而非反科技
+# 美国中期选举大规模通过 AI 与数据中心限制措施，大型科技公司称反弹针对特朗普而非科技
 
-2026 年美国中期选举中，选民压倒性支持限制 AI 和数据中心的候选人及措施。Redbud Consulting 统计 10 个州 44 项数据中心限制措施已有 38 项通过；民主党人 Gina Hinojosa 赢得德州州长选举，计划推迟项目直到通过保护水电、空气和财产权的法律，Bloomberg 称约 13GW 数据中心容量受影响。
+2026 年美国中期选举中，10 个州 44 项限制数据中心的措施有 38 项通过，选民还选出了主张收紧 AI 管制的候选人。Gina Hinojosa 赢得德州州长选举，约 13GW 数据中心容量面临延迟，Axios 估计近三分之二的 2028 年数据中心容量可能受影响。
 
 - **来源**: Ars Technica：AI（RSS）
 - **原文链接**: [https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/](https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/)
