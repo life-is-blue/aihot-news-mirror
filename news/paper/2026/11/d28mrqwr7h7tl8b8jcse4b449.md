@@ -1,5 +1,5 @@
 ---
-"title": "Anthropic 拆解 Claude 智能体记忆的组成：笔记、显著性判断与 dreaming"
+"title": "Anthropic 详解 Claude 智能体记忆的组件：笔记、dreaming 与知识 wiki"
 "aihot_id": "d28mrqwr7h7tl8b8jcse4b449"
 "aihot_category": "paper"
 "published_at": "2026-11-05T16:00:00.000Z"
@@ -7,13 +7,13 @@
 "source_name": "Anthropic：Research（发表成果 · 网页）"
 "original_url": "https://www.anthropic.com/research/components-of-agent-memory"
 "canonical_url": "https://aihot.news/items/d28mrqwr7h7tl8b8jcse4b449"
-"score": 72
+"score": 69
 "content_kind": "news"
 ---
 
-# Anthropic 拆解 Claude 智能体记忆的组成：笔记、显著性判断与 dreaming
+# Anthropic 详解 Claude 智能体记忆的组件：笔记、dreaming 与知识 wiki
 
-Anthropic 发布研究文章，介绍其设计 Claude 智能体记忆的思路与多组评测，包括会话内写记忆笔记、离线 dreaming 整理记忆和 wiki 表示。
+Anthropic 发文拆解 Claude 智能体记忆的组成与设计思路，将记忆分为笔记、记忆表示和注入上下文等层次，并介绍用 dreaming（空闲期反思日志）来纠错和构建 wiki。
 
 - **来源**: Anthropic：Research（发表成果 · 网页）
 - **原文链接**: [https://www.anthropic.com/research/components-of-agent-memory](https://www.anthropic.com/research/components-of-agent-memory)
