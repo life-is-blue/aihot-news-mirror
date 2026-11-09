@@ -1,5 +1,5 @@
 ---
-"title": "Ai2 发布 FairStress 基准：测量 LLM 决策中被隐藏的公平性不对称"
+"title": "Ai2 发布 FairStress 基准，测出 LLM 决策中被隐藏的群体不对称"
 "aihot_id": "cszm6fv1o99q04dbffzx8qqio"
 "aihot_category": "paper"
 "published_at": "2026-10-20T08:00:00.000Z"
@@ -7,13 +7,13 @@
 "source_name": "Ai2 / Allen Institute for AI（RSS）"
 "original_url": "https://allenai.org/blog/fairstress"
 "canonical_url": "https://aihot.news/items/cszm6fv1o99q04dbffzx8qqio"
-"score": 61
+"score": 66
 "content_kind": "news"
 ---
 
-# Ai2 发布 FairStress 基准：测量 LLM 决策中被隐藏的公平性不对称
+# Ai2 发布 FairStress 基准，测出 LLM 决策中被隐藏的群体不对称
 
-Ai2 发布 FairStress 基准，通过 300 个两候选决策场景和对抗前缀，测量 LLM 在面对说服性论据时改变决策的难易是否因候选人所属人口群体而不同，全部组合超过 1300 万测试用例，并已开放下载、集成进 Olmo-eval。
+Ai2 发布 FairStress 基准，通过 300 个两候选决策场景和对抗性前缀扩展出的 1300 多万测试用例，测量大语言模型决策中的隐藏群体不对称。测试发现模型在身份显式时出现反刻板过度纠正，向少数群体编码候选者的切换比向多数群体多 8.8 至 42.4 个百分点，模型解释措辞也随群体不同而变化。
 
 - **来源**: Ai2 / Allen Institute for AI（RSS）
 - **原文链接**: [https://allenai.org/blog/fairstress](https://allenai.org/blog/fairstress)
