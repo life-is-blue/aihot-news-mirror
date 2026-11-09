@@ -1,5 +1,5 @@
 ---
-"title": "特拉华州拟允许 AI 智能体经营公司，众议员 Comer 称其可帮所有者规避责任"
+"title": "特拉华拟允许 AI 智能体运营公司，美国众议院监督委员会启动调查"
 "aihot_id": "z1lzz0sr737g5icchmsoaki0k"
 "aihot_category": "industry"
 "published_at": "2026-10-27T21:50:04.000Z"
@@ -8,13 +8,13 @@
 "original_url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-he\
   lm-delaware-plan-would-let-ai-agents-run-entire-businesses/"
 "canonical_url": "https://aihot.news/items/z1lzz0sr737g5icchmsoaki0k"
-"score": 76
+"score": 77
 "content_kind": "news"
 ---
 
-# 特拉华州拟允许 AI 智能体经营公司，众议员 Comer 称其可帮所有者规避责任
+# 特拉华拟允许 AI 智能体运营公司，美国众议院监督委员会启动调查
 
-美国众议院监督委员会主席 James Comer 致信特拉华州州长 Matt Meyer，要求提供该州拟设立 Artificial Intelligence Company（AIC）提案的相关文件，称 AI 经营的公司可为人类所有者提供责任豁免，使其逃避 AI 鲁莽行为造成的责任。
+美国众议院监督委员会主席 James Comer 致信特拉华州长 Matt Meyer，调查该州允许 AI 智能体运营公司的 Artificial Intelligence Company（AIC）提案，称其可能帮助出资人逃避法律责任，并暗示或推动联邦立法限制各州 AI 监管权。
 
 - **来源**: Ars Technica：AI（RSS）
 - **原文链接**: [https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/](https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/)
