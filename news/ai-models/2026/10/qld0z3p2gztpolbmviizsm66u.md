@@ -1,19 +1,19 @@
 ---
-"title": "xAI 发布 Grok Voice 3.0 语音模型"
+"title": "xAI 发布 Grok Voice 3.0 语音对话模型"
 "aihot_id": "qld0z3p2gztpolbmviizsm66u"
-"aihot_category": "ai-products"
+"aihot_category": "ai-models"
 "published_at": "2026-10-14T00:00:00.000Z"
 "discovered_at": "2026-10-14T18:00:12.936Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-voice-3"
 "canonical_url": "https://aihot.news/items/qld0z3p2gztpolbmviizsm66u"
-"score": 66
+"score": 70
 "content_kind": "news"
 ---
 
-# xAI 发布 Grok Voice 3.0 语音模型
+# xAI 发布 Grok Voice 3.0 语音对话模型
 
-xAI 发布 speech-to-speech 模型 Grok Voice 3.0，在 Artificial Analysis 的 Speech-to-Speech Index 以 86.9 分排名第一，时延低于一秒。
+xAI 发布语音对话模型 Grok Voice 3.0，在 Artificial Analysis 的 Speech-to-Speech Index 以 86.9 分排名第一，延迟低于 1 秒。
 
 - **来源**: xAI：News（网页）
 - **原文链接**: [https://x.ai/news/grok-voice-3](https://x.ai/news/grok-voice-3)
