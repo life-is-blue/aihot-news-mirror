@@ -4,7 +4,7 @@
 "aihot_category": "paper"
 "published_at": "2026-10-22T18:01:00.000Z"
 "discovered_at": "2026-10-22T18:48:21.751Z"
-"source_name": "Microsoft AI：官方博客（网页）"
+"source_name": "Microsoft AI：官方博客（RSS）"
 "original_url": "https://microsoft.ai/news/building-medical-superintelligence/"
 "canonical_url": "https://aihot.news/items/r7uwz6n0sd6jr2r0tb1fu3o0u"
 "score": 80
@@ -15,6 +15,6 @@
 
 Microsoft AI 发布 Sequential Diagnosis Benchmark（SDBench）和 AI 诊断系统 MAI-DxO，论文发表于 Science。
 
-- **来源**: Microsoft AI：官方博客（网页）
+- **来源**: Microsoft AI：官方博客（RSS）
 - **原文链接**: [https://microsoft.ai/news/building-medical-superintelligence/](https://microsoft.ai/news/building-medical-superintelligence/)
 - **AIHOT 链接**: [https://aihot.news/items/r7uwz6n0sd6jr2r0tb1fu3o0u](https://aihot.news/items/r7uwz6n0sd6jr2r0tb1fu3o0u)

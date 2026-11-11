@@ -4,7 +4,7 @@
 "aihot_category": "ai-products"
 "published_at": "2026-06-02T14:30:57.000Z"
 "discovered_at": "2026-06-02T14:30:57.000Z"
-"source_name": "Microsoft AI：官方博客（网页）"
+"source_name": "Microsoft AI：官方博客（RSS）"
 "original_url": "https://microsoft.ai/news/our-values-in-operation-health"
 "canonical_url": "https://aihot.news/items/cms3g8wjy01i5rondx7htfshr"
 "score": 60
@@ -15,6 +15,6 @@
 
 Microsoft AI 发文阐述其在健康领域的价值观如何落实为产品与工程实践，称其消费级产品每天处理数千万条健康问题。
 
-- **来源**: Microsoft AI：官方博客（网页）
+- **来源**: Microsoft AI：官方博客（RSS）
 - **原文链接**: [https://microsoft.ai/news/our-values-in-operation-health](https://microsoft.ai/news/our-values-in-operation-health)
 - **AIHOT 链接**: [https://aihot.news/items/cms3g8wjy01i5rondx7htfshr](https://aihot.news/items/cms3g8wjy01i5rondx7htfshr)
