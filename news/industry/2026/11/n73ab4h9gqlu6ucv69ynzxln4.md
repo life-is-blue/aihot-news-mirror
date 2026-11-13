@@ -1,5 +1,5 @@
 ---
-"title": "SemiAnalysis 深度分析黄仁勋离开后的 Nvidia：一个为他量身打造的公司如何运转"
+"title": "SemiAnalysis 分析黄仁勋辞任 Nvidia CEO 背后的出口管制博弈"
 "aihot_id": "n73ab4h9gqlu6ucv69ynzxln4"
 "aihot_category": "industry"
 "published_at": "2026-11-12T18:06:26.000Z"
@@ -7,13 +7,13 @@
 "source_name": "SemiAnalysis 长文 RSS（RSS）"
 "original_url": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen"
 "canonical_url": "https://aihot.news/items/n73ab4h9gqlu6ucv69ynzxln4"
-"score": 79
+"score": 90
 "content_kind": "news"
 ---
 
-# SemiAnalysis 深度分析黄仁勋离开后的 Nvidia：一个为他量身打造的公司如何运转
+# SemiAnalysis 分析黄仁勋辞任 Nvidia CEO 背后的出口管制博弈
 
-SemiAnalysis 发文分析黄仁勋不再担任 Nvidia CEO 后的公司走向，认为其离职与 GPU 走私及国会推动的 RASA 出口管制法案有关。
+SemiAnalysis 发表长文分析黄仁勋不再担任 Nvidia CEO 一事，认为其去职与美国情报界推动、针对中国远程访问 GPU 的 RASA 法案推进有关。
 
 - **来源**: SemiAnalysis 长文 RSS（RSS）
 - **原文链接**: [https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen](https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen)
