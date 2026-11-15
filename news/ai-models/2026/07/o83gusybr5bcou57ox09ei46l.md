@@ -13,7 +13,7 @@
 
 # Moonshot AI 发布 Kimi K3，以高端定位冲击全球前沿模型
 
-Moonshot AI 于 7 月 16 日发布旗舰模型 Kimi K3，2.8 万亿参数，以 1679 分登顶 LMArena Frontend Code Arena，成为首个在该榜超越 Claude Fable 5 和 GPT-5.6 Sol 的开源权重模型，在 Artificial Analysis Intelligence Index 排名第 3（约 57 分）。
+Moonshot AI 于 7 月 16 日发布旗舰模型 Kimi K3，2.8 万亿参数，以 1679 分登顶 LMArena Frontend Code Arena，成为首个在该榜超越 Claude Fable 5 和 GPT-5.6 Sol 的开源权重模型，在 Artificial Analysis Intelligence Index 排名第 3（约 57 分）。K3 采用 MoE 架构，896 个专家中每 token 激活 16 个，并引入 Kimi Delta Attention（KDA）与 Attention Residuals（AttnRes）两项自研技术以提升训练与推理效率，支持 100 万 token 上下文。定价为每百万输入 token 3 美元、输出 token 15 美元，定位高端市场。
 
 - **来源**: Recode China AI（RSS）
 - **原文链接**: [https://www.recodechinaai.com/p/moonshot-ais-high-stakes-bet-inside](https://www.recodechinaai.com/p/moonshot-ais-high-stakes-bet-inside)

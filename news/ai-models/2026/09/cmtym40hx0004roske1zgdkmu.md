@@ -13,7 +13,7 @@
 
 # Cognition 发布 SWE-2 编码模型，以更低成本逼近前沿
 
-Cognition 发布最先进编码模型 SWE-2，基于 2.8T 参数的 Kimi K33 后训练，在 FrontierCode 1.1 Main 取得 50.0%，仅比 Fable 5.1 低不到一分且便宜 64%。
+Cognition 发布编码模型 SWE-2，基于 2.8T 参数的 Kimi K3 后训练，在 FrontierCode 1.1 Main 取得 50.0%，仅比 Fable 5.1 低不到一分且成本低 64%。官方公开了 SWE-2 的训练方法，包括单次 RL 训练中按各推理努力等级设置线性成本惩罚、长度加权奖励基线、RL rollout 服务优化与数据改进等，读者可借此理解如何用强化学习推移整条成本性能前沿。
 
 - **来源**: Cognition 模型 / Devin 博客（网页）
 - **原文链接**: [https://cognition.com/blog/swe-2](https://cognition.com/blog/swe-2)

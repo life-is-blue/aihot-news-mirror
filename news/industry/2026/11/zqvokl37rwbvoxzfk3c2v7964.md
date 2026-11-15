@@ -1,5 +1,5 @@
 ---
-"title": "做空机构 Culper Research 曾在丑闻爆发前六个月提示 Nvidia CEO 与疑似中国间谍的关系"
+"title": "做空机构 Culper Research 曾在风波爆发前六个月提示 Nvidia CEO 与 Megaspeed 高管关系异常"
 "aihot_id": "zqvokl37rwbvoxzfk3c2v7964"
 "aihot_category": "industry"
 "published_at": "2026-11-09T22:46:09.000Z"
@@ -12,9 +12,9 @@
 "content_kind": "news"
 ---
 
-# 做空机构 Culper Research 曾在丑闻爆发前六个月提示 Nvidia CEO 与疑似中国间谍的关系
+# 做空机构 Culper Research 曾在风波爆发前六个月提示 Nvidia CEO 与 Megaspeed 高管关系异常
 
-Nvidia 间谍丑闻爆发前六个月，做空机构 Culper Research 已在 5 月 13 日报告中质疑 CEO 黄仁勋与 Megaspeed 高管 Alice Huang 关系“异常密切”。
+Nvidia 风波爆发前六个月，做空机构 Culper Research 已在 5 月 13 日报告中质疑 CEO 黄仁勋与 Megaspeed 高管 Alice Huang 关系“异常密切”。
 
 - **来源**: TechCrunch：AI（RSS）
 - **原文链接**: [https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/](https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/)

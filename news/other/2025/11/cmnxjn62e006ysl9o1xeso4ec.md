@@ -13,7 +13,7 @@
 
 # 萨提亚·纳德拉：微软如何为 AGI 做准备
 
-萨提亚·纳德拉阐述微软迈向通用人工智能（AGI）的战略布局与技术路径，揭示其在AI基础设施领域的核心投入。内容包含对Fairwater 2的实地探访，这是目前全球最强大的AI数据中心，展示微软为支持下一代大模型所构建的顶级算力底座与能源架构。
+萨提亚·纳德拉阐述微软迈向通用人工智能（AGI）的战略布局与技术路径，揭示其在 AI 基础设施领域的核心投入。内容包含对 Fairwater 2 的实地探访，这是目前全球最强大的 AI 数据中心，展示微软为支持下一代大模型所构建的顶级算力底座与能源架构。
 
 - **来源**: Dwarkesh Patel：Podcast & Blog（RSS）
 - **原文链接**: [https://www.dwarkesh.com/p/satya-nadella-2](https://www.dwarkesh.com/p/satya-nadella-2)

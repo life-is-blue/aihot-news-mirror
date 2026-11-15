@@ -1,5 +1,5 @@
 ---
-"title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机"
+"title": "Anthropic与OpenAI提议协调放缓前沿AI开发，Cohere CEO等批评者质疑其真实动机"
 "aihot_id": "cmu2gnngu032brovqo7pvrfx9"
 "aihot_category": "opinion"
 "published_at": "2026-09-15T09:04:36.000Z"
@@ -12,9 +12,9 @@
 "content_kind": "news"
 ---
 
-# Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机
+# Anthropic与OpenAI提议协调放缓前沿AI开发，Cohere CEO等批评者质疑其真实动机
 
-Anthropic CEO Dario Amodei 呼吁行业与政府协调放缓前沿 AI 开发，并寻求反垄断豁免，Sam Altman 与 Elon Musk 表示同意。
+Anthropic CEO Dario Amodei 呼吁行业与政府协调放缓前沿AI开发，并寻求反垄断豁免，Sam Altman 与 Elon Musk 表示同意。Cohere CEO Aidan Gomez 批评该提议实为设置准入门槛、锁定市场，Hugging Face 工程师 Niels Rogge 则认为当前大模型远未构成生存性风险，行业需要透明与开放。
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety](https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety)

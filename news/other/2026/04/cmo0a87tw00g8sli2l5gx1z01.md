@@ -1,5 +1,5 @@
 ---
-"title": "黄仁勋谈 TPU 竞争、对华芯片销售与 Nvidia 的供应链护城河"
+"title": "黄仁勋谈TPU竞争、对华芯片销售与Nvidia的供应链护城河"
 "aihot_id": "cmo0a87tw00g8sli2l5gx1z01"
 "aihot_category": "opinion"
 "published_at": "2026-04-15T15:45:23.000Z"
@@ -11,9 +11,9 @@
 "content_kind": "news"
 ---
 
-# 黄仁勋谈 TPU 竞争、对华芯片销售与 Nvidia 的供应链护城河
+# 黄仁勋谈TPU竞争、对华芯片销售与Nvidia的供应链护城河
 
-黄仁勋表示，Nvidia 已具备支撑未来数年万亿美元级业务规模的供应链体系。这一表态印证了公司在 AI 芯片领域的供应链护城河优势，回应了市场对其产能扩张能力的关切。访谈同时涉及应对 Google TPU 竞争及向中国出售芯片的策略考量，凸显 Nvidia 在复杂市场环境下的长期布局信心。
+黄仁勋表示，Nvidia已具备支撑未来数年万亿美元级业务规模的供应链体系，这一表态印证了公司在AI芯片领域的供应链护城河优势，回应了市场对其产能扩张能力的关切。访谈同时涉及应对Google TPU竞争以及向中国出售芯片的策略考量，凸显Nvidia在复杂市场环境下的长期布局信心。
 
 - **来源**: Dwarkesh Patel：Podcast & Blog（RSS）
 - **原文链接**: [https://www.dwarkesh.com/p/jensen-huang](https://www.dwarkesh.com/p/jensen-huang)

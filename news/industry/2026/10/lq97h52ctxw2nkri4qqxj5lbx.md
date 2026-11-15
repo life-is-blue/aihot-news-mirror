@@ -1,5 +1,5 @@
 ---
-"title": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋"
+"title": "纽约时报称英伟达 CEO 黄仁勋成为外国情报活动目标"
 "aihot_id": "lq97h52ctxw2nkri4qqxj5lbx"
 "aihot_category": "industry"
 "published_at": "2026-10-29T13:42:38.000Z"
@@ -12,9 +12,9 @@
 "content_kind": "news"
 ---
 
-# 纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋
+# 纽约时报称英伟达 CEO 黄仁勋成为外国情报活动目标
 
-据《纽约时报》报道，美国情报机构认为英伟达 CEO 黄仁勋身边一名高管为中国提供情报，此人是新加坡数据中心运营商 Megaspeed 的 Alice Huang（黄乐）。
+据《纽约时报》报道，美国情报机构关注到英伟达 CEO 黄仁勋身边一名人士——新加坡数据中心运营商 Megaspeed 的高管 Alice Huang（黄乐），认为其与外国情报活动有关。
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/](https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/)

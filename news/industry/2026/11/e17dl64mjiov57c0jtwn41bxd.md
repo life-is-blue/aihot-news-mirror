@@ -14,7 +14,7 @@
 
 # Nvidia CEO 黄仁勋婚外情风波削弱其对严格 AI 芯片出口管制的游说
 
-据 Bloomberg 报道，Nvidia CEO 黄仁勋在全员备忘录中承认与被美国情报机构认定为疑似中国情报人员线人的 Alice Huang（Huang Le）存在婚外关系，董事会已启动独立董事主导的调查。
+据 Bloomberg 报道，Nvidia CEO 黄仁勋在全员备忘录中承认与 Alice Huang（Huang Le）存在婚外关系，美国情报机构认为后者涉外国情报活动，董事会已启动独立董事主导的调查。
 
 - **来源**: The Decoder：AI News（RSS）
 - **原文链接**: [https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls/](https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls/)
