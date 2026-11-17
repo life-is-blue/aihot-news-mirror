@@ -1,5 +1,5 @@
 ---
-"title": "科技界人士质疑英伟达CEO辞职背后存在针对其的阴谋"
+"title": "科技界人士质疑黄仁勋辞职背后存在针对其的谋划"
 "aihot_id": "ahjzxmo93fzc4psaftffvb3rx"
 "aihot_category": "industry"
 "published_at": "2026-11-16T23:17:34.000Z"
@@ -12,9 +12,9 @@
 "content_kind": "news"
 ---
 
-# 科技界人士质疑英伟达CEO辞职背后存在针对其的阴谋
+# 科技界人士质疑黄仁勋辞职背后存在针对其的谋划
 
-英伟达CEO黄仁勋在任职超过33年后辞职，引发科技界震动。多位科技界人士呼吁其复职，并传播辞职背后存在针对他的阴谋的说法。有风投人士引用媒体报道质疑《纽约时报》关于某前高管是中国间谍的说法尚未获美国政府证实；半导体行业分析机构则猜测此举或与强化AI出口管制的立法有关。超过18.5万人签署公开信呼吁黄仁勋复职。
+The Verge 报道，黄仁勋在英伟达任职超过33年后辞职，硅谷多位知名人物呼吁其复职，并流传这是针对他的谋划的说法。Epic Games CEO Tim Sweeney、Replit CEO Amjad Masad 等对辞职时机表示质疑，超过18.5万人签署'与黄仁勋站在一起'的公开信，要求其复职并彻查辞职相关情况。
 
 - **来源**: The Verge：AI（RSS）
 - **原文链接**: [https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories](https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories)
