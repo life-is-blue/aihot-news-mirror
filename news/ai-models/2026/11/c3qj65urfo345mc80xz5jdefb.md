@@ -13,7 +13,7 @@
 
 # Microsoft AI 发布 MAI Code 2 与 Code 2 Flash 编码模型
 
-Microsoft AI 发布 MAI Code 2 和 MAI Code 2 Flash 两款面向企业日常编码的模型。
+Microsoft AI 发布两款面向企业日常编码的模型 MAI Code 2 和 MAI Code 2 Flash，主打性价比。文中称在四个编码基准平均后，MAI Code 2 以 40% 的成本达到 GPT-6.1 Sol 98% 的性能，以 5% 的成本达到 Claude Opus 5.5 96% 的性能；盲测前端评测中开发者 64% 的情况下更偏好其结果。
 
 - **来源**: Microsoft AI：官方博客（RSS）
 - **原文链接**: [https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/)
