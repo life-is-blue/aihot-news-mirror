@@ -2,7 +2,7 @@
 "title": "xAI 发布 Grok Bot 1.0，AI 队友支持团队共享并主动接手任务"
 "aihot_id": "cj9h5rx0677292kkwaaqaj3id"
 "aihot_category": "ai-products"
-"published_at": "2026-11-02T00:00:00.000Z"
+"published_at": "2026-11-11T00:00:00.000Z"
 "discovered_at": "2026-11-11T19:17:25.996Z"
 "source_name": "xAI：News（网页）"
 "original_url": "https://x.ai/news/grok-bot-1-0"
